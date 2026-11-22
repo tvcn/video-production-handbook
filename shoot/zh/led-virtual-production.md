@@ -10,7 +10,7 @@ summary: "LED 虚拟拍摄不是“背景换成屏幕”。它把真实光影、
 slug: led-virtual-production
 aliases: [led-virtual-production]
 canonical_site: shoot
-canonical_path: /virtual-production/led-virtual-production/
+canonical_path: /article/led-virtual-production/
 status: published
 diagram: /images/diagrams/zh/led-virtual-production.svg
 diagram_alt: "LED 虚拟拍摄流程专题图解"

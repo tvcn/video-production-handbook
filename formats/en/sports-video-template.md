@@ -10,7 +10,7 @@ summary: "A one-sheet sports film plan: six beats, picture, sound, duration, and
 slug: sports-video-template
 aliases: [sports-video-template]
 canonical_site: formats
-canonical_path: /en/sports/sports-video-template/
+canonical_path: /en/article/sports-video-template/
 status: published
 diagram: /images/diagrams/en/sports-video-template.svg
 diagram_alt: "Sports Film template diagram"

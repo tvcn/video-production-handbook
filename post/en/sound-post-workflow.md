@@ -10,7 +10,7 @@ summary: "Sound post does not start with music. The order is: dialogue audible, 
 slug: sound-post-workflow
 aliases: [sound-post-workflow]
 canonical_site: post
-canonical_path: /en/sound/sound-post-workflow/
+canonical_path: /en/article/sound-post-workflow/
 status: published
 diagram: /images/diagrams/en/sound-post-workflow.svg
 diagram_alt: "Sound-post workflow diagram"

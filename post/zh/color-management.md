@@ -10,7 +10,7 @@ summary: "色彩管理不是套一个“电影感 LUT”。它先回答：素材
 slug: color-management
 aliases: [color-management]
 canonical_site: post
-canonical_path: /color/color-management/
+canonical_path: /article/color-management/
 status: published
 diagram: /images/diagrams/zh/color-management.svg
 diagram_alt: "色彩管理节点专题图解"

@@ -10,7 +10,7 @@ summary: "One master everywhere is the most expensive shortcut. Keep one master,
 slug: platform-deliverables
 aliases: [platform-deliverables]
 canonical_site: post
-canonical_path: /en/delivery/platform-deliverables/
+canonical_path: /en/article/platform-deliverables/
 status: published
 diagram: /images/diagrams/en/platform-deliverables.svg
 diagram_alt: "Multi-platform delivery matrix diagram"

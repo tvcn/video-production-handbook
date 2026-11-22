@@ -10,7 +10,7 @@ summary: "A one-sheet food & table plan: six beats, picture, sound, duration, an
 slug: food-video-template
 aliases: [food-video-template]
 canonical_site: formats
-canonical_path: /en/food/food-video-template/
+canonical_path: /en/article/food-video-template/
 status: published
 diagram: /images/diagrams/en/food-video-template.svg
 diagram_alt: "Food & Table template diagram"

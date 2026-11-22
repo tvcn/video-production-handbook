@@ -10,7 +10,7 @@ summary: "A battery is not “it powers on.” Third-party packs may hide percen
 slug: buy-batteries
 aliases: [buy-batteries]
 canonical_site: tools
-canonical_path: /en/guide/buy-batteries/
+canonical_path: /en/article/buy-batteries/
 status: published
 diagram: /images/diagrams/en/buy-batteries.svg
 diagram_alt: "Battery buying diagram"

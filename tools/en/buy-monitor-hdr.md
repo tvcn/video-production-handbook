@@ -10,7 +10,7 @@ summary: "HDR monitoring depends on peak, black level, gamut, tone mapping, and 
 slug: buy-monitor-hdr
 aliases: [buy-monitor-hdr]
 canonical_site: tools
-canonical_path: /en/guide/buy-monitor-hdr/
+canonical_path: /en/article/buy-monitor-hdr/
 status: published
 diagram: /images/diagrams/en/buy-monitor-hdr.svg
 diagram_alt: "HDR monitor buying diagram"

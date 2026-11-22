@@ -10,7 +10,7 @@ summary: "Fashion and beauty is not a runway clip. Define texture first—fabric
 slug: fashion-beauty-video-structure
 aliases: [fashion-beauty-video-structure]
 canonical_site: formats
-canonical_path: /en/fashion/fashion-beauty-video-structure/
+canonical_path: /en/article/fashion-beauty-video-structure/
 status: published
 diagram: /images/diagrams/en/fashion-beauty-video-structure.svg
 diagram_alt: "Fashion & Beauty structure diagram"

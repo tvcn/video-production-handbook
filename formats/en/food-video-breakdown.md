@@ -10,7 +10,7 @@ summary: "Composite sample: break food & table into six beats and read picture, 
 slug: food-video-breakdown
 aliases: [food-video-breakdown]
 canonical_site: formats
-canonical_path: /en/food/food-video-breakdown/
+canonical_path: /en/article/food-video-breakdown/
 status: published
 diagram: /images/diagrams/en/food-video-breakdown.svg
 diagram_alt: "Food & Table breakdown diagram"

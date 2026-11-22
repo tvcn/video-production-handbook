@@ -10,7 +10,7 @@ summary: "设备险不是“坏了就赔”。要区分财产一切险、机器�
 slug: insurance-equipment
 aliases: [insurance-equipment]
 canonical_site: context
-canonical_path: /law/insurance-equipment/
+canonical_path: /article/insurance-equipment/
 status: published
 diagram: /images/diagrams/zh/insurance-equipment.svg
 diagram_alt: "器材与制作保险专题图解"

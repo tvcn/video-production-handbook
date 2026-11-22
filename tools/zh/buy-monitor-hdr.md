@@ -10,7 +10,7 @@ summary: "HDR 监看要看峰值、黑位、色域、色调映射和校准。只
 slug: buy-monitor-hdr
 aliases: [buy-monitor-hdr]
 canonical_site: tools
-canonical_path: /guide/buy-monitor-hdr/
+canonical_path: /article/buy-monitor-hdr/
 status: published
 diagram: /images/diagrams/zh/buy-monitor-hdr.svg
 diagram_alt: "购买 HDR 监视器专题图解"

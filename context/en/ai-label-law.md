@@ -10,7 +10,7 @@ summary: "AI content is not compliant with a single “AI” tag. China mainland
 slug: ai-label-law
 aliases: [ai-label-law]
 canonical_site: context
-canonical_path: /en/law/ai-label-law/
+canonical_path: /en/article/ai-label-law/
 status: published
 diagram: /images/diagrams/en/ai-label-law.svg
 diagram_alt: "AI content labeling diagram"

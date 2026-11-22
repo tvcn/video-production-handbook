@@ -10,7 +10,7 @@ summary: "Composite sample: break fashion & beauty into six beats and read pictu
 slug: fashion-beauty-video-breakdown
 aliases: [fashion-beauty-video-breakdown]
 canonical_site: formats
-canonical_path: /en/fashion/fashion-beauty-video-breakdown/
+canonical_path: /en/article/fashion-beauty-video-breakdown/
 status: published
 diagram: /images/diagrams/en/fashion-beauty-video-breakdown.svg
 diagram_alt: "Fashion & Beauty breakdown diagram"

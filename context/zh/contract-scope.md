@@ -10,7 +10,7 @@ summary: "影视合同最常见的争议不是付款，是范围。交付物、�
 slug: contract-scope
 aliases: [contract-scope]
 canonical_site: context
-canonical_path: /law/contract-scope/
+canonical_path: /article/contract-scope/
 status: published
 diagram: /images/diagrams/zh/contract-scope.svg
 diagram_alt: "合同范围专题图解"

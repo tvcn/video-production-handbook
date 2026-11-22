@@ -10,7 +10,7 @@ summary: "Archiving is not dragging a folder onto a drive. It lets the next pers
 slug: archive-reuse
 aliases: [archive-reuse]
 canonical_site: post
-canonical_path: /en/assets/archive-reuse/
+canonical_path: /en/article/archive-reuse/
 status: published
 diagram: /images/diagrams/en/archive-reuse.svg
 diagram_alt: "Archive and reuse package diagram"

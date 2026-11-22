@@ -10,7 +10,7 @@ summary: "第一套灯不是最亮的，是最容易控制肤色和阴影的。�
 slug: buy-light-kit
 aliases: [buy-light-kit]
 canonical_site: tools
-canonical_path: /guide/buy-light-kit/
+canonical_path: /article/buy-light-kit/
 status: published
 diagram: /images/diagrams/zh/buy-light-kit.svg
 diagram_alt: "购买灯光套装专题图解"

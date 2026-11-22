@@ -10,7 +10,7 @@ summary: "Consent to be filmed is not consent to be used commercially. Likeness,
 slug: portrait-rights
 aliases: [portrait-rights]
 canonical_site: context
-canonical_path: /en/law/portrait-rights/
+canonical_path: /en/article/portrait-rights/
 status: published
 diagram: /images/diagrams/en/portrait-rights.svg
 diagram_alt: "Likeness/location/minor release diagram"

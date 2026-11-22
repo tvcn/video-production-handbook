@@ -10,7 +10,7 @@ summary: "Live/podcast is not uploading a long video. Design cuttable units: one
 slug: live-podcast-structure
 aliases: [live-podcast-structure]
 canonical_site: formats
-canonical_path: /en/live-podcast/live-podcast-structure/
+canonical_path: /en/article/live-podcast-structure/
 status: published
 diagram: /images/diagrams/en/live-podcast-structure.svg
 diagram_alt: "Live & Podcast structure diagram"

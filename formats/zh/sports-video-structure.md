@@ -10,7 +10,7 @@ summary: "运动短片不是慢动作集锦。先定一个动作目标：赢、�
 slug: sports-video-structure
 aliases: [sports-video-structure]
 canonical_site: formats
-canonical_path: /sports/sports-video-structure/
+canonical_path: /article/sports-video-structure/
 status: published
 diagram: /images/diagrams/zh/sports-video-structure.svg
 diagram_alt: "运动短片结构专题图解"

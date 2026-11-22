@@ -10,7 +10,7 @@ summary: "镜头决定画面的一半，而且比机身保值。先买一支能�
 slug: buy-lens-first
 aliases: [buy-lens-first]
 canonical_site: tools
-canonical_path: /guide/buy-lens-first/
+canonical_path: /article/buy-lens-first/
 status: published
 diagram: /images/diagrams/zh/buy-lens-first.svg
 diagram_alt: "先买镜头专题图解"

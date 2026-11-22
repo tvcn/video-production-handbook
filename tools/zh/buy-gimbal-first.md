@@ -10,7 +10,7 @@ summary: "稳定器不是“走路不抖”的魔法。承重余量、三轴调�
 slug: buy-gimbal-first
 aliases: [buy-gimbal-first]
 canonical_site: tools
-canonical_path: /guide/buy-gimbal-first/
+canonical_path: /article/buy-gimbal-first/
 status: published
 diagram: /images/diagrams/zh/buy-gimbal-first.svg
 diagram_alt: "购买稳定器专题图解"

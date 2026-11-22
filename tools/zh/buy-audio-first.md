@@ -10,7 +10,7 @@ summary: "观众能忍画面普通，忍不了声音听不清。预算有限时�
 slug: buy-audio-first
 aliases: [buy-audio-first]
 canonical_site: tools
-canonical_path: /guide/buy-audio-first/
+canonical_path: /article/buy-audio-first/
 status: published
 diagram: /images/diagrams/zh/buy-audio-first.svg
 diagram_alt: "先买录音设备专题图解"

@@ -10,7 +10,7 @@ summary: "电影机的价格不只在机身：卡、电池、监看、底座、�
 slug: buy-camera-cine
 aliases: [buy-camera-cine]
 canonical_site: tools
-canonical_path: /guide/buy-camera-cine/
+canonical_path: /article/buy-camera-cine/
 status: published
 diagram: /images/diagrams/zh/buy-camera-cine.svg
 diagram_alt: "购买电影机专题图解"

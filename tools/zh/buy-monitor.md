@@ -10,7 +10,7 @@ summary: "监视器不是“外接大屏”。现场要亮到看得见、色彩�
 slug: buy-monitor
 aliases: [buy-monitor]
 canonical_site: tools
-canonical_path: /guide/buy-monitor/
+canonical_path: /article/buy-monitor/
 status: published
 diagram: /images/diagrams/zh/buy-monitor.svg
 diagram_alt: "购买监视器专题图解"

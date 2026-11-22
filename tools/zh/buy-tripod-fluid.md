@@ -10,7 +10,7 @@ summary: "液压云台不是“能转就行”。真正的差别在俯仰阻尼�
 slug: buy-tripod-fluid
 aliases: [buy-tripod-fluid]
 canonical_site: tools
-canonical_path: /guide/buy-tripod-fluid/
+canonical_path: /article/buy-tripod-fluid/
 status: published
 diagram: /images/diagrams/zh/buy-tripod-fluid.svg
 diagram_alt: "购买液压云台专题图解"

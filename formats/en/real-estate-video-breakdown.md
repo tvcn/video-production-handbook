@@ -10,7 +10,7 @@ summary: "Composite sample: break real estate & space into six beats and read pi
 slug: real-estate-video-breakdown
 aliases: [real-estate-video-breakdown]
 canonical_site: formats
-canonical_path: /en/real-estate/real-estate-video-breakdown/
+canonical_path: /en/article/real-estate-video-breakdown/
 status: published
 diagram: /images/diagrams/en/real-estate-video-breakdown.svg
 diagram_alt: "Real Estate & Space breakdown diagram"

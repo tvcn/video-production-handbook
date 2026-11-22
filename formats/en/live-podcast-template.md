@@ -10,7 +10,7 @@ summary: "A one-sheet live & podcast plan: six beats, picture, sound, duration, 
 slug: live-podcast-template
 aliases: [live-podcast-template]
 canonical_site: formats
-canonical_path: /en/live-podcast/live-podcast-template/
+canonical_path: /en/article/live-podcast-template/
 status: published
 diagram: /images/diagrams/en/live-podcast-template.svg
 diagram_alt: "Live & Podcast template diagram"

@@ -10,7 +10,7 @@ summary: "拍摄同意不等于商用同意。肖像权、场地物权、未成�
 slug: portrait-rights
 aliases: [portrait-rights]
 canonical_site: context
-canonical_path: /law/portrait-rights/
+canonical_path: /article/portrait-rights/
 status: published
 diagram: /images/diagrams/zh/portrait-rights.svg
 diagram_alt: "肖像场地未成年人授权专题图解"

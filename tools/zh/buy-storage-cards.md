@@ -10,7 +10,7 @@ summary: "卡的标称读取速度没有意义，持续写入才决定会不会�
 slug: buy-storage-cards
 aliases: [buy-storage-cards]
 canonical_site: tools
-canonical_path: /guide/buy-storage-cards/
+canonical_path: /article/buy-storage-cards/
 status: published
 diagram: /images/diagrams/zh/buy-storage-cards.svg
 diagram_alt: "购买存储卡专题图解"

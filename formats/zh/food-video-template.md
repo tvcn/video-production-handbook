@@ -10,7 +10,7 @@ summary: "美食桌面一张表：六拍、画面、声音、时长与通过线�
 slug: food-video-template
 aliases: [food-video-template]
 canonical_site: formats
-canonical_path: /food/food-video-template/
+canonical_path: /article/food-video-template/
 status: published
 diagram: /images/diagrams/zh/food-video-template.svg
 diagram_alt: "美食桌面模板专题图解"

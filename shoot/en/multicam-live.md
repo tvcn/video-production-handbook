@@ -10,7 +10,7 @@ summary: "Multicam is not more cameras. It is three cameras on one timeline, one
 slug: multicam-live
 aliases: [multicam-live]
 canonical_site: shoot
-canonical_path: /en/multicam/multicam-live/
+canonical_path: /en/article/multicam-live/
 status: published
 diagram: /images/diagrams/en/multicam-live.svg
 diagram_alt: "Multicam and live signal-chain diagram"

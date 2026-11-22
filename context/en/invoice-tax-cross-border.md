@@ -10,7 +10,7 @@ summary: "Cross-border projects stall on “invoices”: a proforma invoice is n
 slug: invoice-tax-cross-border
 aliases: [invoice-tax-cross-border]
 canonical_site: context
-canonical_path: /en/law/invoice-tax-cross-border/
+canonical_path: /en/article/invoice-tax-cross-border/
 status: published
 diagram: /images/diagrams/en/invoice-tax-cross-border.svg
 diagram_alt: "Cross-border invoice/tax diagram"

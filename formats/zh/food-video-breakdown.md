@@ -10,7 +10,7 @@ summary: "综合样例：把美食桌面拆成六拍，逐段看画面、声音�
 slug: food-video-breakdown
 aliases: [food-video-breakdown]
 canonical_site: formats
-canonical_path: /food/food-video-breakdown/
+canonical_path: /article/food-video-breakdown/
 status: published
 diagram: /images/diagrams/zh/food-video-breakdown.svg
 diagram_alt: "美食桌面拉片专题图解"

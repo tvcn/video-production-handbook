@@ -10,7 +10,7 @@ summary: "Audiences forgive a plain image; they do not forgive unclear sound. On
 slug: buy-audio-first
 aliases: [buy-audio-first]
 canonical_site: tools
-canonical_path: /en/guide/buy-audio-first/
+canonical_path: /en/article/buy-audio-first/
 status: published
 diagram: /images/diagrams/en/buy-audio-first.svg
 diagram_alt: "Audio-first buying diagram"

@@ -10,7 +10,7 @@ summary: "综合样例：把运动短片拆成六拍，逐段看画面、声音�
 slug: sports-video-breakdown
 aliases: [sports-video-breakdown]
 canonical_site: formats
-canonical_path: /sports/sports-video-breakdown/
+canonical_path: /article/sports-video-breakdown/
 status: published
 diagram: /images/diagrams/zh/sports-video-breakdown.svg
 diagram_alt: "运动短片拉片专题图解"

@@ -10,7 +10,7 @@ summary: "三脚架的标称承重不是安全线。真正决定稳定性的是�
 slug: buy-tripod
 aliases: [buy-tripod]
 canonical_site: tools
-canonical_path: /guide/buy-tripod/
+canonical_path: /article/buy-tripod/
 status: published
 diagram: /images/diagrams/zh/buy-tripod.svg
 diagram_alt: "购买三脚架专题图解"

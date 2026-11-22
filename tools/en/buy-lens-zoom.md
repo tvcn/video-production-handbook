@@ -10,7 +10,7 @@ summary: "A zoom buys “no lens change,” not “anything.” Confirm it holds
 slug: buy-lens-zoom
 aliases: [buy-lens-zoom]
 canonical_site: tools
-canonical_path: /en/guide/buy-lens-zoom/
+canonical_path: /en/article/buy-lens-zoom/
 status: published
 diagram: /images/diagrams/en/buy-lens-zoom.svg
 diagram_alt: "Zoom lens buying diagram"

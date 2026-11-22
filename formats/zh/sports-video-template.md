@@ -10,7 +10,7 @@ summary: "运动短片一张表：六拍、画面、声音、时长与通过线�
 slug: sports-video-template
 aliases: [sports-video-template]
 canonical_site: formats
-canonical_path: /sports/sports-video-template/
+canonical_path: /article/sports-video-template/
 status: published
 diagram: /images/diagrams/zh/sports-video-template.svg
 diagram_alt: "运动短片模板专题图解"

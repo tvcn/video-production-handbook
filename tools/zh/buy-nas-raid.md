@@ -10,7 +10,7 @@ summary: "NAS 不是“插上就安全”。RAID 不是备份；重建期间性�
 slug: buy-nas-raid
 aliases: [buy-nas-raid]
 canonical_site: tools
-canonical_path: /guide/buy-nas-raid/
+canonical_path: /article/buy-nas-raid/
 status: published
 diagram: /images/diagrams/zh/buy-nas-raid.svg
 diagram_alt: "购买 NAS/RAID 专题图解"

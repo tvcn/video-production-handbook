@@ -10,7 +10,7 @@ summary: "HDR 不是把 SDR 拉亮，而是从拍摄、监看、调色到平台�
 slug: hdr-workflow
 aliases: [hdr-workflow]
 canonical_site: post
-canonical_path: /color/hdr-workflow/
+canonical_path: /article/hdr-workflow/
 status: published
 diagram: /images/diagrams/zh/hdr-workflow.svg
 diagram_alt: "HDR 全流程专题图解"

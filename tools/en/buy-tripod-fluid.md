@@ -10,7 +10,7 @@ summary: "A fluid head is not “it pans.” The difference is continuous tilt d
 slug: buy-tripod-fluid
 aliases: [buy-tripod-fluid]
 canonical_site: tools
-canonical_path: /en/guide/buy-tripod-fluid/
+canonical_path: /en/article/buy-tripod-fluid/
 status: published
 diagram: /images/diagrams/en/buy-tripod-fluid.svg
 diagram_alt: "Fluid head buying diagram"

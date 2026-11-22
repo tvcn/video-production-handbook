@@ -10,7 +10,7 @@ summary: "预算有限时，机身不是第一优先级。先确认你缺的是�
 slug: buy-camera-budget
 aliases: [buy-camera-budget]
 canonical_site: tools
-canonical_path: /guide/buy-camera-budget/
+canonical_path: /article/buy-camera-budget/
 status: published
 diagram: /images/diagrams/zh/buy-camera-budget.svg
 diagram_alt: "购买相机预算专题图解"

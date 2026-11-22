@@ -10,7 +10,7 @@ summary: "变焦的价值是“不换镜”，不是“什么都能拍”。先�
 slug: buy-lens-zoom
 aliases: [buy-lens-zoom]
 canonical_site: tools
-canonical_path: /guide/buy-lens-zoom/
+canonical_path: /article/buy-lens-zoom/
 status: published
 diagram: /images/diagrams/zh/buy-lens-zoom.svg
 diagram_alt: "购买变焦镜头专题图解"

@@ -10,7 +10,7 @@ summary: "Storage is not “bigger is better.” It is “the shoot does not sto
 slug: buy-storage
 aliases: [buy-storage]
 canonical_site: tools
-canonical_path: /en/guide/buy-storage/
+canonical_path: /en/article/buy-storage/
 status: published
 diagram: /images/diagrams/en/buy-storage.svg
 diagram_alt: "Project storage buying diagram"

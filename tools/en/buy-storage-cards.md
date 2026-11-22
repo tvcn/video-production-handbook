@@ -10,7 +10,7 @@ summary: "A card’s peak read speed is irrelevant; sustained write decides whet
 slug: buy-storage-cards
 aliases: [buy-storage-cards]
 canonical_site: tools
-canonical_path: /en/guide/buy-storage-cards/
+canonical_path: /en/article/buy-storage-cards/
 status: published
 diagram: /images/diagrams/en/buy-storage-cards.svg
 diagram_alt: "Camera card buying diagram"

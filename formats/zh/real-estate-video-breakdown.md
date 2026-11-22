@@ -10,7 +10,7 @@ summary: "综合样例：把房产空间拆成六拍，逐段看画面、声音�
 slug: real-estate-video-breakdown
 aliases: [real-estate-video-breakdown]
 canonical_site: formats
-canonical_path: /real-estate/real-estate-video-breakdown/
+canonical_path: /article/real-estate-video-breakdown/
 status: published
 diagram: /images/diagrams/zh/real-estate-video-breakdown.svg
 diagram_alt: "房产空间拉片专题图解"

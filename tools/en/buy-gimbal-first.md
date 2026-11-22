@@ -10,7 +10,7 @@ summary: "A gimbal is not magic for walking. Payload headroom, three-axis balanc
 slug: buy-gimbal-first
 aliases: [buy-gimbal-first]
 canonical_site: tools
-canonical_path: /en/guide/buy-gimbal-first/
+canonical_path: /en/article/buy-gimbal-first/
 status: published
 diagram: /images/diagrams/en/buy-gimbal-first.svg
 diagram_alt: "Gimbal buying diagram"

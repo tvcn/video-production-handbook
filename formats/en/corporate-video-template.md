@@ -10,7 +10,7 @@ summary: "A one-sheet corporate video plan: six beats, picture, sound, duration,
 slug: corporate-video-template
 aliases: [corporate-video-template]
 canonical_site: formats
-canonical_path: /en/corporate/corporate-video-template/
+canonical_path: /en/article/corporate-video-template/
 status: published
 diagram: /images/diagrams/en/corporate-video-template.svg
 diagram_alt: "Corporate Video template diagram"

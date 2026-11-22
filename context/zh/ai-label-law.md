@@ -10,7 +10,7 @@ summary: "AI 生成内容不是“标注一下”就合规。中国大陆的标�
 slug: ai-label-law
 aliases: [ai-label-law]
 canonical_site: context
-canonical_path: /law/ai-label-law/
+canonical_path: /article/ai-label-law/
 status: published
 diagram: /images/diagrams/zh/ai-label-law.svg
 diagram_alt: "AI 内容标识专题图解"

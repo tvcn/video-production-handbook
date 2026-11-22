@@ -10,7 +10,7 @@ summary: "综合样例：把企业宣传拆成六拍，逐段看画面、声音�
 slug: corporate-video-breakdown
 aliases: [corporate-video-breakdown]
 canonical_site: formats
-canonical_path: /corporate/corporate-video-breakdown/
+canonical_path: /article/corporate-video-breakdown/
 status: published
 diagram: /images/diagrams/zh/corporate-video-breakdown.svg
 diagram_alt: "企业宣传拉片专题图解"

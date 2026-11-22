@@ -10,7 +10,7 @@ summary: "AI QC is not “does it look real.” Check in order: identity, motion
 slug: ai-qc
 aliases: [ai-qc]
 canonical_site: ai
-canonical_path: /en/post/ai-qc/
+canonical_path: /en/article/ai-qc/
 status: published
 diagram: /images/diagrams/en/ai-qc.svg
 diagram_alt: "Six-gate AI post QC diagram"

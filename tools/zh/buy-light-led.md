@@ -10,7 +10,7 @@ summary: "LED 的参数不只是瓦数。频闪、色温偏移、电池续航、
 slug: buy-light-led
 aliases: [buy-light-led]
 canonical_site: tools
-canonical_path: /guide/buy-light-led/
+canonical_path: /article/buy-light-led/
 status: published
 diagram: /images/diagrams/zh/buy-light-led.svg
 diagram_alt: "购买 LED 灯专题图解"

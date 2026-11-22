@@ -10,7 +10,7 @@ summary: "A field recorder is not about track count. It is about whether one los
 slug: buy-audio-field
 aliases: [buy-audio-field]
 canonical_site: tools
-canonical_path: /en/guide/buy-audio-field/
+canonical_path: /en/article/buy-audio-field/
 status: published
 diagram: /images/diagrams/en/buy-audio-field.svg
 diagram_alt: "Field recorder buying diagram"

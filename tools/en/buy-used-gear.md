@@ -10,7 +10,7 @@ summary: "Used is not “cheap”; it is risk priced in. Check shutter, sensor, 
 slug: buy-used-gear
 aliases: [buy-used-gear]
 canonical_site: tools
-canonical_path: /en/guide/buy-used-gear/
+canonical_path: /en/article/buy-used-gear/
 status: published
 diagram: /images/diagrams/en/buy-used-gear.svg
 diagram_alt: "Used gear buying diagram"

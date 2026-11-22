@@ -10,7 +10,7 @@ summary: "直播播客一张表：六拍、画面、声音、时长与通过线�
 slug: live-podcast-template
 aliases: [live-podcast-template]
 canonical_site: formats
-canonical_path: /live-podcast/live-podcast-template/
+canonical_path: /article/live-podcast-template/
 status: published
 diagram: /images/diagrams/zh/live-podcast-template.svg
 diagram_alt: "直播播客模板专题图解"

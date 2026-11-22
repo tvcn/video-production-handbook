@@ -10,7 +10,7 @@ summary: "Conform is not opening the edit in another app. It verifies every cut 
 slug: conform-online
 aliases: [conform-online]
 canonical_site: post
-canonical_path: /en/delivery/conform-online/
+canonical_path: /en/article/conform-online/
 status: published
 diagram: /images/diagrams/en/conform-online.svg
 diagram_alt: "Conform and online round-trip diagram"

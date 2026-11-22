@@ -10,7 +10,7 @@ summary: "The first light kit is not the brightest; it is the easiest to control
 slug: buy-light-kit
 aliases: [buy-light-kit]
 canonical_site: tools
-canonical_path: /en/guide/buy-light-kit/
+canonical_path: /en/article/buy-light-kit/
 status: published
 diagram: /images/diagrams/en/buy-light-kit.svg
 diagram_alt: "Light kit buying diagram"

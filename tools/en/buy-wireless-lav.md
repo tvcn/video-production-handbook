@@ -10,7 +10,7 @@ summary: "A “500m” wireless lav range is open line-of-sight, not a mall or c
 slug: buy-wireless-lav
 aliases: [buy-wireless-lav]
 canonical_site: tools
-canonical_path: /en/guide/buy-wireless-lav/
+canonical_path: /en/article/buy-wireless-lav/
 status: published
 diagram: /images/diagrams/en/buy-wireless-lav.svg
 diagram_alt: "Wireless lav buying diagram"

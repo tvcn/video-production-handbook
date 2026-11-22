@@ -10,7 +10,7 @@ summary: "时码器不是“多机位一定需要”，但一旦需要，漂移�
 slug: buy-timecode
 aliases: [buy-timecode]
 canonical_site: tools
-canonical_path: /guide/buy-timecode/
+canonical_path: /article/buy-timecode/
 status: published
 diagram: /images/diagrams/zh/buy-timecode.svg
 diagram_alt: "购买时码器专题图解"

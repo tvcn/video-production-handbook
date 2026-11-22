@@ -10,7 +10,7 @@ summary: "多机位不是多摆两台机器，而是让三台机器进同一条�
 slug: multicam-live
 aliases: [multicam-live]
 canonical_site: shoot
-canonical_path: /multicam/multicam-live/
+canonical_path: /article/multicam-live/
 status: published
 diagram: /images/diagrams/zh/multicam-live.svg
 diagram_alt: "多机位与直播信号链专题图解"

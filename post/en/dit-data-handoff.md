@@ -10,7 +10,7 @@ summary: "DIT is not card copying. It guarantees checksums, three copies, filena
 slug: dit-data-handoff
 aliases: [dit-data-handoff]
 canonical_site: post
-canonical_path: /en/assets/dit-data-handoff/
+canonical_path: /en/article/dit-data-handoff/
 status: published
 diagram: /images/diagrams/en/dit-data-handoff.svg
 diagram_alt: "DIT data handoff diagram"

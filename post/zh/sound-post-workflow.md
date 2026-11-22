@@ -10,7 +10,7 @@ summary: "声音后期不是先找音乐。顺序是：对白能听清、环境�
 slug: sound-post-workflow
 aliases: [sound-post-workflow]
 canonical_site: post
-canonical_path: /sound/sound-post-workflow/
+canonical_path: /article/sound-post-workflow/
 status: published
 diagram: /images/diagrams/zh/sound-post-workflow.svg
 diagram_alt: "声音后期流程专题图解"

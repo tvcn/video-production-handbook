@@ -10,7 +10,7 @@ summary: "“买了这首歌”不等于“能商用”。影视项目至少要�
 slug: music-license
 aliases: [music-license]
 canonical_site: context
-canonical_path: /law/music-license/
+canonical_path: /article/music-license/
 status: published
 diagram: /images/diagrams/zh/music-license.svg
 diagram_alt: "音乐授权专题图解"

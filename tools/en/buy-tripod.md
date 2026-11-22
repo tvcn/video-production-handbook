@@ -10,7 +10,7 @@ summary: "A tripod’s payload rating is not a safety line. Leg stiffness, head 
 slug: buy-tripod
 aliases: [buy-tripod]
 canonical_site: tools
-canonical_path: /en/guide/buy-tripod/
+canonical_path: /en/article/buy-tripod/
 status: published
 diagram: /images/diagrams/en/buy-tripod.svg
 diagram_alt: "Tripod buying diagram"

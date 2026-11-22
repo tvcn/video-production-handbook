@@ -10,7 +10,7 @@ summary: "美食片不是旋转托盘。先拍“变化”：生到熟、冷到�
 slug: food-video-structure
 aliases: [food-video-structure]
 canonical_site: formats
-canonical_path: /food/food-video-structure/
+canonical_path: /article/food-video-structure/
 status: published
 diagram: /images/diagrams/zh/food-video-structure.svg
 diagram_alt: "美食桌面结构专题图解"

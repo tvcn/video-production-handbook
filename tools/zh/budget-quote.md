@@ -10,7 +10,7 @@ summary: "预算不是成本清单，是把“会停拍的那一项”先保住�
 slug: budget-quote
 aliases: [budget-quote]
 canonical_site: tools
-canonical_path: /guide/budget-quote/
+canonical_path: /article/budget-quote/
 status: published
 diagram: /images/diagrams/zh/budget-quote.svg
 diagram_alt: "预算与报价五块专题图解"

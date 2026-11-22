@@ -10,7 +10,7 @@ summary: "Conform 不是把剪辑时间线换个软件打开。它要确认每�
 slug: conform-online
 aliases: [conform-online]
 canonical_site: post
-canonical_path: /delivery/conform-online/
+canonical_path: /article/conform-online/
 status: published
 diagram: /images/diagrams/zh/conform-online.svg
 diagram_alt: "Conform 与 Online 套底专题图解"

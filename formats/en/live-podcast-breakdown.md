@@ -10,7 +10,7 @@ summary: "Composite sample: break live & podcast into six beats and read picture
 slug: live-podcast-breakdown
 aliases: [live-podcast-breakdown]
 canonical_site: formats
-canonical_path: /en/live-podcast/live-podcast-breakdown/
+canonical_path: /en/article/live-podcast-breakdown/
 status: published
 diagram: /images/diagrams/en/live-podcast-breakdown.svg
 diagram_alt: "Live & Podcast breakdown diagram"

@@ -10,7 +10,7 @@ summary: "企业宣传一张表：六拍、画面、声音、时长与通过线�
 slug: corporate-video-template
 aliases: [corporate-video-template]
 canonical_site: formats
-canonical_path: /corporate/corporate-video-template/
+canonical_path: /article/corporate-video-template/
 status: published
 diagram: /images/diagrams/zh/corporate-video-template.svg
 diagram_alt: "企业宣传模板专题图解"

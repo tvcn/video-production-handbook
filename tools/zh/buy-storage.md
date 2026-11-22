@@ -10,7 +10,7 @@ summary: "存储不是“越大越好”，是“拍摄不断、拷回不丢、�
 slug: buy-storage
 aliases: [buy-storage]
 canonical_site: tools
-canonical_path: /guide/buy-storage/
+canonical_path: /article/buy-storage/
 status: published
 diagram: /images/diagrams/zh/buy-storage.svg
 diagram_alt: "购买项目存储专题图解"

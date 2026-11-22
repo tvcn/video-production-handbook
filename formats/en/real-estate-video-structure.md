@@ -10,7 +10,7 @@ summary: "Real-estate video is not a wide-angle building tour. Start with the li
 slug: real-estate-video-structure
 aliases: [real-estate-video-structure]
 canonical_site: formats
-canonical_path: /en/real-estate/real-estate-video-structure/
+canonical_path: /en/article/real-estate-video-structure/
 status: published
 diagram: /images/diagrams/en/real-estate-video-structure.svg
 diagram_alt: "Real Estate & Space structure diagram"

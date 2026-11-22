@@ -10,7 +10,7 @@ summary: "A sports film is not a slow-motion highlight. Set one physical goal—
 slug: sports-video-structure
 aliases: [sports-video-structure]
 canonical_site: formats
-canonical_path: /en/sports/sports-video-structure/
+canonical_path: /en/article/sports-video-structure/
 status: published
 diagram: /images/diagrams/en/sports-video-structure.svg
 diagram_alt: "Sports Film structure diagram"

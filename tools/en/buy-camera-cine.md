@@ -10,7 +10,7 @@ summary: "A cinema camera’s price is not the body: cards, batteries, monitorin
 slug: buy-camera-cine
 aliases: [buy-camera-cine]
 canonical_site: tools
-canonical_path: /en/guide/buy-camera-cine/
+canonical_path: /en/article/buy-camera-cine/
 status: published
 diagram: /images/diagrams/en/buy-camera-cine.svg
 diagram_alt: "Cinema camera buying diagram"

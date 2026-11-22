@@ -10,7 +10,7 @@ summary: "Composite sample: break sports film into six beats and read picture, s
 slug: sports-video-breakdown
 aliases: [sports-video-breakdown]
 canonical_site: formats
-canonical_path: /en/sports/sports-video-breakdown/
+canonical_path: /en/article/sports-video-breakdown/
 status: published
 diagram: /images/diagrams/en/sports-video-breakdown.svg
 diagram_alt: "Sports Film breakdown diagram"

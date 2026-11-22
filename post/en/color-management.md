@@ -10,7 +10,7 @@ summary: "Color management is not applying a cinematic LUT. It answers what the 
 slug: color-management
 aliases: [color-management]
 canonical_site: post
-canonical_path: /en/color/color-management/
+canonical_path: /en/article/color-management/
 status: published
 diagram: /images/diagrams/en/color-management.svg
 diagram_alt: "Color-management node diagram"

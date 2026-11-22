@@ -10,7 +10,7 @@ summary: "Timecode is not automatic for multicam, but when needed, drift and syn
 slug: buy-timecode
 aliases: [buy-timecode]
 canonical_site: tools
-canonical_path: /en/guide/buy-timecode/
+canonical_path: /en/article/buy-timecode/
 status: published
 diagram: /images/diagrams/en/buy-timecode.svg
 diagram_alt: "Timecode buying diagram"

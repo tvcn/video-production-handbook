@@ -10,7 +10,7 @@ summary: "HDR is not brightening SDR. It preserves one luminance relationship fr
 slug: hdr-workflow
 aliases: [hdr-workflow]
 canonical_site: post
-canonical_path: /en/color/hdr-workflow/
+canonical_path: /en/article/hdr-workflow/
 status: published
 diagram: /images/diagrams/en/hdr-workflow.svg
 diagram_alt: "HDR end-to-end workflow diagram"

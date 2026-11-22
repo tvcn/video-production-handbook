@@ -10,7 +10,7 @@ summary: "无线领夹的“500 米”是空旷视距，不是商场/演唱会�
 slug: buy-wireless-lav
 aliases: [buy-wireless-lav]
 canonical_site: tools
-canonical_path: /guide/buy-wireless-lav/
+canonical_path: /article/buy-wireless-lav/
 status: published
 diagram: /images/diagrams/zh/buy-wireless-lav.svg
 diagram_alt: "购买无线领夹专题图解"

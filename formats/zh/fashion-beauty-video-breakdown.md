@@ -10,7 +10,7 @@ summary: "综合样例：把时尚美妆拆成六拍，逐段看画面、声音�
 slug: fashion-beauty-video-breakdown
 aliases: [fashion-beauty-video-breakdown]
 canonical_site: formats
-canonical_path: /fashion/fashion-beauty-video-breakdown/
+canonical_path: /article/fashion-beauty-video-breakdown/
 status: published
 diagram: /images/diagrams/zh/fashion-beauty-video-breakdown.svg
 diagram_alt: "时尚美妆拉片专题图解"

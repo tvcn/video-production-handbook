@@ -10,7 +10,7 @@ summary: "Crew management is not sending a call sheet. It makes everyone know th
 slug: crew-management
 aliases: [crew-management]
 canonical_site: tools
-canonical_path: /en/guide/crew-management/
+canonical_path: /en/article/crew-management/
 status: published
 diagram: /images/diagrams/en/crew-management.svg
 diagram_alt: "Crew-management three-sheet diagram"

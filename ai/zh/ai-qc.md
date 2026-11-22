@@ -10,7 +10,7 @@ summary: "AI 片子的质检不是“看起来像不像”。按顺序查：人�
 slug: ai-qc
 aliases: [ai-qc]
 canonical_site: ai
-canonical_path: /post/ai-qc/
+canonical_path: /article/ai-qc/
 status: published
 diagram: /images/diagrams/zh/ai-qc.svg
 diagram_alt: "AI 后期质检六关专题图解"

@@ -10,7 +10,7 @@ summary: "Composite sample: break corporate video into six beats and read pictur
 slug: corporate-video-breakdown
 aliases: [corporate-video-breakdown]
 canonical_site: formats
-canonical_path: /en/corporate/corporate-video-breakdown/
+canonical_path: /en/article/corporate-video-breakdown/
 status: published
 diagram: /images/diagrams/en/corporate-video-breakdown.svg
 diagram_alt: "Corporate Video breakdown diagram"

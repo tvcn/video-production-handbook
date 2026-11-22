@@ -10,7 +10,7 @@ summary: "NAS is not “plug in and safe.” RAID is not backup; rebuilds slow e
 slug: buy-nas-raid
 aliases: [buy-nas-raid]
 canonical_site: tools
-canonical_path: /en/guide/buy-nas-raid/
+canonical_path: /en/article/buy-nas-raid/
 status: published
 diagram: /images/diagrams/en/buy-nas-raid.svg
 diagram_alt: "NAS/RAID buying diagram"

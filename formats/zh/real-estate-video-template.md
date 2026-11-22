@@ -10,7 +10,7 @@ summary: "房产空间一张表：六拍、画面、声音、时长与通过线�
 slug: real-estate-video-template
 aliases: [real-estate-video-template]
 canonical_site: formats
-canonical_path: /real-estate/real-estate-video-template/
+canonical_path: /article/real-estate-video-template/
 status: published
 diagram: /images/diagrams/zh/real-estate-video-template.svg
 diagram_alt: "房产空间模板专题图解"

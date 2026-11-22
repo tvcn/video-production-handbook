@@ -10,7 +10,7 @@ summary: "Corporate video is not a company profile. Write a question the viewer 
 slug: corporate-video-structure
 aliases: [corporate-video-structure]
 canonical_site: formats
-canonical_path: /en/corporate/corporate-video-structure/
+canonical_path: /en/article/corporate-video-structure/
 status: published
 diagram: /images/diagrams/en/corporate-video-structure.svg
 diagram_alt: "Corporate Video structure diagram"

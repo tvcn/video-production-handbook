@@ -10,7 +10,7 @@ summary: "A budget is not a cost list; it protects the line that would stop the 
 slug: budget-quote
 aliases: [budget-quote]
 canonical_site: tools
-canonical_path: /en/guide/budget-quote/
+canonical_path: /en/article/budget-quote/
 status: published
 diagram: /images/diagrams/en/budget-quote.svg
 diagram_alt: "Five-block budget and quote diagram"

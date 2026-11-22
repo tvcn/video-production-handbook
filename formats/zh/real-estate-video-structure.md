@@ -10,7 +10,7 @@ summary: "房产片不是广角扫楼。先给“谁住进来”的生活问题�
 slug: real-estate-video-structure
 aliases: [real-estate-video-structure]
 canonical_site: formats
-canonical_path: /real-estate/real-estate-video-structure/
+canonical_path: /article/real-estate-video-structure/
 status: published
 diagram: /images/diagrams/zh/real-estate-video-structure.svg
 diagram_alt: "房产空间结构专题图解"

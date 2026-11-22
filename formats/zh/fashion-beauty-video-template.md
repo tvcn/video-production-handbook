@@ -10,7 +10,7 @@ summary: "时尚美妆一张表：六拍、画面、声音、时长与通过线�
 slug: fashion-beauty-video-template
 aliases: [fashion-beauty-video-template]
 canonical_site: formats
-canonical_path: /fashion/fashion-beauty-video-template/
+canonical_path: /article/fashion-beauty-video-template/
 status: published
 diagram: /images/diagrams/zh/fashion-beauty-video-template.svg
 diagram_alt: "时尚美妆模板专题图解"

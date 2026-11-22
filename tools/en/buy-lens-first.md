@@ -10,7 +10,7 @@ summary: "The lens decides half the image and holds value better than a body. Bu
 slug: buy-lens-first
 aliases: [buy-lens-first]
 canonical_site: tools
-canonical_path: /en/guide/buy-lens-first/
+canonical_path: /en/article/buy-lens-first/
 status: published
 diagram: /images/diagrams/en/buy-lens-first.svg
 diagram_alt: "Lens-first buying diagram"

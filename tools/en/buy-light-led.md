@@ -10,7 +10,7 @@ summary: "LED specs are not just wattage. Flicker, color shift, battery runtime,
 slug: buy-light-led
 aliases: [buy-light-led]
 canonical_site: tools
-canonical_path: /en/guide/buy-light-led/
+canonical_path: /en/article/buy-light-led/
 status: published
 diagram: /images/diagrams/en/buy-light-led.svg
 diagram_alt: "LED light buying diagram"

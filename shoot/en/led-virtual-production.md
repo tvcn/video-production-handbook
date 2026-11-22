@@ -10,7 +10,7 @@ summary: "LED virtual production is not swapping a backdrop for a screen. It bin
 slug: led-virtual-production
 aliases: [led-virtual-production]
 canonical_site: shoot
-canonical_path: /en/virtual-production/led-virtual-production/
+canonical_path: /en/article/led-virtual-production/
 status: published
 diagram: /images/diagrams/en/led-virtual-production.svg
 diagram_alt: "LED virtual production pipeline diagram"

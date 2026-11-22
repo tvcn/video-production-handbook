@@ -10,7 +10,7 @@ summary: "A one-sheet fashion & beauty plan: six beats, picture, sound, duration
 slug: fashion-beauty-video-template
 aliases: [fashion-beauty-video-template]
 canonical_site: formats
-canonical_path: /en/fashion/fashion-beauty-video-template/
+canonical_path: /en/article/fashion-beauty-video-template/
 status: published
 diagram: /images/diagrams/en/fashion-beauty-video-template.svg
 diagram_alt: "Fashion & Beauty template diagram"

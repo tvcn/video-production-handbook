@@ -10,7 +10,7 @@ summary: "一版通投是最贵的省事。母版只有一个，平台版按画�
 slug: platform-deliverables
 aliases: [platform-deliverables]
 canonical_site: post
-canonical_path: /delivery/platform-deliverables/
+canonical_path: /article/platform-deliverables/
 status: published
 diagram: /images/diagrams/zh/platform-deliverables.svg
 diagram_alt: "多平台交付矩阵专题图解"

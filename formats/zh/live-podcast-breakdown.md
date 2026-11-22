@@ -10,7 +10,7 @@ summary: "综合样例：把直播播客拆成六拍，逐段看画面、声音�
 slug: live-podcast-breakdown
 aliases: [live-podcast-breakdown]
 canonical_site: formats
-canonical_path: /live-podcast/live-podcast-breakdown/
+canonical_path: /article/live-podcast-breakdown/
 status: published
 diagram: /images/diagrams/zh/live-podcast-breakdown.svg
 diagram_alt: "直播播客拉片专题图解"

@@ -10,7 +10,7 @@ summary: "On a limited budget, the body is not first. Find whether you lack low 
 slug: buy-camera-budget
 aliases: [buy-camera-budget]
 canonical_site: tools
-canonical_path: /en/guide/buy-camera-budget/
+canonical_path: /en/article/buy-camera-budget/
 status: published
 diagram: /images/diagrams/en/buy-camera-budget.svg
 diagram_alt: "Camera budget diagram"

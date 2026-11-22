@@ -10,7 +10,7 @@ summary: "Food video is not a rotating platter. Shoot change: raw to cooked, col
 slug: food-video-structure
 aliases: [food-video-structure]
 canonical_site: formats
-canonical_path: /en/food/food-video-structure/
+canonical_path: /en/article/food-video-structure/
 status: published
 diagram: /images/diagrams/en/food-video-structure.svg
 diagram_alt: "Food & Table structure diagram"

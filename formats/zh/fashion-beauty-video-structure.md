@@ -10,7 +10,7 @@ summary: "时尚美妆不是模特走秀。先定“质感”：布料、皮肤�
 slug: fashion-beauty-video-structure
 aliases: [fashion-beauty-video-structure]
 canonical_site: formats
-canonical_path: /fashion/fashion-beauty-video-structure/
+canonical_path: /article/fashion-beauty-video-structure/
 status: published
 diagram: /images/diagrams/zh/fashion-beauty-video-structure.svg
 diagram_alt: "时尚美妆结构专题图解"

@@ -10,7 +10,7 @@ summary: "二手不是“便宜”，是“把风险折成价格”。先查快�
 slug: buy-used-gear
 aliases: [buy-used-gear]
 canonical_site: tools
-canonical_path: /guide/buy-used-gear/
+canonical_path: /article/buy-used-gear/
 status: published
 diagram: /images/diagrams/zh/buy-used-gear.svg
 diagram_alt: "购买二手器材专题图解"

@@ -10,7 +10,7 @@ summary: "“I bought the song” does not mean “I can use it commercially.”
 slug: music-license
 aliases: [music-license]
 canonical_site: context
-canonical_path: /en/law/music-license/
+canonical_path: /en/article/music-license/
 status: published
 diagram: /images/diagrams/en/music-license.svg
 diagram_alt: "Music licensing diagram"

@@ -10,7 +10,7 @@ summary: "企业宣传不是公司简介视频。先写一个观众愿意看完�
 slug: corporate-video-structure
 aliases: [corporate-video-structure]
 canonical_site: formats
-canonical_path: /corporate/corporate-video-structure/
+canonical_path: /article/corporate-video-structure/
 status: published
 diagram: /images/diagrams/zh/corporate-video-structure.svg
 diagram_alt: "企业宣传结构专题图解"

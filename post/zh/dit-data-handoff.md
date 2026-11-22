@@ -10,7 +10,7 @@ summary: "DIT 不是拷卡。它要保证每张卡有校验、每份素材有三
 slug: dit-data-handoff
 aliases: [dit-data-handoff]
 canonical_site: post
-canonical_path: /assets/dit-data-handoff/
+canonical_path: /article/dit-data-handoff/
 status: published
 diagram: /images/diagrams/zh/dit-data-handoff.svg
 diagram_alt: "DIT 数据交接专题图解"

@@ -242,7 +242,7 @@
 | [直播编码：码率、推流、备份](shoot/zh/live-encoding.md) | 文章 / Article | /live/live-encoding/ | [live-encoding.md](shoot/zh/live-encoding.md) |
 | [手持：让呼吸进画面](shoot/zh/handheld.md) | 文章 / Article | /movement/handheld/ | [handheld.md](shoot/zh/handheld.md) |
 | [稳定器：走路的节奏](shoot/zh/stabilizer.md) | 文章 / Article | /movement/stabilizer/ | [stabilizer.md](shoot/zh/stabilizer.md) |
-| [多机位与直播：先把时间码、返送和录制锁死](shoot/zh/multicam-live.md) | 文章 / Article | /multicam/multicam-live/ | [multicam-live.md](shoot/zh/multicam-live.md) |
+| [多机位与直播：先把时间码、返送和录制锁死](shoot/zh/multicam-live.md) | 文章 / Article | /article/multicam-live/ | [multicam-live.md](shoot/zh/multicam-live.md) |
 | [多机位同步：时间码与机位图](shoot/zh/multicam-sync.md) | 文章 / Article | /multicam/multicam-sync/ | [multicam-sync.md](shoot/zh/multicam-sync.md) |
 | [B-roll：让那句话有画面](shoot/zh/production/b-roll.md) | 文章 / Article | /production/b-roll/ | [b-roll.md](shoot/zh/production/b-roll.md) |
 | [机位高度：蹲下比换镜头有用](shoot/zh/production/camera-height.md) | 文章 / Article | /production/camera-height/ | [camera-height.md](shoot/zh/production/camera-height.md) |
@@ -255,7 +255,7 @@
 | [吊杆操作：跟着动作走](shoot/zh/boom-operator.md) | 文章 / Article | /sound/boom-operator/ | [boom-operator.md](shoot/zh/boom-operator.md) |
 | [双系统录音：合板不靠猜](shoot/zh/dual-system-sound.md) | 文章 / Article | /sound/dual-system-sound/ | [dual-system-sound.md](shoot/zh/dual-system-sound.md) |
 | [无线领夹：藏麦与备份](shoot/zh/wireless-lav.md) | 文章 / Article | /sound/wireless-lav/ | [wireless-lav.md](shoot/zh/wireless-lav.md) |
-| [LED 虚拟拍摄：墙、跟踪、同步与色温](shoot/zh/led-virtual-production.md) | 文章 / Article | /virtual-production/led-virtual-production/ | [led-virtual-production.md](shoot/zh/led-virtual-production.md) |
+| [LED 虚拟拍摄：墙、跟踪、同步与色温](shoot/zh/led-virtual-production.md) | 文章 / Article | /article/led-virtual-production/ | [led-virtual-production.md](shoot/zh/led-virtual-production.md) |
 | [LED 虚拟拍摄：先对跟踪，再对光](shoot/zh/led-volume.md) | 文章 / Article | /virtual-production/led-volume/ | [led-volume.md](shoot/zh/led-volume.md) |
 
 ### 后期 · Post（46 篇）
@@ -265,23 +265,23 @@
 | [口述影像：把画面说给人听](post/zh/audio-description.md) | 文章 / Article | /accessibility/audio-description/ | [audio-description.md](post/zh/audio-description.md) |
 | [多语言字幕：别一行塞两种语言](post/zh/multilingual-subtitles.md) | 文章 / Article | /accessibility/multilingual-subtitles/ | [multilingual-subtitles.md](post/zh/multilingual-subtitles.md) |
 | [听障字幕：不只写对白](post/zh/sdh.md) | 文章 / Article | /accessibility/sdh/ | [sdh.md](post/zh/sdh.md) |
-| [归档与资产复用：让下一条片子更快](post/zh/archive-reuse.md) | 文章 / Article | /assets/archive-reuse/ | [archive-reuse.md](post/zh/archive-reuse.md) |
+| [归档与资产复用：让下一条片子更快](post/zh/archive-reuse.md) | 文章 / Article | /article/archive-reuse/ | [archive-reuse.md](post/zh/archive-reuse.md) |
 | [备份恢复：演一次恢复](post/zh/backup-recovery.md) | 文章 / Article | /assets/backup-recovery/ | [backup-recovery.md](post/zh/backup-recovery.md) |
-| [DIT 与数据交接：现场到后期的第一次交接](post/zh/dit-data-handoff.md) | 文章 / Article | /assets/dit-data-handoff/ | [dit-data-handoff.md](post/zh/dit-data-handoff.md) |
+| [DIT 与数据交接：现场到后期的第一次交接](post/zh/dit-data-handoff.md) | 文章 / Article | /article/dit-data-handoff/ | [dit-data-handoff.md](post/zh/dit-data-handoff.md) |
 | [项目结构：文件夹比软件重要](post/zh/project-structure.md) | 文章 / Article | /assets/project-structure/ | [project-structure.md](post/zh/project-structure.md) |
 | [代理与缓存：别让硬盘先满](post/zh/proxy-cache.md) | 文章 / Article | /assets/proxy-cache/ | [proxy-cache.md](post/zh/proxy-cache.md) |
 | [调色：先统一，再风格](post/zh/color/color.md) | 文章 / Article | /color/color/ | [color.md](post/zh/color/color.md) |
-| [色彩管理：把 LUT 放在正确的位置](post/zh/color-management.md) | 文章 / Article | /color/color-management/ | [color-management.md](post/zh/color-management.md) |
+| [色彩管理：把 LUT 放在正确的位置](post/zh/color-management.md) | 文章 / Article | /article/color-management/ | [color-management.md](post/zh/color-management.md) |
 | [HDR：先有 HDR 的素材和监看](post/zh/hdr.md) | 文章 / Article | /color/hdr/ | [hdr.md](post/zh/hdr.md) |
-| [HDR 全流程：从监看到交付，不要只在最后加亮](post/zh/hdr-workflow.md) | 文章 / Article | /color/hdr-workflow/ | [hdr-workflow.md](post/zh/hdr-workflow.md) |
+| [HDR 全流程：从监看到交付，不要只在最后加亮](post/zh/hdr-workflow.md) | 文章 / Article | /article/hdr-workflow/ | [hdr-workflow.md](post/zh/hdr-workflow.md) |
 | [LUT：起点不是终点](post/zh/lut.md) | 文章 / Article | /color/lut/ | [lut.md](post/zh/lut.md) |
 | [一级校正：曝光与白平衡](post/zh/primary-correction.md) | 文章 / Article | /color/primary-correction/ | [primary-correction.md](post/zh/primary-correction.md) |
 | [示波器：黑位、白位、肤色](post/zh/scopes.md) | 文章 / Article | /color/scopes/ | [scopes.md](post/zh/scopes.md) |
 | [二级校正：只改一块颜色](post/zh/secondary-correction.md) | 文章 / Article | /color/secondary-correction/ | [secondary-correction.md](post/zh/secondary-correction.md) |
 | [归档：三年后还能打开](post/zh/archive.md) | 文章 / Article | /delivery/archive/ | [archive.md](post/zh/archive.md) |
-| [Conform / Online：套底、回批与母版](post/zh/conform-online.md) | 文章 / Article | /delivery/conform-online/ | [conform-online.md](post/zh/conform-online.md) |
+| [Conform / Online：套底、回批与母版](post/zh/conform-online.md) | 文章 / Article | /article/conform-online/ | [conform-online.md](post/zh/conform-online.md) |
 | [母版：交付前定一个唯一版本](post/zh/mastering.md) | 文章 / Article | /delivery/mastering/ | [mastering.md](post/zh/mastering.md) |
-| [平台多版本交付：一版母版，多版安全区](post/zh/platform-deliverables.md) | 文章 / Article | /delivery/platform-deliverables/ | [platform-deliverables.md](post/zh/platform-deliverables.md) |
+| [平台多版本交付：一版母版，多版安全区](post/zh/platform-deliverables.md) | 文章 / Article | /article/platform-deliverables/ | [platform-deliverables.md](post/zh/platform-deliverables.md) |
 | [技术检查：黑帧、静帧、断音](post/zh/qc.md) | 文章 / Article | /delivery/qc/ | [qc.md](post/zh/qc.md) |
 | [剪辑点：让注意力过去](post/zh/editing/cutting-points.md) | 文章 / Article | /editing/cutting-points/ | [cutting-points.md](post/zh/editing/cutting-points.md) |
 | [节奏不是快，是观众什么时候想听下一句](post/zh/editing/edit-pacing.md) | 文章 / Article | /editing/edit-pacing/ | [edit-pacing.md](post/zh/editing/edit-pacing.md) |
@@ -300,7 +300,7 @@
 | [环境音：别让画面住在真空里](post/zh/sound/room-tone.md) | 文章 / Article | /sound/room-tone/ | [room-tone.md](post/zh/sound/room-tone.md) |
 | [声音：先对白，再音乐](post/zh/sound/sound.md) | 文章 / Article | /sound/sound/ | [sound.md](post/zh/sound/sound.md) |
 | [声音后期先修噪声，再谈氛围](post/zh/sound/sound-post.md) | 文章 / Article | /sound/sound-post/ | [sound-post.md](post/zh/sound/sound-post.md) |
-| [声音后期：从对白到终混的顺序](post/zh/sound-post-workflow.md) | 文章 / Article | /sound/sound-post-workflow/ | [sound-post-workflow.md](post/zh/sound-post-workflow.md) |
+| [声音后期：从对白到终混的顺序](post/zh/sound-post-workflow.md) | 文章 / Article | /article/sound-post-workflow/ | [sound-post-workflow.md](post/zh/sound-post-workflow.md) |
 | [片头字：先读清，再谈酷](post/zh/title-design.md) | 文章 / Article | /titles/title-design/ | [title-design.md](post/zh/title-design.md) |
 | [CG 合成：光、影、雾一起对](post/zh/cg-integration.md) | 文章 / Article | /vfx/cg-integration/ | [cg-integration.md](post/zh/cg-integration.md) |
 | [清理：去掉穿帮，不擦掉信息](post/zh/cleanup.md) | 文章 / Article | /vfx/cleanup/ | [cleanup.md](post/zh/cleanup.md) |
@@ -340,7 +340,7 @@
 | [AI 补拍：别换掉演员的脸](ai/zh/ai-replacement.md) | 文章 / Article | /hybrid/ai-replacement/ | [ai-replacement.md](ai/zh/ai-replacement.md) |
 | [实拍 + AI：先锁实拍，再生成](ai/zh/hybrid-workflow.md) | 文章 / Article | /hybrid/hybrid-workflow/ | [hybrid-workflow.md](ai/zh/hybrid-workflow.md) |
 | [AI 剪辑辅助：粗剪不等于成片](ai/zh/ai-edit-assist.md) | 文章 / Article | /post/ai-edit-assist/ | [ai-edit-assist.md](ai/zh/ai-edit-assist.md) |
-| [AI 后期质检：把生成错误挡在交付前](ai/zh/ai-qc.md) | 文章 / Article | /post/ai-qc/ | [ai-qc.md](ai/zh/ai-qc.md) |
+| [AI 后期质检：把生成错误挡在交付前](ai/zh/ai-qc.md) | 文章 / Article | /article/ai-qc/ | [ai-qc.md](ai/zh/ai-qc.md) |
 | [AI 抠像：边缘与头发](ai/zh/ai-rotoscope.md) | 文章 / Article | /post/ai-rotoscope/ | [ai-rotoscope.md](ai/zh/ai-rotoscope.md) |
 | [AI 字幕：错字与时间轴](ai/zh/ai-subtitle.md) | 文章 / Article | /post/ai-subtitle/ | [ai-subtitle.md](ai/zh/ai-subtitle.md) |
 | [AI 放大：别把噪点放大](ai/zh/ai-upscale.md) | 文章 / Article | /post/ai-upscale/ | [ai-upscale.md](ai/zh/ai-upscale.md) |
@@ -388,9 +388,9 @@
 | [品牌片拉片：90 秒怎么建立世界](formats/zh/brand-film-breakdown.md) | 文章 / Article | /brand-film/brand-film-breakdown/ | [brand-film-breakdown.md](formats/zh/brand-film-breakdown.md) |
 | [品牌片模板：主张、证据、落点](formats/zh/brand-film-template.md) | 文章 / Article | /brand-film/brand-film-template/ | [brand-film-template.md](formats/zh/brand-film-template.md) |
 | [品牌片：先让人相信一句话](formats/zh/brand/brand-film.md) | 文章 / Article | /brand/brand-film/ | [brand-film.md](formats/zh/brand/brand-film.md) |
-| [企业宣传拉片：六个段落怎么落地](formats/zh/corporate-video-breakdown.md) | 文章 / Article | /corporate/corporate-video-breakdown/ | [corporate-video-breakdown.md](formats/zh/corporate-video-breakdown.md) |
-| [企业宣传结构：六个拍点](formats/zh/corporate-video-structure.md) | 文章 / Article | /corporate/corporate-video-structure/ | [corporate-video-structure.md](formats/zh/corporate-video-structure.md) |
-| [企业宣传模板：一张表拍完](formats/zh/corporate-video-template.md) | 文章 / Article | /corporate/corporate-video-template/ | [corporate-video-template.md](formats/zh/corporate-video-template.md) |
+| [企业宣传拉片：六个段落怎么落地](formats/zh/corporate-video-breakdown.md) | 文章 / Article | /article/corporate-video-breakdown/ | [corporate-video-breakdown.md](formats/zh/corporate-video-breakdown.md) |
+| [企业宣传结构：六个拍点](formats/zh/corporate-video-structure.md) | 文章 / Article | /article/corporate-video-structure/ | [corporate-video-structure.md](formats/zh/corporate-video-structure.md) |
+| [企业宣传模板：一张表拍完](formats/zh/corporate-video-template.md) | 文章 / Article | /article/corporate-video-template/ | [corporate-video-template.md](formats/zh/corporate-video-template.md) |
 | [纪录短片：拍到一个变化](formats/zh/documentary/documentary.md) | 文章 / Article | /documentary/documentary/ | [documentary.md](formats/zh/documentary/documentary.md) |
 | [纪录短片拉片：一个人、一件事、一个变化](formats/zh/documentary-breakdown.md) | 文章 / Article | /documentary/documentary-breakdown/ | [documentary-breakdown.md](formats/zh/documentary-breakdown.md) |
 | [纪录模板：一个人、一件事、一个变化](formats/zh/documentary-template.md) | 文章 / Article | /documentary/documentary-template/ | [documentary-template.md](formats/zh/documentary-template.md) |
@@ -400,18 +400,18 @@
 | [活动片模板：开场、现场、收束](formats/zh/event-template.md) | 文章 / Article | /event/event-template/ | [event-template.md](formats/zh/event-template.md) |
 | [实验影像拉片：规则、重复、打破](formats/zh/experimental-breakdown.md) | 文章 / Article | /experimental/experimental-breakdown/ | [experimental-breakdown.md](formats/zh/experimental-breakdown.md) |
 | [实验影像结构：规则先于效果](formats/zh/experimental-structure.md) | 文章 / Article | /experimental/experimental-structure/ | [experimental-structure.md](formats/zh/experimental-structure.md) |
-| [时尚美妆拉片：六个段落怎么落地](formats/zh/fashion-beauty-video-breakdown.md) | 文章 / Article | /fashion/fashion-beauty-video-breakdown/ | [fashion-beauty-video-breakdown.md](formats/zh/fashion-beauty-video-breakdown.md) |
-| [时尚美妆结构：六个拍点](formats/zh/fashion-beauty-video-structure.md) | 文章 / Article | /fashion/fashion-beauty-video-structure/ | [fashion-beauty-video-structure.md](formats/zh/fashion-beauty-video-structure.md) |
-| [时尚美妆模板：一张表拍完](formats/zh/fashion-beauty-video-template.md) | 文章 / Article | /fashion/fashion-beauty-video-template/ | [fashion-beauty-video-template.md](formats/zh/fashion-beauty-video-template.md) |
-| [美食桌面拉片：六个段落怎么落地](formats/zh/food-video-breakdown.md) | 文章 / Article | /food/food-video-breakdown/ | [food-video-breakdown.md](formats/zh/food-video-breakdown.md) |
-| [美食桌面结构：六个拍点](formats/zh/food-video-structure.md) | 文章 / Article | /food/food-video-structure/ | [food-video-structure.md](formats/zh/food-video-structure.md) |
-| [美食桌面模板：一张表拍完](formats/zh/food-video-template.md) | 文章 / Article | /food/food-video-template/ | [food-video-template.md](formats/zh/food-video-template.md) |
+| [时尚美妆拉片：六个段落怎么落地](formats/zh/fashion-beauty-video-breakdown.md) | 文章 / Article | /article/fashion-beauty-video-breakdown/ | [fashion-beauty-video-breakdown.md](formats/zh/fashion-beauty-video-breakdown.md) |
+| [时尚美妆结构：六个拍点](formats/zh/fashion-beauty-video-structure.md) | 文章 / Article | /article/fashion-beauty-video-structure/ | [fashion-beauty-video-structure.md](formats/zh/fashion-beauty-video-structure.md) |
+| [时尚美妆模板：一张表拍完](formats/zh/fashion-beauty-video-template.md) | 文章 / Article | /article/fashion-beauty-video-template/ | [fashion-beauty-video-template.md](formats/zh/fashion-beauty-video-template.md) |
+| [美食桌面拉片：六个段落怎么落地](formats/zh/food-video-breakdown.md) | 文章 / Article | /article/food-video-breakdown/ | [food-video-breakdown.md](formats/zh/food-video-breakdown.md) |
+| [美食桌面结构：六个拍点](formats/zh/food-video-structure.md) | 文章 / Article | /article/food-video-structure/ | [food-video-structure.md](formats/zh/food-video-structure.md) |
+| [美食桌面模板：一张表拍完](formats/zh/food-video-template.md) | 文章 / Article | /article/food-video-template/ | [food-video-template.md](formats/zh/food-video-template.md) |
 | [采访拉片：3 分钟怎么让人物成立](formats/zh/interview-breakdown.md) | 文章 / Article | /interview/interview-breakdown/ | [interview-breakdown.md](formats/zh/interview-breakdown.md) |
 | [访谈结构：问题比机位重要](formats/zh/interview-structure.md) | 文章 / Article | /interview/interview-structure/ | [interview-structure.md](formats/zh/interview-structure.md) |
 | [访谈模板：人物、问题、场景](formats/zh/interview-template.md) | 文章 / Article | /interview/interview-template/ | [interview-template.md](formats/zh/interview-template.md) |
-| [直播播客拉片：六个段落怎么落地](formats/zh/live-podcast-breakdown.md) | 文章 / Article | /live-podcast/live-podcast-breakdown/ | [live-podcast-breakdown.md](formats/zh/live-podcast-breakdown.md) |
-| [直播播客结构：六个拍点](formats/zh/live-podcast-structure.md) | 文章 / Article | /live-podcast/live-podcast-structure/ | [live-podcast-structure.md](formats/zh/live-podcast-structure.md) |
-| [直播播客模板：一张表拍完](formats/zh/live-podcast-template.md) | 文章 / Article | /live-podcast/live-podcast-template/ | [live-podcast-template.md](formats/zh/live-podcast-template.md) |
+| [直播播客拉片：六个段落怎么落地](formats/zh/live-podcast-breakdown.md) | 文章 / Article | /article/live-podcast-breakdown/ | [live-podcast-breakdown.md](formats/zh/live-podcast-breakdown.md) |
+| [直播播客结构：六个拍点](formats/zh/live-podcast-structure.md) | 文章 / Article | /article/live-podcast-structure/ | [live-podcast-structure.md](formats/zh/live-podcast-structure.md) |
+| [直播播客模板：一张表拍完](formats/zh/live-podcast-template.md) | 文章 / Article | /article/live-podcast-template/ | [live-podcast-template.md](formats/zh/live-podcast-template.md) |
 | [MV 拉片：歌的结构怎么变成画面](formats/zh/music-video-breakdown.md) | 文章 / Article | /music-video/music-video-breakdown/ | [music-video-breakdown.md](formats/zh/music-video-breakdown.md) |
 | [MV 结构：歌是时间轴](formats/zh/music-video-structure.md) | 文章 / Article | /music-video/music-video-structure/ | [music-video-structure.md](formats/zh/music-video-structure.md) |
 | [MV 模板：主歌、副歌、记忆点](formats/zh/music-video-template.md) | 文章 / Article | /music-video/music-video-template/ | [music-video-template.md](formats/zh/music-video-template.md) |
@@ -421,14 +421,14 @@
 | [产品广告拉片：问题怎么变成证据](formats/zh/product-ad-breakdown.md) | 文章 / Article | /product-ad/product-ad-breakdown/ | [product-ad-breakdown.md](formats/zh/product-ad-breakdown.md) |
 | [产品广告模板：三秒问题、十秒证明](formats/zh/product-ad-template.md) | 文章 / Article | /product-ad/product-ad-template/ | [product-ad-template.md](formats/zh/product-ad-template.md) |
 | [封面缩到 200 像素，还认得出吗](formats/zh/publish/thumbnail.md) | 文章 / Article | /publish/thumbnail/ | [thumbnail.md](formats/zh/publish/thumbnail.md) |
-| [房产空间拉片：六个段落怎么落地](formats/zh/real-estate-video-breakdown.md) | 文章 / Article | /real-estate/real-estate-video-breakdown/ | [real-estate-video-breakdown.md](formats/zh/real-estate-video-breakdown.md) |
-| [房产空间结构：六个拍点](formats/zh/real-estate-video-structure.md) | 文章 / Article | /real-estate/real-estate-video-structure/ | [real-estate-video-structure.md](formats/zh/real-estate-video-structure.md) |
-| [房产空间模板：一张表拍完](formats/zh/real-estate-video-template.md) | 文章 / Article | /real-estate/real-estate-video-template/ | [real-estate-video-template.md](formats/zh/real-estate-video-template.md) |
+| [房产空间拉片：六个段落怎么落地](formats/zh/real-estate-video-breakdown.md) | 文章 / Article | /article/real-estate-video-breakdown/ | [real-estate-video-breakdown.md](formats/zh/real-estate-video-breakdown.md) |
+| [房产空间结构：六个拍点](formats/zh/real-estate-video-structure.md) | 文章 / Article | /article/real-estate-video-structure/ | [real-estate-video-structure.md](formats/zh/real-estate-video-structure.md) |
+| [房产空间模板：一张表拍完](formats/zh/real-estate-video-template.md) | 文章 / Article | /article/real-estate-video-template/ | [real-estate-video-template.md](formats/zh/real-estate-video-template.md) |
 | [短剧拉片：30 秒一个反转](formats/zh/short-drama-breakdown.md) | 文章 / Article | /short-drama/short-drama-breakdown/ | [short-drama-breakdown.md](formats/zh/short-drama-breakdown.md) |
 | [短剧模板：30 秒一个钩子](formats/zh/short-drama-template.md) | 文章 / Article | /short-drama/short-drama-template/ | [short-drama-template.md](formats/zh/short-drama-template.md) |
-| [运动短片拉片：六个段落怎么落地](formats/zh/sports-video-breakdown.md) | 文章 / Article | /sports/sports-video-breakdown/ | [sports-video-breakdown.md](formats/zh/sports-video-breakdown.md) |
-| [运动短片结构：六个拍点](formats/zh/sports-video-structure.md) | 文章 / Article | /sports/sports-video-structure/ | [sports-video-structure.md](formats/zh/sports-video-structure.md) |
-| [运动短片模板：一张表拍完](formats/zh/sports-video-template.md) | 文章 / Article | /sports/sports-video-template/ | [sports-video-template.md](formats/zh/sports-video-template.md) |
+| [运动短片拉片：六个段落怎么落地](formats/zh/sports-video-breakdown.md) | 文章 / Article | /article/sports-video-breakdown/ | [sports-video-breakdown.md](formats/zh/sports-video-breakdown.md) |
+| [运动短片结构：六个拍点](formats/zh/sports-video-structure.md) | 文章 / Article | /article/sports-video-structure/ | [sports-video-structure.md](formats/zh/sports-video-structure.md) |
+| [运动短片模板：一张表拍完](formats/zh/sports-video-template.md) | 文章 / Article | /article/sports-video-template/ | [sports-video-template.md](formats/zh/sports-video-template.md) |
 | [口播：写给耳朵，不是写给眼睛](formats/zh/talk/talking-head.md) | 文章 / Article | /talk/talking-head/ | [talking-head.md](formats/zh/talk/talking-head.md) |
 | [口播拉片：60 秒怎么留住人](formats/zh/talking-head-breakdown.md) | 文章 / Article | /talking-head/talking-head-breakdown/ | [talking-head-breakdown.md](formats/zh/talking-head-breakdown.md) |
 | [口播模板：一句话、三个例子、一个动作](formats/zh/talking-head-template.md) | 文章 / Article | /talking-head/talking-head-template/ | [talking-head-template.md](formats/zh/talking-head-template.md) |
@@ -451,28 +451,28 @@
 | [交付：别在最后导错文件](tools/zh/delivery/delivery-specs.md) | 文章 / Article | /delivery/delivery-specs/ | [delivery-specs.md](tools/zh/delivery/delivery-specs.md) |
 | [发布前 12 项检查：别在最后一小时翻车](tools/zh/delivery/publish-checklist.md) | 文章 / Article | /delivery/publish-checklist/ | [publish-checklist.md](tools/zh/delivery/publish-checklist.md) |
 | [底噪排查：从房间开始](tools/zh/audio-noise-fix.md) | 文章 / Article | /guide/audio-noise-fix/ | [audio-noise-fix.md](tools/zh/audio-noise-fix.md) |
-| [预算与报价：把风险写进数字](tools/zh/budget-quote.md) | 文章 / Article | /guide/budget-quote/ | [budget-quote.md](tools/zh/budget-quote.md) |
-| [现场录音机：通道、32 位浮点与时码](tools/zh/buy-audio-field.md) | 文章 / Article | /guide/buy-audio-field/ | [buy-audio-field.md](tools/zh/buy-audio-field.md) |
-| [先买录音：麦克风、底噪与增益](tools/zh/buy-audio-first.md) | 文章 / Article | /guide/buy-audio-first/ | [buy-audio-first.md](tools/zh/buy-audio-first.md) |
-| [购买电池：容量、通信与安全](tools/zh/buy-batteries.md) | 文章 / Article | /guide/buy-batteries/ | [buy-batteries.md](tools/zh/buy-batteries.md) |
-| [购买相机：先定预算，再定机身](tools/zh/buy-camera-budget.md) | 文章 / Article | /guide/buy-camera-budget/ | [buy-camera-budget.md](tools/zh/buy-camera-budget.md) |
-| [购买电影机：别把“能拍”当成“能交”](tools/zh/buy-camera-cine.md) | 文章 / Article | /guide/buy-camera-cine/ | [buy-camera-cine.md](tools/zh/buy-camera-cine.md) |
-| [第一台稳定器：承重、调平与跟随](tools/zh/buy-gimbal-first.md) | 文章 / Article | /guide/buy-gimbal-first/ | [buy-gimbal-first.md](tools/zh/buy-gimbal-first.md) |
-| [先买镜头：焦段、光圈与呼吸](tools/zh/buy-lens-first.md) | 文章 / Article | /guide/buy-lens-first/ | [buy-lens-first.md](tools/zh/buy-lens-first.md) |
-| [购买变焦：齐焦、呼吸与伺服](tools/zh/buy-lens-zoom.md) | 文章 / Article | /guide/buy-lens-zoom/ | [buy-lens-zoom.md](tools/zh/buy-lens-zoom.md) |
-| [购买灯光套装：先买柔，再买亮](tools/zh/buy-light-kit.md) | 文章 / Article | /guide/buy-light-kit/ | [buy-light-kit.md](tools/zh/buy-light-kit.md) |
-| [购买 LED 灯：亮度、频闪与供电](tools/zh/buy-light-led.md) | 文章 / Article | /guide/buy-light-led/ | [buy-light-led.md](tools/zh/buy-light-led.md) |
-| [购买监视器：亮度、色域与延迟](tools/zh/buy-monitor.md) | 文章 / Article | /guide/buy-monitor/ | [buy-monitor.md](tools/zh/buy-monitor.md) |
-| [购买 HDR 监视器：峰值亮度不是全部](tools/zh/buy-monitor-hdr.md) | 文章 / Article | /guide/buy-monitor-hdr/ | [buy-monitor-hdr.md](tools/zh/buy-monitor-hdr.md) |
-| [购买 NAS/RAID：吞吐、重建与噪声](tools/zh/buy-nas-raid.md) | 文章 / Article | /guide/buy-nas-raid/ | [buy-nas-raid.md](tools/zh/buy-nas-raid.md) |
-| [购买项目存储：速度、容量与备份](tools/zh/buy-storage.md) | 文章 / Article | /guide/buy-storage/ | [buy-storage.md](tools/zh/buy-storage.md) |
-| [购买存储卡：VPG、持续写入与发热](tools/zh/buy-storage-cards.md) | 文章 / Article | /guide/buy-storage-cards/ | [buy-storage-cards.md](tools/zh/buy-storage-cards.md) |
-| [购买时码器：漂移、同步与电池](tools/zh/buy-timecode.md) | 文章 / Article | /guide/buy-timecode/ | [buy-timecode.md](tools/zh/buy-timecode.md) |
-| [购买三脚架：承重、扭转与高度](tools/zh/buy-tripod.md) | 文章 / Article | /guide/buy-tripod/ | [buy-tripod.md](tools/zh/buy-tripod.md) |
-| [购买液压云台：阻尼、平衡与回弹](tools/zh/buy-tripod-fluid.md) | 文章 / Article | /guide/buy-tripod-fluid/ | [buy-tripod-fluid.md](tools/zh/buy-tripod-fluid.md) |
-| [购买二手器材：快门、传感器与维修](tools/zh/buy-used-gear.md) | 文章 / Article | /guide/buy-used-gear/ | [buy-used-gear.md](tools/zh/buy-used-gear.md) |
-| [购买无线领夹：距离、断点与延迟](tools/zh/buy-wireless-lav.md) | 文章 / Article | /guide/buy-wireless-lav/ | [buy-wireless-lav.md](tools/zh/buy-wireless-lav.md) |
-| [剧组管理：通告、签到、收工与责任](tools/zh/crew-management.md) | 文章 / Article | /guide/crew-management/ | [crew-management.md](tools/zh/crew-management.md) |
+| [预算与报价：把风险写进数字](tools/zh/budget-quote.md) | 文章 / Article | /article/budget-quote/ | [budget-quote.md](tools/zh/budget-quote.md) |
+| [现场录音机：通道、32 位浮点与时码](tools/zh/buy-audio-field.md) | 文章 / Article | /article/buy-audio-field/ | [buy-audio-field.md](tools/zh/buy-audio-field.md) |
+| [先买录音：麦克风、底噪与增益](tools/zh/buy-audio-first.md) | 文章 / Article | /article/buy-audio-first/ | [buy-audio-first.md](tools/zh/buy-audio-first.md) |
+| [购买电池：容量、通信与安全](tools/zh/buy-batteries.md) | 文章 / Article | /article/buy-batteries/ | [buy-batteries.md](tools/zh/buy-batteries.md) |
+| [购买相机：先定预算，再定机身](tools/zh/buy-camera-budget.md) | 文章 / Article | /article/buy-camera-budget/ | [buy-camera-budget.md](tools/zh/buy-camera-budget.md) |
+| [购买电影机：别把“能拍”当成“能交”](tools/zh/buy-camera-cine.md) | 文章 / Article | /article/buy-camera-cine/ | [buy-camera-cine.md](tools/zh/buy-camera-cine.md) |
+| [第一台稳定器：承重、调平与跟随](tools/zh/buy-gimbal-first.md) | 文章 / Article | /article/buy-gimbal-first/ | [buy-gimbal-first.md](tools/zh/buy-gimbal-first.md) |
+| [先买镜头：焦段、光圈与呼吸](tools/zh/buy-lens-first.md) | 文章 / Article | /article/buy-lens-first/ | [buy-lens-first.md](tools/zh/buy-lens-first.md) |
+| [购买变焦：齐焦、呼吸与伺服](tools/zh/buy-lens-zoom.md) | 文章 / Article | /article/buy-lens-zoom/ | [buy-lens-zoom.md](tools/zh/buy-lens-zoom.md) |
+| [购买灯光套装：先买柔，再买亮](tools/zh/buy-light-kit.md) | 文章 / Article | /article/buy-light-kit/ | [buy-light-kit.md](tools/zh/buy-light-kit.md) |
+| [购买 LED 灯：亮度、频闪与供电](tools/zh/buy-light-led.md) | 文章 / Article | /article/buy-light-led/ | [buy-light-led.md](tools/zh/buy-light-led.md) |
+| [购买监视器：亮度、色域与延迟](tools/zh/buy-monitor.md) | 文章 / Article | /article/buy-monitor/ | [buy-monitor.md](tools/zh/buy-monitor.md) |
+| [购买 HDR 监视器：峰值亮度不是全部](tools/zh/buy-monitor-hdr.md) | 文章 / Article | /article/buy-monitor-hdr/ | [buy-monitor-hdr.md](tools/zh/buy-monitor-hdr.md) |
+| [购买 NAS/RAID：吞吐、重建与噪声](tools/zh/buy-nas-raid.md) | 文章 / Article | /article/buy-nas-raid/ | [buy-nas-raid.md](tools/zh/buy-nas-raid.md) |
+| [购买项目存储：速度、容量与备份](tools/zh/buy-storage.md) | 文章 / Article | /article/buy-storage/ | [buy-storage.md](tools/zh/buy-storage.md) |
+| [购买存储卡：VPG、持续写入与发热](tools/zh/buy-storage-cards.md) | 文章 / Article | /article/buy-storage-cards/ | [buy-storage-cards.md](tools/zh/buy-storage-cards.md) |
+| [购买时码器：漂移、同步与电池](tools/zh/buy-timecode.md) | 文章 / Article | /article/buy-timecode/ | [buy-timecode.md](tools/zh/buy-timecode.md) |
+| [购买三脚架：承重、扭转与高度](tools/zh/buy-tripod.md) | 文章 / Article | /article/buy-tripod/ | [buy-tripod.md](tools/zh/buy-tripod.md) |
+| [购买液压云台：阻尼、平衡与回弹](tools/zh/buy-tripod-fluid.md) | 文章 / Article | /article/buy-tripod-fluid/ | [buy-tripod-fluid.md](tools/zh/buy-tripod-fluid.md) |
+| [购买二手器材：快门、传感器与维修](tools/zh/buy-used-gear.md) | 文章 / Article | /article/buy-used-gear/ | [buy-used-gear.md](tools/zh/buy-used-gear.md) |
+| [购买无线领夹：距离、断点与延迟](tools/zh/buy-wireless-lav.md) | 文章 / Article | /article/buy-wireless-lav/ | [buy-wireless-lav.md](tools/zh/buy-wireless-lav.md) |
+| [剧组管理：通告、签到、收工与责任](tools/zh/crew-management.md) | 文章 / Article | /article/crew-management/ | [crew-management.md](tools/zh/crew-management.md) |
 | [导出失败排查：编码、磁盘、权限](tools/zh/export-fail-fix.md) | 文章 / Article | /guide/export-fail-fix/ | [export-fail-fix.md](tools/zh/export-fail-fix.md) |
 | [果冻效应：读速与快门](tools/zh/jelly-fix.md) | 文章 / Article | /guide/jelly-fix/ | [jelly-fix.md](tools/zh/jelly-fix.md) |
 | [相机过热：降温与分段拍](tools/zh/overheat-fix.md) | 文章 / Article | /guide/overheat-fix/ | [overheat-fix.md](tools/zh/overheat-fix.md) |
@@ -567,12 +567,12 @@
 | [动画史：从赛璐珞到 3D](context/zh/history/animation/animation-history.md) | 文章 / Article | /history/animation/animation-history/ | [animation-history.md](context/zh/history/animation/animation-history.md) |
 | [1895：电影成为公共娱乐](context/zh/history/film/1895.md) | 文章 / Article | /history/film/1895/ | [1895.md](context/zh/history/film/1895.md) |
 | [从银版到手机：摄影的五次转身](context/zh/history/photography/photo-history.md) | 文章 / Article | /history/photography/photo-history/ | [photo-history.md](context/zh/history/photography/photo-history.md) |
-| [AI 内容标识：显式、隐式与平台责任](context/zh/ai-label-law.md) | 文章 / Article | /law/ai-label-law/ | [ai-label-law.md](context/zh/ai-label-law.md) |
-| [合同范围：把“再改一版”写进价格之前](context/zh/contract-scope.md) | 文章 / Article | /law/contract-scope/ | [contract-scope.md](context/zh/contract-scope.md) |
-| [器材与制作保险：保什么、不保什么](context/zh/insurance-equipment.md) | 文章 / Article | /law/insurance-equipment/ | [insurance-equipment.md](context/zh/insurance-equipment.md) |
-| [跨境制作发票与税务：合同、发票、代扣代缴](context/zh/invoice-tax-cross-border.md) | 文章 / Article | /law/invoice-tax-cross-border/ | [invoice-tax-cross-border.md](context/zh/invoice-tax-cross-border.md) |
-| [音乐授权：同步权、表演权与平台曲库](context/zh/music-license.md) | 文章 / Article | /law/music-license/ | [music-license.md](context/zh/music-license.md) |
-| [肖像、场地与未成年人授权：一张 Release 要写什么](context/zh/portrait-rights.md) | 文章 / Article | /law/portrait-rights/ | [portrait-rights.md](context/zh/portrait-rights.md) |
+| [AI 内容标识：显式、隐式与平台责任](context/zh/ai-label-law.md) | 文章 / Article | /article/ai-label-law/ | [ai-label-law.md](context/zh/ai-label-law.md) |
+| [合同范围：把“再改一版”写进价格之前](context/zh/contract-scope.md) | 文章 / Article | /article/contract-scope/ | [contract-scope.md](context/zh/contract-scope.md) |
+| [器材与制作保险：保什么、不保什么](context/zh/insurance-equipment.md) | 文章 / Article | /article/insurance-equipment/ | [insurance-equipment.md](context/zh/insurance-equipment.md) |
+| [跨境制作发票与税务：合同、发票、代扣代缴](context/zh/invoice-tax-cross-border.md) | 文章 / Article | /article/invoice-tax-cross-border/ | [invoice-tax-cross-border.md](context/zh/invoice-tax-cross-border.md) |
+| [音乐授权：同步权、表演权与平台曲库](context/zh/music-license.md) | 文章 / Article | /article/music-license/ | [music-license.md](context/zh/music-license.md) |
+| [肖像、场地与未成年人授权：一张 Release 要写什么](context/zh/portrait-rights.md) | 文章 / Article | /article/portrait-rights/ | [portrait-rights.md](context/zh/portrait-rights.md) |
 | [媒介素养：一条视频的五个问题](context/zh/literacy/media-literacy.md) | 文章 / Article | /literacy/media-literacy/ | [media-literacy.md](context/zh/literacy/media-literacy.md) |
 | [版权：先查五件事，再发布](context/zh/rights/copyright.md) | 文章 / Article | /rights/copyright/ | [copyright.md](context/zh/rights/copyright.md) |
 | [脸为什么越来越近：从影院到手机](context/zh/viewing/screen-size.md) | 文章 / Article | /viewing/screen-size/ | [screen-size.md](context/zh/viewing/screen-size.md) |
@@ -753,7 +753,7 @@
 | [Live Encoding: Bitrate, Uplink, Backup](shoot/en/live-encoding.md) | 文章 / Article | /en/live/live-encoding/ | [live-encoding.md](shoot/en/live-encoding.md) |
 | [Handheld: Let Breathing Into the Frame](shoot/en/handheld.md) | 文章 / Article | /en/movement/handheld/ | [handheld.md](shoot/en/handheld.md) |
 | [Stabilizer: Walk Like You Mean It](shoot/en/stabilizer.md) | 文章 / Article | /en/movement/stabilizer/ | [stabilizer.md](shoot/en/stabilizer.md) |
-| [Multicam and Live: Lock Timecode, Return, and Recording First](shoot/en/multicam-live.md) | 文章 / Article | /en/multicam/multicam-live/ | [multicam-live.md](shoot/en/multicam-live.md) |
+| [Multicam and Live: Lock Timecode, Return, and Recording First](shoot/en/multicam-live.md) | 文章 / Article | /en/article/multicam-live/ | [multicam-live.md](shoot/en/multicam-live.md) |
 | [Multicam Sync: Timecode and a Camera Map](shoot/en/multicam-sync.md) | 文章 / Article | /en/multicam/multicam-sync/ | [multicam-sync.md](shoot/en/multicam-sync.md) |
 | [B-roll: Give the Sentence a Picture](shoot/en/production/b-roll.md) | 文章 / Article | /en/production/b-roll/ | [b-roll.md](shoot/en/production/b-roll.md) |
 | [Camera Height: Lower Before You Change Lenses](shoot/en/production/camera-height.md) | 文章 / Article | /en/production/camera-height/ | [camera-height.md](shoot/en/production/camera-height.md) |
@@ -766,7 +766,7 @@
 | [Boom Operator: Follow the Action, Not the Line](shoot/en/boom-operator.md) | 文章 / Article | /en/sound/boom-operator/ | [boom-operator.md](shoot/en/boom-operator.md) |
 | [Dual-System Sound: Slate and Timecode](shoot/en/dual-system-sound.md) | 文章 / Article | /en/sound/dual-system-sound/ | [dual-system-sound.md](shoot/en/dual-system-sound.md) |
 | [Wireless Lav: Hide It, Back It Up](shoot/en/wireless-lav.md) | 文章 / Article | /en/sound/wireless-lav/ | [wireless-lav.md](shoot/en/wireless-lav.md) |
-| [LED Virtual Production: Wall, Tracking, Sync, and Color](shoot/en/led-virtual-production.md) | 文章 / Article | /en/virtual-production/led-virtual-production/ | [led-virtual-production.md](shoot/en/led-virtual-production.md) |
+| [LED Virtual Production: Wall, Tracking, Sync, and Color](shoot/en/led-virtual-production.md) | 文章 / Article | /en/article/led-virtual-production/ | [led-virtual-production.md](shoot/en/led-virtual-production.md) |
 | [LED Volume: Track First, Light Second](shoot/en/led-volume.md) | 文章 / Article | /en/virtual-production/led-volume/ | [led-volume.md](shoot/en/led-volume.md) |
 
 ### 后期 · Post（46 篇）
@@ -776,23 +776,23 @@
 | [Audio Description: Say What Matters](post/en/audio-description.md) | 文章 / Article | /en/accessibility/audio-description/ | [audio-description.md](post/en/audio-description.md) |
 | [Multilingual Subtitles: One Language at a Time](post/en/multilingual-subtitles.md) | 文章 / Article | /en/accessibility/multilingual-subtitles/ | [multilingual-subtitles.md](post/en/multilingual-subtitles.md) |
 | [SDH: More Than Dialogue](post/en/sdh.md) | 文章 / Article | /en/accessibility/sdh/ | [sdh.md](post/en/sdh.md) |
-| [Archive and Asset Reuse: Make the Next Film Faster](post/en/archive-reuse.md) | 文章 / Article | /en/assets/archive-reuse/ | [archive-reuse.md](post/en/archive-reuse.md) |
+| [Archive and Asset Reuse: Make the Next Film Faster](post/en/archive-reuse.md) | 文章 / Article | /en/article/archive-reuse/ | [archive-reuse.md](post/en/archive-reuse.md) |
 | [Backup Recovery: Rehearse One Restore](post/en/backup-recovery.md) | 文章 / Article | /en/assets/backup-recovery/ | [backup-recovery.md](post/en/backup-recovery.md) |
-| [DIT and Data Handoff: The First Handoff from Set to Post](post/en/dit-data-handoff.md) | 文章 / Article | /en/assets/dit-data-handoff/ | [dit-data-handoff.md](post/en/dit-data-handoff.md) |
+| [DIT and Data Handoff: The First Handoff from Set to Post](post/en/dit-data-handoff.md) | 文章 / Article | /en/article/dit-data-handoff/ | [dit-data-handoff.md](post/en/dit-data-handoff.md) |
 | [Project Structure: Folders Beat Software](post/en/project-structure.md) | 文章 / Article | /en/assets/project-structure/ | [project-structure.md](post/en/project-structure.md) |
 | [Proxy and Cache: Do Not Fill the Drive First](post/en/proxy-cache.md) | 文章 / Article | /en/assets/proxy-cache/ | [proxy-cache.md](post/en/proxy-cache.md) |
 | [Color: Match First, Style Second](post/en/color/color.md) | 文章 / Article | /en/color/color/ | [color.md](post/en/color/color.md) |
-| [Color Management: Put the LUT in the Right Place](post/en/color-management.md) | 文章 / Article | /en/color/color-management/ | [color-management.md](post/en/color-management.md) |
+| [Color Management: Put the LUT in the Right Place](post/en/color-management.md) | 文章 / Article | /en/article/color-management/ | [color-management.md](post/en/color-management.md) |
 | [HDR: You Need HDR on Set and in the Room](post/en/hdr.md) | 文章 / Article | /en/color/hdr/ | [hdr.md](post/en/hdr.md) |
-| [HDR End to End: Do Not Just Brighten at the End](post/en/hdr-workflow.md) | 文章 / Article | /en/color/hdr-workflow/ | [hdr-workflow.md](post/en/hdr-workflow.md) |
+| [HDR End to End: Do Not Just Brighten at the End](post/en/hdr-workflow.md) | 文章 / Article | /en/article/hdr-workflow/ | [hdr-workflow.md](post/en/hdr-workflow.md) |
 | [LUT: A Starting Point, Not a Finish](post/en/lut.md) | 文章 / Article | /en/color/lut/ | [lut.md](post/en/lut.md) |
 | [Primary Correction: Exposure and White Balance](post/en/primary-correction.md) | 文章 / Article | /en/color/primary-correction/ | [primary-correction.md](post/en/primary-correction.md) |
 | [Scopes: Black, White, Skin](post/en/scopes.md) | 文章 / Article | /en/color/scopes/ | [scopes.md](post/en/scopes.md) |
 | [Secondary Correction: Change One Area](post/en/secondary-correction.md) | 文章 / Article | /en/color/secondary-correction/ | [secondary-correction.md](post/en/secondary-correction.md) |
 | [Archive: Open It in Three Years](post/en/archive.md) | 文章 / Article | /en/delivery/archive/ | [archive.md](post/en/archive.md) |
-| [Conform and Online: Relink, Round-Trip, and Master](post/en/conform-online.md) | 文章 / Article | /en/delivery/conform-online/ | [conform-online.md](post/en/conform-online.md) |
+| [Conform and Online: Relink, Round-Trip, and Master](post/en/conform-online.md) | 文章 / Article | /en/article/conform-online/ | [conform-online.md](post/en/conform-online.md) |
 | [Mastering: One File to Rule the Delivery](post/en/mastering.md) | 文章 / Article | /en/delivery/mastering/ | [mastering.md](post/en/mastering.md) |
-| [Platform Deliverables: One Master, Many Safe Areas](post/en/platform-deliverables.md) | 文章 / Article | /en/delivery/platform-deliverables/ | [platform-deliverables.md](post/en/platform-deliverables.md) |
+| [Platform Deliverables: One Master, Many Safe Areas](post/en/platform-deliverables.md) | 文章 / Article | /en/article/platform-deliverables/ | [platform-deliverables.md](post/en/platform-deliverables.md) |
 | [QC: Black Frames, Frozen Frames, Dead Audio](post/en/qc.md) | 文章 / Article | /en/delivery/qc/ | [qc.md](post/en/qc.md) |
 | [Cut Points: Action, Eye Line, Sound](post/en/editing/cutting-points.md) | 文章 / Article | /en/editing/cutting-points/ | [cutting-points.md](post/en/editing/cutting-points.md) |
 | [Pacing Is Not Speed; It Is When They Want the Next Line](post/en/editing/edit-pacing.md) | 文章 / Article | /en/editing/edit-pacing/ | [edit-pacing.md](post/en/editing/edit-pacing.md) |
@@ -811,7 +811,7 @@
 | [Room Tone: Do Not Let the Picture Live in a Vacuum](post/en/sound/room-tone.md) | 文章 / Article | /en/sound/room-tone/ | [room-tone.md](post/en/sound/room-tone.md) |
 | [Sound: Dialogue First, Music Later](post/en/sound/sound.md) | 文章 / Article | /en/sound/sound/ | [sound.md](post/en/sound/sound.md) |
 | [Fix the Noise Before You Build a Mood](post/en/sound/sound-post.md) | 文章 / Article | /en/sound/sound-post/ | [sound-post.md](post/en/sound/sound-post.md) |
-| [Sound Post: The Order from Dialogue to Final Mix](post/en/sound-post-workflow.md) | 文章 / Article | /en/sound/sound-post-workflow/ | [sound-post-workflow.md](post/en/sound-post-workflow.md) |
+| [Sound Post: The Order from Dialogue to Final Mix](post/en/sound-post-workflow.md) | 文章 / Article | /en/article/sound-post-workflow/ | [sound-post-workflow.md](post/en/sound-post-workflow.md) |
 | [Title Design: Readable Before Cool](post/en/title-design.md) | 文章 / Article | /en/titles/title-design/ | [title-design.md](post/en/title-design.md) |
 | [CG Integration: Match Light, Shadow, Atmosphere](post/en/cg-integration.md) | 文章 / Article | /en/vfx/cg-integration/ | [cg-integration.md](post/en/cg-integration.md) |
 | [Cleanup: Remove the Mistake, Keep the Information](post/en/cleanup.md) | 文章 / Article | /en/vfx/cleanup/ | [cleanup.md](post/en/cleanup.md) |
@@ -851,7 +851,7 @@
 | [AI Replacement: Do Not Swap the Face](ai/en/ai-replacement.md) | 文章 / Article | /en/hybrid/ai-replacement/ | [ai-replacement.md](ai/en/ai-replacement.md) |
 | [Hybrid Workflow: Lock Live Action First](ai/en/hybrid-workflow.md) | 文章 / Article | /en/hybrid/hybrid-workflow/ | [hybrid-workflow.md](ai/en/hybrid-workflow.md) |
 | [AI Edit Assist: Rough Cut Is Not a Cut](ai/en/ai-edit-assist.md) | 文章 / Article | /en/post/ai-edit-assist/ | [ai-edit-assist.md](ai/en/ai-edit-assist.md) |
-| [AI Post QC: Catch Generation Errors Before Delivery](ai/en/ai-qc.md) | 文章 / Article | /en/post/ai-qc/ | [ai-qc.md](ai/en/ai-qc.md) |
+| [AI Post QC: Catch Generation Errors Before Delivery](ai/en/ai-qc.md) | 文章 / Article | /en/article/ai-qc/ | [ai-qc.md](ai/en/ai-qc.md) |
 | [AI Rotoscope: Hair and Edges](ai/en/ai-rotoscope.md) | 文章 / Article | /en/post/ai-rotoscope/ | [ai-rotoscope.md](ai/en/ai-rotoscope.md) |
 | [AI Subtitles: Fix Names and Numbers](ai/en/ai-subtitle.md) | 文章 / Article | /en/post/ai-subtitle/ | [ai-subtitle.md](ai/en/ai-subtitle.md) |
 | [AI Upscale: Do Not Sharpen the Noise](ai/en/ai-upscale.md) | 文章 / Article | /en/post/ai-upscale/ | [ai-upscale.md](ai/en/ai-upscale.md) |
@@ -899,9 +899,9 @@
 | [Brand Film Breakdown: Build a World in Ninety Seconds](formats/en/brand-film-breakdown.md) | 文章 / Article | /en/brand-film/brand-film-breakdown/ | [brand-film-breakdown.md](formats/en/brand-film-breakdown.md) |
 | [Brand Film Template: Stance, Evidence, Landing](formats/en/brand-film-template.md) | 文章 / Article | /en/brand-film/brand-film-template/ | [brand-film-template.md](formats/en/brand-film-template.md) |
 | [Brand Film: Make Them Believe One Sentence](formats/en/brand/brand-film.md) | 文章 / Article | /en/brand/brand-film/ | [brand-film.md](formats/en/brand/brand-film.md) |
-| [Corporate Video Breakdown: Six Beats in Practice](formats/en/corporate-video-breakdown.md) | 文章 / Article | /en/corporate/corporate-video-breakdown/ | [corporate-video-breakdown.md](formats/en/corporate-video-breakdown.md) |
-| [Corporate Video Structure: Six Beats](formats/en/corporate-video-structure.md) | 文章 / Article | /en/corporate/corporate-video-structure/ | [corporate-video-structure.md](formats/en/corporate-video-structure.md) |
-| [Corporate Video Template: One Sheet to Shoot](formats/en/corporate-video-template.md) | 文章 / Article | /en/corporate/corporate-video-template/ | [corporate-video-template.md](formats/en/corporate-video-template.md) |
+| [Corporate Video Breakdown: Six Beats in Practice](formats/en/corporate-video-breakdown.md) | 文章 / Article | /en/article/corporate-video-breakdown/ | [corporate-video-breakdown.md](formats/en/corporate-video-breakdown.md) |
+| [Corporate Video Structure: Six Beats](formats/en/corporate-video-structure.md) | 文章 / Article | /en/article/corporate-video-structure/ | [corporate-video-structure.md](formats/en/corporate-video-structure.md) |
+| [Corporate Video Template: One Sheet to Shoot](formats/en/corporate-video-template.md) | 文章 / Article | /en/article/corporate-video-template/ | [corporate-video-template.md](formats/en/corporate-video-template.md) |
 | [Documentary Short: Capture a Change](formats/en/documentary/documentary.md) | 文章 / Article | /en/documentary/documentary/ | [documentary.md](formats/en/documentary/documentary.md) |
 | [Documentary Breakdown: One Person, One Event, One Change](formats/en/documentary-breakdown.md) | 文章 / Article | /en/documentary/documentary-breakdown/ | [documentary-breakdown.md](formats/en/documentary-breakdown.md) |
 | [Documentary Template: One Person, One Thing, One Change](formats/en/documentary-template.md) | 文章 / Article | /en/documentary/documentary-template/ | [documentary-template.md](formats/en/documentary-template.md) |
@@ -911,18 +911,18 @@
 | [Event Template: Open, Live, Close](formats/en/event-template.md) | 文章 / Article | /en/event/event-template/ | [event-template.md](formats/en/event-template.md) |
 | [Experimental Breakdown: Rule, Repetition, Break](formats/en/experimental-breakdown.md) | 文章 / Article | /en/experimental/experimental-breakdown/ | [experimental-breakdown.md](formats/en/experimental-breakdown.md) |
 | [Experimental Structure: Rules Before Effects](formats/en/experimental-structure.md) | 文章 / Article | /en/experimental/experimental-structure/ | [experimental-structure.md](formats/en/experimental-structure.md) |
-| [Fashion & Beauty Breakdown: Six Beats in Practice](formats/en/fashion-beauty-video-breakdown.md) | 文章 / Article | /en/fashion/fashion-beauty-video-breakdown/ | [fashion-beauty-video-breakdown.md](formats/en/fashion-beauty-video-breakdown.md) |
-| [Fashion & Beauty Structure: Six Beats](formats/en/fashion-beauty-video-structure.md) | 文章 / Article | /en/fashion/fashion-beauty-video-structure/ | [fashion-beauty-video-structure.md](formats/en/fashion-beauty-video-structure.md) |
-| [Fashion & Beauty Template: One Sheet to Shoot](formats/en/fashion-beauty-video-template.md) | 文章 / Article | /en/fashion/fashion-beauty-video-template/ | [fashion-beauty-video-template.md](formats/en/fashion-beauty-video-template.md) |
-| [Food & Table Breakdown: Six Beats in Practice](formats/en/food-video-breakdown.md) | 文章 / Article | /en/food/food-video-breakdown/ | [food-video-breakdown.md](formats/en/food-video-breakdown.md) |
-| [Food & Table Structure: Six Beats](formats/en/food-video-structure.md) | 文章 / Article | /en/food/food-video-structure/ | [food-video-structure.md](formats/en/food-video-structure.md) |
-| [Food & Table Template: One Sheet to Shoot](formats/en/food-video-template.md) | 文章 / Article | /en/food/food-video-template/ | [food-video-template.md](formats/en/food-video-template.md) |
+| [Fashion & Beauty Breakdown: Six Beats in Practice](formats/en/fashion-beauty-video-breakdown.md) | 文章 / Article | /en/article/fashion-beauty-video-breakdown/ | [fashion-beauty-video-breakdown.md](formats/en/fashion-beauty-video-breakdown.md) |
+| [Fashion & Beauty Structure: Six Beats](formats/en/fashion-beauty-video-structure.md) | 文章 / Article | /en/article/fashion-beauty-video-structure/ | [fashion-beauty-video-structure.md](formats/en/fashion-beauty-video-structure.md) |
+| [Fashion & Beauty Template: One Sheet to Shoot](formats/en/fashion-beauty-video-template.md) | 文章 / Article | /en/article/fashion-beauty-video-template/ | [fashion-beauty-video-template.md](formats/en/fashion-beauty-video-template.md) |
+| [Food & Table Breakdown: Six Beats in Practice](formats/en/food-video-breakdown.md) | 文章 / Article | /en/article/food-video-breakdown/ | [food-video-breakdown.md](formats/en/food-video-breakdown.md) |
+| [Food & Table Structure: Six Beats](formats/en/food-video-structure.md) | 文章 / Article | /en/article/food-video-structure/ | [food-video-structure.md](formats/en/food-video-structure.md) |
+| [Food & Table Template: One Sheet to Shoot](formats/en/food-video-template.md) | 文章 / Article | /en/article/food-video-template/ | [food-video-template.md](formats/en/food-video-template.md) |
 | [Interview Breakdown: Make a Person Land in Three Minutes](formats/en/interview-breakdown.md) | 文章 / Article | /en/interview/interview-breakdown/ | [interview-breakdown.md](formats/en/interview-breakdown.md) |
 | [Interview Structure: The Question Matters More](formats/en/interview-structure.md) | 文章 / Article | /en/interview/interview-structure/ | [interview-structure.md](formats/en/interview-structure.md) |
 | [Interview Template: Person, Question, Scene](formats/en/interview-template.md) | 文章 / Article | /en/interview/interview-template/ | [interview-template.md](formats/en/interview-template.md) |
-| [Live & Podcast Breakdown: Six Beats in Practice](formats/en/live-podcast-breakdown.md) | 文章 / Article | /en/live-podcast/live-podcast-breakdown/ | [live-podcast-breakdown.md](formats/en/live-podcast-breakdown.md) |
-| [Live & Podcast Structure: Six Beats](formats/en/live-podcast-structure.md) | 文章 / Article | /en/live-podcast/live-podcast-structure/ | [live-podcast-structure.md](formats/en/live-podcast-structure.md) |
-| [Live & Podcast Template: One Sheet to Shoot](formats/en/live-podcast-template.md) | 文章 / Article | /en/live-podcast/live-podcast-template/ | [live-podcast-template.md](formats/en/live-podcast-template.md) |
+| [Live & Podcast Breakdown: Six Beats in Practice](formats/en/live-podcast-breakdown.md) | 文章 / Article | /en/article/live-podcast-breakdown/ | [live-podcast-breakdown.md](formats/en/live-podcast-breakdown.md) |
+| [Live & Podcast Structure: Six Beats](formats/en/live-podcast-structure.md) | 文章 / Article | /en/article/live-podcast-structure/ | [live-podcast-structure.md](formats/en/live-podcast-structure.md) |
+| [Live & Podcast Template: One Sheet to Shoot](formats/en/live-podcast-template.md) | 文章 / Article | /en/article/live-podcast-template/ | [live-podcast-template.md](formats/en/live-podcast-template.md) |
 | [Music Video Breakdown: Map Song Structure to Image](formats/en/music-video-breakdown.md) | 文章 / Article | /en/music-video/music-video-breakdown/ | [music-video-breakdown.md](formats/en/music-video-breakdown.md) |
 | [Music Video Structure: The Song Is the Timeline](formats/en/music-video-structure.md) | 文章 / Article | /en/music-video/music-video-structure/ | [music-video-structure.md](formats/en/music-video-structure.md) |
 | [Music Video Template: Verse, Chorus, Memory](formats/en/music-video-template.md) | 文章 / Article | /en/music-video/music-video-template/ | [music-video-template.md](formats/en/music-video-template.md) |
@@ -932,14 +932,14 @@
 | [Product Ad Breakdown: Problem Becomes Proof](formats/en/product-ad-breakdown.md) | 文章 / Article | /en/product-ad/product-ad-breakdown/ | [product-ad-breakdown.md](formats/en/product-ad-breakdown.md) |
 | [Product Ad Template: Three Seconds of Problem, Ten of Proof](formats/en/product-ad-template.md) | 文章 / Article | /en/product-ad/product-ad-template/ | [product-ad-template.md](formats/en/product-ad-template.md) |
 | [Does the Cover Still Read at 200 Pixels?](formats/en/publish/thumbnail.md) | 文章 / Article | /en/publish/thumbnail/ | [thumbnail.md](formats/en/publish/thumbnail.md) |
-| [Real Estate & Space Breakdown: Six Beats in Practice](formats/en/real-estate-video-breakdown.md) | 文章 / Article | /en/real-estate/real-estate-video-breakdown/ | [real-estate-video-breakdown.md](formats/en/real-estate-video-breakdown.md) |
-| [Real Estate & Space Structure: Six Beats](formats/en/real-estate-video-structure.md) | 文章 / Article | /en/real-estate/real-estate-video-structure/ | [real-estate-video-structure.md](formats/en/real-estate-video-structure.md) |
-| [Real Estate & Space Template: One Sheet to Shoot](formats/en/real-estate-video-template.md) | 文章 / Article | /en/real-estate/real-estate-video-template/ | [real-estate-video-template.md](formats/en/real-estate-video-template.md) |
+| [Real Estate & Space Breakdown: Six Beats in Practice](formats/en/real-estate-video-breakdown.md) | 文章 / Article | /en/article/real-estate-video-breakdown/ | [real-estate-video-breakdown.md](formats/en/real-estate-video-breakdown.md) |
+| [Real Estate & Space Structure: Six Beats](formats/en/real-estate-video-structure.md) | 文章 / Article | /en/article/real-estate-video-structure/ | [real-estate-video-structure.md](formats/en/real-estate-video-structure.md) |
+| [Real Estate & Space Template: One Sheet to Shoot](formats/en/real-estate-video-template.md) | 文章 / Article | /en/article/real-estate-video-template/ | [real-estate-video-template.md](formats/en/real-estate-video-template.md) |
 | [Short Drama Breakdown: One Turn in Thirty Seconds](formats/en/short-drama-breakdown.md) | 文章 / Article | /en/short-drama/short-drama-breakdown/ | [short-drama-breakdown.md](formats/en/short-drama-breakdown.md) |
 | [Short Drama Template: A Hook Every Thirty Seconds](formats/en/short-drama-template.md) | 文章 / Article | /en/short-drama/short-drama-template/ | [short-drama-template.md](formats/en/short-drama-template.md) |
-| [Sports Film Breakdown: Six Beats in Practice](formats/en/sports-video-breakdown.md) | 文章 / Article | /en/sports/sports-video-breakdown/ | [sports-video-breakdown.md](formats/en/sports-video-breakdown.md) |
-| [Sports Film Structure: Six Beats](formats/en/sports-video-structure.md) | 文章 / Article | /en/sports/sports-video-structure/ | [sports-video-structure.md](formats/en/sports-video-structure.md) |
-| [Sports Film Template: One Sheet to Shoot](formats/en/sports-video-template.md) | 文章 / Article | /en/sports/sports-video-template/ | [sports-video-template.md](formats/en/sports-video-template.md) |
+| [Sports Film Breakdown: Six Beats in Practice](formats/en/sports-video-breakdown.md) | 文章 / Article | /en/article/sports-video-breakdown/ | [sports-video-breakdown.md](formats/en/sports-video-breakdown.md) |
+| [Sports Film Structure: Six Beats](formats/en/sports-video-structure.md) | 文章 / Article | /en/article/sports-video-structure/ | [sports-video-structure.md](formats/en/sports-video-structure.md) |
+| [Sports Film Template: One Sheet to Shoot](formats/en/sports-video-template.md) | 文章 / Article | /en/article/sports-video-template/ | [sports-video-template.md](formats/en/sports-video-template.md) |
 | [Talking Head: Write for the Ear](formats/en/talk/talking-head.md) | 文章 / Article | /en/talk/talking-head/ | [talking-head.md](formats/en/talk/talking-head.md) |
 | [Talking Head Breakdown: Hold Attention for Sixty Seconds](formats/en/talking-head-breakdown.md) | 文章 / Article | /en/talking-head/talking-head-breakdown/ | [talking-head-breakdown.md](formats/en/talking-head-breakdown.md) |
 | [Talking Head Template: One Claim, Three Proofs, One Action](formats/en/talking-head-template.md) | 文章 / Article | /en/talking-head/talking-head-template/ | [talking-head-template.md](formats/en/talking-head-template.md) |
@@ -962,28 +962,28 @@
 | [Delivery: Find the Wrong Export Before the Last Hour](tools/en/delivery/delivery-specs.md) | 文章 / Article | /en/delivery/delivery-specs/ | [delivery-specs.md](tools/en/delivery/delivery-specs.md) |
 | [Twelve Checks Before Publishing: Do Not Lose the Last Hour](tools/en/delivery/publish-checklist.md) | 文章 / Article | /en/delivery/publish-checklist/ | [publish-checklist.md](tools/en/delivery/publish-checklist.md) |
 | [Audio Noise Fix: Start With the Room](tools/en/audio-noise-fix.md) | 文章 / Article | /en/guide/audio-noise-fix/ | [audio-noise-fix.md](tools/en/audio-noise-fix.md) |
-| [Budget and Quote: Put Risk into the Number](tools/en/budget-quote.md) | 文章 / Article | /en/guide/budget-quote/ | [budget-quote.md](tools/en/budget-quote.md) |
-| [Field Recorder: Channels, 32-bit Float, and Timecode](tools/en/buy-audio-field.md) | 文章 / Article | /en/guide/buy-audio-field/ | [buy-audio-field.md](tools/en/buy-audio-field.md) |
-| [Buy Audio First: Mic, Noise Floor, and Gain](tools/en/buy-audio-first.md) | 文章 / Article | /en/guide/buy-audio-first/ | [buy-audio-first.md](tools/en/buy-audio-first.md) |
-| [Buying Batteries: Capacity, Communication, and Safety](tools/en/buy-batteries.md) | 文章 / Article | /en/guide/buy-batteries/ | [buy-batteries.md](tools/en/buy-batteries.md) |
-| [Buying a Camera: Budget Before Body](tools/en/buy-camera-budget.md) | 文章 / Article | /en/guide/buy-camera-budget/ | [buy-camera-budget.md](tools/en/buy-camera-budget.md) |
-| [Buying a Cinema Camera: “Can Shoot” Is Not “Can Deliver”](tools/en/buy-camera-cine.md) | 文章 / Article | /en/guide/buy-camera-cine/ | [buy-camera-cine.md](tools/en/buy-camera-cine.md) |
-| [Your First Gimbal: Payload, Balance, and Follow](tools/en/buy-gimbal-first.md) | 文章 / Article | /en/guide/buy-gimbal-first/ | [buy-gimbal-first.md](tools/en/buy-gimbal-first.md) |
-| [Buy the Lens First: Focal Length, Aperture, Breathing](tools/en/buy-lens-first.md) | 文章 / Article | /en/guide/buy-lens-first/ | [buy-lens-first.md](tools/en/buy-lens-first.md) |
-| [Buying a Zoom: Parfocal, Breathing, and Servo](tools/en/buy-lens-zoom.md) | 文章 / Article | /en/guide/buy-lens-zoom/ | [buy-lens-zoom.md](tools/en/buy-lens-zoom.md) |
-| [Buying a Light Kit: Soft Before Bright](tools/en/buy-light-kit.md) | 文章 / Article | /en/guide/buy-light-kit/ | [buy-light-kit.md](tools/en/buy-light-kit.md) |
-| [Buying LED Lights: Output, Flicker, and Power](tools/en/buy-light-led.md) | 文章 / Article | /en/guide/buy-light-led/ | [buy-light-led.md](tools/en/buy-light-led.md) |
-| [Buying a Monitor: Brightness, Gamut, and Latency](tools/en/buy-monitor.md) | 文章 / Article | /en/guide/buy-monitor/ | [buy-monitor.md](tools/en/buy-monitor.md) |
-| [Buying an HDR Monitor: Peak Nits Is Not Everything](tools/en/buy-monitor-hdr.md) | 文章 / Article | /en/guide/buy-monitor-hdr/ | [buy-monitor-hdr.md](tools/en/buy-monitor-hdr.md) |
-| [Buying NAS/RAID: Throughput, Rebuild, and Noise](tools/en/buy-nas-raid.md) | 文章 / Article | /en/guide/buy-nas-raid/ | [buy-nas-raid.md](tools/en/buy-nas-raid.md) |
-| [Buying Project Storage: Speed, Capacity, and Backup](tools/en/buy-storage.md) | 文章 / Article | /en/guide/buy-storage/ | [buy-storage.md](tools/en/buy-storage.md) |
-| [Buying Camera Cards: VPG, Sustained Write, and Heat](tools/en/buy-storage-cards.md) | 文章 / Article | /en/guide/buy-storage-cards/ | [buy-storage-cards.md](tools/en/buy-storage-cards.md) |
-| [Buying Timecode: Drift, Sync, and Battery](tools/en/buy-timecode.md) | 文章 / Article | /en/guide/buy-timecode/ | [buy-timecode.md](tools/en/buy-timecode.md) |
-| [Buying a Tripod: Payload, Torsion, and Height](tools/en/buy-tripod.md) | 文章 / Article | /en/guide/buy-tripod/ | [buy-tripod.md](tools/en/buy-tripod.md) |
-| [Buying a Fluid Head: Drag, Counterbalance, and Return](tools/en/buy-tripod-fluid.md) | 文章 / Article | /en/guide/buy-tripod-fluid/ | [buy-tripod-fluid.md](tools/en/buy-tripod-fluid.md) |
-| [Buying Used Gear: Shutter, Sensor, and Service](tools/en/buy-used-gear.md) | 文章 / Article | /en/guide/buy-used-gear/ | [buy-used-gear.md](tools/en/buy-used-gear.md) |
-| [Buying Wireless Lavs: Range, Dropouts, and Latency](tools/en/buy-wireless-lav.md) | 文章 / Article | /en/guide/buy-wireless-lav/ | [buy-wireless-lav.md](tools/en/buy-wireless-lav.md) |
-| [Crew Management: Call Sheet, Sign-In, Wrap, and Ownership](tools/en/crew-management.md) | 文章 / Article | /en/guide/crew-management/ | [crew-management.md](tools/en/crew-management.md) |
+| [Budget and Quote: Put Risk into the Number](tools/en/budget-quote.md) | 文章 / Article | /en/article/budget-quote/ | [budget-quote.md](tools/en/budget-quote.md) |
+| [Field Recorder: Channels, 32-bit Float, and Timecode](tools/en/buy-audio-field.md) | 文章 / Article | /en/article/buy-audio-field/ | [buy-audio-field.md](tools/en/buy-audio-field.md) |
+| [Buy Audio First: Mic, Noise Floor, and Gain](tools/en/buy-audio-first.md) | 文章 / Article | /en/article/buy-audio-first/ | [buy-audio-first.md](tools/en/buy-audio-first.md) |
+| [Buying Batteries: Capacity, Communication, and Safety](tools/en/buy-batteries.md) | 文章 / Article | /en/article/buy-batteries/ | [buy-batteries.md](tools/en/buy-batteries.md) |
+| [Buying a Camera: Budget Before Body](tools/en/buy-camera-budget.md) | 文章 / Article | /en/article/buy-camera-budget/ | [buy-camera-budget.md](tools/en/buy-camera-budget.md) |
+| [Buying a Cinema Camera: “Can Shoot” Is Not “Can Deliver”](tools/en/buy-camera-cine.md) | 文章 / Article | /en/article/buy-camera-cine/ | [buy-camera-cine.md](tools/en/buy-camera-cine.md) |
+| [Your First Gimbal: Payload, Balance, and Follow](tools/en/buy-gimbal-first.md) | 文章 / Article | /en/article/buy-gimbal-first/ | [buy-gimbal-first.md](tools/en/buy-gimbal-first.md) |
+| [Buy the Lens First: Focal Length, Aperture, Breathing](tools/en/buy-lens-first.md) | 文章 / Article | /en/article/buy-lens-first/ | [buy-lens-first.md](tools/en/buy-lens-first.md) |
+| [Buying a Zoom: Parfocal, Breathing, and Servo](tools/en/buy-lens-zoom.md) | 文章 / Article | /en/article/buy-lens-zoom/ | [buy-lens-zoom.md](tools/en/buy-lens-zoom.md) |
+| [Buying a Light Kit: Soft Before Bright](tools/en/buy-light-kit.md) | 文章 / Article | /en/article/buy-light-kit/ | [buy-light-kit.md](tools/en/buy-light-kit.md) |
+| [Buying LED Lights: Output, Flicker, and Power](tools/en/buy-light-led.md) | 文章 / Article | /en/article/buy-light-led/ | [buy-light-led.md](tools/en/buy-light-led.md) |
+| [Buying a Monitor: Brightness, Gamut, and Latency](tools/en/buy-monitor.md) | 文章 / Article | /en/article/buy-monitor/ | [buy-monitor.md](tools/en/buy-monitor.md) |
+| [Buying an HDR Monitor: Peak Nits Is Not Everything](tools/en/buy-monitor-hdr.md) | 文章 / Article | /en/article/buy-monitor-hdr/ | [buy-monitor-hdr.md](tools/en/buy-monitor-hdr.md) |
+| [Buying NAS/RAID: Throughput, Rebuild, and Noise](tools/en/buy-nas-raid.md) | 文章 / Article | /en/article/buy-nas-raid/ | [buy-nas-raid.md](tools/en/buy-nas-raid.md) |
+| [Buying Project Storage: Speed, Capacity, and Backup](tools/en/buy-storage.md) | 文章 / Article | /en/article/buy-storage/ | [buy-storage.md](tools/en/buy-storage.md) |
+| [Buying Camera Cards: VPG, Sustained Write, and Heat](tools/en/buy-storage-cards.md) | 文章 / Article | /en/article/buy-storage-cards/ | [buy-storage-cards.md](tools/en/buy-storage-cards.md) |
+| [Buying Timecode: Drift, Sync, and Battery](tools/en/buy-timecode.md) | 文章 / Article | /en/article/buy-timecode/ | [buy-timecode.md](tools/en/buy-timecode.md) |
+| [Buying a Tripod: Payload, Torsion, and Height](tools/en/buy-tripod.md) | 文章 / Article | /en/article/buy-tripod/ | [buy-tripod.md](tools/en/buy-tripod.md) |
+| [Buying a Fluid Head: Drag, Counterbalance, and Return](tools/en/buy-tripod-fluid.md) | 文章 / Article | /en/article/buy-tripod-fluid/ | [buy-tripod-fluid.md](tools/en/buy-tripod-fluid.md) |
+| [Buying Used Gear: Shutter, Sensor, and Service](tools/en/buy-used-gear.md) | 文章 / Article | /en/article/buy-used-gear/ | [buy-used-gear.md](tools/en/buy-used-gear.md) |
+| [Buying Wireless Lavs: Range, Dropouts, and Latency](tools/en/buy-wireless-lav.md) | 文章 / Article | /en/article/buy-wireless-lav/ | [buy-wireless-lav.md](tools/en/buy-wireless-lav.md) |
+| [Crew Management: Call Sheet, Sign-In, Wrap, and Ownership](tools/en/crew-management.md) | 文章 / Article | /en/article/crew-management/ | [crew-management.md](tools/en/crew-management.md) |
 | [Export Failure Fix: Codec, Disk, Permission](tools/en/export-fail-fix.md) | 文章 / Article | /en/guide/export-fail-fix/ | [export-fail-fix.md](tools/en/export-fail-fix.md) |
 | [Jelly Effect Fix: Read Speed and Shutter](tools/en/jelly-fix.md) | 文章 / Article | /en/guide/jelly-fix/ | [jelly-fix.md](tools/en/jelly-fix.md) |
 | [Overheating Fix: Cool, Segment, Lower Bitrate](tools/en/overheat-fix.md) | 文章 / Article | /en/guide/overheat-fix/ | [overheat-fix.md](tools/en/overheat-fix.md) |
@@ -1078,12 +1078,12 @@
 | [Animation History: From Cels to 3D](context/en/history/animation/animation-history.md) | 文章 / Article | /en/history/animation/animation-history/ | [animation-history.md](context/en/history/animation/animation-history.md) |
 | [1895: Cinema Becomes Public Entertainment](context/en/history/film/1895.md) | 文章 / Article | /en/history/film/1895/ | [1895.md](context/en/history/film/1895.md) |
 | [From Daguerreotype to Phone: Five Turns in Photography](context/en/history/photography/photo-history.md) | 文章 / Article | /en/history/photography/photo-history/ | [photo-history.md](context/en/history/photography/photo-history.md) |
-| [AI Content Labels: Explicit, Implicit, and Platform Duties](context/en/ai-label-law.md) | 文章 / Article | /en/law/ai-label-law/ | [ai-label-law.md](context/en/ai-label-law.md) |
-| [Contract Scope: Price the “One More Revision” Before It Happens](context/en/contract-scope.md) | 文章 / Article | /en/law/contract-scope/ | [contract-scope.md](context/en/contract-scope.md) |
-| [Equipment and Production Insurance: What Is Covered, What Is Not](context/en/insurance-equipment.md) | 文章 / Article | /en/law/insurance-equipment/ | [insurance-equipment.md](context/en/insurance-equipment.md) |
-| [Cross-border Production Invoices and Tax: Contract, Invoice, Withholding](context/en/invoice-tax-cross-border.md) | 文章 / Article | /en/law/invoice-tax-cross-border/ | [invoice-tax-cross-border.md](context/en/invoice-tax-cross-border.md) |
-| [Music Licensing: Sync, Performance, and Platform Libraries](context/en/music-license.md) | 文章 / Article | /en/law/music-license/ | [music-license.md](context/en/music-license.md) |
-| [Likeness, Location, and Minors: What a Release Must Say](context/en/portrait-rights.md) | 文章 / Article | /en/law/portrait-rights/ | [portrait-rights.md](context/en/portrait-rights.md) |
+| [AI Content Labels: Explicit, Implicit, and Platform Duties](context/en/ai-label-law.md) | 文章 / Article | /en/article/ai-label-law/ | [ai-label-law.md](context/en/ai-label-law.md) |
+| [Contract Scope: Price the “One More Revision” Before It Happens](context/en/contract-scope.md) | 文章 / Article | /en/article/contract-scope/ | [contract-scope.md](context/en/contract-scope.md) |
+| [Equipment and Production Insurance: What Is Covered, What Is Not](context/en/insurance-equipment.md) | 文章 / Article | /en/article/insurance-equipment/ | [insurance-equipment.md](context/en/insurance-equipment.md) |
+| [Cross-border Production Invoices and Tax: Contract, Invoice, Withholding](context/en/invoice-tax-cross-border.md) | 文章 / Article | /en/article/invoice-tax-cross-border/ | [invoice-tax-cross-border.md](context/en/invoice-tax-cross-border.md) |
+| [Music Licensing: Sync, Performance, and Platform Libraries](context/en/music-license.md) | 文章 / Article | /en/article/music-license/ | [music-license.md](context/en/music-license.md) |
+| [Likeness, Location, and Minors: What a Release Must Say](context/en/portrait-rights.md) | 文章 / Article | /en/article/portrait-rights/ | [portrait-rights.md](context/en/portrait-rights.md) |
 | [Media Literacy: Five Questions for Any Video](context/en/literacy/media-literacy.md) | 文章 / Article | /en/literacy/media-literacy/ | [media-literacy.md](context/en/literacy/media-literacy.md) |
 | [Rights: Check Five Things Before Publishing](context/en/rights/copyright.md) | 文章 / Article | /en/rights/copyright/ | [copyright.md](context/en/rights/copyright.md) |
 | [Why Faces Got Closer: Cinema to Phone](context/en/viewing/screen-size.md) | 文章 / Article | /en/viewing/screen-size/ | [screen-size.md](context/en/viewing/screen-size.md) |

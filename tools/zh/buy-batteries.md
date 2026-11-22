@@ -10,7 +10,7 @@ summary: "电池不是“能开机就行”。副厂电池可能不显示电量�
 slug: buy-batteries
 aliases: [buy-batteries]
 canonical_site: tools
-canonical_path: /guide/buy-batteries/
+canonical_path: /article/buy-batteries/
 status: published
 diagram: /images/diagrams/zh/buy-batteries.svg
 diagram_alt: "购买电池专题图解"

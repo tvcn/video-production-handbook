@@ -10,7 +10,7 @@ summary: "The most common film contract dispute is not payment; it is scope. Unc
 slug: contract-scope
 aliases: [contract-scope]
 canonical_site: context
-canonical_path: /en/law/contract-scope/
+canonical_path: /en/article/contract-scope/
 status: published
 diagram: /images/diagrams/en/contract-scope.svg
 diagram_alt: "Contract scope diagram"

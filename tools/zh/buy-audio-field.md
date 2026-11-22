@@ -10,7 +10,7 @@ summary: "现场录音机的核心不是“能录几轨”，而是“断了一�
 slug: buy-audio-field
 aliases: [buy-audio-field]
 canonical_site: tools
-canonical_path: /guide/buy-audio-field/
+canonical_path: /article/buy-audio-field/
 status: published
 diagram: /images/diagrams/zh/buy-audio-field.svg
 diagram_alt: "现场录音机购买专题图解"

@@ -10,7 +10,7 @@ summary: "直播/播客不是把长视频放上来。先设计“可截断的单
 slug: live-podcast-structure
 aliases: [live-podcast-structure]
 canonical_site: formats
-canonical_path: /live-podcast/live-podcast-structure/
+canonical_path: /article/live-podcast-structure/
 status: published
 diagram: /images/diagrams/zh/live-podcast-structure.svg
 diagram_alt: "直播播客结构专题图解"

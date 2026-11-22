@@ -10,7 +10,7 @@ summary: "归档不是把文件夹拖进硬盘。它要让下一个人能打开�
 slug: archive-reuse
 aliases: [archive-reuse]
 canonical_site: post
-canonical_path: /assets/archive-reuse/
+canonical_path: /article/archive-reuse/
 status: published
 diagram: /images/diagrams/zh/archive-reuse.svg
 diagram_alt: "归档与资产复用专题图解"

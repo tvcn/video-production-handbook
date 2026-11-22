@@ -10,7 +10,7 @@ summary: "Equipment insurance is not “broken, paid.” Separate property all-r
 slug: insurance-equipment
 aliases: [insurance-equipment]
 canonical_site: context
-canonical_path: /en/law/insurance-equipment/
+canonical_path: /en/article/insurance-equipment/
 status: published
 diagram: /images/diagrams/en/insurance-equipment.svg
 diagram_alt: "Equipment/production insurance diagram"

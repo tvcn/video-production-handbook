@@ -10,7 +10,7 @@ summary: "跨境项目最容易在“发票”上卡住：客户要的形式发�
 slug: invoice-tax-cross-border
 aliases: [invoice-tax-cross-border]
 canonical_site: context
-canonical_path: /law/invoice-tax-cross-border/
+canonical_path: /article/invoice-tax-cross-border/
 status: published
 diagram: /images/diagrams/zh/invoice-tax-cross-border.svg
 diagram_alt: "跨境制作发票税务专题图解"

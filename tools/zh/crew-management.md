@@ -10,7 +10,7 @@ summary: "剧组管理不是发通告，是让每个人知道今天做什么、�
 slug: crew-management
 aliases: [crew-management]
 canonical_site: tools
-canonical_path: /guide/crew-management/
+canonical_path: /article/crew-management/
 status: published
 diagram: /images/diagrams/zh/crew-management.svg
 diagram_alt: "剧组管理三张纸专题图解"

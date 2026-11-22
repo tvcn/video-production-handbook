@@ -10,7 +10,7 @@ summary: "A monitor is not a bigger screen. It must be bright enough outdoors, c
 slug: buy-monitor
 aliases: [buy-monitor]
 canonical_site: tools
-canonical_path: /en/guide/buy-monitor/
+canonical_path: /en/article/buy-monitor/
 status: published
 diagram: /images/diagrams/en/buy-monitor.svg
 diagram_alt: "Monitor buying diagram"
