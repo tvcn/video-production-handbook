@@ -1,0 +1,42 @@
+---
+id: main.method.method-no-script
+site: main
+type: template
+lang: zh
+translation_key: main.method.method-no-script
+translation_status: source
+title: "不会写剧本"
+summary: "不会写剧本就先写八格分镜，每格只写一个动作；动作会逼出对白。"
+slug: method-no-script
+aliases: [method-no-script]
+canonical_site: main
+canonical_path: /method/method-no-script/
+status: published
+diagram: /images/diagrams/zh/method-no-script.svg
+diagram_alt: "不会写剧本 三步图解"
+diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+difficulty: beginner
+stage: field-note
+format: handbook
+authors: [editor]
+last_verified: 2026-11-20
+review_due: 2027-05-20
+related: [main.paths.first-film]
+---
+
+<p>不会写剧本就先写八格分镜，每格只写一个动作；动作会逼出对白。</p>
+<!-- DIAGRAM_START -->
+<h2>图解</h2>
+<figure>
+  <img src="/images/diagrams/zh/method-no-script.svg" alt="不会写剧本 三步图解">
+  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+</figure>
+<!-- DIAGRAM_END -->
+<h2>现场</h2>
+<p>画 8 格：每格一个动作，不许写对白；画完按顺序讲，讲不顺就改格。</p>
+<h2>怎么做</h2>
+<p>不会写剧本就先写八格分镜，每格只写一个动作；动作会逼出对白，而不是反过来。</p><ol><li>八格分别写“谁做什么”，不写情绪和解释。</li><li>给每格标一个能拍的地点、道具和时间。</li><li>把八格连起来读，删掉重复信息；缺因果的地方补一个动作。</li></ol>
+<h2>别踩</h2>
+<p>别先写大段对白；没有动作支撑的台词，现场会像朗读。</p>
+<h2>验收</h2>
+<ul><li>八格每格只有一个动作，没有情绪形容词。</li><li>每格都有可拍的地点、道具和时间。</li><li>按顺序读能看出因果，重复信息已删。</li></ul>

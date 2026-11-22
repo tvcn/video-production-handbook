@@ -1,0 +1,61 @@
+---
+id: main.method.method-shoot-alone
+site: main
+type: template
+lang: zh
+translation_key: main.method.method-shoot-alone
+translation_status: source
+title: "一个人怎么拍"
+summary: "一个人拍先用固定机位和连续动作；不要同时演、拍、跟焦。"
+slug: method-shoot-alone
+aliases: [method-shoot-alone]
+canonical_site: main
+canonical_path: /method/method-shoot-alone/
+status: published
+diagram: /images/diagrams/zh/method-shoot-alone.svg
+diagram_alt: "一个人怎么拍 三步图解"
+diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+difficulty: beginner
+stage: field-note
+format: handbook
+authors: [editor]
+last_verified: 2026-11-20
+review_due: 2027-05-20
+related: [main.paths.first-film]
+depth: deep
+deep_minutes: 6
+---
+
+<p>一个人拍先用固定机位和连续动作；不要同时演、拍、跟焦。</p>
+<!-- DIAGRAM_START -->
+<h2>图解</h2>
+<figure>
+  <img src="/images/diagrams/zh/method-shoot-alone.svg" alt="一个人怎么拍 三步图解">
+  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+</figure>
+<!-- DIAGRAM_END -->
+<h2>现场</h2>
+<p>固定机位，先拍自己走位和动作，再拍空镜；不要同时演和跟焦。</p>
+<h2>怎么做</h2>
+<p>一个人拍就用固定机位和连续动作；不要同时演、拍、跟焦。</p><ol><li>先拍空镜和全景，把机位锁死。</li><li>用监视器看构图，提前对焦，再走到位置做动作。</li><li>同一动作拍三遍：全景、中景、特写，后期剪在一起。</li></ol>
+<h2>别踩</h2>
+<p>别手持跟拍自己；焦点和构图一定会丢。</p>
+<h2>验收</h2>
+<ul><li>机位锁死，空镜和全景先拍完。</li><li>每个动作有全景、中景、特写三条。</li><li>焦点在走位前对好，没有反复拉风箱。</li></ul>
+
+<!-- DEEP_DIVE_START -->
+## 深读
+<p><strong>约 6 分钟。</strong> 一个人拍，不是把三人的活压给自己，是把镜头减到你能同时管住的数量。</p>
+### 先减机位，再减动作
+<p>一台机、一个动作、一条拍完；不要同时安排推拉摇移和演员走位。每个镜头只解决一个信息：空间、关系、反应或细节。</p><p>先拍能剪的：全景建立空间，中景拍动作，近景拍反应，插入拍手或道具。每个景别至少两条，不要一条就过。</p>
+### 把监看和收音分开
+<p>用三脚架和手机当监看，不要一手拿机一手拿稿。录音单独开，开机前拍手，拍完听十秒；一个人也能做双系统。</p><p>如果只能机头麦，把相机靠近人物，关空调和窗；不要用后期降噪救对白。现场听不见的问题，后期也救不回来。</p>
+### 拍够剪的覆盖
+<p>同一个动作拍三遍：正常速度、慢一点、只拍手部；剪辑时才有选择。不要只拍一条完美的，完美那条往往不能用。</p><p>每条拍完看三件事：焦点、曝光、声音；三件里有一件坏了，立刻重拍。一个人拍片，最大的成本是回去补拍。</p>
+### 五分钟练习：一人三镜
+<p>用三脚架拍三条：一条全景、一条手部、一条反应；每条只拍一个动作，不许变焦。拍完在手机里接成十五秒，看看有没有空间、动作和反应。</p><p>缺哪一条，就补哪一条；三条都成立，再把人物放进画面。一个人拍，先保证剪得出来，再追求好看。</p>
+### 什么时候算拍完
+<p>不是每个镜头都完美，而是每个镜头都能剪：全景能交代空间，中景能看清动作，近景能读到反应，插入能接上细节。缺一个景别，回去补一个，不要用同一条硬撑。</p><p>收工前把素材按场次回放一遍，听到对白清楚、看到焦点没跑、确认每条都有备份；三件事都过，才算拍完。一个人拍片，收工检查比多拍十条更有用。</p>
+### 一个人拍，十项检查
+<ul><li>一台机只解决一个信息</li><li>每个景别至少两条</li><li>全景中景近景插入都有</li><li>三脚架加手机监看</li><li>录音单独开</li><li>开机拍手</li><li>拍完听十秒</li><li>同一动作拍三遍</li><li>每条检查焦点曝光声音</li><li>先保证能剪再追求好看</li></ul><p>一个人拍片不是逞强，是把每个镜头减到一个人真的能同时管住。</p>
+<!-- DEEP_DIVE_END -->
