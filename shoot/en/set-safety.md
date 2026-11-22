@@ -18,12 +18,16 @@ diagram_caption: "Do the three steps in order, then look again at the image or f
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN Tech Desk"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 5
+sources: [S23, S31, S32, S33]
+test_context: "Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus and samples; lens claims follow page labels, not every lens tested."
+known_failures: "Known failures: menus and firmware differ; uncalibrated color temperature/monitors cause misreads."
+verified: 2026-11-22
 ---
 
 <p>Cables, heights, traffic: check those three before anything else on set.</p>
@@ -59,3 +63,9 @@ deep_minutes: 5
 ### Ten safety checks before rolling
 <ul><li>Tape every cable</li><li>Keep the walkway clear</li><li>No chairs as stands</li><li>Do not overload power strips</li><li>Someone holds the ladder</li><li>Tether tools</li><li>Sandbag the tripods</li><li>Look up before lifting a light</li><li>High-vis and cones at the road</li><li>Post emergency contacts</li></ul><p>Safety is not shooting slower; it is making sure everyone can shoot the next take.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S31]</span> ARRI Technical Documentation</li><li><span class="mono">[S32]</span> Sony Pro Support</li><li><span class="mono">[S33]</span> Canon Support</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

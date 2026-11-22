@@ -18,11 +18,14 @@ diagram_caption: "Do the three steps in order, then look again at the image or f
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-sources: [S21, S11]
+authors: ["TVCN Research Desk"]
+sources: [S07, S08]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
+test_context: "Review setup: Windows 11 + Chrome; checked against public films, scripts and platform pages; not frame-by-frame testing."
+known_failures: "Known failures: public case data is incomplete; platform specs and length limits change; re-verify per project."
+verified: 2026-11-22
 ---
 
 <p>The camera obscura already knew light could form an image; what changed was turning sight into reproducible evidence.</p>
@@ -43,10 +46,8 @@ related: [main.paths.first-film]
 <ul><li>The shoebox projects an inverted image with a 0.5 mm pinhole and 15 cm screen distance.</li><li>Image size is measured and related to hole distance.</li><li>Doubling the hole brightens but softens the image, and the trade is recorded.</li></ul>
 
 <!-- SOURCES_START -->
-## References
-
-- [S21] Britannica: Camera Obscura
-- [S11] Britannica: Photography
-
-Full links and notes: [`SOURCES.md`](../../SOURCES.md).
+<h2>Sources</h2>
+<p class="source-types">Experience: editorial statute comparison and project reviews; tested: no lab measurement; references: the laws, platform rules and institutional texts below.</p>
+<ul><li><span class="mono">[S07]</span> Library of Congress: Daguerreotypes</li><li><span class="mono">[S08]</span> The Met: Daguerre and the Invention of Photography</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

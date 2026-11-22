@@ -16,7 +16,7 @@ difficulty: beginner
 stage: gear
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN 工具组"]
 reviewers: [technical-reviewer]
 cover: /images/tools/camera-choice.webp
 diagram: /images/diagrams/zh/camera-choice.png
@@ -28,6 +28,10 @@ source_kind: experience
 related: []
 depth: deep
 deep_minutes: 7
+sources: [S23, S25, S26, S29, S38]
+test_context: "复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。"
+known_failures: "已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。"
+verified: 2026-11-22
 ---
 
 <!-- DIAGRAM_START -->
@@ -83,3 +87,9 @@ deep_minutes: 7
 ### 选相机，十项检查
 <ul><li>先问拍多久</li><li>谁拿机器</li><li>放在哪拍</li><li>交付决定规格</li><li>算镜头卡电池全套成本</li><li>镜头群够不够</li><li>能边充边拍</li><li>能双卡备份</li><li>连续录不过热</li><li>三十秒内能改三项参数</li></ul><p>相机不是买来证明你专业，是买来让拍摄当天不停。</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>参考与延伸阅读</h2>
+<p class="source-types">经验来源：编辑部现场手册与购买检查表；实测来源：短测与公开规格核对，不是实验室跑分；参考来源：以下厂商与标准链接。</p>
+<ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube 上传规格</li><li><span class="mono">[S38]</span> 国家税务总局</li></ul>
+<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<!-- SOURCES_END -->

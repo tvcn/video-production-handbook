@@ -18,12 +18,16 @@ diagram_caption: "Do the three steps in order, then look again at the image or f
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN Formats Desk"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 6
+sources: [S14, S15, S16]
+test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
+known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
+verified: 2026-11-22
 ---
 
 <p>Give the place a reason before making it pretty; without reason, scenery is a screensaver.</p>
@@ -59,3 +63,9 @@ deep_minutes: 6
 ### Ten travel-vlog checks
 <ul><li>Why you came is clear up front</li><li>One concrete task for the day</li><li>The place has variables</li><li>All five beats are present</li><li>The turn is a human response</li><li>No long narration in the quiet beat</li><li>The exit answers the opening question</li><li>Main shot and detail at each location</li><li>Cut on action or sound</li><li>Music does not cover ambience</li></ul><p>A travel vlog is not where you went; it is what got done while you were there.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

@@ -18,12 +18,16 @@ diagram_caption: "把三步按顺序做完，再回看画面或文件。"
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN 片型组"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 6
+sources: [S14, S15, S16]
+test_context: "复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。"
+known_failures: "已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。"
+verified: 2026-11-22
 ---
 
 <p>新闻结构先给现场，再给核实；先讲背景，观众已经走了。</p>
@@ -59,3 +63,9 @@ deep_minutes: 6
 ### 新闻现场，十项检查
 <ul><li>十秒内给时间地点人物</li><li>有一个可验证细节</li><li>一手素材优先</li><li>二手画面标来源</li><li>截图保留发布时间</li><li>至少两个独立信源</li><li>匿名信源说明原因</li><li>事实与判断分开</li><li>没有煽情音乐代判</li><li>发布前有更正入口</li></ul><p>新闻现场不是比谁拍得狠，是比谁敢把自己能核实的东西放到最前面。</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>参考与延伸阅读</h2>
+<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
+<ul><li><span class="mono">[S14]</span> YouTube 社区准则</li><li><span class="mono">[S15]</span> TikTok 社区准则</li><li><span class="mono">[S16]</span> BBC 编辑准则</li></ul>
+<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<!-- SOURCES_END -->

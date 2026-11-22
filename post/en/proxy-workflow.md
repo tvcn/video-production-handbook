@@ -18,12 +18,16 @@ diagram_caption: "Do the three steps in order, then look again at the image or f
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN Post Desk"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 5
+sources: [S24, S27, S28, S30, S34, S35]
+test_context: "Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine."
+known_failures: "Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking."
+verified: 2026-11-22
 ---
 
 <p>Proxies do not lower the final quality; they let the edit move. Keep the originals untouched.</p>
@@ -61,3 +65,9 @@ deep_minutes: 5
 ### When you have five minutes
 <ul><li>Only for high resolution or multicam</li><li>Proxy names match originals</li><li>Keep proxies in a separate folder</li><li>Spot-check three shots</li><li>Lock before relinking</li><li>Export from originals</li></ul><p>Proxies let the edit run; originals let the film stand at the end. A broken proxy can be rebuilt; a lost original has no second take.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S24]</span> ACES Color Management</li><li><span class="mono">[S27]</span> EBU R128 Loudness</li><li><span class="mono">[S28]</span> Netflix Partner Help</li><li><span class="mono">[S30]</span> DaVinci Resolve</li><li><span class="mono">[S34]</span> Adobe Premiere Pro Guide</li><li><span class="mono">[S35]</span> Avid Resource Center</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

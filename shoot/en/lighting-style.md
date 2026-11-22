@@ -18,12 +18,16 @@ diagram_caption: "Do the three steps in order, then look again at the image or f
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN Tech Desk"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 6
+sources: [S23, S31, S32, S33]
+test_context: "Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus and samples; lens claims follow page labels, not every lens tested."
+known_failures: "Known failures: menus and firmware differ; uncalibrated color temperature/monitors cause misreads."
+verified: 2026-11-22
 ---
 
 <p>Pick one direction first: soft, hard, or natural. All three at once means no attitude.</p>
@@ -59,3 +63,9 @@ deep_minutes: 6
 ### Ten checks before lighting
 <ul><li>Decide how long the shadow should be</li><li>Judge softness by relative source size</li><li>Move the softbox closer for softer light</li><li>Control the nose shadow with hard light</li><li>Bounce into the dark side</li><li>Find the window and shade first</li><li>Turn off unneeded mixed sources</li><li>Shoot one frame before and after</li><li>Check skin against background</li><li>Avoid half-hard light</li></ul><p>Decide how long the shadow should be before deciding which lamp to buy.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S31]</span> ARRI Technical Documentation</li><li><span class="mono">[S32]</span> Sony Pro Support</li><li><span class="mono">[S33]</span> Canon Support</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

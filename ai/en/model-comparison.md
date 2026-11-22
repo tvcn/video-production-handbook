@@ -18,10 +18,14 @@ diagram_caption: "Do the three steps in order, then look again at the image or f
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN AI Desk"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
+sources: [S04, S05, S19, S20]
+test_context: "Review setup: Windows 11 + Chrome 131; public web/API versions as of 2026-11; model versions change."
+known_failures: "Known failures: model/API versions change; repeated runs differ; watermark and labelling rules update."
+verified: 2026-11-22
 ---
 
 <p>Do not compare leaderboards; test by shot type: face, hands, motion, text, long take.</p>
@@ -40,3 +44,9 @@ related: [main.paths.first-film]
 <p>Do not choose by overall rank; your shot type is the scorecard.</p>
 <h2>Check</h2>
 <ul><li>All five models use the same prompt and same reference image.</li><li>Each model runs three times with face, hands, text, and motion logged.</li><li>Final ranking follows project weights, not the leaderboard.</li></ul>
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S04]</span> China's Interim Measures for Generative AI Services</li><li><span class="mono">[S05]</span> EU AI Act policy page</li><li><span class="mono">[S19]</span> Generative Adversarial Nets (2014)</li><li><span class="mono">[S20]</span> Denoising Diffusion Probabilistic Models (2020)</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

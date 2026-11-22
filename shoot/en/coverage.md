@@ -18,12 +18,16 @@ diagram_caption: "Do the three steps in order, then look again at the image or f
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN Tech Desk"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 6
+sources: [S23, S31, S32, S33]
+test_context: "Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus and samples; lens claims follow page labels, not every lens tested."
+known_failures: "Known failures: menus and firmware differ; uncalibrated color temperature/monitors cause misreads."
+verified: 2026-11-22
 ---
 
 <p>Coverage is not more takes; it gives the edit different information: wide, close, insert, reverse.</p>
@@ -59,3 +63,9 @@ deep_minutes: 6
 ### Ten checks after coverage
 <ul><li>Master covers the whole action</li><li>Every group has wide, medium, close, insert</li><li>At least two takes per angle</li><li>Reverse and reaction shots listed separately</li><li>Movement did not replace coverage</li><li>Check whether actors are blocked by foreground</li><li>Log actual takes per shot</li><li>Pick up missing inserts before wrap</li><li>Photograph the sheet and send it to edit</li><li>Confirm backup before formatting cards</li></ul><p>Coverage is not shooting more; it is shooting complete. The take the edit needs is often one angle you skipped.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S31]</span> ARRI Technical Documentation</li><li><span class="mono">[S32]</span> Sony Pro Support</li><li><span class="mono">[S33]</span> Canon Support</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

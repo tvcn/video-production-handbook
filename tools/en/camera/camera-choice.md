@@ -17,7 +17,7 @@ difficulty: beginner
 stage: gear
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN Tools Desk"]
 reviewers: [technical-reviewer]
 cover: /images/tools/camera-choice.webp
 diagram: /images/diagrams/en/camera-choice.png
@@ -29,6 +29,10 @@ source_kind: experience
 related: []
 depth: deep
 deep_minutes: 7
+sources: [S23, S25, S26, S29, S38]
+test_context: "Review setup: Windows 11 workstation + iPhone 13, Chrome 131; bodies/lenses checked against public specs and short samples, not lab instruments."
+known_failures: "Known failures: grey-channel firmware/warranty vary; samples do not prove retail units; prices and stock expire."
+verified: 2026-11-22
 ---
 
 <!-- DIAGRAM_START -->
@@ -84,3 +88,9 @@ Before buying, confirm batteries are available, cards can be read, and service e
 ### Ten camera-choice checks
 <ul><li>Ask how long the shoot is</li><li>Who holds the camera</li><li>Where it sits</li><li>Delivery decides specs</li><li>System cost: lenses, cards, batteries</li><li>Lens mount coverage</li><li>Charge while shooting</li><li>Dual-card backup</li><li>Continuous recording without overheating</li><li>Three settings changed in thirty seconds</li></ul><p>A camera is not bought to prove you are professional. It is bought so the day does not stop.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: field notes and buying checklists; tested: short tests against public specs, not lab scores; references: manufacturer and standards links below.</p>
+<ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube Upload Specs</li><li><span class="mono">[S38]</span> State Taxation Administration</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

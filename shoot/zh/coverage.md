@@ -18,12 +18,16 @@ diagram_caption: "把三步按顺序做完，再回看画面或文件。"
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN 技术组"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 6
+sources: [S23, S31, S32, S33]
+test_context: "复核环境：Windows 11 工作站；Sony FX3 / Canon R5 公开菜单与样片对照；镜头以页面标注为准，不声称每支都实测。"
+known_failures: "已知失败：不同机型菜单/固件差异；现场色温与监视器未校准会导致误判。"
+verified: 2026-11-22
 ---
 
 <p>覆盖不是多拍几条，而是给剪辑留下能救场的不同信息：全景、近景、插入、反打。</p>
@@ -59,3 +63,9 @@ deep_minutes: 6
 ### 覆盖拍完，对照这十项
 <ul><li>主机位完整覆盖整场动作</li><li>每组都有全景、中景、近景、插入</li><li>每个角度至少两条</li><li>反打和反应镜头单独列</li><li>运动镜头没有替代覆盖</li><li>检查演员是否被前景挡住</li><li>记录每个镜头实际条数</li><li>收工前补拍缺失的插入</li><li>镜头表拍照发给剪辑</li><li>确认备份后再格式化卡</li></ul><p>覆盖不是拍得多，是拍得全。剪辑需要的那一条，现场往往只差一个角度。</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>参考与延伸阅读</h2>
+<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
+<ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S31]</span> ARRI 技术文档</li><li><span class="mono">[S32]</span> Sony 专业影像支持</li><li><span class="mono">[S33]</span> Canon 支持</li></ul>
+<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<!-- SOURCES_END -->

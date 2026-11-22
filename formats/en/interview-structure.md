@@ -18,12 +18,16 @@ diagram_caption: "Do the three steps in order, then look again at the image or f
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN Formats Desk"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 7
+sources: [S14, S15, S16]
+test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
+known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
+verified: 2026-11-22
 ---
 
 <p>The question matters more than the camera; a vague question gets a vague answer.</p>
@@ -59,3 +63,9 @@ deep_minutes: 7
 ### Ten interview checks
 <ul><li>Questions ask actions, not feelings</li><li>At least three detail follow-ups</li><li>Guest is at the work site</li><li>Hands have something to do</li><li>Hand close-ups even with one camera</li><li>Thirty seconds of room tone</li><li>Concrete scene before context</li><li>One contradiction</li><li>No narration summarizing the person</li><li>Subtitles keep spoken texture</li></ul><p>An interview does not get answers; it lets the viewer see the part of the person that appears while they work.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

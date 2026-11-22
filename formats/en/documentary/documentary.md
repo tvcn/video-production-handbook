@@ -17,7 +17,7 @@ difficulty: beginner
 stage: format
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN Formats Desk"]
 reviewers: [technical-reviewer]
 cover: /images/formats/documentary.webp
 diagram: /images/diagrams/en/documentary.png
@@ -29,6 +29,10 @@ source_kind: experience
 related: []
 depth: deep
 deep_minutes: 7
+sources: [S14, S15, S16]
+test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
+known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
+verified: 2026-11-22
 ---
 
 <!-- DIAGRAM_START -->
@@ -82,3 +86,9 @@ Do not let narration explain everything. Let images and location sound carry hal
 ### Ten documentary checks
 <ul><li>The person is mid-decision</li><li>A deadline or friction exists</li><li>A hypothesis before rolling</li><li>The hypothesis can be disproved</li><li>Questions ask about actions</li><li>Failure or retry is on camera</li><li>End after the change</li><li>No narration invents the change</li><li>Use and scope are explained</li><li>Vulnerable subjects are protected</li></ul><p>Documentary does not explain life; it lets the audience watch one person actually change once.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

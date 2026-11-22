@@ -18,10 +18,14 @@ diagram_caption: "把三步按顺序做完，再回看画面或文件。"
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN 动画组"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
+sources: [S12, S28, S34]
+test_context: "复核环境：Windows 11；Blender 4.x / After Effects 2025 公开流程；不声称所有版本一致。"
+known_failures: "已知失败：插件/版本差异导致绑定或渲染失败；字体授权与素材版权需单独核对。"
+verified: 2026-11-22
 ---
 
 <p>字效先保证静止时读得清，再决定怎么动；边动边读，阅读速度会掉一半。</p>
@@ -40,3 +44,9 @@ related: [main.paths.first-film]
 <p>别用白闪和推拉当万能转场；字没读清，动效再花也白费。</p>
 <h2>验收</h2>
 <ul><li>静止版在手机宽度下能读清，最长一行不出画。</li><li>入场只动了位置和透明度，没有同时旋转缩放。</li><li>静音看一遍，能说出信息出现的顺序。</li></ul>
+<!-- SOURCES_START -->
+<h2>参考与延伸阅读</h2>
+<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
+<ul><li><span class="mono">[S12]</span> Britannica：动画</li><li><span class="mono">[S28]</span> Netflix 制作与交付帮助</li><li><span class="mono">[S34]</span> Adobe Premiere Pro 用户指南</li></ul>
+<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<!-- SOURCES_END -->

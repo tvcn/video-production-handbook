@@ -18,12 +18,16 @@ diagram_caption: "把三步按顺序做完，再回看画面或文件。"
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN 技术组"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 6
+sources: [S23, S31, S32, S33]
+test_context: "复核环境：Windows 11 工作站；Sony FX3 / Canon R5 公开菜单与样片对照；镜头以页面标注为准，不声称每支都实测。"
+known_failures: "已知失败：不同机型菜单/固件差异；现场色温与监视器未校准会导致误判。"
+verified: 2026-11-22
 ---
 
 <p>灯光风格先选一个方向：柔、硬、自然；三个都要，画面就会没有态度。</p>
@@ -59,3 +63,9 @@ deep_minutes: 6
 ### 布光前，十项确认
 <ul><li>先决定影子要多长</li><li>柔光看光源相对面积</li><li>柔光箱离脸越近越柔</li><li>硬光控制鼻影角度</li><li>暗部用反光板补</li><li>自然光先找窗和阴影</li><li>关掉不需要的混合光</li><li>开机前后各拍一张</li><li>检查肤色和背景分离</li><li>不要半硬不硬</li></ul><p>先决定影子要多长，再决定买什么灯。</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>参考与延伸阅读</h2>
+<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
+<ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S31]</span> ARRI 技术文档</li><li><span class="mono">[S32]</span> Sony 专业影像支持</li><li><span class="mono">[S33]</span> Canon 支持</li></ul>
+<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<!-- SOURCES_END -->

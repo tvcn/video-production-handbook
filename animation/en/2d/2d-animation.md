@@ -17,7 +17,7 @@ difficulty: beginner
 stage: animate
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN Animation Desk"]
 reviewers: [technical-reviewer]
 cover: /images/animation/2d-animation.webp
 diagram: /images/diagrams/en/2d-animation.png
@@ -29,6 +29,10 @@ source_kind: experience
 related: []
 depth: deep
 deep_minutes: 7
+sources: [S12, S28, S34]
+test_context: "Review setup: Windows 11; public Blender 4.x / After Effects 2025 workflows; not every version behaves the same."
+known_failures: "Known failures: plugin/version gaps break rigs or renders; font and asset licenses need separate checks."
+verified: 2026-11-22
 ---
 
 <!-- DIAGRAM_START -->
@@ -82,3 +86,9 @@ Loop length comes from the action, not the software. A step may take twelve fram
 ### Ten 2D animation checks
 <ul><li>Three keys first</li><li>Keys tell the action</li><li>Contact drawn at the turn</li><li>Body, hair, cloth layered</li><li>Hair and hem lag</li><li>Four drawings for a loop</li><li>Foot slide checked</li><li>Frame rate before detail</li><li>Holds carry weight</li><li>Frame counts recorded</li></ul><p>2D craft is not fine drawing. It is whether keys and frame counts make the action true.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S12]</span> Britannica: Animation</li><li><span class="mono">[S28]</span> Netflix Partner Help</li><li><span class="mono">[S34]</span> Adobe Premiere Pro Guide</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

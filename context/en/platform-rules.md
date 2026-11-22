@@ -18,11 +18,14 @@ diagram_caption: "Do the three steps in order, then look again at the image or f
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN Research Desk"]
 sources: [S14, S15]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
+test_context: "Review setup: Windows 11 + Chrome; checked against public films, scripts and platform pages; not frame-by-frame testing."
+known_failures: "Known failures: public case data is incomplete; platform specs and length limits change; re-verify per project."
+verified: 2026-11-22
 ---
 
 <p>Platform limits are not magic: reposts, exaggerated promises, engagement bait, and sensitive images get throttled.</p>
@@ -43,10 +46,8 @@ related: [main.paths.first-film]
 <ul><li>Reposted or re-edited material now carries narration, original footage, or verifiable material.</li><li>Absolute and promise-based claims are replaced with testable statements.</li><li>Engagement bait is gone and sensitive images are masked or explained.</li></ul>
 
 <!-- SOURCES_START -->
-## References
-
-- [S14] YouTube Community Guidelines
-- [S15] TikTok Community Guidelines
-
-Full links and notes: [`SOURCES.md`](../../SOURCES.md).
+<h2>Sources</h2>
+<p class="source-types">Experience: editorial statute comparison and project reviews; tested: no lab measurement; references: the laws, platform rules and institutional texts below.</p>
+<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

@@ -18,11 +18,14 @@ diagram_caption: "Do the three steps in order, then look again at the image or f
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-sources: [S06]
+authors: ["TVCN Research Desk"]
+sources: [S06, S39]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
+test_context: "Review setup: Windows 11 + Chrome; checked against public films, scripts and platform pages; not frame-by-frame testing."
+known_failures: "Known failures: public case data is incomplete; platform specs and length limits change; re-verify per project."
+verified: 2026-11-22
 ---
 
 <p>Accessible captions tell Deaf viewers who speaks, what happens, and how it sounds, not just the words.</p>
@@ -43,9 +46,8 @@ related: [main.paths.first-film]
 <ul><li>Speaker labels appear when voices change.</li><li>At least three key sounds are bracketed.</li><li>Rate stays under nine characters per second and tone is written.</li></ul>
 
 <!-- SOURCES_START -->
-## References
-
-- [S06] W3C WAI: Captions and subtitles
-
-Full links and notes: [`SOURCES.md`](../../SOURCES.md).
+<h2>Sources</h2>
+<p class="source-types">Experience: editorial statute comparison and project reviews; tested: no lab measurement; references: the laws, platform rules and institutional texts below.</p>
+<ul><li><span class="mono">[S06]</span> W3C WAI: Captions and subtitles</li><li><span class="mono">[S39]</span> W3C WCAG</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

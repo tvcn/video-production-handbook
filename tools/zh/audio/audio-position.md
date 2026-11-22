@@ -16,7 +16,7 @@ difficulty: beginner
 stage: gear
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN 工具组"]
 reviewers: [technical-reviewer]
 cover: /images/tools/audio-position.webp
 diagram: /images/diagrams/zh/audio-position.png
@@ -28,6 +28,10 @@ source_kind: experience
 related: []
 depth: deep
 deep_minutes: 7
+sources: [S23, S25, S26, S29, S38]
+test_context: "复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。"
+known_failures: "已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。"
+verified: 2026-11-22
 ---
 
 <!-- DIAGRAM_START -->
@@ -83,3 +87,9 @@ deep_minutes: 7
 ### 收音位置，十项检查
 <ul><li>领夹在胸口中线</li><li>距下巴约一掌</li><li>不在衣领外侧</li><li>避开围巾拉链项链</li><li>胶带固定留缓冲</li><li>杆在头顶前方画框外</li><li>距嘴四十到六十厘米</li><li>两人对话杆跟说话人</li><li>开机前录三十秒测试</li><li>录十秒房间底噪</li></ul><p>收音的第一笔预算不是买麦，是把麦放到离嘴更近的地方。</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>参考与延伸阅读</h2>
+<p class="source-types">经验来源：编辑部现场手册与购买检查表；实测来源：短测与公开规格核对，不是实验室跑分；参考来源：以下厂商与标准链接。</p>
+<ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube 上传规格</li><li><span class="mono">[S38]</span> 国家税务总局</li></ul>
+<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<!-- SOURCES_END -->

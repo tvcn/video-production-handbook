@@ -18,12 +18,16 @@ diagram_caption: "把三步按顺序做完，再回看画面或文件。"
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN 片型组"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 6
+sources: [S14, S15, S16]
+test_context: "复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。"
+known_failures: "已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。"
+verified: 2026-11-22
 ---
 
 <p>旅拍 Vlog 先给一个去这里的理由，再拍好看；没有理由，风景只是屏保。</p>
@@ -59,3 +63,9 @@ deep_minutes: 6
 ### 旅拍 Vlog，十项检查
 <ul><li>开场先说为什么来</li><li>今天有一个具体任务</li><li>地点有可变条件</li><li>五段结构完整</li><li>意外是人物反应不是事故</li><li>安静时刻不配大段旁白</li><li>离开回答开头的问题</li><li>每个地点有主镜头和细节</li><li>转场用动作或声音</li><li>音乐不盖环境声</li></ul><p>旅拍不是去过哪里，是今天在那里做成了什么。</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>参考与延伸阅读</h2>
+<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
+<ul><li><span class="mono">[S14]</span> YouTube 社区准则</li><li><span class="mono">[S15]</span> TikTok 社区准则</li><li><span class="mono">[S16]</span> BBC 编辑准则</li></ul>
+<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<!-- SOURCES_END -->

@@ -17,7 +17,7 @@ difficulty: beginner
 stage: format
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN Formats Desk"]
 reviewers: [technical-reviewer]
 cover: /images/formats/product-ad.webp
 diagram: /images/diagrams/en/product-ad.png
@@ -29,6 +29,10 @@ source_kind: experience
 related: []
 depth: deep
 deep_minutes: 6
+sources: [S14, S15, S16]
+test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
+known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
+verified: 2026-11-22
 ---
 
 <!-- DIAGRAM_START -->
@@ -82,3 +86,9 @@ A fifteen-second structure: three seconds problem, seven seconds proof, three se
 ### Ten product-ad checks
 <ul><li>Concrete problem within three seconds</li><li>Only user language</li><li>One benefit per film</li><li>The benefit is provable on camera</li><li>Product completes an action</li><li>Same-camera before and after</li><li>At least two proofs</li><li>Close-up shows material or port</li><li>One closing action</li><li>It works muted</li></ul><p>A product ad does not praise the product; it lets the viewer watch their problem get solved once.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

@@ -18,13 +18,16 @@ diagram_caption: "Do the three steps in order, then look again at the image or f
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-sources: [S05, S01]
+authors: ["TVCN Research Desk"]
+sources: [S01, S03, S22, S39]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 8
+test_context: "Review setup: Windows 11 + Chrome; checked against public films, scripts and platform pages; not frame-by-frame testing."
+known_failures: "Known failures: public case data is incomplete; platform specs and length limits change; re-verify per project."
+verified: 2026-11-22
 ---
 
 <p>Look beyond the face: teeth, ears, blinks, background text, and light direction.</p>
@@ -45,12 +48,10 @@ deep_minutes: 8
 <ul><li>Five seconds were stepped through for teeth, ears, and blinking.</li><li>Background text, signs, and glasses reflections were checked for continuity.</li><li>Original source, a response from the person, and a second angle all fail.</li></ul>
 
 <!-- SOURCES_START -->
-## References
-
-- [S05] EU AI Act policy page
-- [S01] UNESCO: Media and Information Literacy
-
-Full links and notes: [`SOURCES.md`](../../SOURCES.md).
+<h2>Sources</h2>
+<p class="source-types">Experience: editorial statute comparison and project reviews; tested: no lab measurement; references: the laws, platform rules and institutional texts below.</p>
+<ul><li><span class="mono">[S01]</span> UNESCO: Media and Information Literacy</li><li><span class="mono">[S03]</span> China's Personal Information Protection Law (PIPL)</li><li><span class="mono">[S22]</span> China's Civil Code</li><li><span class="mono">[S39]</span> W3C WCAG</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->
 
 <!-- DEEP_DIVE_START -->

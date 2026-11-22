@@ -17,7 +17,7 @@ difficulty: advanced
 stage: animation
 format: 3d
 tools: [lookdev, t2v, vfx]
-authors: [editor]
+authors: ["TVCN Animation Desk"]
 reviewers: [technical-reviewer]
 cover: /images/animation/3d-pipeline.webp
 diagram: /images/diagrams/en/3d-pipeline.png
@@ -29,6 +29,10 @@ source_kind: experience
 related: [animation.2d.2d-animation, animation.stop-motion.stop-motion]
 depth: deep
 deep_minutes: 7
+sources: [S12, S28, S34]
+test_context: "Review setup: Windows 11; public Blender 4.x / After Effects 2025 workflows; not every version behaves the same."
+known_failures: "Known failures: plugin/version gaps break rigs or renders; font and asset licenses need separate checks."
+verified: 2026-11-22
 ---
 
 <!-- DIAGRAM_START -->
@@ -80,3 +84,9 @@ Do not treat “fix it in render” as a workflow. Preview lighting at low sampl
 ### Ten 3D pipeline checks
 <ul><li>Blockout before modeling</li><li>Boxes and cylinders in blockout</li><li>Camera placed first</li><li>Composition at real focal length</li><li>Joints and naming before rig</li><li>Test action recorded at handoff</li><li>Animation on low model</li><li>Gray-model lighting first</li><li>Low-res, low-sample test render</li><li>Version saved at every stage</li></ul><p>The way to save time in 3D is not skipping a step. It is making every step able to go back one.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S12]</span> Britannica: Animation</li><li><span class="mono">[S28]</span> Netflix Partner Help</li><li><span class="mono">[S34]</span> Adobe Premiere Pro Guide</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

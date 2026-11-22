@@ -17,7 +17,7 @@ difficulty: beginner
 stage: script
 format: short-film
 tools: [concept, script]
-authors: [editor]
+authors: ["TVCN Editorial"]
 reviewers: [technical-reviewer]
 cover: /images/story/logline.webp
 diagram: /images/diagrams/en/logline.png
@@ -27,6 +27,10 @@ last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
 related: [main.paths.first-film, tools.calculators.fov]
+sources: [S02, S16, S17]
+test_context: "Review setup: Windows 11 + Chrome; checked against public films, scripts and platform pages; not frame-by-frame testing."
+known_failures: "Known failures: public case data is incomplete; platform specs and length limits change; re-verify per project."
+verified: 2026-11-22
 ---
 
 <!-- DIAGRAM_START -->
@@ -90,3 +94,9 @@ There is a person, a want, an obstacle, and a visible action: the cat and the co
 ## Deliverables
 
 One logline under 40 Chinese characters or 25 English words, plus three images that grow from it.
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S02]</span> WIPO: Copyright FAQ</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li><li><span class="mono">[S17]</span> Reuters Trust Principles</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

@@ -18,12 +18,16 @@ diagram_caption: "把三步按顺序做完，再回看画面或文件。"
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN 片型组"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 7
+sources: [S14, S15, S16]
+test_context: "复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。"
+known_failures: "已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。"
+verified: 2026-11-22
 ---
 
 <p>访谈结构里问题比机位重要；问题太空，回答只能空。</p>
@@ -59,3 +63,9 @@ deep_minutes: 7
 ### 访谈，十项检查
 <ul><li>问题问动作不问感受</li><li>至少三个细节追问</li><li>被访者在工作现场</li><li>手上有事可做</li><li>单机也补了手部特写</li><li>环境声单独录三十秒</li><li>先具体场景再背景</li><li>有一个矛盾</li><li>不用旁白总结人物</li><li>字幕保留口语</li></ul><p>访谈不是让人物回答问题，是让观众看见他做事时暴露出来的那部分自己。</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>参考与延伸阅读</h2>
+<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
+<ul><li><span class="mono">[S14]</span> YouTube 社区准则</li><li><span class="mono">[S15]</span> TikTok 社区准则</li><li><span class="mono">[S16]</span> BBC 编辑准则</li></ul>
+<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<!-- SOURCES_END -->

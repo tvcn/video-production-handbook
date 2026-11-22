@@ -16,7 +16,7 @@ difficulty: advanced
 stage: animation
 format: 3d
 tools: [lookdev, t2v, vfx]
-authors: [editor]
+authors: ["TVCN 动画组"]
 reviewers: [technical-reviewer]
 cover: /images/animation/3d-pipeline.webp
 diagram: /images/diagrams/zh/3d-pipeline.png
@@ -28,6 +28,10 @@ source_kind: experience
 related: [animation.2d.2d-animation, animation.stop-motion.stop-motion]
 depth: deep
 deep_minutes: 7
+sources: [S12, S28, S34]
+test_context: "复核环境：Windows 11；Blender 4.x / After Effects 2025 公开流程；不声称所有版本一致。"
+known_failures: "已知失败：插件/版本差异导致绑定或渲染失败；字体授权与素材版权需单独核对。"
+verified: 2026-11-22
 ---
 
 <!-- DIAGRAM_START -->
@@ -79,3 +83,9 @@ Layout 定构图、焦距、运动路径。机位没锁，动画师会在错误�
 ### 三维流程，十项检查
 <ul><li>先 blockout 再建模</li><li>blockout 用方盒圆柱</li><li>相机先放进场景</li><li>用实际焦距看构图</li><li>绑定前定关节和命名</li><li>交接录测试动作</li><li>低模上做动画</li><li>灰模先定主光</li><li>低分辨率低采样试渲染</li><li>每阶段存版本</li></ul><p>三维流程省时间的办法不是少做一步，是每一步都能退回上一步。</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>参考与延伸阅读</h2>
+<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
+<ul><li><span class="mono">[S12]</span> Britannica：动画</li><li><span class="mono">[S28]</span> Netflix 制作与交付帮助</li><li><span class="mono">[S34]</span> Adobe Premiere Pro 用户指南</li></ul>
+<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<!-- SOURCES_END -->

@@ -17,7 +17,7 @@ difficulty: beginner
 stage: shoot
 format: short-film
 tools: [camera, support, light]
-authors: [editor]
+authors: ["TVCN Tech Desk"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/composition.webp
 diagram: /images/diagrams/en/composition.png
@@ -27,6 +27,10 @@ last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
 related: [shoot.camera.exposure, shoot.lighting.ratio]
+sources: [S23, S31, S32, S33]
+test_context: "Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus and samples; lens claims follow page labels, not every lens tested."
+known_failures: "Known failures: menus and firmware differ; uncalibrated color temperature/monitors cause misreads."
+verified: 2026-11-22
 ---
 
 <!-- DIAGRAM_START -->
@@ -61,3 +65,9 @@ Landscape and vertical need different lead room. In vertical, keep the face in t
 - Pause the frame; you can name the subject in three seconds.
 - The frame has at least two layers of space.
 - There is lead room in the direction of the gaze.
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S31]</span> ARRI Technical Documentation</li><li><span class="mono">[S32]</span> Sony Pro Support</li><li><span class="mono">[S33]</span> Canon Support</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

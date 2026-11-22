@@ -18,13 +18,16 @@ diagram_caption: "把三步按顺序做完，再回看画面或文件。"
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-sources: [S05, S01]
+authors: ["TVCN 研究组"]
+sources: [S01, S03, S22, S39]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 8
+test_context: "复核环境：Windows 11 + Chrome；按公开影片、剧本与平台页面复核；不声称逐帧实测。"
+known_failures: "已知失败：公开案例信息不全；平台规格与片长限制会变化；不同项目需重新验证。"
+verified: 2026-11-22
 ---
 
 <p>深伪识别别只看脸；看牙齿、耳朵、眨眼、背景文字和光影方向。</p>
@@ -45,12 +48,10 @@ deep_minutes: 8
 <ul><li>五秒逐帧看过牙齿、耳朵和眨眼。</li><li>背景文字、招牌和眼镜反光的连续性看过。</li><li>原始来源、本人回应或第二角度三项对不上。</li></ul>
 
 <!-- SOURCES_START -->
-## 参考与延伸阅读
-
-- [S05] 欧盟 AI Act 政策页
-- [S01] UNESCO：媒介与信息素养
-
-完整链接与用途见 [`SOURCES.md`](../../SOURCES.md)。
+<h2>参考与延伸阅读</h2>
+<p class="source-types">经验来源：编辑部的条文对照与项目复盘；实测来源：无实验室实测；参考来源：以下法律、平台与机构文本。</p>
+<ul><li><span class="mono">[S01]</span> UNESCO：媒介与信息素养</li><li><span class="mono">[S03]</span> 《中华人民共和国个人信息保护法》</li><li><span class="mono">[S22]</span> 《中华人民共和国民法典》</li><li><span class="mono">[S39]</span> W3C WCAG</li></ul>
+<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->
 
 <!-- DEEP_DIVE_START -->

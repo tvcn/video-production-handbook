@@ -18,12 +18,16 @@ diagram_caption: "Do the three steps in order, then look again at the image or f
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN Formats Desk"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 6
+sources: [S14, S15, S16]
+test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
+known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
+verified: 2026-11-22
 ---
 
 <p>Result first, process second; the viewer needs to know what the event became.</p>
@@ -59,3 +63,9 @@ deep_minutes: 6
 ### Ten event-promo checks
 <ul><li>Busiest moment within three seconds</li><li>No opening at registration</li><li>One subtitle for time, place, attendance</li><li>One highlight each for people, action, space</li><li>Five to eight seconds per highlight</li><li>Live sound or one interview line</li><li>Only one interview line</li><li>One information item per closing frame</li><li>Fifteen to sixty seconds</li><li>No “complete success” instead of a result</li></ul><p>An event film does not finish the schedule; it helps the viewer decide whether to come next time.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

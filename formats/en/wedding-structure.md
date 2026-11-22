@@ -18,12 +18,16 @@ diagram_caption: "Do the three steps in order, then look again at the image or f
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN Formats Desk"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 7
+sources: [S14, S15, S16]
+test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
+known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
+verified: 2026-11-22
 ---
 
 <p>Protect ceremony and vows before slow motion and grading; style cannot save a missed ritual.</p>
@@ -59,3 +63,9 @@ deep_minutes: 7
 ### Ten wedding-film checks
 <ul><li>Vows recorded complete</li><li>Ring exchange covered</li><li>Parents’ reactions captured</li><li>Camera not blocking the aisle</li><li>One lav per partner</li><li>Independent recorder at the front</li><li>One quiet moment found</li><li>That moment has action and relationship</li><li>Preparation under one third</li><li>Music never covers vows</li></ul><p>A wedding film does not prove how much you covered; it proves you saw how two people care for each other.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

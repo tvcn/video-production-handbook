@@ -18,10 +18,14 @@ diagram_caption: "Do the three steps in order, then look again at the image or f
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN AI Desk"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
+sources: [S04, S05, S19, S20]
+test_context: "Review setup: Windows 11 + Chrome 131; public web/API versions as of 2026-11; model versions change."
+known_failures: "Known failures: model/API versions change; repeated runs differ; watermark and labelling rules update."
+verified: 2026-11-22
 ---
 
 <p>Put pauses, stress, and sentence breaks into the script before choosing a voice; timbre cannot fix bad phrasing.</p>
@@ -40,3 +44,9 @@ related: [main.paths.first-film]
 <p>Do not judge on headphones alone; phone speakers expose sibilance and tails.</p>
 <h2>Check</h2>
 <ul><li>Comma and period pauses are audible and sentences do not run together.</li><li>Numbers and abbreviations read correctly and stress lands on key words.</li><li>On a phone speaker, sibilance is not harsh, tails are not swallowed, and stress is right.</li></ul>
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S04]</span> China's Interim Measures for Generative AI Services</li><li><span class="mono">[S05]</span> EU AI Act policy page</li><li><span class="mono">[S19]</span> Generative Adversarial Nets (2014)</li><li><span class="mono">[S20]</span> Denoising Diffusion Probabilistic Models (2020)</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

@@ -1,11 +1,13 @@
 # 来源与延伸阅读 / Sources
 
-本仓的 348 条现场手册是经验型内容，不逐条列参考文献；`context` 站的历史、法律与平台条目
-在文末给出可继续阅读的公开来源，并把 ID 写进 frontmatter 的 `sources` 字段。
+本仓 928 篇中英文章以经验型现场手册为主，不逐条列参考文献；Top 100 核心页在文末给出
+“经验来源 / 实测来源 / 参考来源”三类标记，并把来源 ID 写进 frontmatter 的 `sources` 字段。
+`context` 站的历史、法律与平台条目保留更完整的公开来源。
 
-This repository's 348 field notes are experience-based and do not carry claim-by-claim citations.
-Context articles on history, law and platforms list public further-reading sources at the end and
-record their IDs in the frontmatter `sources` field.
+The repository's 928 bilingual articles are mostly experience-based field notes and do not carry
+claim-by-claim citations. The Top 100 core pages mark experience, test and reference sources at
+the end, and record source IDs in the frontmatter `sources` field. Context articles keep fuller
+public references.
 
 | ID | 中文 | English | 链接 / Link | 用途 / Use |
 | --- | --- | --- | --- | --- |
@@ -31,6 +33,25 @@ record their IDs in the frontmatter `sources` field.
 | <a id="s20"></a>S20 | DDPM 原始论文（2020） | Denoising Diffusion Probabilistic Models (2020) | [https://arxiv.org/abs/2006.11239](https://arxiv.org/abs/2006.11239) | 扩散模型：从加噪到去噪的生成路径。 / Diffusion models: the noising-to-denoising generation path. |
 | <a id="s21"></a>S21 | Britannica：暗箱 | Britannica: Camera Obscura | [https://www.britannica.com/technology/camera-obscura-photography](https://www.britannica.com/technology/camera-obscura-photography) | 暗箱原理、成像倒置与摄影前史。 / The principle, inverted image and pre-photographic history of the camera obscura. |
 | <a id="s22"></a>S22 | 《中华人民共和国民法典》 | China's Civil Code | [http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) | 肖像、隐私、合同与场地权利的上位法文本。 / Statutory text on portrait rights, privacy, contracts and location rights. |
+
+| <a id="s23"></a>S23 | SMPTE 标准入口 | SMPTE Standards | [https://www.smpte.org/standards](https://www.smpte.org/standards) | 时间码、色彩、影院与信号链标准的机构入口。 / Entry point for timecode, color, cinema and signal-chain standards. |
+| <a id="s24"></a>S24 | ACES 色彩管理 | ACES Color Management | [https://www.oscars.org/science-technology/aces](https://www.oscars.org/science-technology/aces) | ACES 色彩管线的官方说明与规范。 / Official ACES color pipeline documentation. |
+| <a id="s25"></a>S25 | ITU-R BT.709 | ITU-R BT.709 | [https://www.itu.int/rec/R-REC-BT.709/en](https://www.itu.int/rec/R-REC-BT.709/en) | HD SDR 的色域、传递函数与观看条件。 / HD SDR gamut, transfer function and viewing conditions. |
+| <a id="s26"></a>S26 | ITU-R BT.2020 | ITU-R BT.2020 | [https://www.itu.int/rec/R-REC-BT.2020/en](https://www.itu.int/rec/R-REC-BT.2020/en) | UHD/HDR 的宽色域与参数定义。 / Wide-gamut and parameter definitions for UHD/HDR. |
+| <a id="s27"></a>S27 | EBU R128 响度 | EBU R128 Loudness | [https://tech.ebu.ch/publications/r128](https://tech.ebu.ch/publications/r128) | 广播响度目标、真峰值与测量方法。 / Broadcast loudness targets, true peak and measurement. |
+| <a id="s28"></a>S28 | Netflix 制作与交付帮助 | Netflix Partner Help | [https://partnerhelp.netflixstudios.com/](https://partnerhelp.netflixstudios.com/) | 平台交付规格、HDR/SDR 与 QC 要求的公开入口。 / Public entry for delivery specs, HDR/SDR and QC. |
+| <a id="s29"></a>S29 | YouTube 上传规格 | YouTube Upload Specs | [https://support.google.com/youtube/answer/1722171](https://support.google.com/youtube/answer/1722171) | 分辨率、码率、帧率与音频编码建议。 / Recommended resolution, bitrate, frame rate and audio codec. |
+| <a id="s30"></a>S30 | DaVinci Resolve 产品与文档 | DaVinci Resolve | [https://www.blackmagicdesign.com/products/davinciresolve](https://www.blackmagicdesign.com/products/davinciresolve) | 剪辑、调色、Fusion 与交付的官方产品入口。 / Official entry for editing, grading, Fusion and delivery. |
+| <a id="s31"></a>S31 | ARRI 技术文档 | ARRI Technical Documentation | [https://www.arri.com/en/technical-documentation](https://www.arri.com/en/technical-documentation) | 摄影机、镜头与灯光的技术资料入口。 / Technical documentation for cameras, lenses and lighting. |
+| <a id="s32"></a>S32 | Sony 专业影像支持 | Sony Pro Support | [https://pro.sony/ue_US/support](https://pro.sony/ue_US/support) | 专业摄影机与镜头的支持、固件与文档。 / Support, firmware and documents for pro cameras and lenses. |
+| <a id="s33"></a>S33 | Canon 支持 | Canon Support | [https://www.usa.canon.com/support](https://www.usa.canon.com/support) | 相机、镜头与固件的官方支持入口。 / Official support for cameras, lenses and firmware. |
+| <a id="s34"></a>S34 | Adobe Premiere Pro 用户指南 | Adobe Premiere Pro Guide | [https://helpx.adobe.com/premiere-pro/user-guide.html](https://helpx.adobe.com/premiere-pro/user-guide.html) | 剪辑、代理、色彩与导出的官方文档。 / Official docs for editing, proxies, color and export. |
+| <a id="s35"></a>S35 | Avid 资源中心 | Avid Resource Center | [https://www.avid.com/resource-center](https://www.avid.com/resource-center) | Media Composer、协作与交付的资源入口。 / Resources for Media Composer, collaboration and delivery. |
+| <a id="s36"></a>S36 | 国家广播电视总局 | National Radio and Television Administration | [https://www.nrta.gov.cn/](https://www.nrta.gov.cn/) | 广播电视与网络视听管理的政策入口。 / Policy entry for broadcasting and online audiovisual services. |
+| <a id="s37"></a>S37 | 中央网信办 | Cyberspace Administration of China | [https://www.cac.gov.cn/](https://www.cac.gov.cn/) | 生成式 AI、深度合成与内容标识的政策入口。 / Policy entry for generative AI, deep synthesis and content labeling. |
+| <a id="s38"></a>S38 | 国家税务总局 | State Taxation Administration | [https://www.chinatax.gov.cn/](https://www.chinatax.gov.cn/) | 增值税、跨境服务与代扣代缴的官方政策入口。 / Official entry for VAT, cross-border services and withholding. |
+| <a id="s39"></a>S39 | W3C WCAG | W3C WCAG | [https://www.w3.org/WAI/standards-guidelines/wcag/](https://www.w3.org/WAI/standards-guidelines/wcag/) | 字幕、对比度与无障碍的现行标准。 / Current standards for captions, contrast and accessibility. |
+| <a id="s40"></a>S40 | 中国电影资料馆 | China Film Archive | [https://www.cfa.org.cn/](https://www.cfa.org.cn/) | 电影档案、修复与放映研究的机构入口。 / Institutional entry for film archives, restoration and exhibition research. |
 
 这些链接是延伸阅读，不是逐句脚注；平台规则、法律文本和产品规范会变，发布前应按页面日期复查。
 

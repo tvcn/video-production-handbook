@@ -17,7 +17,7 @@ difficulty: beginner
 stage: shoot
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN Tech Desk"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/exposure.webp
 diagram: /images/diagrams/en/exposure.png
@@ -27,6 +27,10 @@ last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
 related: []
+sources: [S23, S31, S32, S33]
+test_context: "Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus and samples; lens claims follow page labels, not every lens tested."
+known_failures: "Known failures: menus and firmware differ; uncalibrated color temperature/monitors cause misreads."
+verified: 2026-11-22
 ---
 
 <!-- DIAGRAM_START -->
@@ -63,3 +67,9 @@ If the lens is wide open and the shutter cannot go slower, add ND or a light ins
 - You can name the shutter for 24fps and 60fps.
 - You check highlights with a waveform or zebras.
 - ISO is not the first setting you touch.
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S31]</span> ARRI Technical Documentation</li><li><span class="mono">[S32]</span> Sony Pro Support</li><li><span class="mono">[S33]</span> Canon Support</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

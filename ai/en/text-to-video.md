@@ -18,12 +18,16 @@ diagram_caption: "Do the three steps in order, then look again at the image or f
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN AI Desk"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 7
+sources: [S04, S05, S19, S20]
+test_context: "Review setup: Windows 11 + Chrome 131; public web/API versions as of 2026-11; model versions change."
+known_failures: "Known failures: model/API versions change; repeated runs differ; watermark and labelling rules update."
+verified: 2026-11-22
 ---
 
 <p>Write shots and actions, not "cinematic, epic"; the model cannot act on adjectives.</p>
@@ -59,3 +63,9 @@ deep_minutes: 7
 ### Ten text-to-video checks
 <ul><li>One prompt, one shot</li><li>Subject, action, space, camera, ending stated</li><li>Delete invisible adjectives</li><li>Draw first and last frames first</li><li>Three to five seconds is stable</li><li>Change one variable at a time</li><li>Run three and log each round</li><li>If subject drifts, cut action and time</li><li>Write locked-off camera</li><li>Watch the sequence muted</li></ul><p>Text-to-video does not ask the model to think for you. It writes the shot so the model has nothing to guess.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S04]</span> China's Interim Measures for Generative AI Services</li><li><span class="mono">[S05]</span> EU AI Act policy page</li><li><span class="mono">[S19]</span> Generative Adversarial Nets (2014)</li><li><span class="mono">[S20]</span> Denoising Diffusion Probabilistic Models (2020)</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

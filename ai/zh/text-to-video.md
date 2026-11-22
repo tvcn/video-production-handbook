@@ -18,12 +18,16 @@ diagram_caption: "把三步按顺序做完，再回看画面或文件。"
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN AI 组"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 7
+sources: [S04, S05, S19, S20]
+test_context: "复核环境：Windows 11 + Chrome 131；公开网页版/API 与 2026-11 版本；模型版本会变。"
+known_failures: "已知失败：模型/接口版本变化；同一提示词多次输出不一致；平台水印与标识规则会更新。"
+verified: 2026-11-22
 ---
 
 <p>文生视频先写镜头和动作，别写“电影感、史诗感”；模型听不懂形容词。</p>
@@ -59,3 +63,9 @@ deep_minutes: 7
 ### 文生视频，十项检查
 <ul><li>一条提示只写一个镜头</li><li>主体、动作、空间、机位、结束写清</li><li>删掉不可见的形容词</li><li>首帧和尾帧先画出来</li><li>三到五秒为稳</li><li>一次只改一个变量</li><li>每轮跑三条并记录</li><li>主体漂就减动作和时长</li><li>机位写 locked-off</li><li>关声音看序列是否讲得通</li></ul><p>文生视频不是让模型替你想，是把镜头想到模型不用猜。</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>参考与延伸阅读</h2>
+<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
+<ul><li><span class="mono">[S04]</span> 《生成式人工智能服务管理暂行办法》</li><li><span class="mono">[S05]</span> 欧盟 AI Act 政策页</li><li><span class="mono">[S19]</span> GAN 原始论文（2014）</li><li><span class="mono">[S20]</span> DDPM 原始论文（2020）</li></ul>
+<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<!-- SOURCES_END -->

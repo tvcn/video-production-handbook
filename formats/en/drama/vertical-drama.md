@@ -17,7 +17,7 @@ difficulty: intermediate
 stage: format
 format: short-drama
 tools: []
-authors: [editor]
+authors: ["TVCN Formats Desk"]
 reviewers: [technical-reviewer]
 cover: /images/formats/vertical-drama.webp
 diagram: /images/diagrams/en/vertical-drama.png
@@ -29,6 +29,10 @@ source_kind: experience
 related: [story.screenplay.three-act, tools.delivery.publish-checklist]
 depth: deep
 deep_minutes: 6
+sources: [S14, S15, S16]
+test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
+known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
+verified: 2026-11-22
 ---
 
 <!-- DIAGRAM_START -->
@@ -88,3 +92,9 @@ Keep subtitles in the bottom safe area, off the mouth and hands. Platform UI cov
 ### Ten vertical-drama checks
 <ul><li>A concrete want in second one</li><li>The blocker visible in second two</li><li>An information gap exists</li><li>One location only</li><li>Two main characters only</li><li>False answer and turn</li><li>The turn changes the relationship</li><li>Medium or close framing</li><li>Lines under twelve characters</li><li>A new question at the end</li></ul><p>Short drama is not short. It is every second changing the distance between two people.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

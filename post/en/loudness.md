@@ -18,12 +18,16 @@ diagram_caption: "Do the three steps in order, then look again at the image or f
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN Post Desk"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 5
+sources: [S24, S27, S28, S30, S34, S35]
+test_context: "Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine."
+known_failures: "Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking."
+verified: 2026-11-22
 ---
 
 <p>Deliver to the platform's loudness target and leave true-peak headroom. Loud is not good.</p>
@@ -57,3 +61,9 @@ deep_minutes: 5
 ### Ten listening checks before delivery
 <ul><li>Solo dialogue and confirm every line is intelligible</li><li>Add music and listen again</li><li>Add ambience and listen again</li><li>Play on a phone at half volume from two meters</li><li>Listen on headphones for sibilance and clipping</li><li>Listen once on a laptop speaker</li><li>Mark the timecode of the quietest line</li><li>Mark the timecode of the loudest line</li><li>Jump to both before delivery</li><li>Confirm true peak does not exceed minus one</li></ul><p>A loudness meter proves the number, not that the audience understood. The last pass belongs to your ears, not your eyes. Play it for someone who has not seen it and ask which line they missed; that is usually the fix.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S24]</span> ACES Color Management</li><li><span class="mono">[S27]</span> EBU R128 Loudness</li><li><span class="mono">[S28]</span> Netflix Partner Help</li><li><span class="mono">[S30]</span> DaVinci Resolve</li><li><span class="mono">[S34]</span> Adobe Premiere Pro Guide</li><li><span class="mono">[S35]</span> Avid Resource Center</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

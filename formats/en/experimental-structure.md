@@ -18,12 +18,16 @@ diagram_caption: "Do the three steps in order, then look again at the image or f
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN Formats Desk"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 6
+sources: [S14, S15, S16]
+test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
+known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
+verified: 2026-11-22
 ---
 
 <p>Set rules first: locked camera, repeated action, one color. Clear rules make stronger effects.</p>
@@ -59,3 +63,9 @@ deep_minutes: 6
 ### Ten experimental-film checks
 <ul><li>The rule fits in one sentence</li><li>The rule is simple and repeatable</li><li>The rule breaks once</li><li>Sound or cut changes at the break</li><li>No pile of effects</li><li>Sound carries structure</li><li>Not wall-to-wall music</li><li>One to five minutes</li><li>The ending has a reason to stop</li><li>No story is fine, no ending is not</li></ul><p>Experimental freedom is not “shoot anything.” It is setting one rule and daring to break it once.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

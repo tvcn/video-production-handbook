@@ -17,7 +17,7 @@ difficulty: beginner
 stage: edit
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN Post Desk"]
 reviewers: [technical-reviewer]
 cover: /images/post/sound.webp
 diagram: /images/diagrams/en/sound.png
@@ -27,6 +27,10 @@ last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
 related: []
+sources: [S24, S27, S28, S30, S34, S35]
+test_context: "Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine."
+known_failures: "Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking."
+verified: 2026-11-22
 ---
 
 <!-- DIAGRAM_START -->
@@ -63,3 +67,9 @@ If the film falls apart when you remove the music, the problem is the cut, not t
 - Every line is intelligible without guessing from subtitles.
 - Every location has ambience.
 - At least one moment deliberately uses silence.
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S24]</span> ACES Color Management</li><li><span class="mono">[S27]</span> EBU R128 Loudness</li><li><span class="mono">[S28]</span> Netflix Partner Help</li><li><span class="mono">[S30]</span> DaVinci Resolve</li><li><span class="mono">[S34]</span> Adobe Premiere Pro Guide</li><li><span class="mono">[S35]</span> Avid Resource Center</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

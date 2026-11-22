@@ -17,7 +17,7 @@ difficulty: intermediate
 stage: format
 format: brand-film
 tools: [script, lookdev, budget]
-authors: [editor]
+authors: ["TVCN Formats Desk"]
 reviewers: [technical-reviewer]
 cover: /images/formats/brand-film.webp
 diagram: /images/diagrams/en/brand-film.png
@@ -29,6 +29,10 @@ source_kind: experience
 related: [formats.ad.product-ad, story.screenplay.three-act]
 depth: deep
 deep_minutes: 7
+sources: [S14, S15, S16]
+test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
+known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
+verified: 2026-11-22
 ---
 
 <!-- DIAGRAM_START -->
@@ -80,3 +84,9 @@ A brand film can have no voice-over, but it cannot have no stance. Without a sta
 ### Ten brand-film checks
 <ul><li>The stance can be argued with</li><li>The stance becomes an action</li><li>One main person</li><li>The person acts in a real situation</li><li>No recited values</li><li>Product is evidence, not hero</li><li>Show use, repair, or refusal</li><li>End returns to the opening action</li><li>It works without the brand name</li><li>No drone-and-subtitle summary</li></ul><p>A brand film does not say who you are; it shows what you are willing to pay for.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

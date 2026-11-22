@@ -18,12 +18,16 @@ diagram_caption: "把三步按顺序做完，再回看画面或文件。"
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN 动画组"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 6
+sources: [S12, S28, S34]
+test_context: "复核环境：Windows 11；Blender 4.x / After Effects 2025 公开流程；不声称所有版本一致。"
+known_failures: "已知失败：插件/版本差异导致绑定或渲染失败；字体授权与素材版权需单独核对。"
+verified: 2026-11-22
 ---
 
 <p>十二原则不是十二个滤镜；一个动作先用一个原则解释，观众才看得懂。</p>
@@ -61,3 +65,9 @@ deep_minutes: 6
 ### 动画原则，十项检查
 <ul><li>一个镜头只挑三条</li><li>挤压拉伸说明材质</li><li>预备说明意图</li><li>跟随说明惯性</li><li>跳前蹲打前收</li><li>落地后头发衣服继续</li><li>预备两到四帧试</li><li>先画正常比例</li><li>只夸张一处</li><li>删一条看还成不成立</li></ul><p>原则用对，观众看到的是角色在想什么；原则用多，观众看到的是你在炫技。</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>参考与延伸阅读</h2>
+<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
+<ul><li><span class="mono">[S12]</span> Britannica：动画</li><li><span class="mono">[S28]</span> Netflix 制作与交付帮助</li><li><span class="mono">[S34]</span> Adobe Premiere Pro 用户指南</li></ul>
+<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<!-- SOURCES_END -->

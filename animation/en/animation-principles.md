@@ -18,12 +18,16 @@ diagram_caption: "Do the three steps in order, then look again at the image or f
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
+authors: ["TVCN Animation Desk"]
 last_verified: 2026-11-20
 review_due: 2027-05-20
 related: [main.paths.first-film]
 depth: deep
 deep_minutes: 6
+sources: [S12, S28, S34]
+test_context: "Review setup: Windows 11; public Blender 4.x / After Effects 2025 workflows; not every version behaves the same."
+known_failures: "Known failures: plugin/version gaps break rigs or renders; font and asset licenses need separate checks."
+verified: 2026-11-22
 ---
 
 <p>The twelve principles are not filters. Use one to explain one action; otherwise the audience sees noise.</p>
@@ -61,3 +65,9 @@ deep_minutes: 6
 ### Ten principle checks
 <ul><li>Three principles per shot</li><li>Squash and stretch for material</li><li>Anticipation for intention</li><li>Follow-through for inertia</li><li>Crouch before jump, pull before punch</li><li>Hair and cloth continue after landing</li><li>Anticipation tested at two to four frames</li><li>Normal proportions first</li><li>Push one thing only</li><li>Remove one and test the action</li></ul><p>Right principles show what the character is thinking. Too many show you showing off.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>Sources</h2>
+<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
+<ul><li><span class="mono">[S12]</span> Britannica: Animation</li><li><span class="mono">[S28]</span> Netflix Partner Help</li><li><span class="mono">[S34]</span> Adobe Premiere Pro Guide</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<!-- SOURCES_END -->

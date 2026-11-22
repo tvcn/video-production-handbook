@@ -1,71 +1,43 @@
 ---
 id: context.law.ai-label-law.en
 site: context
-type: literacy
+type: article
 lang: en
 translation_key: context.law.ai-label-law
 translation_status: reviewed
-title: "AI Labeling: Check the Platform"
-summary: "Check platform and local rules before choosing a label placement; rules change, so recheck before delivery."
+title: "AI Content Labels: Explicit, Implicit, and Platform Duties"
+summary: "AI content is not compliant with a single “AI” tag. China mainland rules distinguish explicit and implicit labels, with duties for platforms, tool providers, and publishers; ads and news are stricter."
 slug: ai-label-law
 aliases: [ai-label-law]
 canonical_site: context
 canonical_path: /en/law/ai-label-law/
 status: published
 diagram: /images/diagrams/en/ai-label-law.svg
-diagram_alt: "AI Labeling: Check the Platform three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
-difficulty: beginner
-stage: field-note
-format: handbook
-authors: [editor]
+diagram_alt: "AI content labeling diagram"
+diagram_caption: "Diagram: generation tool, editing, and publishing each carry labeling duties."
+difficulty: intermediate
+stage: handbook
+format: law
+authors: ["TVCN Research Desk"]
+last_verified: 2026-11-22
+review_due: 2027-11-22
 sources: [S04, S05]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
-depth: deep
-deep_minutes: 7
+test_context: "Review setup: current China mainland statutes, platform rules and public cases; not legal advice."
+known_failures: "Known failures: platform rules and local enforcement change; counsel must confirm applicability."
+verified: 2026-11-22
 ---
 
-<p>Check platform and local rules before choosing a label placement; rules change, so recheck before delivery.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/ai-label-law.svg" alt="AI Labeling: Check the Platform three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/ai-label-law.svg" alt="AI content labeling diagram">
+  <figcaption>Diagram: generation tool, editing, and publishing each carry labeling duties.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Check platform and local rules. Put the label in the most visible place, whether opening, description, or corner, and recheck before delivery.</p>
-<h2>Do this</h2>
-<p>AI labeling starts with platform and regional rules, then decides opening, description, or corner mark; rules change, so recheck before delivery.</p><ol><li>Check current labeling rules for the platform and region.</li><li>Choose the most visible placement: opening, description, or corner.</li><li>Recheck before delivery because rules may have changed.</li></ol>
-<h2>Avoid</h2>
-<p>Do not hide the label in the last line of the description; if viewers miss it, it is not labeled.</p>
-<h2>Check</h2>
-<ul><li>Labeling rules come from current platform or regional documents with links.</li><li>The label sits in the most visible of opening, description, or corner.</li><li>A pre-delivery recheck is logged with its date.</li></ul>
-
+<h2>Scope</h2><p>This page covers general AI-generated content labeling in China mainland; it is not legal advice. Core rules include the interim measures for generative AI, the AI-generated content labeling measures, and supporting mandatory standards; check current texts. News, ads, health, and finance have extra rules.</p><h2>Key terms: explicit and implicit</h2><p><strong>Explicit</strong>: user-perceivable text/graphic/audio, e.g. an “AI-generated” corner tag, opening/closing statement, audio notice. It must be visible/audible, not hidden. <strong>Implicit</strong>: metadata, watermark, or fingerprint for platform/regulator identification. Tool providers add it at generation; platforms verify and retain. <strong>No removal/tampering</strong>: editors must not strip labels; re-synthesis needs a new label.</p><h2>Process: tool to publish</h2><p>Check whether the tool provides explicit/implicit labels and metadata under the rules. Keep generation records, prompts, model/version, and source assets. Before publishing, tick the platform’s AI declaration; ads/brand films add a closing text notice and assign labeling responsibility in the contract. Save platform review screenshots and metadata as evidence.</p><h2>Common disputes: four myths</h2><p><strong>“It is only assistive”</strong>: if generation/synthesis meets the definition, labeling may apply; “edited by a human” is not automatic exemption. <strong>“The platform labels it”</strong>: the publisher still has duties; platform labels do not replace your notice. <strong>“Face swap is a VFX”</strong>: real likeness/voice still needs clearances. <strong>“Delete metadata and nobody knows”</strong>: implicit labels and fingerprints may persist; intentional removal raises risk.</p><h2>Template: AI compliance pack</h2><p>Tool list and terms screenshots; model/version/date; prompts and generation log; human edit notes; explicit label placement (visual/audio/end card); implicit label and metadata screenshots; platform declaration; likeness/voice/music clearances; ad review materials; owner. Attach the pack to the project archive.</p><h2>Check</h2><ul><li>Explicit label is visible/audible.</li><li>Implicit label and metadata are retained.</li><li>Editing did not remove/tamper labels.</li><li>Re-synthesis is relabeled.</li><li>Platform declaration and screenshot archived.</li><li>Likeness/voice/music clearances complete.</li></ul>
 <!-- SOURCES_START -->
-## References
-
-- [S04] China's Interim Measures for Generative AI Services
-- [S05] EU AI Act policy page
-
-Full links and notes: [`SOURCES.md`](../../SOURCES.md).
+<h2>Sources</h2>
+<p class="source-types">Experience: editorial statute comparison and project reviews; tested: no lab measurement; references: the laws, platform rules and institutional texts below.</p>
+<ul><li><span class="mono">[S04]</span> China's Interim Measures for Generative AI Services</li><li><span class="mono">[S05]</span> EU AI Act policy page</li></ul>
+<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->
-
-<!-- DEEP_DIVE_START -->
-## Deep dive
-<p><strong>About 7 minutes.</strong> AI labeling is not a tiny line at the end. It tells the audience, before they watch, how the image was made.</p>
-### What counts as synthetic
-<p>Generated people, scenes, voices, dubbing, face swaps, and outpainting count as synthetic. Editing, grading, and noise reduction do not. The test is whether the frame contains an object that did not exist.</p><p>Even a small synthetic change that alters the facts needs a label: a sunny sky replaced, a passerby removed, a product logo added. Changing facts matters more than changing pixels.</p>
-### Label where it is seen
-<p>Use the platform's AI disclosure on upload. On your own site, put “this film contains AI-generated imagery” under the title or on the first frame, not only at the end of the description.</p><p>Say which part is AI: person, background, voice, whole shot. “Contains AI” alone does not tell the audience what to trust.</p>
-### Keep generation records
-<p>Keep prompts, model version, generation date, original output, and post steps. When a client asks, you can say which version is generated and which is live-action.</p><p>Do not mix synthetic material into news, testimony, medical, or financial high-risk contexts. If you cannot label it, do not use it. Labeling is an obligation, not an option.</p>
-### Five-minute drill: one label sentence
-<p>Take a film with AI and write one label: which section, which model, what was generated, what remains live-action. Under forty words, readable.</p><p>Put it under the first frame and show one person. If they can say which part is not live-action, the label works.</p>
-### When labeling is clear
-<p>Labeling is clear when the audience sees it before watching, can point to the generated section, can separate live-action from synthetic, and the platform disclosure matches the film. Four pass.</p><p>If they differ, rewrite. Do not hide behind “the platform already labeled it.” The platform records your claim; the audience trusts the film.</p>
-### Ten AI-label checks
-<ul><li>Generated people, scenes, voices are synthetic</li><li>Editing, grading, denoise are not</li><li>Small factual changes need labels</li><li>Use platform AI disclosure</li><li>Own site: under title or first frame</li><li>Say which part is AI</li><li>Keep prompts, model, date</li><li>No synthetic in high-risk contexts</li><li>Label under forty words</li><li>Platform and film match</li></ul><p>AI labeling is not a disclaimer. It tells the audience what in the frame to trust.</p>
-<!-- DEEP_DIVE_END -->

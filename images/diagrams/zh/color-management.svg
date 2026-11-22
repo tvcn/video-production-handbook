@@ -1,11 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="三步流程">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="色彩管线：输入—工作空间—显示—交付">
 <rect width="1280" height="720" fill="#f4f1eb"/>
 <rect x="0" y="0" width="1280" height="8" fill="#8d6a3f"/>
-<text x="54" y="58" fill="#8d6a3f" font-family="ui-monospace,Consolas,monospace" font-size="13" font-weight="700" letter-spacing="2">TVCN / THREE STEPS / 082</text>
-<text x="54" y="112" fill="#171513" font-family="Noto Sans SC,Microsoft YaHei,sans-serif" font-size="34" font-weight="700"><tspan x="54" dy="0">色彩管理：先管好输入输出</tspan></text>
-<text x="1226" y="112" text-anchor="end" fill="#6f675d" font-family="ui-monospace,Consolas,monospace" font-size="12">COLOR</text>
-<rect x="54" y="224" width="368" height="378" rx="12" fill="#fffdf8" stroke="#171513" stroke-opacity=".16"/><text x="82" y="268" fill="#8d6a3f" font-family="ui-monospace,Consolas,monospace" font-size="14" font-weight="700">STEP 01</text><circle cx="96" cy="316" r="23" fill="#8d6a3f"/><text x="96" y="324" text-anchor="middle" fill="#fff" font-family="ui-monospace,Consolas,monospace" font-size="18" font-weight="700">1</text><text x="82" y="376" fill="#171513" font-family="Noto Sans SC,Microsoft YaHei,sans-serif" font-size="27" font-weight="600"><tspan x="82" dy="0">先统一曝光和白平衡。</tspan></text><text x="82" y="433" fill="#6f675d" font-family="ui-sans-serif,system-ui,sans-serif" font-size="15"><tspan x="82" dy="0">Match exposure and white</tspan><tspan x="82" dy="21">balance first.</tspan></text><rect x="452" y="224" width="368" height="378" rx="12" fill="#fffdf8" stroke="#171513" stroke-opacity=".16"/><text x="480" y="268" fill="#8d6a3f" font-family="ui-monospace,Consolas,monospace" font-size="14" font-weight="700">STEP 02</text><circle cx="494" cy="316" r="23" fill="#8d6a3f"/><text x="494" y="324" text-anchor="middle" fill="#fff" font-family="ui-monospace,Consolas,monospace" font-size="18" font-weight="700">2</text><text x="480" y="376" fill="#171513" font-family="Noto Sans SC,Microsoft YaHei,sans-serif" font-size="27" font-weight="600"><tspan x="480" dy="0">再匹配同一场戏的肤色。</tspan></text><text x="480" y="433" fill="#6f675d" font-family="ui-sans-serif,system-ui,sans-serif" font-size="15"><tspan x="480" dy="0">Match skin within the scene.</tspan></text><rect x="850" y="224" width="368" height="378" rx="12" fill="#fffdf8" stroke="#171513" stroke-opacity=".16"/><text x="878" y="268" fill="#8d6a3f" font-family="ui-monospace,Consolas,monospace" font-size="14" font-weight="700">STEP 03</text><circle cx="892" cy="316" r="23" fill="#8d6a3f"/><text x="892" y="324" text-anchor="middle" fill="#fff" font-family="ui-monospace,Consolas,monospace" font-size="18" font-weight="700">3</text><text x="878" y="376" fill="#171513" font-family="Noto Sans SC,Microsoft YaHei,sans-serif" font-size="27" font-weight="600"><tspan x="878" dy="0">最后只加一个风格方向。</tspan></text><text x="878" y="433" fill="#6f675d" font-family="ui-sans-serif,system-ui,sans-serif" font-size="15"><tspan x="878" dy="0">Add one direction of style</tspan><tspan x="878" dy="21">last.</tspan></text>
+<text x="54" y="58" fill="#8d6a3f" font-family="ui-monospace,Consolas,monospace" font-size="13" font-weight="700" letter-spacing="2">COLOR</text>
+<text x="1226" y="58" text-anchor="end" fill="#6f675d" font-family="ui-monospace,Consolas,monospace" font-size="12">TECHNICAL PLATE / COLOR</text>
+<rect x="54.0" y="258" width="204.8" height="148" rx="18" fill="#8d6a3f" fill-opacity=".08" stroke="#8d6a3f" stroke-opacity=".35"/>
+<text x="72.0" y="294" fill="#8d6a3f" font-family="ui-monospace,Consolas,monospace" font-size="11">01</text>
+<foreignObject x="72.0" y="312" width="168.8" height="80">
+  <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Noto Sans SC,Microsoft YaHei,sans-serif;font-size:16px;line-height:1.5;color:#171513;font-weight:600">输入变换</div>
+</foreignObject><path d="M262.8 332 h14" stroke="#8d6a3f" stroke-width="2"/><path d="M274.8 327 l6 5 -6 5" fill="#8d6a3f"/><rect x="282.8" y="258" width="204.8" height="148" rx="18" fill="#8d6a3f" fill-opacity=".08" stroke="#8d6a3f" stroke-opacity=".35"/>
+<text x="300.8" y="294" fill="#8d6a3f" font-family="ui-monospace,Consolas,monospace" font-size="11">02</text>
+<foreignObject x="300.8" y="312" width="168.8" height="80">
+  <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Noto Sans SC,Microsoft YaHei,sans-serif;font-size:16px;line-height:1.5;color:#171513;font-weight:600">工作空间</div>
+</foreignObject><path d="M491.6 332 h14" stroke="#8d6a3f" stroke-width="2"/><path d="M503.6 327 l6 5 -6 5" fill="#8d6a3f"/><rect x="511.6" y="258" width="204.8" height="148" rx="18" fill="#8d6a3f" fill-opacity=".08" stroke="#8d6a3f" stroke-opacity=".35"/>
+<text x="529.6" y="294" fill="#8d6a3f" font-family="ui-monospace,Consolas,monospace" font-size="11">03</text>
+<foreignObject x="529.6" y="312" width="168.8" height="80">
+  <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Noto Sans SC,Microsoft YaHei,sans-serif;font-size:16px;line-height:1.5;color:#171513;font-weight:600">风格/创意 LUT</div>
+</foreignObject><path d="M720.4000000000001 332 h14" stroke="#8d6a3f" stroke-width="2"/><path d="M732.4000000000001 327 l6 5 -6 5" fill="#8d6a3f"/><rect x="740.4000000000001" y="258" width="204.8" height="148" rx="18" fill="#8d6a3f" fill-opacity=".08" stroke="#8d6a3f" stroke-opacity=".35"/>
+<text x="758.4000000000001" y="294" fill="#8d6a3f" font-family="ui-monospace,Consolas,monospace" font-size="11">04</text>
+<foreignObject x="758.4000000000001" y="312" width="168.8" height="80">
+  <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Noto Sans SC,Microsoft YaHei,sans-serif;font-size:16px;line-height:1.5;color:#171513;font-weight:600">显示变换</div>
+</foreignObject><path d="M949.2 332 h14" stroke="#8d6a3f" stroke-width="2"/><path d="M961.2 327 l6 5 -6 5" fill="#8d6a3f"/><rect x="969.2" y="258" width="204.8" height="148" rx="18" fill="#8d6a3f" fill-opacity=".08" stroke="#8d6a3f" stroke-opacity=".35"/>
+<text x="987.2" y="294" fill="#8d6a3f" font-family="ui-monospace,Consolas,monospace" font-size="11">05</text>
+<foreignObject x="987.2" y="312" width="168.8" height="80">
+  <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Noto Sans SC,Microsoft YaHei,sans-serif;font-size:16px;line-height:1.5;color:#171513;font-weight:600">交付变换</div>
+</foreignObject><foreignObject x="54" y="610" width="1120" height="36"><div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Noto Sans SC,Microsoft YaHei,sans-serif;font-size:13px;line-height:1.5;color:#6f675d">示意：每个箭头都是一次转换；把风格 LUT 放在输入前，会把所有素材一起压坏。</div></foreignObject>
 <line x1="54" y1="654" x2="1226" y2="654" stroke="#171513" stroke-opacity=".14"/>
-<text x="54" y="686" fill="#6f675d" font-family="ui-monospace,Consolas,monospace" font-size="12">TVCN / LOCAL FIELD NOTE</text>
-<text x="1226" y="686" text-anchor="end" fill="#6f675d" font-family="Noto Sans SC,Microsoft YaHei,sans-serif" font-size="12">三步做完，再回看画面</text>
+<text x="54" y="686" fill="#6f675d" font-family="ui-monospace,Consolas,monospace" font-size="12">TVCN / TECHNICAL DIAGRAM</text>
+<text x="1226" y="686" text-anchor="end" fill="#6f675d" font-family="Noto Sans SC,Microsoft YaHei,sans-serif" font-size="12">示意图，不是现场记录</text>
 </svg>

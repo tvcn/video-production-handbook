@@ -16,7 +16,7 @@ difficulty: beginner
 stage: animate
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN 动画组"]
 reviewers: [technical-reviewer]
 cover: /images/animation/2d-animation.webp
 diagram: /images/diagrams/zh/2d-animation.png
@@ -28,6 +28,10 @@ source_kind: experience
 related: []
 depth: deep
 deep_minutes: 7
+sources: [S12, S28, S34]
+test_context: "复核环境：Windows 11；Blender 4.x / After Effects 2025 公开流程；不声称所有版本一致。"
+known_failures: "已知失败：插件/版本差异导致绑定或渲染失败；字体授权与素材版权需单独核对。"
+verified: 2026-11-22
 ---
 
 <!-- DIAGRAM_START -->
@@ -81,3 +85,9 @@ deep_minutes: 7
 ### 二维动画，十项检查
 <ul><li>先画三个关键帧</li><li>关键帧能讲清动作</li><li>转折帧先画接触</li><li>身体头发衣服分层</li><li>头发衣摆延迟</li><li>循环先做四张</li><li>检查脚滑</li><li>先定帧率再画细节</li><li>停顿说明重量</li><li>每版记录帧数</li></ul><p>二维动画的功夫不在画得细，在关键帧和帧数能不能让动作成立。</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<h2>参考与延伸阅读</h2>
+<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
+<ul><li><span class="mono">[S12]</span> Britannica：动画</li><li><span class="mono">[S28]</span> Netflix 制作与交付帮助</li><li><span class="mono">[S34]</span> Adobe Premiere Pro 用户指南</li></ul>
+<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<!-- SOURCES_END -->

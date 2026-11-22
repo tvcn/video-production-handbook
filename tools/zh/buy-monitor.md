@@ -5,38 +5,39 @@ type: article
 lang: zh
 translation_key: tools.guide.buy-monitor
 translation_status: source
-title: "监看怎么买：亮度与 LUT"
-summary: "监看器先看亮度、色域和 LUT 支持；亮度不够，户外等于盲拍。"
+title: "购买监视器：亮度、色域与延迟"
+summary: "监视器不是“外接大屏”。现场要亮到看得见、色彩要能校准、延迟要能对焦；三项任何一项不够，都还不如机头屏。"
 slug: buy-monitor
 aliases: [buy-monitor]
 canonical_site: tools
 canonical_path: /guide/buy-monitor/
 status: published
 diagram: /images/diagrams/zh/buy-monitor.svg
-diagram_alt: "监看怎么买：亮度与 LUT 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
-difficulty: beginner
-stage: field-note
-format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+diagram_alt: "购买监视器专题图解"
+diagram_caption: "示意：亮度、色域、LUT、延迟、接口，五项决定现场能不能信它。"
+difficulty: intermediate
+stage: handbook
+format: guide
+authors: ["TVCN 工具组"]
+last_verified: 2026-11-22
+review_due: 2027-11-22
+sources: [S23, S25, S26, S29, S38]
+test_context: "复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。"
+known_failures: "已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。"
+verified: 2026-11-22
 ---
 
-<p>监看器先看亮度、色域和 LUT 支持；亮度不够，户外等于盲拍。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/buy-monitor.svg" alt="监看怎么买：亮度与 LUT 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/buy-monitor.svg" alt="购买监视器专题图解">
+  <figcaption>示意：亮度、色域、LUT、延迟、接口，五项决定现场能不能信它。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>先看 1000 nits、Rec.709 覆盖和 LUT；户外可读性比分辨率重要。</p>
-<h2>怎么做</h2>
-<p>监看先看亮度、色域、LUT；亮度不够，户外等于盲拍。</p><ol><li>亮度至少 1000 nits，支持 Rec.709 和 HLG。</li><li>有波形、假色和 LUT，接口匹配你的机器。</li><li>带遮光罩和 NP-F 电池，户外试看十分钟。</li></ol>
-<h2>别踩</h2>
-<p>别只看分辨率；户外看不清，4K 也没用。</p>
-<h2>验收</h2>
-<ul><li>至少 1000 nits，支持 Rec.709 和 HLG。</li><li>波形、假色、LUT 和接口都匹配。</li><li>带遮光罩和 NP-F 电池，户外看过十分钟。</li></ul>
+<h2>先判断：你缺的是哪一环</h2><p>室内监看 500 nit 够；户外必须 1000 nit 以上或加遮光罩。只看参数不够，带相机去店里，接上自己的 Log 素材，加载一个 LUT，拍移动物体看延迟。</p><p><strong>适合：</strong></p><ul><li>外景/高光环境，需要高亮</li><li>调色/多机位，需要 LUT 与校准</li><li>跟焦，需要低延迟</li></ul><p><strong>不适合：</strong></p><ul><li>室内固定机位，机头屏够用</li><li>只用来给客户看，不需要校准</li><li>预算极低，先买灯/麦</li></ul><h2>测试口径：可复现，不写假跑分</h2><p>把监视器带到窗边/户外，看 1000 nit 是否还能看清暗部；接相机加载项目 LUT，对比机头屏；拍一个横向移动物体，看画面是否拖尾。</p><div class="table-scroll"><table class="data-table"><thead><tr><th>检查项</th><th>通过线</th><th>参考/记录</th></tr></thead><tbody><tr><td>亮度</td><td>户外日光下暗部可见</td><td>窗边/户外</td></tr><tr><td>色域</td><td>Rec.709 色卡无明显偏色</td><td>校准后色卡</td></tr><tr><td>LUT</td><td>3D LUT 加载正确</td><td>Log 素材</td></tr><tr><td>延迟</td><td>移动物体无明显滞后</td><td>横移/手挥</td></tr><tr><td>接口</td><td>SDI/HDMI 与锁定供电</td><td>现场接线</td></tr></tbody></table></div><h2>价格带：先看总拥有成本</h2><p>不只看标价，还要看卡、电池、转接、云台、灯架、软件订阅和维修。以下按“能完成一类真实项目”的最低配置分档，不是入门玩具价。</p><div class="table-scroll"><table class="data-table"><thead><tr><th>档位</th><th>参考价</th><th>包含</th><th>注意</th></tr></thead><tbody><tr><td>入门</td><td>1,000–3,000</td><td>5–7 寸、500 nit、HDMI</td><td>户外与校准有限</td></tr><tr><td>主力</td><td>3,000–8,000</td><td>7 寸、1000 nit、SDI、LUT</td><td>电池/遮光罩另算</td></tr><tr><td>进阶</td><td>8,000–25,000</td><td>高亮、广色域、专业校准</td><td>套件与供电</td></tr></tbody></table></div><p>价格为 2026 年 11 月中国大陆渠道参考，含税与否以实际报价为准；不构成购买建议。</p><h2>替代与升级：别在错误的轴上加钱</h2><ul><li>机头屏 + 遮光罩</li><li>租高亮监视器</li><li>先买录机带监看</li></ul><h2>购买执行：带片子去，不带参数去</h2><p>下单前按顺序做一遍；任何一步失败，都不要用“后期能修”说服自己。</p><ol><li>带相机和 Log 素材</li><li>窗边看 1000 nit</li><li>加载 3D LUT 对比</li><li>拍移动物体看延迟</li><li>确认 SDI/供电接口</li></ol><h2>验收</h2><ul><li>户外能看清暗部。</li><li>Rec.709 可校准。</li><li>3D LUT 加载正确。</li><li>对焦无明显延迟。</li><li>SDI/HDMI 与供电锁定。</li><li>电池/遮光罩算进总价。</li></ul>
+<!-- SOURCES_START -->
+<h2>参考与延伸阅读</h2>
+<p class="source-types">经验来源：编辑部现场手册与购买检查表；实测来源：短测与公开规格核对，不是实验室跑分；参考来源：以下厂商与标准链接。</p>
+<ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube 上传规格</li><li><span class="mono">[S38]</span> 国家税务总局</li></ul>
+<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<!-- SOURCES_END -->
