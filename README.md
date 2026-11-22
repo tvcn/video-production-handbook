@@ -146,7 +146,7 @@ node scripts/check-content.mjs
 
 This is the bilingual content repository for the TVCN video-knowledge site. It contains
 928 Markdown files in 464 zh/en pairs, grouped into 9 content sites,
-plus 928 local diagram assets. Every document carries a `diagram` field and a
+plus 928 diagram references backed by 394 SVG files. Every document carries a `diagram` field and a
 `<!-- DIAGRAM_START -->` figure block. `status` is an explicit publication signal; currently
 928 of 928 files are published. The machine-readable index is [`index.json`](index.json); the human-readable table of contents is
 [`INDEX.md`](INDEX.md). 83 pairs carry `depth: deep` and a `<!-- DEEP_DIVE_START -->` block,
