@@ -1,7 +1,7 @@
 # TVCN 内容仓索引 / Content Index
 
-> 928 个 Markdown，464 对中英内容，9 个内容站，928 篇 published，928 张本地图解。
-> 928 Markdown files, 464 bilingual pairs, 9 content sites, 928 published, 928 local diagrams.
+> 928 个 Markdown，464 对中英内容，9 个内容站，928 篇 published，928 个图解引用（394 个 SVG）。
+> 928 Markdown files, 464 bilingual pairs, 9 content sites, 928 published, 928 diagram references (394 SVG files).
 
 本页由 `build/make-content-index.py` 生成；不要手改。机器可读版本见 [`index.json`](index.json)，仓库说明见 [`README.md`](README.md)。
 
