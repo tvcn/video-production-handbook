@@ -5,23 +5,29 @@ type: article
 lang: en
 translation_key: formats.interview.interview-breakdown
 translation_status: reviewed
-title: "Interview Breakdown: Make a Person Land in Three Minutes"
-summary: "A nine-beat breakdown of a three-minute interview: answer hook, person at work, question one, evidence, question two, turn, context, close, hold."
+title: 'Interview Breakdown: Make a Person Land in Three Minutes'
+summary: 'A nine-beat breakdown of a three-minute interview: answer hook, person at work, question one, evidence, question two, turn, context, close, hold.'
 slug: interview-breakdown
-aliases: [interview-breakdown]
+aliases:
+- interview-breakdown
 canonical_site: formats
-canonical_path: /en/interview/interview-breakdown/
+canonical_path: /en/article/interview-breakdown/
 status: published
 diagram: /images/diagrams/en/interview-breakdown.svg
-diagram_alt: "Interview Breakdown: Make a Person Land in Three Minutes: timecode, structure, and budget worksheet"
-diagram_caption: "The diagram is an entry point: watch the timecodes, then use the checks at the end."
+diagram_alt: 'Interview Breakdown: Make a Person Land in Three Minutes: timecode, structure, and budget worksheet'
+diagram_caption: 'The diagram is an entry point: watch the timecodes, then use the checks at the end.'
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN Formats Desk
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [formats.talking-head.talking-head-breakdown, formats.documentary.documentary-breakdown, main.path.path-live-film]
+related:
+- formats.talking-head.talking-head-breakdown.en
+- formats.documentary.documentary-breakdown.en
+- formats.news.news-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

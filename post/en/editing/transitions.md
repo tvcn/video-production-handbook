@@ -11,13 +11,13 @@ summary: "A dissolve, a fade, a wipe is not decoration. Every transition answers
 slug: transitions
 aliases: [transitions, dissolve, fade, match cut]
 canonical_site: post
-canonical_path: /en/editing/transitions/
+canonical_path: /en/article/transitions/
 status: published
 difficulty: intermediate
 stage: post
 format: short-film
 tools: [edit]
-authors: [editor]
+authors: ["TVCN Post Desk"]
 reviewers: [technical-reviewer]
 cover: /images/post/transitions.webp
 diagram: /images/diagrams/en/transitions.png
@@ -26,7 +26,7 @@ diagram_caption: "A transition is not decoration; it answers “how long, where.
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [post.editing.cutting-points, post.sound.sound-bridge]
+related: [post.editing.sound-bridge.en, post.sound.room-tone.en, post.editing.mix-dialogue.en]
 ---
 
 <!-- DIAGRAM_START -->

@@ -10,13 +10,13 @@ summary: 走路看起来难，是因为脚会滑、重心不对、手脚同拍�
 slug: animation-walk
 aliases: [animation-walk, 走路循环, walk cycle]
 canonical_site: animation
-canonical_path: /2d/animation-walk/
+canonical_path: /article/animation-walk/
 status: published
 difficulty: beginner
 stage: post
 format: animation
 tools: []
-authors: [editor]
+authors: ["TVCN 动画组"]
 reviewers: [technical-reviewer]
 cover: /images/animation/animation-walk.webp
 diagram: /images/diagrams/zh/animation-walk.png
@@ -25,7 +25,7 @@ diagram_caption: "脚落地后要钉住，胯要有高低。四个姿势对了�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [animation.2d.animation-timing, animation.2d.2d-animation]
+related: [animation.timing.animation-timing.en, animation.2d.2d-animation.en, animation.pipeline.animatic-pipeline.en]
 depth: deep
 deep_minutes: 6
 ---

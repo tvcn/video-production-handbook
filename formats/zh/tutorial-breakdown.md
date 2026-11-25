@@ -5,23 +5,29 @@ type: article
 lang: zh
 translation_key: formats.tutorial.tutorial-breakdown
 translation_status: source
-title: "教程拉片：5 分钟怎么让人学会"
-summary: "按 5 分钟教程的通用结构，拆 10 个时间码：结果、材料、三步、检查、失败、复盘、下一步、行动。"
+title: 教程拉片：5 分钟怎么让人学会
+summary: 按 5 分钟教程的通用结构，拆 10 个时间码：结果、材料、三步、检查、失败、复盘、下一步、行动。
 slug: tutorial-breakdown
-aliases: [tutorial-breakdown]
+aliases:
+- tutorial-breakdown
 canonical_site: formats
-canonical_path: /tutorial/tutorial-breakdown/
+canonical_path: /article/tutorial-breakdown/
 status: published
 diagram: /images/diagrams/zh/tutorial-breakdown.svg
-diagram_alt: "教程拉片：5 分钟怎么让人学会：时间码、结构与预算拉片工作纸"
-diagram_caption: "图解是入口：先看时间码，再用文末验收表检查。"
+diagram_alt: 教程拉片：5 分钟怎么让人学会：时间码、结构与预算拉片工作纸
+diagram_caption: 图解是入口：先看时间码，再用文末验收表检查。
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN 片型组
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [formats.talking-head.talking-head-breakdown, formats.product-ad.product-ad-breakdown, main.path.path-post]
+related:
+- formats.talking-head.talking-head-breakdown.en
+- formats.music-video.music-video-breakdown.en
+- formats.interview.interview-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

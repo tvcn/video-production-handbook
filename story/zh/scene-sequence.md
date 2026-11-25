@@ -5,43 +5,43 @@ type: article
 lang: zh
 translation_key: story.story.scene-sequence
 translation_status: source
-title: "场景序列：三场戏推一个变化"
-summary: "一场戏只完成一个变化，三场戏连起来才推得动一个段落。"
+title: 场景序列：三场戏推一个变化
+summary: 一场戏只完成一个变化，三场戏连起来才推得动一个段落。
 slug: scene-sequence
-aliases: [scene-sequence]
+aliases:
+- scene-sequence
 canonical_site: story
-canonical_path: /story/scene-sequence/
+canonical_path: /article/scene-sequence/
 status: published
 diagram: /images/diagrams/zh/scene-sequence.svg
-diagram_alt: "场景序列：三场戏推一个变化 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 场景序列：三场戏推一个变化的结构示意图。
+diagram_caption: 看“第一场提出目标，让观众知道人物要什么”和“第二场让目标受阻，条件变坏”两处，判断人物想要的東西能不能用一个动作说出来。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 故事组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- story.story.midpoint-turn.en
+- story.story.theme-through-action.en
+- story.story.ending-choice.en
 depth: deep
 deep_minutes: 6
+source_kind: experience
 ---
 
-<p>一场戏只完成一个变化，三场戏连起来才推得动一个段落。</p>
+<p>三场戏不是三个场景，而是三次状态改变。每场开始写“人物进场时想要什么”，结束写“离场时什么已经不一样”；两行之间必须能画出一个动作。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/scene-sequence.svg" alt="场景序列：三场戏推一个变化 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/scene-sequence.svg" alt="场景序列：三场戏推一个变化的结构示意图。">
+  <figcaption>看“第一场提出目标，让观众知道人物要什么”和“第二场让目标受阻，条件变坏”两处，判断人物想要的東西能不能用一个动作说出来。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>把段落拆成三场：第一场提出目标，第二场让目标受阻，第三场逼出一个选择。每场结尾必须改变下一场的条件。</p>
-<h2>怎么做</h2>
-<p>一场戏只完成一个变化，三场戏连起来才推得动一个段落。</p><ol><li>第一场提出目标，让观众知道人物要什么。</li><li>第二场让目标受阻，条件变坏。</li><li>第三场逼出一个选择，并改变下一场的条件。</li></ol>
-<h2>别踩</h2>
-<p>别让三场戏都在重复同一个信息；没有条件变化，段落推不动。</p>
-<h2>验收</h2>
-<ul><li>三场各有一个变化，能用“从什么变成什么”说清。</li><li>每场结尾都改变了下一场的条件。</li><li>删掉任意一场，段落会断，而不是只少一点热闹。</li></ul>
+<section><h2 id="section-1">一场只推一个变化</h2><p>场与场之间用动作接，不用字幕接：他关门离场，下一场从门外开始；她把杯子放下，下一场杯子已经在别人手里。</p><h2 id="section-2">边界</h2><p>如果一场戏删掉后故事仍然成立，它就不是序列的一部分，只是气氛。先删，再谈节奏。</p></section><section><h2 id="section-3">现场</h2><p>把段落拆成三场：第一场提出目标，第二场让目标受阻，第三场逼出一个选择。每场结尾必须改变下一场的条件。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>第一场提出目标，让观众知道人物要什么。</li><li>第二场让目标受阻，条件变坏。</li><li>第三场逼出一个选择，并改变下一场的条件。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别让三场戏都在重复同一个信息；没有条件变化，段落推不动。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>人物的目标能用一个动作说出来</li><li>障碍在同一场里升级，而不是换一个</li><li>删掉一句解释对白，冲突仍然成立</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>人物想要什么没写清，场面只剩情绪</li><li>障碍靠巧合解决，人物没有做决定</li><li>对白把画面已经说明的事再说一遍</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>写一页 30 秒的场景，只保留“第一场提出目标，让观众知道人物要什么”和“第二场让目标受阻，条件变坏”，删掉所有解释；请一个人读一遍，问他能不能复述人物想要什么。</p></section>
+<h2>验收</h2><ul><li>三场各有一个变化，能用“从什么变成什么”说清。</li><li>每场结尾都改变了下一场的条件。</li><li>删掉任意一场，段落会断，而不是只少一点热闹。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读
@@ -57,3 +57,5 @@ deep_minutes: 6
 ### 场景序列，十项检查
 <ul><li>每场只回答一个主问题</li><li>结尾处境和开头不同</li><li>第一场建立常态</li><li>第二场打破旧办法</li><li>第三场做出新选择</li><li>每场结尾改变下一场条件</li><li>三场方法不一样</li><li>每场加一个新限制</li><li>用重复道具或动作串联</li><li>三句话连读不重复</li></ul><p>序列不是三场戏排队，是三场戏互相逼出下一步。</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<aside class="article-sources experience-source" data-source-kind="experience"><div class="article-credit-head"><p class="eyebrow">来源 / Sources</p><span class="mono">经验来源</span></div><p class="source-types">经验来源：TVCN 现场手册与编辑复核；本文未做实验室实测，也没有外部数据引用。</p></aside>

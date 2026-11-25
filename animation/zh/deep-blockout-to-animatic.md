@@ -1,0 +1,55 @@
+---
+id: animation.deep.deep-blockout-to-animatic
+site: animation
+type: article
+lang: zh
+translation_key: animation.deep.deep-blockout-to-animatic
+translation_status: source
+title: 从 Blockout 到 Animatic：一条可审的动画链
+summary: 先看空间和时长，再看表演；blockout 与 animatic 是两道不同的审片门。
+slug: deep-blockout-to-animatic
+aliases:
+- deep-blockout-to-animatic
+canonical_site: animation
+canonical_path: /article/deep-blockout-to-animatic/
+status: published
+diagram: /images/diagrams/zh/deep-blockout-to-animatic.svg
+diagram_alt: 从 Blockout 到 Animatic：一条可审的动画链的结构示意图。
+diagram_caption: 看“Blockout：先定比例和机位”和“Animatic：配音、定时、改镜头”两处，先定条件，再看失败能不能被记录下来。
+difficulty: intermediate
+stage: deep-guide
+depth: deep
+deep_minutes: 9
+format: deep-guide
+authors:
+- TVCN 编辑部
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- animation.3d.blockout
+- animation.pipeline.animatic-pipeline
+- animation.3d.modeling
+sources:
+- S12
+source_kind: sourced
+---
+
+<p>先看空间和时长，再看表演；blockout 与 animatic 是两道不同的审片门。 单看《Blockout：先定比例和机位》只能解决一个局部；把《Blockout：先定比例和机位》《Animatic：配音、定时、改镜头》《建模：面数与轮廓》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
+<!-- DEEP_DIVE_START -->
+<!-- DIAGRAM_START -->
+<h2>图解</h2>
+<figure>
+  <img src="/images/diagrams/zh/deep-blockout-to-animatic.svg" alt="从 Blockout 到 Animatic：一条可审的动画链的结构示意图。">
+  <figcaption>看“Blockout：先定比例和机位”和“Animatic：配音、定时、改镜头”两处，先定条件，再看失败能不能被记录下来。</figcaption>
+</figure>
+<!-- DIAGRAM_END -->
+
+
+
+<section><h2 id="section-1">问题</h2><p>这一页的问题不是“方法不够多”，而是三个环节各自成立、合起来却不成立：条件没写、变量太多、结果不能复现。</p><p>本页按“先定条件—再做判断—只改一个变量—留下证据”的顺序；每一步都能被下一个人复述，才算完成。</p></section>
+<section><h2 id="section-2">判断</h2><ul><li>《Blockout：先定比例和机位》的第一道门槛：盒子人能看出头、胸、骨盆三块比例</li><li>《Animatic：配音、定时、改镜头》的第二道门槛：机位和 10 秒时长已经锁死，有截图和参数</li><li>《建模：面数与轮廓》的第三道门槛：最终镜头与 blockout 机位一致，没有中途换构图</li></ul><p>三条里有一条不成立，就先回到对应单页；不要用整条链掩盖一个没解决的单点。</p></section>
+<section><h2 id="section-3">做法</h2><ol><li>先写条件：把《Blockout：先定比例和机位》里“用盒子人定比例：头、胸、骨盆三块”落到一张三行表：素材、环境、验收。</li><li>再做一次最小动作：只按《Blockout：先定比例和机位》的步骤做 30 秒，不加入第二页的方法。</li><li>把《Animatic：配音、定时、改镜头》的步骤接上：先锁机位和 10 秒时长。</li><li>用《建模：面数与轮廓》做对照：比例和机位确认后再进建模。</li><li>每改一次只动一个变量；其他条件写进记录，不靠记忆。</li><li>把失败也拍下来：失败版本和成功版本并排，才知道哪一步不能省。</li><li>让下一个人按记录复现一次；他做不出来，说明记录还不够。</li></ol></section>
+<section><h2 id="section-4">现场案例</h2><p>可复现实验（不是客户案例）：拿 30 秒素材，先按《Blockout：先定比例和机位》的“盒子人能看出头、胸、骨盆三块比例”做 A 版；再按《Animatic：配音、定时、改镜头》的“机位和 10 秒时长已经锁死，有截图和参数”做 B 版；两版只允许一个变量不同。把两版并排看，记录《建模：面数与轮廓》里最先崩的是哪一项：条件、动作还是验收。如果一次就成功，说明变量还不够多，再加一个现实限制重做。</p></section>
+<section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别在机位没锁时做表演；一定返工</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别先画完再配音；语速一改，所有镜头都要重排</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别用细分救轮廓；剪影不对，面数再多也不像</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
+<section><h2 id="section-6">验收</h2><ul><li>盒子人能看出头、胸、骨盆三块比例。</li><li>机位和 10 秒时长已经锁死，有截图和参数。</li><li>最终镜头与 blockout 机位一致，没有中途换构图。</li><li>方盒定人和门的高度</li><li>先定距离关系</li><li>用实际焦距看构图</li><li>主镜头反打细节三个机位</li><li>代理人物走一遍</li><li>配音按真实语速录好，每镜秒数来自它。</li><li>总时长不超过目标 110%，时间先锁死。</li></ul></section>
+<section><h2 id="section-7">替代方案</h2><ul><li>只处理《Blockout：先定比例和机位》里的单点问题：回到<a href="https://animation.tvcn.org/article/blockout/">《Blockout：先定比例和机位》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://animation.tvcn.org/article/animatic-pipeline/">《Animatic：配音、定时、改镜头》</a>，先不改第三页。</li><li>只做验收：看<a href="https://animation.tvcn.org/article/modeling/">《建模：面数与轮廓》</a>，把判断表拿去做自测。</li></ul></section>

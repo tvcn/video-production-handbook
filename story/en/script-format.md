@@ -5,43 +5,46 @@ type: article
 lang: en
 translation_key: story.screenplay.script-format
 translation_status: reviewed
-title: "Script Format: Make the Whole Crew Read It the Same Way"
-summary: "Script format is not for a literary prize; it helps camera, sound, and edit find information at a glance."
+title: 'Script Format: Make the Whole Crew Read It the Same Way'
+summary: Script format is not for a literary prize; it helps camera, sound, and edit
+  find information at a glance.
 slug: script-format
-aliases: [script-format]
+aliases:
+- script-format
 canonical_site: story
-canonical_path: /en/screenplay/script-format/
+canonical_path: /en/article/script-format/
 status: published
 diagram: /images/diagrams/en/script-format.svg
-diagram_alt: "Script Format: Make the Whole Crew Read It the Same Way three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Script Format: Make the Whole Crew Read It.'
+diagram_caption: Watch “Open every scene with interior or exterior, location,” and
+  “Keep action blocks under four lines; capitalize a”; judge whether the want can
+  be said with one visible action.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Story Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- story.screenplay.scene-description.en
+- story.storyboard.shot-sheet.en
+- story.directing.rehearsal.en
 depth: deep
 deep_minutes: 6
+source_kind: experience
 ---
 
-<p>Script format is not for a literary prize; it helps camera, sound, and edit find information at a glance.</p>
+<p>Format exists so the director, camera, sound and editor can find scene, action, dialogue and time on the same page. The slug line states location and time; action describes only what the camera can see; the character name sits above the line.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/script-format.svg" alt="Script Format: Make the Whole Crew Read It the Same Way three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/script-format.svg" alt="Structure diagram for Script Format: Make the Whole Crew Read It.">
+  <figcaption>Watch “Open every scene with interior or exterior, location,” and “Keep action blocks under four lines; capitalize a”; judge whether the want can be said with one visible action.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Start each scene with interior or exterior, location, and time. Keep action blocks under four lines and capitalize a character name on first appearance. The sound team needs to know when the door opens.</p>
-<h2>Do this</h2>
-<p>Script format is not for a literary prize; it helps camera, sound, and edit find information at a glance.</p><ol><li>Open every scene with interior or exterior, location, and time.</li><li>Keep action blocks under four lines; capitalize a character name on first appearance.</li><li>Put door, phone, and footstep cues into the action so sound knows what to capture.</li></ol>
-<h2>Avoid</h2>
-<p>Do not write a novel; if the crew cannot find scene numbers and sound cues, the set will miss them.</p>
-<h2>Check</h2>
-<ul><li>Every scene has interior or exterior, location, and time with continuous numbering.</li><li>Action blocks stay under four lines and first character names are capitalized.</li><li>Sound can mark at least three cues to record from the script.</li></ul>
+<section><h2 id="section-1">A script is a working document</h2><p>Do not put unfilmable psychology in dialogue. Change “she is hesitant” into “she picks up the keys, then puts them back.”</p><h2 id="section-2">Limits</h2><p>A short film script does not need every shot, but every scene needs a want, an obstacle and a turn. Pretty format cannot save a scene with none of the three.</p></section><section><h2 id="section-3">On set</h2><p>Start each scene with interior or exterior, location, and time. Keep action blocks under four lines and capitalize a character name on first appearance. The sound team needs to know when the door opens.</p></section><section><h2 id="section-4">Do this</h2><ol><li>Open every scene with interior or exterior, location, and time.</li><li>Keep action blocks under four lines; capitalize a character name on first appearance.</li><li>Put door, phone, and footstep cues into the action so sound knows what to capture.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not write a novel; if the crew cannot find scene numbers and sound cues, the set will miss them.</p></section><aside class="regional-note"><p><strong>Regional note for US / UK / EU readers</strong></p><p>This English page keeps mainland-China examples where they are part of the method. Read platform names as examples, not as the only market: Douyin ↔ TikTok/Reels, Bilibili ↔ YouTube, Xiaohongshu ↔ Instagram/Pinterest; RMB figures are not converted here. Contracts, tax, insurance and consent rules differ by market; use the local currency and local counsel before signing or invoicing.</p></aside><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the want is visible in one action</li><li>the obstacle escalates inside the same scene</li><li>delete one expository line and the conflict still holds</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>the want is unclear and the scene is only mood</li><li>the obstacle is solved by coincidence, not a decision</li><li>dialogue repeats what the image already says</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Write one 30-second scene with only “Open every scene with interior or exterior, location,” and “Keep action blocks under four lines; capitalize a”. Cut every explanation and ask one person to retell what the character wants.</p></section>
+<h2>Check</h2><ul><li>Every scene has interior or exterior, location, and time with continuous numbering.</li><li>Action blocks stay under four lines and first character names are capitalized.</li><li>Sound can mark at least three cues to record from the script.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

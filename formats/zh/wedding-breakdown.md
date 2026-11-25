@@ -5,23 +5,29 @@ type: article
 lang: zh
 translation_key: formats.wedding.wedding-breakdown
 translation_status: source
-title: "婚礼拉片：6 分钟怎么不拍成流程"
-summary: "按 6 分钟婚礼片的通用结构，拆 11 个时间码：准备、到场、仪式、誓言、戒指、家人、宴会、舞会、安静、肖像、离开。"
+title: 婚礼拉片：6 分钟怎么不拍成流程
+summary: 按 6 分钟婚礼片的通用结构，拆 11 个时间码：准备、到场、仪式、誓言、戒指、家人、宴会、舞会、安静、肖像、离开。
 slug: wedding-breakdown
-aliases: [wedding-breakdown]
+aliases:
+- wedding-breakdown
 canonical_site: formats
-canonical_path: /wedding/wedding-breakdown/
+canonical_path: /article/wedding-breakdown/
 status: published
 diagram: /images/diagrams/zh/wedding-breakdown.svg
-diagram_alt: "婚礼拉片：6 分钟怎么不拍成流程：时间码、结构与预算拉片工作纸"
-diagram_caption: "图解是入口：先看时间码，再用文末验收表检查。"
+diagram_alt: 婚礼拉片：6 分钟怎么不拍成流程：时间码、结构与预算拉片工作纸
+diagram_caption: 图解是入口：先看时间码，再用文末验收表检查。
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN 片型组
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [main.case.case-wedding, formats.event.event-breakdown, main.path.path-live-film]
+related:
+- formats.event.event-breakdown.en
+- formats.vlog.vlog-breakdown.en
+- formats.news.news-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

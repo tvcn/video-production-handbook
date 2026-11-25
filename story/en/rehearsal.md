@@ -5,43 +5,46 @@ type: article
 lang: en
 translation_key: story.directing.rehearsal
 translation_status: reviewed
-title: "Rehearsal: Block First, Lines Later"
-summary: "Block first, scripts in hand. Once the body is in the right place, the lines have somewhere to land."
+title: 'Rehearsal: Block First, Lines Later'
+summary: Block first, scripts in hand. Once the body is in the right place, the lines
+  have somewhere to land.
 slug: rehearsal
-aliases: [rehearsal]
+aliases:
+- rehearsal
 canonical_site: story
-canonical_path: /en/directing/rehearsal/
+canonical_path: /en/article/rehearsal/
 status: published
 diagram: /images/diagrams/en/rehearsal.svg
-diagram_alt: "Rehearsal: Block First, Lines Later three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Rehearsal: Block First, Lines Later.'
+diagram_caption: Watch “Spend the first twenty minutes on blocking only,” and “Walk
+  the actor through three times without lines,”; judge whether the want can be said
+  with one visible action.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Story Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- story.directing.actor-adjustment.en
+- story.screenplay.scene-description.en
+- story.storyboard.shot-sheet.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>Block first, scripts in hand. Once the body is in the right place, the lines have somewhere to land.</p>
+<p>On-set rehearsal does three things: blocking, prop handoffs, cue points. Do not perform the scene start to finish and spend the emotion; save it for the take.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/rehearsal.svg" alt="Rehearsal: Block First, Lines Later three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/rehearsal.svg" alt="Structure diagram for Rehearsal: Block First, Lines Later.">
+  <figcaption>Watch “Spend the first twenty minutes on blocking only,” and “Walk the actor through three times without lines,”; judge whether the want can be said with one visible action.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Spend the first 20 minutes on blocking only: tape the door, the chair, and the camera. Walk it three times without lines; add lines on the third pass.</p>
-<h2>Do this</h2>
-<p>Rehearsal blocks first; lines can stay in hand. Once the body is in place, words have somewhere to land.</p><ol><li>Spend the first twenty minutes on blocking only, taping door, chair, and camera.</li><li>Walk the actor through three times without lines, only action and pauses.</li><li>Add lines on the third pass and confirm they land on established positions.</li></ol>
-<h2>Avoid</h2>
-<p>Do not shout “be natural” from behind the monitor; the actor cannot execute that.</p>
-<h2>Check</h2>
-<ul><li>The first two passes have no lines, only positions and actions.</li><li>On the third pass, pauses still land on actions.</li><li>The actor can state what they want throughout the scene.</li></ul>
+<section><h2 id="section-1">Rehearse blocking, not the whole performance</h2><p>Walk camera and sound through too, checking positions, mic and light. Space problems found in rehearsal are worth more than performance notes.</p><h2 id="section-2">Limits</h2><p>Rehearsal is not a take. Do not use it as footage; the actor knows it is a rehearsal, and attention changes.</p></section><section><h2 id="section-3">On set</h2><p>Spend the first 20 minutes on blocking only: tape the door, the chair, and the camera. Walk it three times without lines; add lines on the third pass.</p></section><section><h2 id="section-4">Do this</h2><p>Rehearsal blocks first; lines can stay in hand. Once the body is in place, words have somewhere to land.</p><ol><li>Spend the first twenty minutes on blocking only, taping door, chair, and camera.</li><li>Walk the actor through three times without lines, only action and pauses.</li><li>Add lines on the third pass and confirm they land on established positions.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not shout “be natural” from behind the monitor; the actor cannot execute that.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the want is visible in one action</li><li>the obstacle escalates inside the same scene</li><li>delete one expository line and the conflict still holds</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>the want is unclear and the scene is only mood</li><li>the obstacle is solved by coincidence, not a decision</li><li>dialogue repeats what the image already says</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Write one 30-second scene with only “Spend the first twenty minutes on blocking only,” and “Walk the actor through three times without lines,”. Cut every explanation and ask one person to retell what the character wants.</p></section>
+<h2>Check</h2><ul><li>The first two passes have no lines, only positions and actions.</li><li>On the third pass, pauses still land on actions.</li><li>The actor can state what they want throughout the scene.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

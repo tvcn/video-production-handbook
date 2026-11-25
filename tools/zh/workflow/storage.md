@@ -10,13 +10,13 @@ summary: "拍摄结束前做完备份，文件名带日期、场次、机位。�
 slug: storage
 aliases: [storage, 素材管理, 备份]
 canonical_site: tools
-canonical_path: /workflow/storage/
+canonical_path: /article/storage/
 status: published
 difficulty: beginner
 stage: workflow
 format: workflow
 tools: [media, output, budget]
-authors: [editor]
+authors: ["TVCN 工具组"]
 reviewers: [technical-reviewer]
 cover: /images/tools/storage.webp
 diagram: /images/diagrams/zh/storage.png
@@ -25,7 +25,7 @@ diagram_caption: "拍摄结束前做完备份：至少 3 份、2 种介质、1 �
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [tools.camera.camera-choice, post.editing.rough-cut]
+related: [tools.tutorial.backup-3-2-1.en, tools.delivery.publish-checklist.en, tools.camera.camera-choice.en]
 depth: deep
 deep_minutes: 7
 ---

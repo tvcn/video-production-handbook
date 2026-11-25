@@ -5,27 +5,36 @@ type: article
 lang: en
 translation_key: formats.product-ad.product-ad-breakdown
 translation_status: reviewed
-title: "Product Ad Breakdown: Problem Becomes Proof"
-summary: "A nine-beat breakdown of a sixty-second product ad: problem, failed fix, product, demo, proof, objection, second proof, result, action."
+title: 'Product Ad Breakdown: Problem Becomes Proof'
+summary: 'A nine-beat breakdown of a sixty-second product ad: problem, failed fix, product, demo, proof, objection, second proof, result, action.'
 slug: product-ad-breakdown
-aliases: [product-ad-breakdown]
+aliases:
+- product-ad-breakdown
 canonical_site: formats
-canonical_path: /en/product-ad/product-ad-breakdown/
+canonical_path: /en/article/product-ad-breakdown/
 status: published
 diagram: /images/diagrams/en/product-ad-breakdown.svg
-diagram_alt: "Product Ad Breakdown: Problem Becomes Proof: timecode, structure, and budget worksheet"
-diagram_caption: "The diagram is an entry point: watch the timecodes, then use the checks at the end."
+diagram_alt: 'Product Ad Breakdown: Problem Becomes Proof: timecode, structure, and budget worksheet'
+diagram_caption: 'The diagram is an entry point: watch the timecodes, then use the checks at the end.'
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: ["TVCN Formats Desk"]
+authors:
+- TVCN Formats Desk
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [formats.brand-film.brand-film-breakdown, formats.short-drama.short-drama-breakdown, main.path.path-distribution]
-sources: [S14, S15, S16]
-test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
-known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
+related:
+- formats.real-estate.real-estate-video-breakdown.en
+- post.delivery.platform-deliverables.en
+- shoot.lighting.ratio.en
+sources:
+- S14
+- S15
+- S16
+test_context: 'Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project.'
+known_failures: 'Known failures: composite samples are not client proof; platform length/spec changes expire templates.'
 verified: 2026-11-22
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -41,5 +50,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

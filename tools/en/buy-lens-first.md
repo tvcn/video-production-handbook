@@ -5,26 +5,38 @@ type: article
 lang: en
 translation_key: tools.guide.buy-lens-first
 translation_status: reviewed
-title: "Buy the Lens First: Focal Length, Aperture, Breathing"
-summary: "The lens decides half the image and holds value better than a body. Buy one focal length that covers 70% of your work, then a second; do not start with three cheap zooms."
+title: 'Buy the Lens First: Focal Length, Aperture, Breathing'
+summary: The lens decides half the image and holds value better than a body. Buy one focal length that covers 70% of your work, then a second; do not start with three cheap zooms.
 slug: buy-lens-first
-aliases: [buy-lens-first]
+aliases:
+- buy-lens-first
 canonical_site: tools
 canonical_path: /en/article/buy-lens-first/
 status: published
 diagram: /images/diagrams/en/buy-lens-first.svg
-diagram_alt: "Lens-first buying diagram"
-diagram_caption: "Diagram: focal length, aperture, breathing, close focus, and filter size decide whether it becomes a main lens."
+diagram_alt: Lens-first buying diagram
+diagram_caption: 'Diagram: focal length, aperture, breathing, close focus, and filter size decide whether it becomes a main lens.'
 difficulty: intermediate
 stage: handbook
 format: guide
-authors: ["TVCN Tools Desk"]
+authors:
+- TVCN Tools Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S23, S25, S26, S29, S38]
-test_context: "Review setup: Windows 11 workstation + iPhone 13, Chrome 131; bodies/lenses checked against public specs and short samples, not lab instruments."
-known_failures: "Known failures: grey-channel firmware/warranty vary; samples do not prove retail units; prices and stock expire."
+sources:
+- S23
+- S25
+- S26
+- S29
+- S38
+test_context: 'Review setup: Windows 11 workstation + iPhone 13, Chrome 131; bodies/lenses checked against public specs and short samples, not lab instruments.'
+known_failures: 'Known failures: grey-channel firmware/warranty vary; samples do not prove retail units; prices and stock expire.'
 verified: 2026-11-22
+related:
+- tools.guide.buy-lens-zoom.en
+- ai.audio.ai-tts.en
+- animation.principles.animation-principles.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +51,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: field notes and buying checklists; tested: short tests against public specs, not lab scores; references: manufacturer and standards links below.</p>
 <ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube Upload Specs</li><li><span class="mono">[S38]</span> State Taxation Administration</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

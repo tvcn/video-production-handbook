@@ -5,26 +5,34 @@ type: article
 lang: en
 translation_key: context.law.insurance-equipment
 translation_status: reviewed
-title: "Equipment and Production Insurance: What Is Covered, What Is Not"
-summary: "Equipment insurance is not “broken, paid.” Separate property all-risks, machinery breakdown, public liability, and transit; deductibles, depreciation, exclusions, and claim documents decide payout."
+title: 'Equipment and Production Insurance: What Is Covered, What Is Not'
+summary: Equipment insurance is not “broken, paid.” Separate property all-risks, machinery breakdown, public liability, and transit; deductibles, depreciation, exclusions, and claim documents decide payout.
 slug: insurance-equipment
-aliases: [insurance-equipment]
+aliases:
+- insurance-equipment
 canonical_site: context
 canonical_path: /en/article/insurance-equipment/
 status: published
 diagram: /images/diagrams/en/insurance-equipment.svg
-diagram_alt: "Equipment/production insurance diagram"
-diagram_caption: "Diagram: equipment, breakdown, liability, and transit are different risks; one policy rarely covers all."
+diagram_alt: Equipment/production insurance diagram
+diagram_caption: 'Diagram: equipment, breakdown, liability, and transit are different risks; one policy rarely covers all.'
 difficulty: intermediate
 stage: handbook
 format: law
-authors: ["TVCN Research Desk"]
+authors:
+- TVCN Research Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S22]
-test_context: "Review setup: current China mainland statutes, platform rules and public cases; not legal advice."
-known_failures: "Known failures: platform rules and local enforcement change; counsel must confirm applicability."
+sources:
+- S22
+test_context: 'Review setup: current China mainland statutes, platform rules and public cases; not legal advice.'
+known_failures: 'Known failures: platform rules and local enforcement change; counsel must confirm applicability.'
 verified: 2026-11-22
+related:
+- context.law.invoice-tax-cross-border.en
+- formats.live-podcast.live-podcast-template.en
+- post.sound.loudness.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +47,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: editorial statute comparison and project reviews; tested: no lab measurement; references: the laws, platform rules and institutional texts below.</p>
 <ul><li><span class="mono">[S22]</span> China's Civil Code</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

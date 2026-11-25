@@ -5,43 +5,46 @@ type: article
 lang: en
 translation_key: shoot.camera.sensor-size
 translation_status: reviewed
-title: "Sensor Size: What the Frame Really Changes"
-summary: "Sensor size changes angle, depth, and low light, not 'cinematic feel' by itself."
+title: 'Sensor Size: What the Frame Really Changes'
+summary: Sensor size changes angle, depth, and low light, not 'cinematic feel' by
+  itself.
 slug: sensor-size
-aliases: [sensor-size]
+aliases:
+- sensor-size
 canonical_site: shoot
-canonical_path: /en/camera/sensor-size/
+canonical_path: /en/article/sensor-size/
 status: published
 diagram: /images/diagrams/en/sensor-size.svg
-diagram_alt: "Sensor Size: What the Frame Really Changes three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Sensor Size: What the Frame Really Changes.'
+diagram_caption: Watch “Mount the same lens on M4/3, S35, and” and “Compare background
+  compression, depth of field, and shadow”; judge whether highlights, skin and sound
+  survive together.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Shoot Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- shoot.camera.nd-filter.en
+- shoot.camera.shutter-angle.en
+- shoot.exposure.waveform.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>Sensor size changes angle, depth, and low light, not "cinematic feel" by itself.</p>
+<p>A larger sensor needs a longer lens for the same angle, gives shallower depth and usually better low light. It does not automatically buy better color, codec or latitude. Choose the format from working distance and depth, then look at the processor and recording specs.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/sensor-size.svg" alt="Sensor Size: What the Frame Really Changes three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/sensor-size.svg" alt="Structure diagram for Sensor Size: What the Frame Really Changes.">
+  <figcaption>Watch “Mount the same lens on M4/3, S35, and” and “Compare background compression, depth of field, and shadow”; judge whether highlights, skin and sound survive together.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Put the same lens on M4/3, S35, and full-frame bodies and shoot the same half-body frame. Keep the framing equal, compare background compression and shadow noise, then choose the body for the project.</p>
-<h2>Do this</h2>
-<p>Sensor size changes angle of view, depth of field, and low-light response, not “cinematic look” by itself. Compare the same lens and framing across formats before paying for the difference.</p><ol><li>Mount the same lens on M4/3, S35, and full-frame bodies and keep the same half-body framing.</li><li>Compare background compression, depth of field, and shadow noise, not resolution alone.</li><li>Choose the body for the project, then check mount, recording format, and heat.</li></ol>
-<h2>Avoid</h2>
-<p>Do not sell sensor size as a “cinematic” parameter; the look comes from light, lens, and blocking.</p>
-<h2>Check</h2>
-<ul><li>The three half-body frames match closely enough to compare side by side.</li><li>You can name the difference in compression, depth of field, and shadow noise instead of saying “more cinematic.”</li><li>The chosen body covers eighty percent of the project without adapter workarounds.</li></ul>
+<section><h2 id="section-1">It sets angle, depth and low light, not “image quality”</h2><p>Crop modes change the real angle: the same lens becomes longer and depth changes with it. Calculate with the actual readout width, not the full-frame claim.</p><h2 id="section-2">Limits</h2><p>Do not sacrifice focus, cooling and lens cost for “full frame.” A small sensor with good light can be steadier than a large one with the wrong glass.</p></section><section><h2 id="section-3">On set</h2><p>Put the same lens on M4/3, S35, and full-frame bodies and shoot the same half-body frame. Keep the framing equal, compare background compression and shadow noise, then choose the body for the project.</p></section><section><h2 id="section-4">Do this</h2><p>Sensor size changes angle of view, depth of field, and low-light response, not “cinematic look” by itself. Compare the same lens and framing across formats before paying for the difference.</p><ol><li>Mount the same lens on M4/3, S35, and full-frame bodies and keep the same half-body framing.</li><li>Compare background compression, depth of field, and shadow noise, not resolution alone.</li><li>Choose the body for the project, then check mount, recording format, and heat.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not sell sensor size as a “cinematic” parameter; the look comes from light, lens, and blocking.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>highlights are not clipped and shadows keep recoverable detail</li><li>skin stays consistent across camera angles</li><li>sound has an independent track, not just the on-camera mic</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>exposure is right but the light has no direction</li><li>sound relies on the camera mic and dies in a noisy room</li><li>crossing the line leaves the audience without a map</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Shoot three 10-second takes by the same window, changing only “Mount the same lens on M4/3, S35, and”. Compare highlights, skin and background; keep the one that is editable.</p></section>
+<h2>Check</h2><ul><li>The three half-body frames match closely enough to compare side by side.</li><li>You can name the difference in compression, depth of field, and shadow noise instead of saying “more cinematic.”</li><li>The chosen body covers eighty percent of the project without adapter workarounds.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

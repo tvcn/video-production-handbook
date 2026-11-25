@@ -5,43 +5,45 @@ type: article
 lang: en
 translation_key: shoot.camera.nd-filter
 translation_status: reviewed
-title: "ND Filter: Wide Open in Daylight"
-summary: "An ND filter does not darken a picture; it lets you stay wide open in daylight and keep your depth."
+title: 'ND Filter: Wide Open in Daylight'
+summary: An ND filter does not darken a picture; it lets you stay wide open in daylight
+  and keep your depth.
 slug: nd-filter
-aliases: [nd-filter]
+aliases:
+- nd-filter
 canonical_site: shoot
-canonical_path: /en/camera/nd-filter/
+canonical_path: /en/article/nd-filter/
 status: published
 diagram: /images/diagrams/en/nd-filter.svg
-diagram_alt: "ND Filter: Wide Open in Daylight three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for ND Filter: Wide Open in Daylight.'
+diagram_caption: Watch “At noon, f/2.8, ISO 100, start with a” and “If shutter is
+  still above 1/50, add 3”; judge whether highlights, skin and sound survive together.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Shoot Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- shoot.camera.shutter-angle.en
+- shoot.camera.frame-rate.en
+- shoot.exposure.waveform.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>An ND filter does not darken a picture; it lets you stay wide open in daylight and keep your depth.</p>
+<p>ND restores a cinematic shutter without overexposure. Calculate the gap from target aperture, 1/50 shutter and current ISO, then choose the filter; do not guess by “it looks dark.”</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/nd-filter.svg" alt="ND Filter: Wide Open in Daylight three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/nd-filter.svg" alt="Structure diagram for ND Filter: Wide Open in Daylight.">
+  <figcaption>Watch “At noon, f/2.8, ISO 100, start with a” and “If shutter is still above 1/50, add 3”; judge whether highlights, skin and sound survive together.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>At noon, f/2.8, ISO 100, start with a 6-stop ND. If the shutter is still above 1/50, add 3 stops. On a variable ND, twist to the lightest setting first to avoid the cross pattern.</p>
-<h2>Do this</h2>
-<p>ND is not about darkening the image; it lets you hold a wide aperture and shallow depth in daylight. Set shutter and aperture first, then calculate the stops.</p><ol><li>At noon, f/2.8, ISO 100, start with a 6-stop ND.</li><li>If shutter is still above 1/50, add 3 stops until it returns to target.</li><li>With a variable ND, start at the lightest setting and increase gradually to avoid cross patterns.</li></ol>
-<h2>Avoid</h2>
-<p>Do not add ND and leave aperture or shutter uncorrected; do not crank a variable ND to its darkest setting.</p>
-<h2>Check</h2>
-<ul><li>At wide aperture in daylight, shutter stays near 1/50 and depth of field is not sacrificed.</li><li>The variable ND shows no cross pattern or color shift.</li><li>Highlights are protected without underexposing the whole frame.</li></ul>
+<section><h2 id="section-1">Calculate ND stops, then check IR</h2><p>Strong ND can cause IR cast, turning black fabric purple. Use IR-suppressed ND or shoot a color chart comparison.</p><h2 id="section-2">Limits</h2><p>ND is not a substitute for stopping down. It matters when you need F1.4; at F8, stop the lens first and then consider ND.</p></section><section><h2 id="section-3">On set</h2><p>At noon, f/2.8, ISO 100, start with a 6-stop ND. If the shutter is still above 1/50, add 3 stops. On a variable ND, twist to the lightest setting first to avoid the cross pattern.</p></section><section><h2 id="section-4">Do this</h2><p>ND is not about darkening the image; it lets you hold a wide aperture and shallow depth in daylight. Set shutter and aperture first, then calculate the stops.</p><ol><li>At noon, f/2.8, ISO 100, start with a 6-stop ND.</li><li>If shutter is still above 1/50, add 3 stops until it returns to target.</li><li>With a variable ND, start at the lightest setting and increase gradually to avoid cross patterns.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not add ND and leave aperture or shutter uncorrected; do not crank a variable ND to its darkest setting.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>highlights are not clipped and shadows keep recoverable detail</li><li>skin stays consistent across camera angles</li><li>sound has an independent track, not just the on-camera mic</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>exposure is right but the light has no direction</li><li>sound relies on the camera mic and dies in a noisy room</li><li>crossing the line leaves the audience without a map</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Shoot three 10-second takes by the same window, changing only “At noon, f/2.8, ISO 100, start with a”. Compare highlights, skin and background; keep the one that is editable.</p></section>
+<h2>Check</h2><ul><li>At wide aperture in daylight, shutter stays near 1/50 and depth of field is not sacrificed.</li><li>The variable ND shows no cross pattern or color shift.</li><li>Highlights are protected without underexposing the whole frame.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

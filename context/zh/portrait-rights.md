@@ -5,26 +5,35 @@ type: article
 lang: zh
 translation_key: context.law.portrait-rights
 translation_status: source
-title: "肖像、场地与未成年人授权：一张 Release 要写什么"
-summary: "拍摄同意不等于商用同意。肖像权、场地物权、未成年人监护人同意、AI 换脸/合成，是四份不同的授权；一张“同意拍摄”纸条救不了广告投放。"
+title: 肖像、场地与未成年人授权：一张 Release 要写什么
+summary: 拍摄同意不等于商用同意。肖像权、场地物权、未成年人监护人同意、AI 换脸/合成，是四份不同的授权；一张“同意拍摄”纸条救不了广告投放。
 slug: portrait-rights
-aliases: [portrait-rights]
+aliases:
+- portrait-rights
 canonical_site: context
 canonical_path: /article/portrait-rights/
 status: published
 diagram: /images/diagrams/zh/portrait-rights.svg
-diagram_alt: "肖像场地未成年人授权专题图解"
-diagram_caption: "示意：肖像、场地、未成年人、AI 合成，分别签、分别存档。"
+diagram_alt: 肖像场地未成年人授权专题图解
+diagram_caption: 示意：肖像、场地、未成年人、AI 合成，分别签、分别存档。
 difficulty: intermediate
 stage: handbook
 format: law
-authors: ["TVCN 研究组"]
+authors:
+- TVCN 研究组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S22, S03]
-test_context: "复核环境：现行中国大陆法律条文、平台规则与公开案例；不是法律意见。"
-known_failures: "已知失败：平台规则与地方执法口径变化；条文适用需律师确认。"
+sources:
+- S22
+- S03
+test_context: 复核环境：现行中国大陆法律条文、平台规则与公开案例；不是法律意见。
+known_failures: 已知失败：平台规则与地方执法口径变化；条文适用需律师确认。
 verified: 2026-11-22
+related:
+- context.law.accessibility-caption.en
+- formats.real-estate.real-estate-video-breakdown.en
+- post.sound.sound.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +48,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：编辑部的条文对照与项目复盘；实测来源：无实验室实测；参考来源：以下法律、平台与机构文本。</p>
 <ul><li><span class="mono">[S22]</span> 《中华人民共和国民法典》</li><li><span class="mono">[S03]</span> 《中华人民共和国个人信息保护法》</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

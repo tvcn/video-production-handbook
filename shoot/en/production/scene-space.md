@@ -11,13 +11,13 @@ summary: "Before anyone speaks, the room is already talking: shoes at the door, 
 slug: scene-space
 aliases: [scene-space, set dressing]
 canonical_site: shoot
-canonical_path: /en/production/scene-space/
+canonical_path: /en/article/scene-space/
 status: published
 difficulty: intermediate
 stage: shoot
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN Shoot Desk"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/scene-space.webp
 diagram: /images/diagrams/en/scene-space.png
@@ -26,7 +26,7 @@ diagram_caption: "The eye starts at the door, moves to the table, and only then 
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [shoot.camera.composition, shoot.lighting.window-light]
+related: [shoot.camera.camera-move.en, shoot.production.slate-continuity.en, shoot.camera.shot-size.en]
 ---
 
 <!-- DIAGRAM_START -->

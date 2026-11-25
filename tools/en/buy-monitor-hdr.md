@@ -5,26 +5,36 @@ type: article
 lang: en
 translation_key: tools.guide.buy-monitor-hdr
 translation_status: reviewed
-title: "Buying an HDR Monitor: Peak Nits Is Not Everything"
-summary: "HDR monitoring depends on peak, black level, gamut, tone mapping, and calibration. Buying on “1000 nits” alone gets a bright screen with clipped highlights."
+title: 'Buying an HDR Monitor: Peak Nits Is Not Everything'
+summary: HDR monitoring depends on peak, black level, gamut, tone mapping, and calibration. Buying on “1000 nits” alone gets a bright screen with clipped highlights.
 slug: buy-monitor-hdr
-aliases: [buy-monitor-hdr]
+aliases:
+- buy-monitor-hdr
 canonical_site: tools
 canonical_path: /en/article/buy-monitor-hdr/
 status: published
 diagram: /images/diagrams/en/buy-monitor-hdr.svg
-diagram_alt: "HDR monitor buying diagram"
-diagram_caption: "Diagram: peak, black, gamut, tone mapping, and calibration decide whether HDR grading is trustworthy."
+diagram_alt: HDR monitor buying diagram
+diagram_caption: 'Diagram: peak, black, gamut, tone mapping, and calibration decide whether HDR grading is trustworthy.'
 difficulty: intermediate
 stage: handbook
 format: guide
-authors: ["TVCN Tools Desk"]
+authors:
+- TVCN Tools Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S24, S26, S28]
-test_context: "Review setup: Windows 11 workstation + iPhone 13, Chrome 131; bodies/lenses checked against public specs and short samples, not lab instruments."
-known_failures: "Known failures: grey-channel firmware/warranty vary; samples do not prove retail units; prices and stock expire."
+sources:
+- S24
+- S26
+- S28
+test_context: 'Review setup: Windows 11 workstation + iPhone 13, Chrome 131; bodies/lenses checked against public specs and short samples, not lab instruments.'
+known_failures: 'Known failures: grey-channel firmware/warranty vary; samples do not prove retail units; prices and stock expire.'
 verified: 2026-11-22
+related:
+- tools.guide.buy-nas-raid.en
+- ai.ethics.model-comparison.en
+- animation.3d.3d-pipeline.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +49,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: field notes and buying checklists; tested: short tests against public specs, not lab scores; references: manufacturer and standards links below.</p>
 <ul><li><span class="mono">[S24]</span> ACES Color Management</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S28]</span> Netflix Partner Help</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

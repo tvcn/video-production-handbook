@@ -5,26 +5,38 @@ type: article
 lang: zh
 translation_key: tools.guide.buy-tripod
 translation_status: source
-title: "购买三脚架：承重、扭转与高度"
-summary: "三脚架的标称承重不是安全线。真正决定稳定性的是脚管刚度、云台锁紧、扭转刚度和重心；风一吹就晃的架子，承重写 20kg 也没用。"
+title: 购买三脚架：承重、扭转与高度
+summary: 三脚架的标称承重不是安全线。真正决定稳定性的是脚管刚度、云台锁紧、扭转刚度和重心；风一吹就晃的架子，承重写 20kg 也没用。
 slug: buy-tripod
-aliases: [buy-tripod]
+aliases:
+- buy-tripod
 canonical_site: tools
 canonical_path: /article/buy-tripod/
 status: published
 diagram: /images/diagrams/zh/buy-tripod.svg
-diagram_alt: "购买三脚架专题图解"
-diagram_caption: "示意：承重、扭转、腿刚度、云台漂移、高度，五项决定它能不能稳住你的机器。"
+diagram_alt: 购买三脚架专题图解
+diagram_caption: 示意：承重、扭转、腿刚度、云台漂移、高度，五项决定它能不能稳住你的机器。
 difficulty: intermediate
 stage: handbook
 format: guide
-authors: ["TVCN 工具组"]
+authors:
+- TVCN 工具组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S23, S25, S26, S29, S38]
-test_context: "复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。"
-known_failures: "已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。"
+sources:
+- S23
+- S25
+- S26
+- S29
+- S38
+test_context: 复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。
+known_failures: 已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。
 verified: 2026-11-22
+related:
+- tools.guide.buy-tripod-fluid.en
+- ai.generation.text-to-video.en
+- animation.2d.2d-animation.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +51,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：编辑部现场手册与购买检查表；实测来源：短测与公开规格核对，不是实验室跑分；参考来源：以下厂商与标准链接。</p>
 <ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube 上传规格</li><li><span class="mono">[S38]</span> 国家税务总局</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

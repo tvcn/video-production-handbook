@@ -11,7 +11,7 @@ summary: "It can look rough. The crew just needs to read it. One shot sheet answ
 slug: storyboard
 aliases: [storyboard]
 canonical_site: story
-canonical_path: /en/storyboard/storyboard/
+canonical_path: /en/article/storyboard/
 status: published
 difficulty: beginner
 stage: script
@@ -26,7 +26,7 @@ diagram_caption: "A storyboard is not a list of shot sizes. It hands the audienc
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: []
+related: [story.screenplay.three-act.en, tools.guide.buy-audio-first.en, ai.post.ai-qc.en]
 sources: [S02, S16, S17]
 test_context: "Review setup: Windows 11 + Chrome; checked against public films, scripts and platform pages; not frame-by-frame testing."
 known_failures: "Known failures: public case data is incomplete; platform specs and length limits change; re-verify per project."
@@ -73,5 +73,5 @@ The camera operator, actor, and editor can all use this sheet. When the day chan
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S02]</span> WIPO: Copyright FAQ</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li><li><span class="mono">[S17]</span> Reuters Trust Principles</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

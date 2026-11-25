@@ -5,38 +5,41 @@ type: article
 lang: zh
 translation_key: tools.tutorial.exposure-check
 translation_status: source
-title: "开机曝光检查：波形、斑马、假色"
-summary: "开机曝光检查按顺序：波形看分布、斑马看高光、伪色看人脸；三个都过再开拍。"
+title: 开机曝光检查：波形、斑马、假色
+summary: 开机曝光检查按顺序：波形看分布、斑马看高光、伪色看人脸；三个都过再开拍。
 slug: exposure-check
-aliases: [exposure-check]
+aliases:
+- exposure-check
 canonical_site: tools
-canonical_path: /tutorial/exposure-check/
+canonical_path: /article/exposure-check/
 status: published
 diagram: /images/diagrams/zh/exposure-check.svg
-diagram_alt: "开机曝光检查：波形、斑马、假色 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 开机曝光检查：波形、斑马、假色的结构示意图。
+diagram_caption: 看“开机前拍 10 秒测试”和“波形看高光，斑马 95% 看脸，伪色…”两处，判断这个参数能不能对应到一个具体的拍摄问题。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 工具组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- tools.tutorial.color-checker.en
+- tools.tutorial.lighting-window.en
+- tools.tutorial.restore-test.en
+source_kind: experience
 ---
 
-<p>开机曝光检查按顺序：波形看分布、斑马看高光、伪色看人脸；三个都过再开拍。</p>
+<p>曝光检查顺序：脸是否在可接受亮度、窗和灯是否贴顶、暗部是否有细节。三项不能同时满足时，先保脸，再保高光；暗部可以欠一点。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/exposure-check.svg" alt="开机曝光检查：波形、斑马、假色 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/exposure-check.svg" alt="开机曝光检查：波形、斑马、假色的结构示意图。">
+  <figcaption>看“开机前拍 10 秒测试”和“波形看高光，斑马 95% 看脸，伪色…”两处，判断这个参数能不能对应到一个具体的拍摄问题。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>开机前拍 10 秒测试：波形看高光、斑马 95% 看脸、伪色看天空；三项都过再拍第一条。</p>
-<h2>怎么做</h2>
-<p>开机曝光检查按顺序：波形看分布、斑马看高光、伪色看人脸；三个都过再开拍。</p><ol><li>开机前拍 10 秒测试。</li><li>波形看高光，斑马 95% 看脸，伪色看天空。</li><li>三项都过再拍第一条。</li></ol>
-<h2>别踩</h2>
-<p>别只看机内屏幕；高光一过，后期拉不回来。</p>
-<h2>验收</h2>
-<ul><li>10 秒测试里波形、斑马、伪色三项都看过。</li><li>高光没有超过波形顶部，脸在斑马 95% 以内。</li><li>三项通过后才拍第一条，有测试文件。</li></ul>
+<section><h2 id="section-1">先看脸，再看高光，最后看整体</h2><p>用假色或斑马确认高光，用波形确认肤色；不要只看监视器亮度，屏幕会骗人。</p><h2 id="section-2">边界</h2><p>“正确曝光”不是单一数值。逆光、夜景、风格化低对比都有不同基准；先定意图，再定曝光。</p><h2 id="section-3">开机曝光检查：波形、斑马、假色三选二</h2>
+<p>不要只看监视器亮度。至少用两种工具交叉：波形看中间调，斑马看高光，假色看肤色范围。两种一致才开机。</p>
+<ol><li>波形：肤色落在 60–75%，白墙不超过 95%；不要把整个画面压到 50%。</li><li>斑马：设 95%，出现斑马就收一档或加 ND；不要用斑马当构图工具。</li><li>假色：肤色应在同一色区；出现两种颜色，说明混合光或白平衡有问题。</li></ol>
+<p>验收：拍 10 秒，回放看高光是否死白、暗部是否有细节；死白就降曝光，暗部死黑就补光，不要靠后期拉。</p></section><section><h2 id="section-4">现场</h2><p>开机前拍 10 秒测试：波形看高光、斑马 95% 看脸、伪色看天空；三项都过再拍第一条。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>开机前拍 10 秒测试。</li><li>波形看高光，斑马 95% 看脸，伪色看天空。</li><li>三项都过再拍第一条。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别只看机内屏幕；高光一过，后期拉不回来。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>每一项参数都能对应一个具体的拍摄问题</li><li>重量、供电和接口在真实机位上成立</li><li>60 秒测试能留下一个可比较的数字</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>只看参数，不看接口、供电和重量</li><li>买回来才发现电池、存储或机身不匹配</li><li>没有 60 秒测试，问题被带到正式拍摄</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用现有器材做 60 秒测试，只测“开机前拍 10 秒测试”；记下两个数字：一个是你需要的，一个是器材实际给出的。</p></section>
+<h2>验收</h2><ul><li>10 秒测试里波形、斑马、伪色三项都看过。</li><li>高光没有超过波形顶部，脸在斑马 95% 以内。</li><li>三项通过后才拍第一条，有测试文件。</li></ul>

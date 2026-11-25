@@ -6,25 +6,32 @@ lang: en
 translation_key: tools.calculators.fov
 translation_status: reviewed
 translation_reviewed: 2026-11-21
-title: Lens Field-of-View Calculator: Focal Length, Sensor, and Horizontal Angle
+title: 'Lens Field-of-View Calculator: Focal Length, Sensor, and Horizontal Angle'
 summary: Enter sensor width and focal length to estimate horizontal field of view, and decide whether a lens is wide enough for a room, a landscape, or a close-up.
 slug: fov
 canonical_site: tools
-canonical_path: /en/calculators/fov/
+canonical_path: /en/article/fov/
 status: published
 difficulty: beginner
 stage: prep
 format: all
-tools: [camera, lens]
-authors: [editor]
-reviewers: [technical-reviewer]
+tools:
+- camera
+- lens
+authors:
+- TVCN Tools Desk
+reviewers:
+- technical-reviewer
 diagram: /images/diagrams/en/fov.svg
-diagram_alt: "Field of view: frame and focal length together"
-diagram_caption: "Same focal length: a smaller frame is a narrower view. Narrower is not a zoom."
+diagram_alt: 'Field of view: frame and focal length together'
+diagram_caption: 'Same focal length: a smaller frame is a narrower view. Narrower is not a zoom.'
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [main.paths.first-film]
+related:
+- main.paths.first-film
+- tools.calculator.dof-calculator.en
+- tools.guide.rent-camera.en
 ---
 
 <!-- DIAGRAM_START -->
@@ -70,3 +77,7 @@ Where \(w\) is sensor width, \(f\) is focal length, and \(\theta\) is the horizo
 ## Boundary
 
 This is horizontal field of view. It does not include distortion, focus breathing, or real-world lens marking error. Cinema lenses should be measured on set.
+
+## Practice
+
+Take a 24mm and a 50mm lens into the same room, from the same tripod position. Calculate each horizontal angle first, then compare the frames: how much wall does the 24mm hold, and how much larger is the person at 50mm? If you can explain why a wider angle is not the same as a bigger subject, you have used this page.

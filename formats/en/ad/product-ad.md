@@ -11,7 +11,7 @@ summary: "A product ad is not a product showcase. Give a problem in three second
 slug: product-ad
 aliases: [product-ad]
 canonical_site: formats
-canonical_path: /en/ad/product-ad/
+canonical_path: /en/article/product-ad/
 status: published
 difficulty: beginner
 stage: format
@@ -26,7 +26,7 @@ diagram_caption: "Result first, proof second, one action last. Want all three an
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: []
+related: [formats.product-ad.product-ad-breakdown.en, post.sound.loudness.en, shoot.multicam.multicam-live.en]
 depth: deep
 deep_minutes: 6
 sources: [S14, S15, S16]
@@ -90,5 +90,5 @@ A fifteen-second structure: three seconds problem, seven seconds proof, three se
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

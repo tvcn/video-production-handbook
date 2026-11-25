@@ -5,43 +5,54 @@ type: template
 lang: zh
 translation_key: main.method.method-quote-low
 translation_status: source
-title: "报价太低"
-summary: "报价太低，先算天数、设备、后期和修改次数；低价接单会赶走好客户。"
+title: 报价太低
+summary: 报价太低，先算天数、设备、后期和修改次数；低价接单会赶走好客户。
 slug: method-quote-low
-aliases: [method-quote-low]
+aliases:
+- method-quote-low
 canonical_site: main
-canonical_path: /method/method-quote-low/
+canonical_path: /article/method-quote-low/
 status: published
 diagram: /images/diagrams/zh/method-quote-low.svg
-diagram_alt: "报价太低 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 报价太低的结构示意图。
+diagram_caption: 看“算保本价：天数乘日费，加设备、场地、…”和“加百分之十到二十的风险，写清修改轮次…”两处，判断症状能不能被复述成一句可观察的话。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 编辑部
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- main.method.method-first-client.en
+- main.method.method-deadline.en
+- main.method.method-client-revision.en
 depth: deep
 deep_minutes: 7
+source_kind: experience
 ---
 
-<p>报价太低，先算天数、设备、后期和修改次数；低价接单会赶走好客户。</p>
+<p>把报价拆成四块：人天、器材、后期、授权。低价往往只算了拍摄当天，漏掉前期、修改、交付和素材归档；也漏掉设备折旧和软件订阅。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/method-quote-low.svg" alt="报价太低 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/method-quote-low.svg" alt="报价太低的结构示意图。">
+  <figcaption>看“算保本价：天数乘日费，加设备、场地、…”和“加百分之十到二十的风险，写清修改轮次…”两处，判断症状能不能被复述成一句可观察的话。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>算天数、设备、后期、修改次数；低价接单会赶走好客户。</p>
-<h2>怎么做</h2>
-<p>报价太低，先算天数、设备、后期和修改次数；低价接单会赶走好客户。</p><ol><li>算保本价：天数乘日费，加设备、场地、后期和税。</li><li>加百分之十到二十的风险，写清修改轮次和超时费。</li><li>给三档报价：基础、标准、加急；让客户选范围，不是砍单价。</li></ol>
-<h2>别踩</h2>
-<p>别用“先接住再说”；低价会变成长期标准。</p>
-<h2>验收</h2>
-<ul><li>保本价算过：天数乘日费，加设备、场地、后期和税。</li><li>加了百分之十到二十风险，写了修改轮次和超时费。</li><li>三档报价让客户选范围，不是砍单价。</li></ul>
+<section><h2 id="section-1">低价报价通常漏了三项成本</h2><p>先算“保本线”，再谈利润；低于保本线的单，不做比做更省。</p><h2 id="section-2">边界</h2><p>不要用“以后会涨价”安慰自己。第一个客户按低价锁定预期，后面涨价需要重新解释价值，不是发一条消息就行。</p><h2 id="section-3">报价不是数字，是三档风险</h2>
+<p>同一支 60 秒片，报 ¥3,000 和 ¥30,000 的差别不在“贵不贵”，而在谁承担改动、谁承担延期、谁承担版权。把报价拆成三档，客户才知道钱买的是什么。</p>
+<div class="table-scroll"><table class="data-table"><thead><tr><th>档位</th><th>适合</th><th>包含</th><th>不包含</th></tr></thead><tbody>
+<tr><td>基础执行</td><td>脚本已定、1 个场景、1 次拍摄</td><td>1 天拍摄、1 轮剪辑、基础字幕</td><td>改脚本、补拍、配音、音乐版权</td></tr>
+<tr><td>标准制作</td><td>需要提案、2 个场景、2 轮修改</td><td>前期提案、分镜、2 天拍摄、2 轮修改</td><td>演员、场地、特殊器材</td></tr>
+<tr><td>全包</td><td>品牌要一次交付多平台版本</td><td>策划到交付、版权清理、3 个比例</td><td>投流、达人、平台佣金</td></tr>
+</tbody></table></div>
+<h3>先算保本线，再谈折扣</h3>
+<p>把拍摄天数、后期天数、器材租赁、差旅、税费和 10% 意外金相加，除以可交付天数，得到“每天必须收回多少”。低于这条线时，不是让利，是借未来的钱做现在的事。折扣只能打利润，不能打成本。</p>
+<h3>付款节点写进报价单</h3>
+<ol><li>确认脚本或分镜后收 50%，拍摄前到账；没有这笔钱不开机。</li><li>粗剪确认后收 30%，终交付前收 20%；终稿只在水印版确认后去水印。</li><li>延期由客户造成的，按新增拍摄日计费；天气等不可抗力另计，不混在“修改”里。</li></ul>
+<p>报价单最后留一行：<strong>“本报价基于 1 个脚本、2 个场景、2 轮修改；超出部分按新增项报价。”</strong> 这句话比任何口头承诺都管用。</p></section><section><h2 id="section-4">现场</h2><p>算天数、设备、后期、修改次数；低价接单会赶走好客户。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>算保本价：天数乘日费，加设备、场地、后期和税。</li><li>加百分之十到二十的风险，写清修改轮次和超时费。</li><li>给三档报价：基础、标准、加急；让客户选范围，不是砍单价。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别用“先接住再说”；低价会变成长期标准。</p></section><section><h2>替代</h2><p>如果“算保本价：天数乘日费，加设备、场地、…”不是你的主问题，先用“加百分之十到二十的风险，写清修改轮次…”对应的基础做法；两项都成立再考虑升级。</p></section><section><h2>60 秒自测</h2><p>用现有器材按“算保本价：天数乘日费，加设备、场地、…”做一次 60 秒测试，记下一个数字；数字没有变化，就不要加预算。</p></section><section><h2>什么时候不该用</h2><p>当“算保本价：天数乘日费，加设备、场地、…”还没写清，或“加百分之十到二十的风险，写清修改轮次…”只是凑数时，不要套模板；先回到人物和问题。</p></section><section><h2>三个失败</h2><ul><li>模板每段都有，但人物没有决定。</li><li>中段只换场景，没有新信息。</li><li>结尾靠旁白总结，画面没有变化。</li></ul></section>
+<h2>验收</h2><ul><li>保本价算过：天数乘日费，加设备、场地、后期和税。</li><li>加了百分之十到二十风险，写了修改轮次和超时费。</li><li>三档报价让客户选范围，不是砍单价。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读

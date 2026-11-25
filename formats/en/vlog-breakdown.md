@@ -5,23 +5,29 @@ type: article
 lang: en
 translation_key: formats.vlog.vlog-breakdown
 translation_status: reviewed
-title: "Vlog Breakdown: One Discovery in Ninety Seconds"
-summary: "An eight-beat breakdown of a ninety-second travel vlog: action, place, task, obstacle, failure, discovery, quiet, exit."
+title: 'Vlog Breakdown: One Discovery in Ninety Seconds'
+summary: 'An eight-beat breakdown of a ninety-second travel vlog: action, place, task, obstacle, failure, discovery, quiet, exit.'
 slug: vlog-breakdown
-aliases: [vlog-breakdown]
+aliases:
+- vlog-breakdown
 canonical_site: formats
-canonical_path: /en/vlog/vlog-breakdown/
+canonical_path: /en/article/vlog-breakdown/
 status: published
 diagram: /images/diagrams/en/vlog-breakdown.svg
-diagram_alt: "Vlog Breakdown: One Discovery in Ninety Seconds: timecode, structure, and budget worksheet"
-diagram_caption: "The diagram is an entry point: watch the timecodes, then use the checks at the end."
+diagram_alt: 'Vlog Breakdown: One Discovery in Ninety Seconds: timecode, structure, and budget worksheet'
+diagram_caption: 'The diagram is an entry point: watch the timecodes, then use the checks at the end.'
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN Formats Desk
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [main.case.case-vlog, formats.event.event-breakdown, main.path.path-story]
+related:
+- formats.event.event-breakdown.en
+- formats.short-drama.short-drama-breakdown.en
+- formats.wedding.wedding-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

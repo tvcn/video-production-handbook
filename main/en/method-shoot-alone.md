@@ -5,43 +5,46 @@ type: template
 lang: en
 translation_key: main.method.method-shoot-alone
 translation_status: reviewed
-title: "You Are Shooting Alone"
-summary: "Use a locked camera and continuous action; do not act, operate, and pull focus at once."
+title: You Are Shooting Alone
+summary: Use a locked camera and continuous action; do not act, operate, and pull
+  focus at once.
 slug: method-shoot-alone
-aliases: [method-shoot-alone]
+aliases:
+- method-shoot-alone
 canonical_site: main
-canonical_path: /en/method/method-shoot-alone/
+canonical_path: /en/article/method-shoot-alone/
 status: published
 diagram: /images/diagrams/en/method-shoot-alone.svg
-diagram_alt: "You Are Shooting Alone three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: Structure diagram for You Are Shooting Alone.
+diagram_caption: Watch “Shoot the empty frame and the wide first,” and “Check framing
+  on a monitor, pre-focus, then walk”; judge whether the symptom can be restated as
+  one observable sentence.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Editorial
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- main.method.method-no-budget.en
+- main.method.method-deadline.en
+- main.method.method-portfolio-empty.en
 depth: deep
 deep_minutes: 6
+source_kind: experience
 ---
 
-<p>Use a locked camera and continuous action; do not act, operate, and pull focus at once.</p>
+<p>The time goes into moving the camera, pulling focus and recording sound. Design fixed positions, preset focus and continuous action. If a tripod and auto exposure solve it, do not do it manually on the day.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/method-shoot-alone.svg" alt="You Are Shooting Alone three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/method-shoot-alone.svg" alt="Structure diagram for You Are Shooting Alone.">
+  <figcaption>Watch “Shoot the empty frame and the wide first,” and “Check framing on a monitor, pre-focus, then walk”; judge whether the symptom can be restated as one observable sentence.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Lock the camera, shoot your blocking and action, then shoot the empty frame. Do not act and pull focus at once.</p>
-<h2>Do this</h2>
-<p>Shooting alone means locked-off camera and continuous action. Do not act, operate, and pull focus at the same time.</p><ol><li>Shoot the empty frame and the wide first, then lock the camera down.</li><li>Check framing on a monitor, pre-focus, then walk into position and do the action.</li><li>Shoot the same action three times: wide, medium, close-up. Cut them together later.</li></ol>
-<h2>Avoid</h2>
-<p>Do not handhold and follow yourself; focus and framing will drift.</p>
-<h2>Check</h2>
-<ul><li>The camera is locked and the empty frame and wide are shot first.</li><li>Each action has a wide, medium, and close-up take.</li><li>Focus is set before the walk; the lens does not hunt.</li></ul>
+<section><h2 id="section-1">Shooting alone starts with shots that need no second pair of hands</h2><p>One action per shot, play back immediately. Do not shoot ten and discover at home that none work.</p><h2 id="section-2">Limits</h2><p>Do not attempt complex follow-focus and tracking alone. It is not impossible; it is unrecoverable when it fails. Save complexity for a crew.</p></section><section><h2 id="section-3">On set</h2><p>Lock the camera, shoot your blocking and action, then shoot the empty frame. Do not act and pull focus at once.</p></section><section><h2 id="section-4">Do this</h2><p>Shooting alone means locked-off camera and continuous action. Do not act, operate, and pull focus at the same time.</p><ol><li>Shoot the empty frame and the wide first, then lock the camera down.</li><li>Check framing on a monitor, pre-focus, then walk into position and do the action.</li><li>Shoot the same action three times: wide, medium, close-up. Cut them together later.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not handhold and follow yourself; focus and framing will drift.</p></section><section><p><strong>Boundary</strong></p><p>It does not guarantee a story. The template only orders structure; the person, obstacle and cost still need writing.</p></section><section><h2>Alternative</h2><p>If “Shoot the empty frame and the wide first,” is not the main problem, start with the basic move behind “Check framing on a monitor, pre-focus, then walk”. Upgrade only after both hold.</p></section><section><h2>60-second test</h2><p>Run a 60-second test with the gear you own, focused on “Shoot the empty frame and the wide first,”, and record one number. If the number does not change, do not add budget.</p></section><section><h2>When not to use</h2><p>Do not use the template when “Shoot the empty frame and the wide first,” is still unclear or “Check framing on a monitor, pre-focus, then walk” is only filler. Go back to the person and the problem.</p></section><section><h2>Three failures</h2><ul><li>Every beat exists, but no one makes a decision.</li><li>The middle changes location, not information.</li><li>The ending is narrated, with no visible change.</li></ul></section>
+<h2>Check</h2><ul><li>The camera is locked and the empty frame and wide are shot first.</li><li>Each action has a wide, medium, and close-up take.</li><li>Focus is set before the walk; the lens does not hunt.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

@@ -11,13 +11,13 @@ summary: "You do not need a lighting kit for a face: set the direction, add a li
 slug: window-light
 aliases: [window-light]
 canonical_site: shoot
-canonical_path: /en/lighting/window-light/
+canonical_path: /en/article/window-light/
 status: published
 difficulty: beginner
 stage: shoot
 format: short-film
 tools: [light, camera, support]
-authors: [editor]
+authors: ["TVCN Shoot Desk"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/window-light.webp
 diagram: /images/diagrams/en/window-light.png
@@ -26,7 +26,7 @@ diagram_caption: "No kit needed for a face: turn the subject to the window, boun
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [ratio, composition]
+related: [shoot.lighting.night-interior.en, shoot.camera.axis-line.en, shoot.camera.shot-size.en]
 ---
 
 <!-- DIAGRAM_START -->

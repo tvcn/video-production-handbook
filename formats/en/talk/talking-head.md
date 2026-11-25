@@ -11,13 +11,13 @@ summary: "A talking-head piece is not an article read aloud. The viewer cannot h
 slug: talking-head
 aliases: [talking head, to-camera, direct address]
 canonical_site: formats
-canonical_path: /en/talk/talking-head/
+canonical_path: /en/article/talking-head/
 status: published
 difficulty: beginner
 stage: format
 format: talking-head
 tools: [camera, audio]
-authors: [editor]
+authors: ["TVCN Formats Desk"]
 reviewers: [technical-reviewer]
 cover: /images/formats/talking-head.webp
 diagram: /images/diagrams/en/talking-head.png
@@ -26,7 +26,7 @@ diagram_caption: "Short sentences, concrete examples, eyes on the lens. The view
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [formats.publish.thumbnail, tools.camera.audio-position]
+related: [formats.drama.vertical-drama.en, formats.ad.product-ad.en, formats.vlog.vlog-structure.en]
 depth: deep
 deep_minutes: 6
 ---

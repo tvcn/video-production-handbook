@@ -5,43 +5,46 @@ type: article
 lang: en
 translation_key: story.screenplay.scene-description
 translation_status: reviewed
-title: "Scene Description: Only What the Camera Can See"
-summary: "Describe only what the camera can see: light, action, objects, sound. Leave inner life to the actor."
+title: 'Scene Description: Only What the Camera Can See'
+summary: 'Describe only what the camera can see: light, action, objects, sound. Leave
+  inner life to the actor.'
 slug: scene-description
-aliases: [scene-description]
+aliases:
+- scene-description
 canonical_site: story
-canonical_path: /en/screenplay/scene-description/
+canonical_path: /en/article/scene-description/
 status: published
 diagram: /images/diagrams/en/scene-description.svg
-diagram_alt: "Scene Description: Only What the Camera Can See three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Scene Description: Only What the Camera Can See.'
+diagram_caption: Watch “Rewrite one page to visible and audible facts:” and “Delete
+  “he is anxious” and replace it with”; judge whether the want can be said with one
+  visible action.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Story Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- story.directing.rehearsal.en
+- story.storyboard.shot-sheet.en
+- story.screenplay.script-format.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>Describe only what the camera can see: light, action, objects, sound. Leave inner life to the actor.</p>
+<p>Scene description is not novelistic atmosphere. Write “one unwashed cup on the table, another soaking in the sink,” not “she feels her life out of control.” The first can be shot; the second can only be acted.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/scene-description.svg" alt="Scene Description: Only What the Camera Can See three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/scene-description.svg" alt="Structure diagram for Scene Description: Only What the Camera Can See.">
+  <figcaption>Watch “Rewrite one page to visible and audible facts:” and “Delete “he is anxious” and replace it with”; judge whether the want can be said with one visible action.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Rewrite one page as only what can be seen and heard: who sits where, what is in hand, what sound comes through the window. Delete he is anxious; let the actor show it by bouncing a knee or checking a watch.</p>
-<h2>Do this</h2>
-<p>Scene description writes only what the camera can see and the mic can hear: light, action, objects, sound. Psychology belongs to the actor.</p><ol><li>Rewrite one page to visible and audible facts: who sits where, what is in hand, what sounds outside.</li><li>Delete “he is anxious” and replace it with an action: bouncing a leg, checking the door.</li><li>Read it once and confirm every line can be captured by camera or recorder.</li></ol>
-<h2>Avoid</h2>
-<p>Do not let the character speak the theme; once spoken, the scene dies.</p>
-<h2>Check</h2>
-<ul><li>Every description can be shot or recorded; no interior monologue remains.</li><li>States like anxiety or hesitation are replaced with concrete actions.</li><li>A DP and a sound recordist can mark setups and sounds from one page.</li></ul>
+<section><h2 id="section-1">Write only what the camera can see and hear</h2><p>Keep each paragraph to one or two actions and leave room for the director and art department; do not decide wallpaper or focal length for them.</p><h2 id="section-2">Limits</h2><p>Shootable is not a list. Every object must do something—advance action, show relationship or block it. Purely decorative props go.</p></section><section><h2 id="section-3">On set</h2><p>Rewrite one page as only what can be seen and heard: who sits where, what is in hand, what sound comes through the window. Delete he is anxious; let the actor show it by bouncing a knee or checking a watch.</p></section><section><h2 id="section-4">Do this</h2><p>Scene description writes only what the camera can see and the mic can hear: light, action, objects, sound. Psychology belongs to the actor.</p><ol><li>Rewrite one page to visible and audible facts: who sits where, what is in hand, what sounds outside.</li><li>Delete “he is anxious” and replace it with an action: bouncing a leg, checking the door.</li><li>Read it once and confirm every line can be captured by camera or recorder.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not let the character speak the theme; once spoken, the scene dies.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the want is visible in one action</li><li>the obstacle escalates inside the same scene</li><li>delete one expository line and the conflict still holds</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>the want is unclear and the scene is only mood</li><li>the obstacle is solved by coincidence, not a decision</li><li>dialogue repeats what the image already says</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Write one 30-second scene with only “Rewrite one page to visible and audible facts:” and “Delete “he is anxious” and replace it with”. Cut every explanation and ask one person to retell what the character wants.</p></section>
+<h2>Check</h2><ul><li>Every description can be shot or recorded; no interior monologue remains.</li><li>States like anxiety or hesitation are replaced with concrete actions.</li><li>A DP and a sound recordist can mark setups and sounds from one page.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

@@ -5,26 +5,38 @@ type: article
 lang: zh
 translation_key: tools.guide.buy-light-led
 translation_status: source
-title: "购买 LED 灯：亮度、频闪与供电"
-summary: "LED 的参数不只是瓦数。频闪、色温偏移、电池续航、DMX/无线控制，决定它能不能在真实拍摄现场稳定工作。"
+title: 购买 LED 灯：亮度、频闪与供电
+summary: LED 的参数不只是瓦数。频闪、色温偏移、电池续航、DMX/无线控制，决定它能不能在真实拍摄现场稳定工作。
 slug: buy-light-led
-aliases: [buy-light-led]
+aliases:
+- buy-light-led
 canonical_site: tools
 canonical_path: /article/buy-light-led/
 status: published
 diagram: /images/diagrams/zh/buy-light-led.svg
-diagram_alt: "购买 LED 灯专题图解"
-diagram_caption: "示意：频闪、色温、输出、供电、控制，五项决定灯在现场是否可控。"
+diagram_alt: 购买 LED 灯专题图解
+diagram_caption: 示意：频闪、色温、输出、供电、控制，五项决定灯在现场是否可控。
 difficulty: intermediate
 stage: handbook
 format: guide
-authors: ["TVCN 工具组"]
+authors:
+- TVCN 工具组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S23, S25, S26, S29, S38]
-test_context: "复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。"
-known_failures: "已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。"
+sources:
+- S23
+- S25
+- S26
+- S29
+- S38
+test_context: 复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。
+known_failures: 已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。
 verified: 2026-11-22
+related:
+- tools.guide.buy-monitor.en
+- ai.post.ai-qc.en
+- animation.stop-motion.stop-motion.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +51,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：编辑部现场手册与购买检查表；实测来源：短测与公开规格核对，不是实验室跑分；参考来源：以下厂商与标准链接。</p>
 <ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube 上传规格</li><li><span class="mono">[S38]</span> 国家税务总局</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

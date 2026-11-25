@@ -11,13 +11,13 @@ summary: "The more you tell a real person to act natural, the stiffer they get. 
 slug: directing-nonactors
 aliases: [directing-nonactors]
 canonical_site: story
-canonical_path: /en/directing/directing-nonactors/
+canonical_path: /en/article/directing-nonactors/
 status: published
 difficulty: beginner
 stage: directing
 format: documentary
 tools: [script, camera, sound]
-authors: [editor]
+authors: ["TVCN Story Desk"]
 reviewers: [technical-reviewer]
 cover: /images/story/directing-nonactors.webp
 diagram: /images/diagrams/en/directing-nonactors.png
@@ -26,7 +26,7 @@ diagram_caption: "“Be natural” makes people stiffer. Give them one concrete 
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [documentary, story]
+related: [story.interview.interview-questions.en, story.directing.actor-adjustment.en, story.directing.ensemble-scene.en]
 ---
 
 <!-- DIAGRAM_START -->

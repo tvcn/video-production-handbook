@@ -10,13 +10,13 @@ summary: "第一次拍片，现场最容易乱的就是时间、地点、谁负�
 slug: first-shoot-day
 aliases: [first-shoot-day]
 canonical_site: tools
-canonical_path: /workflow/first-shoot-day/
+canonical_path: /article/first-shoot-day/
 status: published
 difficulty: beginner
 stage: workflow
 format: workflow
 tools: [media, budget, camera]
-authors: [editor]
+authors: ["TVCN 工具组"]
 reviewers: [technical-reviewer]
 cover: /images/tools/first-shoot-day.webp
 diagram: /images/diagrams/zh/first-shoot-day.png
@@ -25,7 +25,7 @@ diagram_caption: "时间、地点、谁负责、先拍什么、备用方案、�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [storyboard, storage]
+related: [tools.producing.budget-contingency.en, tools.producing.call-sheet.en, tools.producing.stripboard.en]
 ---
 
 <!-- DIAGRAM_START -->

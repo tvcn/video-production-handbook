@@ -11,7 +11,7 @@ summary: "Act one gives a goal, act two applies pressure, act three forces a cho
 slug: three-act
 aliases: [three-act, three-act structure]
 canonical_site: story
-canonical_path: /en/screenplay/three-act/
+canonical_path: /en/article/three-act/
 status: published
 difficulty: beginner
 stage: script
@@ -26,7 +26,7 @@ diagram_caption: "Act I gives a goal, Act II adds pressure, Act III forces a cho
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [story.screenplay.logline, story.storyboard.storyboard]
+related: [story.screenplay.logline.en, tools.guide.buy-batteries.en, ai.audio.ai-tts.en]
 sources: [S02, S16, S17]
 test_context: "Review setup: Windows 11 + Chrome; checked against public films, scripts and platform pages; not frame-by-frame testing."
 known_failures: "Known failures: public case data is incomplete; platform specs and length limits change; re-verify per project."
@@ -69,5 +69,5 @@ End after the choice, without a voice-over summary. The sentence the audience su
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S02]</span> WIPO: Copyright FAQ</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li><li><span class="mono">[S17]</span> Reuters Trust Principles</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

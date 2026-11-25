@@ -6,27 +6,35 @@ lang: en
 translation_key: context.history.animation.animation-history
 translation_status: reviewed
 translation_reviewed: 2026-11-21
-title: "Animation History: From Cels to 3D"
-summary: "Paper, cels, polygons: the tools changed. Animators still face the same daily problem: how to make a still thing look like it wants to move."
+title: 'Animation History: From Cels to 3D'
+summary: 'Paper, cels, polygons: the tools changed. Animators still face the same daily problem: how to make a still thing look like it wants to move.'
 slug: animation-history
-aliases: [animation-history]
+aliases:
+- animation-history
 canonical_site: context
-canonical_path: /en/history/animation/animation-history/
+canonical_path: /en/article/animation-history/
 status: published
 difficulty: beginner
 stage: context
 format: short-film
 tools: []
-authors: [editor]
-reviewers: [technical-reviewer]
+authors:
+- TVCN Research Desk
+reviewers:
+- technical-reviewer
 cover: /images/context/animation-history.webp
 diagram: /images/diagrams/en/animation-history.png
-diagram_alt: "Animation history: tools change, the problem stays"
-diagram_caption: "From paper to cels to polygons, animators still face one question: how to make a still thing look like it wants to move."
+diagram_alt: 'Animation history: tools change, the problem stays'
+diagram_caption: 'From paper to cels to polygons, animators still face one question: how to make a still thing look like it wants to move.'
 last_verified: 2026-11-20
 review_due: 2027-05-20
-sources: [S12]
-related: []
+sources:
+- S12
+related:
+- context.history.film.1895.en
+- context.history.photography.1839.en
+- context.history.vfx-history.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -69,5 +77,5 @@ Do not chase realism. Audiences remember weight and rhythm, not polygon count. B
 
 - [S12] Britannica: Animation
 
-Full links and notes: [`SOURCES.md`](../../../../SOURCES.md).
+Full links and notes: [`SOURCES.md`](../../../../about/).
 <!-- SOURCES_END -->

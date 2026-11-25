@@ -11,13 +11,13 @@ summary: "Lip sync is not a drawing for every word. Land the closed consonants, 
 slug: animation-lip-sync
 aliases: [animation-lip-sync, lip sync, mouth chart]
 canonical_site: animation
-canonical_path: /en/2d/animation-lip-sync/
+canonical_path: /en/article/animation-lip-sync/
 status: published
 difficulty: intermediate
 stage: post
 format: animation
 tools: []
-authors: [editor]
+authors: ["TVCN Animation Desk"]
 reviewers: [technical-reviewer]
 cover: /images/animation/animation-lip-sync.webp
 diagram: /images/diagrams/en/animation-lip-sync.png
@@ -26,7 +26,7 @@ diagram_caption: "Skip the full phoneme chart. Land the closed consonants, open 
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [animation.2d.2d-animation, animation.2d.animation-timing]
+related: [animation.2d.animation-walk.en, animation.2d.loop-cycle.en, animation.motion-graphics.mg-rhythm.en]
 ---
 
 <!-- DIAGRAM_START -->

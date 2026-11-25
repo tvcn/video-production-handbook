@@ -11,13 +11,13 @@ summary: "A scene that will not cut usually has the wrong cut point, not too lit
 slug: cutting-points
 aliases: [cut points, edit point, transition]
 canonical_site: post
-canonical_path: /en/editing/cutting-points/
+canonical_path: /en/article/cutting-points/
 status: published
 difficulty: intermediate
 stage: post
 format: workflow
 tools: [edit]
-authors: [editor]
+authors: ["TVCN Post Desk"]
 reviewers: [technical-reviewer]
 cover: /images/post/cutting-points.webp
 diagram: /images/diagrams/en/cutting-points.png
@@ -26,7 +26,7 @@ diagram_caption: "Every cut needs one thing to catch attention. Action is steadi
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [post.editing.subtitles, shoot.camera.axis-line]
+related: [post.editing.sound-bridge.en, post.sound.room-tone.en, post.editing.transitions.en]
 ---
 
 <!-- DIAGRAM_START -->

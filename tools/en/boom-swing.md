@@ -5,38 +5,42 @@ type: article
 lang: en
 translation_key: tools.tutorial.boom-swing
 translation_status: reviewed
-title: "Boom Swing: Follow the Chest"
-summary: "Follow the chest, not the mouth; the mouth turns, the chest stays in range."
+title: 'Boom Swing: Follow the Chest'
+summary: Follow the chest, not the mouth; the mouth turns, the chest stays in range.
 slug: boom-swing
-aliases: [boom-swing]
+aliases:
+- boom-swing
 canonical_site: tools
-canonical_path: /en/tutorial/boom-swing/
+canonical_path: /en/article/boom-swing/
 status: published
 diagram: /images/diagrams/en/boom-swing.svg
-diagram_alt: "Boom Swing: Follow the Chest three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Boom Swing: Follow the Chest.'
+diagram_caption: Watch “Track the boom head to the chest.” and “Keep forty to sixty
+  centimeters away.”; judge whether the spec maps to one concrete shooting problem.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Tools Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- tools.tutorial.lav-hidden.en
+- tools.tutorial.slider-shot.en
+- tools.tutorial.follow-focus-practice.en
+source_kind: experience
 ---
 
-<p>Follow the chest, not the mouth; the mouth turns, the chest stays in range.</p>
+<p>The operator must know where the actor goes next: watch rehearsal, listen for cues, track feet. Keep the tip 40–60 cm above and ahead, out of the shadow; move around outside frame, never across the head.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/boom-swing.svg" alt="Boom Swing: Follow the Chest three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/boom-swing.svg" alt="Structure diagram for Boom Swing: Follow the Chest.">
+  <figcaption>Watch “Track the boom head to the chest.” and “Keep forty to sixty centimeters away.”; judge whether the spec maps to one concrete shooting problem.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Keep the boom tip on the actor's chest at forty to sixty centimeters. When they turn, leave the tip above and outside the frame.</p>
-<h2>Do this</h2>
-<p>The boom follows the actor's chest, not the mouth; the mouth turns, the chest does not vanish.</p><ol><li>Track the boom head to the chest.</li><li>Keep forty to sixty centimeters away.</li><li>When the actor turns, keep the head above frame.</li></ol>
-<h2>Avoid</h2>
-<p>Do not chase the mouth with the boom; one head turn brings it into frame.</p>
-<h2>Check</h2>
-<ul><li>The boom follows the chest, not the mouth.</li><li>Distance stays between forty and sixty centimeters.</li><li>On a turn, the boom head stays out of frame.</li></ul>
+<section><h2 id="section-1">The boom follows action without crossing frame</h2><p>Record a boom test before each setup to confirm it clears lamps and bounce boards.</p><h2 id="section-2">Limits</h2><p>Closer is not better. Too close captures breath and cloth; too far sounds empty. Protect the line before hiding the pole.</p><h2 id="section-3">The boom follows lines, not bodies</h2>
+<p>The boom keeps the mic above the mouth; it does not chase the actor. Block the scene, mark the head position for each line, then plan the pole move.</p>
+<ol><li>Keep the tip above frame and 30–60cm from the mouth. Too far is thin; too close enters frame.</li><li>Move between lines, not during them. When the actor walks, reposition in the pause.</li><li>Wear headphones and listen for clipping and wind. Use a windshield; do not rely on post denoise.</li></ol>
+<p>Acceptance: playback for level jumps and pole shadows. If they appear, fix blocking or pole position before compression.</p></section><section><h2 id="section-4">On set</h2><p>Keep the boom tip on the actor's chest at forty to sixty centimeters. When they turn, leave the tip above and outside the frame.</p></section><section><h2 id="section-5">Do this</h2><p>The boom follows the actor's chest, not the mouth; the mouth turns, the chest does not vanish.</p><ol><li>Track the boom head to the chest.</li><li>Keep forty to sixty centimeters away.</li><li>When the actor turns, keep the head above frame.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not chase the mouth with the boom; one head turn brings it into frame.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>every spec maps to one concrete shooting problem</li><li>weight, power and connections hold on a real rig</li><li>a 60-second test leaves one comparable number</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>specs without connections, power or weight</li><li>batteries, storage or body do not match after purchase</li><li>no 60-second test, so the problem arrives on the shoot</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Run a 60-second test with the gear you already own, measuring only “Track the boom head to the chest.”. Record two numbers: what you need and what the gear actually gives.</p></section>
+<h2>Check</h2><ul><li>The boom follows the chest, not the mouth.</li><li>Distance stays between forty and sixty centimeters.</li><li>On a turn, the boom head stays out of frame.</li></ul>

@@ -6,27 +6,37 @@ lang: en
 translation_key: context.viewing.screen-size
 translation_status: reviewed
 translation_reviewed: 2026-11-21
-title: "Why Faces Got Closer: Cinema to Phone"
-summary: "Faces did not get closer because directors fell in love with close-ups. The screen changed. Cinema could hold a face; TV gave it a living room; the phone gives it a thumb."
+title: 'Why Faces Got Closer: Cinema to Phone'
+summary: Faces did not get closer because directors fell in love with close-ups. The screen changed. Cinema could hold a face; TV gave it a living room; the phone gives it a thumb.
 slug: screen-size
-aliases: [screen size, viewing distance, shot size history]
+aliases:
+- screen size
+- viewing distance
+- shot size history
 canonical_site: context
-canonical_path: /en/viewing/screen-size/
+canonical_path: /en/article/screen-size/
 status: published
 difficulty: beginner
 stage: context
 format: short-film
 tools: []
-authors: [editor]
-reviewers: [technical-reviewer]
+authors:
+- TVCN Research Desk
+reviewers:
+- technical-reviewer
 cover: /images/context/screen-size.webp
 diagram: /images/diagrams/en/screen-size.png
-diagram_alt: "One face: cinema, TV, phone"
-diagram_caption: "The smaller the screen, the closer the viewer, the tighter the shot. Taste did not change; reading conditions did."
+diagram_alt: 'One face: cinema, TV, phone'
+diagram_caption: The smaller the screen, the closer the viewer, the tighter the shot. Taste did not change; reading conditions did.
 last_verified: 2026-11-20
 review_due: 2027-05-20
-sources: [S10]
-related: [formats.drama.vertical-drama, shoot.camera.composition]
+sources:
+- S10
+related:
+- context.history.film.1895.en
+- context.history.photography.photo-history.en
+- context.history.animation.animation-history.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -71,5 +81,5 @@ Vertical is not a smaller movie. It has its own shot sizes, pace, and viewing di
 
 - [S10] BFI: Film history and moving-image research
 
-Full links and notes: [`SOURCES.md`](../../../SOURCES.md).
+Full links and notes: [`SOURCES.md`](../../../about/).
 <!-- SOURCES_END -->

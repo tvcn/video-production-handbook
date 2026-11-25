@@ -10,13 +10,13 @@ summary: "弧光不是人物从坏变好。是同一个压力下，他第一次�
 slug: character-arc
 aliases: [character-arc, 人物弧光, 角色成长]
 canonical_site: story
-canonical_path: /screenplay/character-arc/
+canonical_path: /article/character-arc/
 status: published
 difficulty: intermediate
 stage: script
 format: short-film
 tools: [script]
-authors: [editor]
+authors: ["TVCN 故事组"]
 reviewers: [technical-reviewer]
 cover: /images/story/character-arc.webp
 diagram: /images/diagrams/zh/character-arc.png
@@ -25,7 +25,7 @@ diagram_caption: "弧光不是性格标签换了，是同一个压力下，人�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [story.screenplay.conflict, story.screenplay.three-act]
+related: [story.screenplay.conflict.en, story.screenplay.voice-over.en, story.story.theme-through-action.en]
 ---
 
 <!-- DIAGRAM_START -->

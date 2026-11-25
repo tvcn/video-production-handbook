@@ -5,26 +5,35 @@ type: article
 lang: zh
 translation_key: post.sound.sound-post-workflow
 translation_status: source
-title: "声音后期：从对白到终混的顺序"
-summary: "声音后期不是先找音乐。顺序是：对白能听清、环境不断、效果不抢、音乐最后进；每一步都有可检查的结果。"
+title: 声音后期：从对白到终混的顺序
+summary: 声音后期不是先找音乐。顺序是：对白能听清、环境不断、效果不抢、音乐最后进；每一步都有可检查的结果。
 slug: sound-post-workflow
-aliases: [sound-post-workflow]
+aliases:
+- sound-post-workflow
 canonical_site: post
 canonical_path: /article/sound-post-workflow/
 status: published
 diagram: /images/diagrams/zh/sound-post-workflow.svg
-diagram_alt: "声音后期流程专题图解"
-diagram_caption: "示意：每一层单独处理，最后才合并；把音乐先铺满，会掩盖对白问题。"
+diagram_alt: 声音后期流程专题图解
+diagram_caption: 示意：每一层单独处理，最后才合并；把音乐先铺满，会掩盖对白问题。
 difficulty: intermediate
 stage: handbook
 format: workflow
-authors: ["TVCN 后期组"]
+authors:
+- TVCN 后期组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S27, S28]
-test_context: "复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere Pro 2025 复跑；不声称每台机器结果一致。"
-known_failures: "已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。"
+sources:
+- S27
+- S28
+test_context: 复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere Pro 2025 复跑；不声称每台机器结果一致。
+known_failures: 已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。
 verified: 2026-11-22
+related:
+- post.assets.archive-reuse.en
+- shoot.camera.composition.en
+- story.screenplay.three-act.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +48,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
 <ul><li><span class="mono">[S27]</span> EBU R128 响度</li><li><span class="mono">[S28]</span> Netflix 制作与交付帮助</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

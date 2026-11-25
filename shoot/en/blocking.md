@@ -5,47 +5,55 @@ type: article
 lang: en
 translation_key: shoot.blocking.blocking
 translation_status: reviewed
-title: "Blocking: Let the Body Tell the Story"
-summary: "Blocking is not pretty placement; it makes relationships visible in space: who approaches, who retreats, who blocks whom."
+title: 'Blocking: Let the Body Tell the Story'
+summary: 'Blocking is not pretty placement; it makes relationships visible in space:
+  who approaches, who retreats, who blocks whom.'
 slug: blocking
-aliases: [blocking]
+aliases:
+- blocking
 canonical_site: shoot
-canonical_path: /en/blocking/blocking/
+canonical_path: /en/article/blocking/
 status: published
 diagram: /images/diagrams/en/blocking.svg
-diagram_alt: "Blocking: Let the Body Tell the Story three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Blocking: Let the Body Tell the Story.'
+diagram_caption: Watch “Tape the door, chair, and camera positions on” and “Walk the
+  actor from the door to the”; judge whether highlights, skin and sound survive together.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: ["TVCN Tech Desk"]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Tech Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- shoot.camera.composition.en
+- story.screenplay.three-act.en
+- tools.guide.buy-tripod.en
 depth: deep
 deep_minutes: 6
-sources: [S23, S31, S32, S33]
-test_context: "Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus and samples; lens claims follow page labels, not every lens tested."
-known_failures: "Known failures: menus and firmware differ; uncalibrated color temperature/monitors cause misreads."
+sources:
+- S23
+- S31
+- S32
+- S33
+test_context: 'Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus
+  and samples; lens claims follow page labels, not every lens tested.'
+known_failures: 'Known failures: menus and firmware differ; uncalibrated color temperature/monitors
+  cause misreads.'
 verified: 2026-11-22
+source_kind: sourced
 ---
 
-<p>Blocking is not pretty placement; it makes relationships visible in space: who approaches, who retreats, who blocks whom.</p>
+<p>Blocking is not pretty placement; it turns who approaches, who retreats and who blocks whom into visible information. Tape the door, chair and camera on the floor, then let one action carry the actor across that distance.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/blocking.svg" alt="Blocking: Let the Body Tell the Story three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/blocking.svg" alt="Structure diagram for Blocking: Let the Body Tell the Story.">
+  <figcaption>Watch “Tape the door, chair, and camera positions on” and “Walk the actor from the door to the”; judge whether highlights, skin and sound survive together.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Tape the door, the chair, and the camera on the floor. Walk the actor from the door to the chair, stopping two seconds in front of the camera. Shoot one wide and check who blocks whom.</p>
-<h2>Do this</h2>
-<p>Blocking is not pretty placement; it makes relationships visible in space: who approaches, who retreats, who blocks whom. Mark the positions, move the actor through the space with one action, then check the relationship in a wide.</p><ol><li>Tape the door, chair, and camera positions on the floor.</li><li>Walk the actor from the door to the chair, stopping two seconds in frame, without lines.</li><li>Shoot a wide first and review who blocks whom and whether the distance reads.</li></ol>
-<h2>Avoid</h2>
-<p>Do not pose people like a poster; a false body makes a false relationship.</p>
-<h2>Check</h2>
-<ul><li>In the wide, you can see who approaches, who retreats, and who blocks whom without dialogue.</li><li>The actor takes an action path, not a pose; start, turn, and end are visible in frame.</li><li>A blocking diagram or phone video lets another person walk the same path.</li></ul>
+<section><h2 id="section-1">Make the relationship spatial</h2><p>Shoot a wide and play it back: if the bodies alone tell you who holds power, the blocking works. If a line has to explain it, re-block.</p><h2 id="section-2">Limits</h2><p>Do not pose people into a poster. If the body does not move, the relationship does not move either.</p></section><section><h2 id="section-3">On set</h2><p>Tape the door, the chair, and the camera on the floor. Walk the actor from the door to the chair, stopping two seconds in front of the camera. Shoot one wide and check who blocks whom.</p></section><section><h2 id="section-4">Do this</h2><p> Mark the positions, move the actor through the space with one action, then check the relationship in a wide.</p><ol><li>Tape the door, chair, and camera positions on the floor.</li><li>Walk the actor from the door to the chair, stopping two seconds in frame, without lines.</li><li>Shoot a wide first and review who blocks whom and whether the distance reads.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not pose people like a poster; a false body makes a false relationship.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>highlights are not clipped and shadows keep recoverable detail</li><li>skin stays consistent across camera angles</li><li>sound has an independent track, not just the on-camera mic</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>exposure is right but the light has no direction</li><li>sound relies on the camera mic and dies in a noisy room</li><li>crossing the line leaves the audience without a map</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Shoot three 10-second takes by the same window, changing only “Tape the door, chair, and camera positions on”. Compare highlights, skin and background; keep the one that is editable.</p></section>
+<h2>Check</h2><ul><li>In the wide, you can see who approaches, who retreats, and who blocks whom without dialogue.</li><li>The actor takes an action path, not a pose; start, turn, and end are visible in frame.</li><li>A blocking diagram or phone video lets another person walk the same path.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive
@@ -66,8 +74,3 @@ verified: 2026-11-22
 <ul><li>Walk it once without lines</li><li>Mark start, end, and turns</li><li>Test sitting and standing</li><li>Confirm the key light does not hide the face</li><li>Give every group actor one action</li><li>Photograph the blocking diagram</li></ul><p>Right blocking gives dialogue a place to land; wrong blocking makes actors carry it with their faces.</p>
 <!-- DEEP_DIVE_END -->
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S31]</span> ARRI Technical Documentation</li><li><span class="mono">[S32]</span> Sony Pro Support</li><li><span class="mono">[S33]</span> Canon Support</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
-<!-- SOURCES_END -->

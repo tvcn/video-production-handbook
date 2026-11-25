@@ -5,38 +5,47 @@ type: tool
 lang: en
 translation_key: main.tool.tool-card-interview-kit
 translation_status: reviewed
-title: "Interview Two-Camera Kit"
-summary: "Interview kit: A camera medium, B close, shotgun, backup lav; the edit gets choices."
+title: Interview Two-Camera Kit
+summary: 'Interview kit: A camera medium, B close, shotgun, backup lav; the edit gets
+  choices.'
 slug: tool-card-interview-kit
-aliases: [tool-card-interview-kit]
+aliases:
+- tool-card-interview-kit
 canonical_site: main
-canonical_path: /en/tool/tool-card-interview-kit/
+canonical_path: /en/article/tool-card-interview-kit/
 status: published
 diagram: /images/diagrams/en/tool-card-interview-kit.svg
-diagram_alt: "Interview Two-Camera Kit three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: Structure diagram for Interview Two-Camera Kit.
+diagram_caption: 'Watch “Minimum: main camera on a medium shot, second” and “Working:
+  two manual-exposure bodies, two primes, two lavs”; judge whether the symptom can
+  be restated as one observable sentence.'
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Editorial
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- main.tool.tool-card-audio-kit.en
+- main.tool.tool-card-live-kit.en
+- main.tool.tool-card-travel-kit.en
+source_kind: experience
 ---
 
-<p>Interview kit: A camera medium, B close, shotgun, backup lav; the edit gets choices.</p>
+<p>One wide camera holds body and hands; one medium-close camera holds the face. Both share the same audio so the edit has choices. Two identical angles only give you the same footage twice.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/tool-card-interview-kit.svg" alt="Interview Two-Camera Kit three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/tool-card-interview-kit.svg" alt="Structure diagram for Interview Two-Camera Kit.">
+  <figcaption>Watch “Minimum: main camera on a medium shot, second” and “Working: two manual-exposure bodies, two primes, two lavs”; judge whether the symptom can be restated as one observable sentence.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>A camera for the medium, B for the close, a shotgun, and a backup lav. Test two-camera sync first.</p>
-<h2>Do this</h2>
-<p>An interview two-camera kit: A mid-shot, B close-up, plus shotgun and backup lav; editing needs choices.</p><ol><li>A camera holds the mid-shot and context, B the close-up and face.</li><li>Shotgun to the main recorder, lav as a backup track.</li><li>Run a two-camera test to confirm sync and framing.</li></ol>
-<h2>Avoid</h2>
-<p>Do not set both cameras to the same framing; the edit has no choices.</p>
-<h2>Check</h2>
-<ul><li>A is mid-shot, B is close-up, clearly different.</li><li>Shotgun and lav each record a usable track.</li><li>The two-camera test syncs and framings do not duplicate.</li></ul>
+<section><h2 id="section-1">Two cameras, not two copies</h2>
+
+<ul><li><strong>Minimum:</strong> main camera on a medium shot, second camera on a wide; lav into the main, on-camera mic on the second as reference only.</li><li><strong>Working:</strong> two manual-exposure bodies, two primes, two lavs plus a shotgun, two lights, timecode or a clap sync.</li><li><strong>Insured:</strong> separate recorder, third lav, spare batteries and a spare card; a main-camera failure does not stop the interview.</li></ul>
+<h2 id="section-2">Ten minutes before rolling</h2>
+<ol><li>Have the subject speak normally; confirm both angles are in focus and neither audio channel clips.</li><li>Clap or jam timecode, then play back one sync check.</li><li>Shoot an empty frame and a frame with hands to confirm subtitle safe area.</li></ol>
+<h2 id="section-3">Do not</h2>
+<p>Do not pair two different camera brands and expect a one-click match; do not give the subject only one lav; do not change a battery mid-interview without stopping. Continuity is the value of an interview, not the number of angles.</p></section><section><h2 id="section-4">On set</h2><p>A camera for the medium, B for the close, a shotgun, and a backup lav. Test two-camera sync first.</p></section><section><h2 id="section-5">Avoid</h2><p>Do not set both cameras to the same framing; the edit has no choices.</p></section>
+<h2>Check</h2><ul><li>A is mid-shot, B is close-up, clearly different.</li><li>Shotgun and lav each record a usable track.</li><li>The two-camera test syncs and framings do not duplicate.</li></ul>

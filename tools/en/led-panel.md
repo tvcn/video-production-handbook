@@ -5,38 +5,40 @@ type: tool
 lang: en
 translation_key: tools.capability.led-panel
 translation_status: reviewed
-title: "LED Panel: CRI and Brightness"
-summary: "Check CRI and real output, not wattage on the box; green skin means the color is wrong."
+title: 'LED Panel: CRI and Brightness'
+summary: Check CRI and real output, not wattage on the box; green skin means the color
+  is wrong.
 slug: led-panel
-aliases: [led-panel]
+aliases:
+- led-panel
 canonical_site: tools
-canonical_path: /en/capability/led-panel/
+canonical_path: /en/article/led-panel/
 status: published
 diagram: /images/diagrams/en/led-panel.svg
-diagram_alt: "LED Panel: CRI and Brightness three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for LED Panel: CRI and Brightness.'
+diagram_caption: Watch “Set the light to 5600K at 100 percent” and “Check whether
+  the hand turns green.”; judge whether the spec maps to one concrete shooting problem.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Tools Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- tools.capability.cob-light.en
+- tools.capability.softbox.en
+- tools.capability.follow-focus.en
+source_kind: experience
 ---
 
-<p>Check CRI and real output, not wattage on the box; green skin means the color is wrong.</p>
+<p>For strong direction, long throws or large areas, a panel loses to a COB with a softbox. It is best for close, low-power and fast setups.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/led-panel.svg" alt="LED Panel: CRI and Brightness three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/led-panel.svg" alt="Structure diagram for LED Panel: CRI and Brightness.">
+  <figcaption>Watch “Set the light to 5600K at 100 percent” and “Check whether the hand turns green.”; judge whether the spec maps to one concrete shooting problem.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Set the panel to 5600K at full power and shoot white paper and a hand. Check for green skin and measure the output at one meter.</p>
-<h2>Do this</h2>
-<p>An LED panel is judged by color rendering and actual output, not box wattage; green skin means bad color.</p><ol><li>Set the light to 5600K at 100 percent and shoot white paper and a hand.</li><li>Check whether the hand turns green.</li><li>Measure illuminance at one meter to see whether it can key.</li></ol>
-<h2>Avoid</h2>
-<p>Do not buy by wattage; bad color rendering makes a bright light usable only as fill.</p>
-<h2>Check</h2>
-<ul><li>White paper and hand are sampled at 5600K full power.</li><li>Green or magenta skin cast is named.</li><li>One-meter illuminance is measured and judged against key-light needs.</li></ul>
+<section><h2 id="section-1">What to compare first</h2><ul><li><strong>Color rendering:</strong> shoot skin, red cloth and green plants; check real performance beyond CRI/TLCI claims. Cheap panels often push green dirty.</li><li><strong>Dimming:</strong> sweep from high to low and look for flicker, cast and steps; it shows most at low output.</li><li><strong>Diffusion and control:</strong> is the built-in diffusion even, and can it take a grid? Edge spill shows when the panel is close to a face.</li></ul><h2 id="section-2">When not to use it</h2></section><section><h2 id="section-3">On set</h2><p>Set the panel to 5600K at full power and shoot white paper and a hand. Check for green skin and measure the output at one meter.</p></section><section><h2 id="section-4">Do this</h2><p>An LED panel is judged by color rendering and actual output, not box wattage; green skin means bad color.</p><ol><li>Set the light to 5600K at 100 percent and shoot white paper and a hand.</li><li>Check whether the hand turns green.</li><li>Measure illuminance at one meter to see whether it can key.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not buy by wattage; bad color rendering makes a bright light usable only as fill.</p></section>
+<h2>Check</h2><ul><li>White paper and hand are sampled at 5600K full power.</li><li>Green or magenta skin cast is named.</li><li>One-meter illuminance is measured and judged against key-light needs.</li></ul>

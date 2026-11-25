@@ -11,13 +11,13 @@ summary: "First shoots fall apart around time, place, ownership, shot order, bac
 slug: first-shoot-day
 aliases: [first-shoot-day]
 canonical_site: tools
-canonical_path: /en/workflow/first-shoot-day/
+canonical_path: /en/article/first-shoot-day/
 status: published
 difficulty: beginner
 stage: workflow
 format: workflow
 tools: [media, budget, camera]
-authors: [editor]
+authors: ["TVCN Tools Desk"]
 reviewers: [technical-reviewer]
 cover: /images/tools/first-shoot-day.webp
 diagram: /images/diagrams/en/first-shoot-day.png
@@ -26,7 +26,7 @@ diagram_caption: "Time, place, owner, first shot, backup plan, wrap standard. On
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [storyboard, storage]
+related: [tools.producing.budget-contingency.en, tools.producing.call-sheet.en, tools.producing.stripboard.en]
 ---
 
 <!-- DIAGRAM_START -->

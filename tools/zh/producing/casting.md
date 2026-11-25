@@ -10,13 +10,13 @@ summary: "选演员不是找最会演的，是找最适合这段关系的人。�
 slug: casting
 aliases: [casting, 选演员, 试镜, 试读]
 canonical_site: tools
-canonical_path: /producing/casting/
+canonical_path: /article/casting/
 status: published
 difficulty: intermediate
 stage: produce
 format: short-film
 tools: [script, camera]
-authors: [editor]
+authors: ["TVCN 工具组"]
 reviewers: [technical-reviewer]
 cover: /images/tools/casting.webp
 diagram: /images/diagrams/zh/casting.png
@@ -25,7 +25,7 @@ diagram_caption: "先看外形和声音站不站得住，再看两个人之间�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [story.directing.directing-nonactors, tools.producing.call-sheet, story.screenplay.dialogue]
+related: [tools.producing.stripboard.en, tools.producing.budget-map.en, tools.proposal.treatment.en]
 ---
 
 <!-- DIAGRAM_START -->

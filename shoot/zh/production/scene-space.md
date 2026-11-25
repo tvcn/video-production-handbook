@@ -10,13 +10,13 @@ summary: "人物还没说话，观众已经在读房间：门口有没有鞋、�
 slug: scene-space
 aliases: [scene-space, 场景陈设, set dressing]
 canonical_site: shoot
-canonical_path: /production/scene-space/
+canonical_path: /article/scene-space/
 status: published
 difficulty: intermediate
 stage: shoot
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN 拍摄组"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/scene-space.webp
 diagram: /images/diagrams/zh/scene-space.png
@@ -25,7 +25,7 @@ diagram_caption: "观众从门口开始读，再看桌面，最后才被允许�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [shoot.camera.composition, shoot.lighting.window-light]
+related: [shoot.camera.camera-move.en, shoot.production.slate-continuity.en, shoot.camera.shot-size.en]
 ---
 
 <!-- DIAGRAM_START -->

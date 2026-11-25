@@ -5,43 +5,43 @@ type: article
 lang: en
 translation_key: story.story.scene-sequence
 translation_status: reviewed
-title: "A Sequence: Three Scenes, One Change"
-summary: "One scene delivers one change; three scenes together move a sequence."
+title: 'A Sequence: Three Scenes, One Change'
+summary: One scene delivers one change; three scenes together move a sequence.
 slug: scene-sequence
-aliases: [scene-sequence]
+aliases:
+- scene-sequence
 canonical_site: story
-canonical_path: /en/story/scene-sequence/
+canonical_path: /en/article/scene-sequence/
 status: published
 diagram: /images/diagrams/en/scene-sequence.svg
-diagram_alt: "A Sequence: Three Scenes, One Change three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for A Sequence: Three Scenes, One Change.'
+diagram_caption: Watch “Scene one states the goal so the audience” and “Scene two blocks it and makes conditions worse.”; judge whether the want can be said with one visible action.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Story Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- story.story.midpoint-turn.en
+- story.story.theme-through-action.en
+- story.story.ending-choice.en
 depth: deep
 deep_minutes: 6
+source_kind: experience
 ---
 
-<p>One scene delivers one change; three scenes together move a sequence.</p>
+<p>Three scenes are not three locations; they are three state changes. Each scene starts with what the character wants on entry and ends with what is different on exit. Between those two lines there must be a playable action.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/scene-sequence.svg" alt="A Sequence: Three Scenes, One Change three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/scene-sequence.svg" alt="Structure diagram for A Sequence: Three Scenes, One Change.">
+  <figcaption>Watch “Scene one states the goal so the audience” and “Scene two blocks it and makes conditions worse.”; judge whether the want can be said with one visible action.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Split the sequence into three scenes: the first names the goal, the second blocks it, the third forces a choice. Each ending must change the conditions of the next scene.</p>
-<h2>Do this</h2>
-<p>One scene carries one change; three scenes move a sequence.</p><ol><li>Scene one states the goal so the audience knows what is wanted.</li><li>Scene two blocks it and makes conditions worse.</li><li>Scene three forces a choice and changes what the next scene can be.</li></ol>
-<h2>Avoid</h2>
-<p>Do not let three scenes repeat one piece of information; without changing conditions, the sequence stalls.</p>
-<h2>Check</h2>
-<ul><li>Each of the three scenes has one change stated as “from what to what.”</li><li>Every scene ending changes the conditions of the next.</li><li>Remove any scene and the sequence breaks, not just loses color.</li></ul>
+<section><h2 id="section-1">One change per scene</h2><p>Connect scenes with action, not captions: he closes a door and the next scene starts outside it; she sets down a cup and the next scene has someone else holding it.</p><h2 id="section-2">Limits</h2><p>If the story still works with a scene removed, that scene is atmosphere, not sequence. Cut it before discussing pacing.</p></section><section><h2 id="section-3">On set</h2><p>Split the sequence into three scenes: the first names the goal, the second blocks it, the third forces a choice. Each ending must change the conditions of the next scene.</p></section><section><h2 id="section-4">Do this</h2><p>One scene carries one change; three scenes move a sequence.</p><ol><li>Scene one states the goal so the audience knows what is wanted.</li><li>Scene two blocks it and makes conditions worse.</li><li>Scene three forces a choice and changes what the next scene can be.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not let three scenes repeat one piece of information; without changing conditions, the sequence stalls.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the want is visible in one action</li><li>the obstacle escalates inside the same scene</li><li>delete one expository line and the conflict still holds</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>the want is unclear and the scene is only mood</li><li>the obstacle is solved by coincidence, not a decision</li><li>dialogue repeats what the image already says</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Write one 30-second scene with only “Scene one states the goal so the audience” and “Scene two blocks it and makes conditions worse.”. Cut every explanation and ask one person to retell what the character wants.</p></section>
+<h2>Check</h2><ul><li>Each of the three scenes has one change stated as “from what to what.”</li><li>Every scene ending changes the conditions of the next.</li><li>Remove any scene and the sequence breaks, not just loses color.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive
@@ -57,3 +57,5 @@ deep_minutes: 6
 ### Ten sequence checks
 <ul><li>One main question per scene</li><li>Situation differs at the end</li><li>Scene one establishes the norm</li><li>Scene two breaks the old method</li><li>Scene three makes a new choice</li><li>Each ending changes the next conditions</li><li>Three different methods</li><li>One new constraint per scene</li><li>Link with a repeated prop or action</li><li>Three lines do not repeat</li></ul><p>A sequence is not three scenes in a row; it is three scenes forcing each other forward.</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<aside class="article-sources experience-source" data-source-kind="experience"><div class="article-credit-head"><p class="eyebrow">Sources / 来源</p><span class="mono">Experience source</span></div><p class="source-types">Experience source: TVCN field handbook and editorial review; no laboratory measurement or external data is claimed here.</p></aside>

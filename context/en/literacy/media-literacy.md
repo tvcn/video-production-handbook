@@ -6,29 +6,37 @@ lang: en
 translation_key: context.literacy.media-literacy
 translation_status: reviewed
 translation_reviewed: 2026-11-21
-title: "Media Literacy: Five Questions for Any Video"
-summary: "Do not start with “is it real.” Start with: who made it, what was cut, what context, and why it reached me now."
+title: 'Media Literacy: Five Questions for Any Video'
+summary: 'Do not start with “is it real.” Start with: who made it, what was cut, what context, and why it reached me now.'
 slug: media-literacy
-aliases: [media-literacy]
+aliases:
+- media-literacy
 canonical_site: context
-canonical_path: /en/literacy/media-literacy/
+canonical_path: /en/article/media-literacy/
 status: published
 difficulty: beginner
 stage: context
 format: short-film
 tools: []
-authors: [editor]
-reviewers: [technical-reviewer]
+authors:
+- TVCN Research Desk
+reviewers:
+- technical-reviewer
 cover: /images/context/media-literacy.webp
 diagram: /images/diagrams/en/media-literacy.png
-diagram_alt: "Five hands before it reaches you"
-diagram_caption: "Every hand removes something. The final cut is not the scene."
+diagram_alt: Five hands before it reaches you
+diagram_caption: Every hand removes something. The final cut is not the scene.
 last_verified: 2026-11-20
 review_due: 2027-05-20
-sources: [S01]
-related: []
+sources:
+- S01
+related:
+- context.literacy.source-check.en
+- context.law.documentary-ethics.en
+- context.literacy.deepfake.en
 depth: deep
 deep_minutes: 7
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -71,7 +79,7 @@ Treat AI traces as an entry point for questions, not a verdict. Source and conte
 
 - [S01] UNESCO: Media and Information Literacy
 
-Full links and notes: [`SOURCES.md`](../../../SOURCES.md).
+Full links and notes: [`SOURCES.md`](../../../about/).
 <!-- SOURCES_END -->
 
 <!-- DEEP_DIVE_START -->

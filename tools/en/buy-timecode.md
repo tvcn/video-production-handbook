@@ -5,26 +5,34 @@ type: article
 lang: en
 translation_key: tools.guide.buy-timecode
 translation_status: reviewed
-title: "Buying Timecode: Drift, Sync, and Battery"
-summary: "Timecode is not automatic for multicam, but when needed, drift and sync stability matter more than looks. Test eight-hour drift before deciding how many units."
+title: 'Buying Timecode: Drift, Sync, and Battery'
+summary: Timecode is not automatic for multicam, but when needed, drift and sync stability matter more than looks. Test eight-hour drift before deciding how many units.
 slug: buy-timecode
-aliases: [buy-timecode]
+aliases:
+- buy-timecode
 canonical_site: tools
 canonical_path: /en/article/buy-timecode/
 status: published
 diagram: /images/diagrams/en/buy-timecode.svg
-diagram_alt: "Timecode buying diagram"
-diagram_caption: "Diagram: drift, sync, battery, interface, and metadata decide whether post syncs in one click."
+diagram_alt: Timecode buying diagram
+diagram_caption: 'Diagram: drift, sync, battery, interface, and metadata decide whether post syncs in one click.'
 difficulty: intermediate
 stage: handbook
 format: guide
-authors: ["TVCN Tools Desk"]
+authors:
+- TVCN Tools Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S23]
-test_context: "Review setup: Windows 11 workstation + iPhone 13, Chrome 131; bodies/lenses checked against public specs and short samples, not lab instruments."
-known_failures: "Known failures: grey-channel firmware/warranty vary; samples do not prove retail units; prices and stock expire."
+sources:
+- S23
+test_context: 'Review setup: Windows 11 workstation + iPhone 13, Chrome 131; bodies/lenses checked against public specs and short samples, not lab instruments.'
+known_failures: 'Known failures: grey-channel firmware/warranty vary; samples do not prove retail units; prices and stock expire.'
 verified: 2026-11-22
+related:
+- tools.guide.buy-tripod.en
+- ai.ethics.model-comparison.en
+- animation.stop-motion.stop-motion.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +47,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: field notes and buying checklists; tested: short tests against public specs, not lab scores; references: manufacturer and standards links below.</p>
 <ul><li><span class="mono">[S23]</span> SMPTE Standards</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

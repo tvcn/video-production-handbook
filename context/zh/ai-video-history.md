@@ -5,42 +5,44 @@ type: history
 lang: zh
 translation_key: context.history.ai-video-history
 translation_status: source
-title: "AI 影像前史：从滤镜到生成"
-summary: "AI 影像不是从生成视频开始；滤镜、修复、抠像、换脸，每一步都在训练“自动修改画面”。"
+title: AI 影像前史：从滤镜到生成
+summary: AI 影像不是从生成视频开始；滤镜、修复、抠像、换脸，每一步都在训练“自动修改画面”。
 slug: ai-video-history
-aliases: [ai-video-history]
+aliases:
+- ai-video-history
 canonical_site: context
-canonical_path: /history/ai-video-history/
+canonical_path: /article/ai-video-history/
 status: published
 diagram: /images/diagrams/zh/ai-video-history.svg
-diagram_alt: "AI 影像前史：从滤镜到生成 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: AI 影像前史：从滤镜到生成的结构示意图。
+diagram_caption: 看“按滤镜、修复、抠像、换脸、生成排时间…”和“每一步标出“人还能控制什么””两处，判断它替代了什么旧办法，又新增了什么限制。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-sources: [S19, S20]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 研究组
+sources:
+- S19
+- S20
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- context.history.vfx-history.en
+- context.history.streaming.en
+- context.literacy.edit-manipulation.en
+source_kind: sourced
 ---
 
-<p>AI 影像不是从生成视频开始；滤镜、修复、抠像、换脸，每一步都在训练“自动修改画面”。</p>
+<p>AI 影像不是从生成开始的。它先经过滤镜、风格迁移、超分、抠像和补帧，最后才进入文生视频。每一步都在把“后期修复”变成“前期生成”，也把作者、授权和证据问题推到台前。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/ai-video-history.svg" alt="AI 影像前史：从滤镜到生成 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/ai-video-history.svg" alt="AI 影像前史：从滤镜到生成的结构示意图。">
+  <figcaption>看“按滤镜、修复、抠像、换脸、生成排时间…”和“每一步标出“人还能控制什么””两处，判断它替代了什么旧办法，又新增了什么限制。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>从滤镜、修复、抠像到生成，关键变化是可控性；prompt 不是导演。</p>
-<h2>怎么做</h2>
-<p>AI 影像不是从生成视频开始；滤镜、修复、抠像、换脸，每一步都在训练“自动修改画面”。</p><ol><li>按滤镜、修复、抠像、换脸、生成排时间线。</li><li>每一步标出“人还能控制什么”。</li><li>看 prompt 能控制什么、不能控制什么。</li></ol>
-<h2>别踩</h2>
-<p>别把 prompt 当导演；它给的是概率，不是调度。</p>
-<h2>验收</h2>
-<ul><li>时间线从滤镜、修复、抠像、换脸排到生成。</li><li>每一步都标出人类剩余的控制点。</li><li>能说出 prompt 控制不了的一项，比如精确走位或连续性。</li></ul>
+<section><h2 id="section-1">当时改变了什么</h2><h2 id="section-2">今天怎么用</h2><ul><li>做 AI 项目时，先记录模型、版本、提示词、参考素材和输出位置，像管理实拍素材一样管理生成素材。</li><li>把 AI 用在空镜、背景、补插和概念图；主角正脸、新闻现场和证词不要用生成替代。</li><li>研究 AI 史时，把算法、算力、版权和平台政策一起看，不要只看 Demo。</li></ul><h2 id="section-3">不要误用</h2><p>不要把“生成”当成“无来源”。没有授权链和版本记录的素材，不进商单交付。</p></section><section><h2 id="section-4">现场</h2><p>从滤镜、修复、抠像到生成，关键变化是可控性；prompt 不是导演。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>按滤镜、修复、抠像、换脸、生成排时间线。</li><li>每一步标出“人还能控制什么”。</li><li>看 prompt 能控制什么、不能控制什么。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别把 prompt 当导演；它给的是概率，不是调度。</p></section><section><h2>来源边界</h2><p>这是解释，不是原始档案；关键年份、人物和法律条文回到 <a href="../../about/">SOURCES.md</a> 的原始链接复核。二手叙述只能当线索，不能当证据。</p></section>
+<h2>验收</h2><ul><li>时间线从滤镜、修复、抠像、换脸排到生成。</li><li>每一步都标出人类剩余的控制点。</li><li>能说出 prompt 控制不了的一项，比如精确走位或连续性。</li></ul>
 
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
@@ -48,5 +50,5 @@ related: [main.paths.first-film]
 - [S19] GAN 原始论文（2014）
 - [S20] DDPM 原始论文（2020）
 
-完整链接与用途见 [`SOURCES.md`](../../SOURCES.md)。
+完整链接与用途见 [`SOURCES.md`](../../about/)。
 <!-- SOURCES_END -->

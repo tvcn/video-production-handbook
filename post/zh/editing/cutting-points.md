@@ -10,13 +10,13 @@ summary: "剪不动，不一定素材不够，是切点没选对。一个镜头�
 slug: cutting-points
 aliases: [cutting-points, 剪辑点, cut]
 canonical_site: post
-canonical_path: /editing/cutting-points/
+canonical_path: /article/cutting-points/
 status: published
 difficulty: intermediate
 stage: post
 format: workflow
 tools: [edit]
-authors: [editor]
+authors: ["TVCN 后期组"]
 reviewers: [technical-reviewer]
 cover: /images/post/cutting-points.webp
 diagram: /images/diagrams/zh/cutting-points.png
@@ -25,7 +25,7 @@ diagram_caption: "每个切点都要有一样东西接住注意力。动作最�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [post.editing.subtitles, shoot.camera.axis-line]
+related: [post.editing.sound-bridge.en, post.sound.room-tone.en, post.editing.transitions.en]
 ---
 
 <!-- DIAGRAM_START -->

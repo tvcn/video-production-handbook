@@ -11,13 +11,13 @@ summary: "Casting is not finding the best actor. It is finding the person who fi
 slug: casting
 aliases: [casting, audition, chemistry read, casting breakdown]
 canonical_site: tools
-canonical_path: /en/producing/casting/
+canonical_path: /en/article/casting/
 status: published
 difficulty: intermediate
 stage: produce
 format: short-film
 tools: [script, camera]
-authors: [editor]
+authors: ["TVCN Tools Desk"]
 reviewers: [technical-reviewer]
 cover: /images/tools/casting.webp
 diagram: /images/diagrams/en/casting.png
@@ -26,7 +26,7 @@ diagram_caption: "First the look and voice have to hold, then something has to h
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [story.directing.directing-nonactors, tools.producing.call-sheet, story.screenplay.dialogue]
+related: [tools.producing.stripboard.en, tools.producing.budget-map.en, tools.proposal.treatment.en]
 ---
 
 <!-- DIAGRAM_START -->

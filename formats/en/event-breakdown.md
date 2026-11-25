@@ -5,23 +5,29 @@ type: article
 lang: en
 translation_key: formats.event.event-breakdown
 translation_status: reviewed
-title: "Event Breakdown: Make a Live Event Clear in Ninety Seconds"
-summary: "An eight-beat breakdown of a ninety-second event film: arrival, scale, key moment, detail, people, climax, aftermath, end card."
+title: 'Event Breakdown: Make a Live Event Clear in Ninety Seconds'
+summary: 'An eight-beat breakdown of a ninety-second event film: arrival, scale, key moment, detail, people, climax, aftermath, end card.'
 slug: event-breakdown
-aliases: [event-breakdown]
+aliases:
+- event-breakdown
 canonical_site: formats
-canonical_path: /en/event/event-breakdown/
+canonical_path: /en/article/event-breakdown/
 status: published
 diagram: /images/diagrams/en/event-breakdown.svg
-diagram_alt: "Event Breakdown: Make a Live Event Clear in Ninety Seconds: timecode, structure, and budget worksheet"
-diagram_caption: "The diagram is an entry point: watch the timecodes, then use the checks at the end."
+diagram_alt: 'Event Breakdown: Make a Live Event Clear in Ninety Seconds: timecode, structure, and budget worksheet'
+diagram_caption: 'The diagram is an entry point: watch the timecodes, then use the checks at the end.'
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN Formats Desk
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [formats.wedding.wedding-breakdown, formats.vlog.vlog-breakdown, main.path.path-distribution]
+related:
+- formats.wedding.wedding-breakdown.en
+- formats.vlog.vlog-breakdown.en
+- formats.news.news-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

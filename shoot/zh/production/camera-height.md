@@ -10,13 +10,13 @@ summary: "同一张脸，机位高一寸，观众就读成另一个人。高度�
 slug: camera-height
 aliases: [camera-height, 机位高度, 低机位, 高机位]
 canonical_site: shoot
-canonical_path: /production/camera-height/
+canonical_path: /article/camera-height/
 status: published
 difficulty: beginner
 stage: shoot
 format: dialogue
 tools: [camera, monitor]
-authors: [editor]
+authors: ["TVCN 拍摄组"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/camera-height.webp
 diagram: /images/diagrams/zh/camera-height.png
@@ -25,7 +25,7 @@ diagram_caption: "同一张脸，机位越低人物越大，越高人物越小�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [shoot.camera.composition, shoot.camera.axis-line]
+related: [shoot.camera.lens-distance.en, shoot.camera.shot-size.en, shoot.camera.axis-line.en]
 ---
 
 <!-- DIAGRAM_START -->

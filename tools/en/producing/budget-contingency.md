@@ -11,13 +11,13 @@ summary: "Weather, overtime, reshoots, and last-minute hires happen on almost ev
 slug: budget-contingency
 aliases: [budget-contingency]
 canonical_site: tools
-canonical_path: /en/producing/budget-contingency/
+canonical_path: /en/article/budget-contingency/
 status: published
 difficulty: beginner
 stage: producing
 format: workflow
 tools: [budget, output]
-authors: [editor]
+authors: ["TVCN Tools Desk"]
 reviewers: [technical-reviewer]
 cover: /images/tools/budget-contingency.webp
 diagram: /images/diagrams/en/budget-contingency.png
@@ -26,7 +26,7 @@ diagram_caption: "Weather, overruns, pickups, extra crew: these four show up alm
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [first-shoot-day, publish-checklist]
+related: [tools.workflow.first-shoot-day.en, tools.producing.budget-map.en, tools.delivery.publish-checklist.en]
 ---
 
 <!-- DIAGRAM_START -->

@@ -5,35 +5,42 @@ type: path
 lang: zh
 translation_key: main.path.path-producing
 translation_status: source
-title: "制片与项目管理"
-summary: "制片不是订盒饭，是把范围、钱、人、时间、许可和风险锁在同一张表上，知道哪一项超了会停拍。"
+title: 制片与项目管理
+summary: 制片不是订盒饭，是把范围、钱、人、时间、许可和风险锁在同一张表上，知道哪一项超了会停拍。
 slug: path-producing
-aliases: [path-producing]
+aliases:
+- path-producing
 canonical_site: main
-canonical_path: /path/path-producing/
+canonical_path: /article/path-producing/
 status: published
 diagram: /images/diagrams/zh/path-producing.svg
-diagram_alt: "制片与项目管理 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 制片与项目管理的结构示意图。
+diagram_caption: 看“第 1 步：范围 ：范围写三列：交付…”和“第 2 步：预算 ：每块写上限，不互…”两处，判断症状能不能被复述成一句可观察的话。
 difficulty: intermediate
 stage: field-note
 format: learning-path
-authors: [editor]
-last_verified: 2026-11-22
-review_due: 2027-05-20
-related: [main.path.path-live-film, main.path.path-distribution, main.path.path-career]
+authors:
+- TVCN 编辑部
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- main.path.path-live-film.en
+- main.path.path-career.en
+- main.path.path-post.en
 depth: deep
 deep_minutes: 7
+source_kind: experience
 ---
 
+<p>先拿一个真实项目：有演员、场地、器材、预算和交付日期。没有项目，就用一个你接下来三个月内真要拍的片子，不要用假想案例。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/path-producing.svg" alt="制片与项目管理 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/path-producing.svg" alt="制片与项目管理的结构示意图。">
+  <figcaption>看“第 1 步：范围 ：范围写三列：交付…”和“第 2 步：预算 ：每块写上限，不互…”两处，判断症状能不能被复述成一句可观察的话。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>先修要求</h2><p>先拿一个真实项目：有演员、场地、器材、预算和交付日期。没有项目，就用一个你接下来三个月内真要拍的片子，不要用假想案例。</p><h2>这条路怎么走</h2><p>制片的顺序是反的：先定会停拍的红线，再倒排期，再填预算。不要先列器材清单，最后才发现钱不够。</p><ol><li><strong>第 1 步：范围</strong>：范围写三列：交付物、不交付物、修改次数。把“顺便再拍一个版本”“再加一个字幕语言”都写进不交付或另报价。范围不是愿望清单，是合同附件。 <em>产出：一页范围表。</em></li><li><strong>第 2 步：预算</strong>：每块写上限，不互相拆借。应急金放在拍摄前，不要留到最后。预算表要能回答“如果少一天，砍哪一块”；答不出，说明只是数字，不是决策工具。授权、保险、运输单独列行。 <em>产出：一张五块预算表；一条“先砍哪块”的答案。</em></li><li><strong>第 3 步：排期</strong>：先锁交付日，再留后期 30%、拍摄 40%、准备 30%。同场景同一天拍，先拍难的光线和孩子。每天留一个补拍窗口，不要排满。排期表上写“最晚决定日”：演员、场地、器材哪天必须定。 <em>产出：一张倒排期；三个最晚决定日。</em></li><li><strong>第 4 步：人</strong>：导演、摄影、录音、灯光、制片、后期，每个岗位都要有“谁做、谁备份、出问题找谁”。不要用“到时候再说”填表。关键岗位没有备选，就是项目风险。 <em>产出：一张人员表：岗位/主/备/联系人。</em></li><li><strong>第 5 步：许可与风险</strong>：公共场所、商铺、地铁、公园先问许可；拍摄前确认保险覆盖器材和第三方。风险评估写：谁可能受伤、什么会掉、谁负责、最近医院在哪。全组读一遍，不是制片一个人签个字。 <em>产出：许可清单；风险表；最近医院。</em></li><li><strong>第 6 步：拍摄日</strong>：通告单提前一天发，写时间、地址、联系人、停车、吃饭、医院、撤场。开机前 10 分钟全组对一遍“今天必须拿到哪三个镜头”。收工前确认素材备份、场记、道具归还和第二天通告。 <em>产出：每日通告；三个必拿镜头；收工清单。</em></li><li><strong>第 7 步：交付与收尾</strong>：交付前定唯一母版，写清分辨率、码率、字幕、响度、文件名。授权文件按项目归档，至少保存三年。收尾做一次复盘：预算超在哪、排期错在哪、下一次改哪一项。 <em>产出：母版、交付表、授权档案、复盘。</em></li></ol><h2>三个练习</h2><ol><li><strong>练习 1：一页范围表</strong>：写交付/不交付/修改次数三列，给一个没参加项目的人看。 <em>产出：一页范围表。</em></li><li><strong>练习 2：倒排期</strong>：从交付日倒排 14 天，标出三个最晚决定日。 <em>产出：一张倒排期。</em></li><li><strong>练习 3：风险表</strong>：列天气、设备、人员、版权四类风险，每类一个负责人。 <em>产出：一张四行风险表。</em></li></ol><h2>交付物</h2><ul><li>一页范围表</li><li>五块预算表</li><li>倒排期与三个最晚决定日</li><li>人员表与备选</li><li>许可清单与风险表</li><li>每日通告与收工清单</li><li>母版、交付表、授权档案、复盘</li></ul><h2>常见走偏</h2><ul><li>先列器材再算钱：器材是结果，不是起点；先定范围和交付日。</li><li>用“先做再说”扩范围：钱和时间没改，最后一定烂尾。</li><li>风险表只给制片看：全组不读，等于没做。</li></ul><h2>下一步</h2><p>走完这条路径，下一步去 path-distribution 做发布；或者回 path-live-film 把拍摄执行压实。</p>
+<section><h2 id="section-1">先修要求</h2></section><section><h2 id="section-2">这条路怎么走</h2><p>制片的顺序是反的：先定会停拍的红线，再倒排期，再填预算。不要先列器材清单，最后才发现钱不够。</p><ol><li><strong>第 1 步：范围</strong>：范围写三列：交付物、不交付物、修改次数。把“顺便再拍一个版本”“再加一个字幕语言”都写进不交付或另报价。范围不是愿望清单，是合同附件。 <em>产出：一页范围表。</em></li><li><strong>第 2 步：预算</strong>：每块写上限，不互相拆借。应急金放在拍摄前，不要留到最后。预算表要能回答“如果少一天，砍哪一块”；答不出，说明只是数字，不是决策工具。授权、保险、运输单独列行。 <em>产出：一张五块预算表；一条“先砍哪块”的答案。</em></li><li><strong>第 3 步：排期</strong>：先锁交付日，再留后期 30%、拍摄 40%、准备 30%。同场景同一天拍，先拍难的光线和孩子。每天留一个补拍窗口，不要排满。排期表上写“最晚决定日”：演员、场地、器材哪天必须定。 <em>产出：一张倒排期；三个最晚决定日。</em></li><li><strong>第 4 步：人</strong>：导演、摄影、录音、灯光、制片、后期，每个岗位都要有“谁做、谁备份、出问题找谁”。不要用“到时候再说”填表。关键岗位没有备选，就是项目风险。 <em>产出：一张人员表：岗位/主/备/联系人。</em></li><li><strong>第 5 步：许可与风险</strong>：公共场所、商铺、地铁、公园先问许可；拍摄前确认保险覆盖器材和第三方。风险评估写：谁可能受伤、什么会掉、谁负责、最近医院在哪。全组读一遍，不是制片一个人签个字。 <em>产出：许可清单；风险表；最近医院。</em></li><li><strong>第 6 步：拍摄日</strong>：通告单提前一天发，写时间、地址、联系人、停车、吃饭、医院、撤场。开机前 10 分钟全组对一遍“今天必须拿到哪三个镜头”。收工前确认素材备份、场记、道具归还和第二天通告。 <em>产出：每日通告；三个必拿镜头；收工清单。</em></li><li><strong>第 7 步：交付与收尾</strong>：交付前定唯一母版，写清分辨率、码率、字幕、响度、文件名。授权文件按项目归档，至少保存三年。收尾做一次复盘：预算超在哪、排期错在哪、下一次改哪一项。 <em>产出：母版、交付表、授权档案、复盘。</em></li></ol></section><section><h2 id="section-3">三个练习</h2><ol><li><strong>练习 1：一页范围表</strong>：写交付/不交付/修改次数三列，给一个没参加项目的人看。 <em>产出：一页范围表。</em></li><li><strong>练习 2：倒排期</strong>：从交付日倒排 14 天，标出三个最晚决定日。 <em>产出：一张倒排期。</em></li><li><strong>练习 3：风险表</strong>：列天气、设备、人员、版权四类风险，每类一个负责人。 <em>产出：一张四行风险表。</em></li></ol></section><section><h2 id="section-4">交付物</h2><ul><li>一页范围表</li><li>五块预算表</li><li>倒排期与三个最晚决定日</li><li>人员表与备选</li><li>许可清单与风险表</li><li>每日通告与收工清单</li><li>母版、交付表、授权档案、复盘</li></ul></section><section><h2 id="section-5">常见走偏</h2><ul><li>先列器材再算钱：器材是结果，不是起点；先定范围和交付日。</li><li>用“先做再说”扩范围：钱和时间没改，最后一定烂尾。</li><li>风险表只给制片看：全组不读，等于没做。</li></ul></section><section><h2 id="section-6">下一步</h2><p>走完这条路径，下一步去 path-distribution 做发布；或者回 path-live-film 把拍摄执行压实。</p></section>
 <h2>验收</h2><ul><li>范围表写清不交付和修改次数。</li><li>应急金 ≥10%，每块有上限。</li><li>每个关键岗位都有备选和联系人。</li><li>每个拍摄日都有 Plan B。</li><li>许可、保险、噪音、撤场、医院在同一张表。</li><li>母版唯一，授权归档，复盘有一条具体改动。</li></ul>
 
 <!-- DEEP_DIVE_START -->

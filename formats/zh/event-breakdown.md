@@ -5,23 +5,29 @@ type: article
 lang: zh
 translation_key: formats.event.event-breakdown
 translation_status: source
-title: "活动片拉片：90 秒怎么讲清现场"
-summary: "按 90 秒活动片的通用结构，拆 8 个时间码：到场、规模、关键瞬间、细节、人、高潮、之后、落版。"
+title: 活动片拉片：90 秒怎么讲清现场
+summary: 按 90 秒活动片的通用结构，拆 8 个时间码：到场、规模、关键瞬间、细节、人、高潮、之后、落版。
 slug: event-breakdown
-aliases: [event-breakdown]
+aliases:
+- event-breakdown
 canonical_site: formats
-canonical_path: /event/event-breakdown/
+canonical_path: /article/event-breakdown/
 status: published
 diagram: /images/diagrams/zh/event-breakdown.svg
-diagram_alt: "活动片拉片：90 秒怎么讲清现场：时间码、结构与预算拉片工作纸"
-diagram_caption: "图解是入口：先看时间码，再用文末验收表检查。"
+diagram_alt: 活动片拉片：90 秒怎么讲清现场：时间码、结构与预算拉片工作纸
+diagram_caption: 图解是入口：先看时间码，再用文末验收表检查。
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN 片型组
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [formats.wedding.wedding-breakdown, formats.vlog.vlog-breakdown, main.path.path-distribution]
+related:
+- formats.wedding.wedding-breakdown.en
+- formats.vlog.vlog-breakdown.en
+- formats.news.news-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

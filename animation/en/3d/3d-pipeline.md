@@ -11,7 +11,7 @@ summary: "3D does not start with animation after modeling. Blockout sets timing,
 slug: 3d-pipeline
 aliases: [3d pipeline, 3D animation, blockout]
 canonical_site: animation
-canonical_path: /en/3d/3d-pipeline/
+canonical_path: /en/article/3d-pipeline/
 status: published
 difficulty: advanced
 stage: animation
@@ -26,7 +26,7 @@ diagram_caption: "Moving a character in blockout costs almost nothing. Changing 
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [animation.2d.2d-animation, animation.stop-motion.stop-motion]
+related: [animation.principles.animation-principles.en, context.law.invoice-tax-cross-border.en, formats.fashion.fashion-beauty-video-breakdown.en]
 depth: deep
 deep_minutes: 7
 sources: [S12, S28, S34]
@@ -88,5 +88,5 @@ Do not treat “fix it in render” as a workflow. Preview lighting at low sampl
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S12]</span> Britannica: Animation</li><li><span class="mono">[S28]</span> Netflix Partner Help</li><li><span class="mono">[S34]</span> Adobe Premiere Pro Guide</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

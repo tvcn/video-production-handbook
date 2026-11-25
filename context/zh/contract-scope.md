@@ -5,26 +5,35 @@ type: article
 lang: zh
 translation_key: context.law.contract-scope
 translation_status: source
-title: "合同范围：把“再改一版”写进价格之前"
-summary: "影视合同最常见的争议不是付款，是范围。交付物、修改轮次、素材版权、验收标准、终止条件没写清，最后都会变成免费加班。"
+title: 合同范围：把“再改一版”写进价格之前
+summary: 影视合同最常见的争议不是付款，是范围。交付物、修改轮次、素材版权、验收标准、终止条件没写清，最后都会变成免费加班。
 slug: contract-scope
-aliases: [contract-scope]
+aliases:
+- contract-scope
 canonical_site: context
 canonical_path: /article/contract-scope/
 status: published
 diagram: /images/diagrams/zh/contract-scope.svg
-diagram_alt: "合同范围专题图解"
-diagram_caption: "示意：八项写进合同，才有讨论“加钱”的基础。"
+diagram_alt: 合同范围专题图解
+diagram_caption: 示意：八项写进合同，才有讨论“加钱”的基础。
 difficulty: intermediate
 stage: handbook
 format: law
-authors: ["TVCN 研究组"]
+authors:
+- TVCN 研究组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S02, S22]
-test_context: "复核环境：现行中国大陆法律条文、平台规则与公开案例；不是法律意见。"
-known_failures: "已知失败：平台规则与地方执法口径变化；条文适用需律师确认。"
+sources:
+- S02
+- S22
+test_context: 复核环境：现行中国大陆法律条文、平台规则与公开案例；不是法律意见。
+known_failures: 已知失败：平台规则与地方执法口径变化；条文适用需律师确认。
 verified: 2026-11-22
+related:
+- context.literacy.deepfake.en
+- formats.live-podcast.live-podcast-breakdown.en
+- post.assets.dit-data-handoff.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +48,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：编辑部的条文对照与项目复盘；实测来源：无实验室实测；参考来源：以下法律、平台与机构文本。</p>
 <ul><li><span class="mono">[S02]</span> WIPO：版权常见问题</li><li><span class="mono">[S22]</span> 《中华人民共和国民法典》</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

@@ -5,43 +5,46 @@ type: article
 lang: en
 translation_key: shoot.sound.wireless-lav
 translation_status: reviewed
-title: "Wireless Lav: Hide It, Back It Up"
-summary: "Hide the lav, secure it, and record a backup track before worrying about brand."
+title: 'Wireless Lav: Hide It, Back It Up'
+summary: Hide the lav, secure it, and record a backup track before worrying about
+  brand.
 slug: wireless-lav
-aliases: [wireless-lav]
+aliases:
+- wireless-lav
 canonical_site: shoot
-canonical_path: /en/sound/wireless-lav/
+canonical_path: /en/article/wireless-lav/
 status: published
 diagram: /images/diagrams/en/wireless-lav.svg
-diagram_alt: "Wireless Lav: Hide It, Back It Up three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Wireless Lav: Hide It, Back It Up.'
+diagram_caption: Watch “Hide the capsule ten centimeters below the collar” and “Put
+  the transmitter at the lower back and”; judge whether highlights, skin and sound
+  survive together.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Shoot Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- shoot.sound.boom-operator.en
+- shoot.sound.dual-system-sound.en
+- shoot.camera.shutter-angle.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>Hide the lav, secure it, and record a backup track before worrying about brand.</p>
+<p>Scan the room, avoid TV and crowded Wi-Fi bands; keep the transmitter on the body, receiver above the crowd, antennas off metal. Every wireless pair needs a wired backup to camera or a second recorder.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/wireless-lav.svg" alt="Wireless Lav: Hide It, Back It Up three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/wireless-lav.svg" alt="Structure diagram for Wireless Lav: Hide It, Back It Up.">
+  <figcaption>Watch “Hide the capsule ten centimeters below the collar” and “Put the transmitter at the lower back and”; judge whether highlights, skin and sound survive together.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Hide the capsule ten centimeters below the collar and tape it with medical tape. Put the transmitter at the back waist, record a backup track, and listen for thirty seconds before rolling.</p>
-<h2>Do this</h2>
-<p>A lav is first about hiding and backup: under the collar, in the hair, taped down, plus a second track. A clean hide still fails if cloth rubs the capsule.</p><ol><li>Hide the capsule ten centimeters below the collar and secure it with medical tape.</li><li>Put the transmitter at the lower back and record a backup track.</li><li>Listen for thirty seconds before rolling and check rub, AC, and plosives.</li></ol>
-<h2>Avoid</h2>
-<p>Do not drop the transmitter in a pocket or record one track; rub and loss have no second chance.</p>
-<h2>Check</h2>
-<ul><li>The thirty-second test has no cloth rub, AC hum, or plosive.</li><li>The transmitter is not in a pocket, the cable has slack, and the mic does not swing when the actor walks.</li><li>The backup track recorded alongside the main and can be switched in playback.</li></ul>
+<section><h2 id="section-1">Scan frequencies before discussing range</h2><p>Walk the actor through the whole space and listen for dropouts, static and cloth noise; do not test only at the mark.</p><h2 id="section-2">Limits</h2><p>Wireless is not cable-free. Batteries, blocking and body absorption drop signal; critical dialogue needs a second recording.</p></section><section><h2 id="section-3">On set</h2><p>Hide the capsule ten centimeters below the collar and tape it with medical tape. Put the transmitter at the back waist, record a backup track, and listen for thirty seconds before rolling.</p></section><section><h2 id="section-4">Do this</h2><p>A lav is first about hiding and backup: under the collar, in the hair, taped down, plus a second track. A clean hide still fails if cloth rubs the capsule.</p><ol><li>Hide the capsule ten centimeters below the collar and secure it with medical tape.</li><li>Put the transmitter at the lower back and record a backup track.</li><li>Listen for thirty seconds before rolling and check rub, AC, and plosives.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not drop the transmitter in a pocket or record one track; rub and loss have no second chance.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>highlights are not clipped and shadows keep recoverable detail</li><li>skin stays consistent across camera angles</li><li>sound has an independent track, not just the on-camera mic</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>exposure is right but the light has no direction</li><li>sound relies on the camera mic and dies in a noisy room</li><li>crossing the line leaves the audience without a map</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Shoot three 10-second takes by the same window, changing only “Hide the capsule ten centimeters below the collar”. Compare highlights, skin and background; keep the one that is editable.</p></section>
+<h2>Check</h2><ul><li>The thirty-second test has no cloth rub, AC hum, or plosive.</li><li>The transmitter is not in a pocket, the cable has slack, and the mic does not swing when the actor walks.</li><li>The backup track recorded alongside the main and can be switched in playback.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

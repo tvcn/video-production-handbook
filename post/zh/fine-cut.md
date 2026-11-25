@@ -5,43 +5,43 @@ type: article
 lang: zh
 translation_key: post.editing.fine-cut
 translation_status: source
-title: "细剪：把粗剪的毛边修掉"
-summary: "细剪不是加特效，是把每个切换、每句呼吸、每个多余半秒修顺。"
+title: 细剪：把粗剪的毛边修掉
+summary: 细剪不是加特效，是把每个切换、每句呼吸、每个多余半秒修顺。
 slug: fine-cut
-aliases: [fine-cut]
+aliases:
+- fine-cut
 canonical_site: post
-canonical_path: /editing/fine-cut/
+canonical_path: /article/fine-cut/
 status: published
 diagram: /images/diagrams/zh/fine-cut.svg
-diagram_alt: "细剪：把粗剪的毛边修掉 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 细剪：把粗剪的毛边修掉的结构示意图。
+diagram_caption: 看“每场找三个毛边：切点早半帧、呼吸重叠…”和“只修这三类，不加新镜头”两处，判断剪掉一个镜头后，节奏是更快还是更乱。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 后期组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- post.editing.parallel-editing.en
+- post.sound.music-editing.en
+- post.editing.versioning.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>细剪不是加特效，是把每个切换、每句呼吸、每个多余半秒修顺。</p>
+<p>细剪只处理三件事：删掉每个镜头前后多余的半秒、把动作接点对准、把表演里不需要的反应拿掉。结构问题回粗剪解决，不要在这里靠转场遮。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/fine-cut.svg" alt="细剪：把粗剪的毛边修掉 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/fine-cut.svg" alt="细剪：把粗剪的毛边修掉的结构示意图。">
+  <figcaption>看“每场找三个毛边：切点早半帧、呼吸重叠…”和“只修这三类，不加新镜头”两处，判断剪掉一个镜头后，节奏是更快还是更乱。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>每场找三个毛边：切点早半帧、呼吸重叠、空镜多一秒；修完让陌生人看，记他看手机的位置。</p>
-<h2>怎么做</h2>
-<p>细剪不是加特效，是把每个切换、每句呼吸、每个多余半秒修顺。</p><ol><li>每场找三个毛边：切点早半帧、呼吸重叠、空镜多一秒。</li><li>只修这三类，不加新镜头。</li><li>让陌生人看一遍，记他看手机的位置，再修那一秒。</li></ol>
-<h2>别踩</h2>
-<p>别用花哨转场掩盖结构问题；转场救不了拖。</p>
-<h2>验收</h2>
-<ul><li>每场至少修掉三个具体毛边，切点不再“咬”一下。</li><li>呼吸和停顿接得上，没有一句被切半截。</li><li>陌生人看片时看手机的位置减少，或能说出为什么还在拖。</li></ul>
+<section><h2 id="section-1">细剪修毛边，不重写结构</h2><p>每改一刀就问：观众少知道了什么？如果删掉后因果关系还在，这一刀成立；如果必须加字幕解释，退回粗剪。</p><h2 id="section-2">边界</h2><p>细剪不是越短越好。把呼吸和停顿全删掉，人物会变成机器；留住能说明关系的停顿。</p></section><section><h2 id="section-3">现场</h2><p>每场找三个毛边：切点早半帧、呼吸重叠、空镜多一秒；修完让陌生人看，记他看手机的位置。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>每场找三个毛边：切点早半帧、呼吸重叠、空镜多一秒。</li><li>只修这三类，不加新镜头。</li><li>让陌生人看一遍，记他看手机的位置，再修那一秒。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别用花哨转场掩盖结构问题；转场救不了拖。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>剪掉一个镜头，节奏更快而不是更乱</li><li>示波器上肤色、高光和黑位都在范围内</li><li>响度、字幕和文件规格能过一次交付检查</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>剪辑点跟着音乐，不跟动作</li><li>先定风格再统一，镜头之间跳色</li><li>交付前没查响度和字幕，最后一遍才发现</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>拿一段 30 秒素材做 A/B，只改“每场找三个毛边：切点早半帧、呼吸重叠…”；记下一个时间码和一处差异，再决定是否保留。</p></section>
+<h2>验收</h2><ul><li>每场至少修掉三个具体毛边，切点不再“咬”一下。</li><li>呼吸和停顿接得上，没有一句被切半截。</li><li>陌生人看片时看手机的位置减少，或能说出为什么还在拖。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读
@@ -57,3 +57,5 @@ deep_minutes: 5
 ### 细剪一遍，先修这十处
 <ul><li>动作切在手伸到一半的位置</li><li>视线切在看与被看之间</li><li>用一句台词的尾音盖住画面变化</li><li>让门框、桌沿、肩膀跨镜对齐</li><li>删掉重复交代的信息</li><li>删掉人物从沙发走到门口的完整过程</li><li>删掉没有变化的反应镜头</li><li>每场至少留一个两秒停顿</li><li>连续三个同长度镜头就打散</li><li>每删一场问人物损失了什么</li></ul><p>细剪不是把画面修漂亮，是把“还差一点”的地方找出来。找十次，你会开始信任自己的不舒服。每改一刀就播放切点前后各五秒，不要只盯着切点本身，节奏在前后关系里。</p>
 <!-- DEEP_DIVE_END -->
+<!-- SOURCES_START -->
+<aside class="article-sources experience-source" data-source-kind="experience"><div class="article-credit-head"><p class="eyebrow">来源 / Sources</p><span class="mono">经验来源</span></div><p class="source-types">经验来源：TVCN 现场手册与编辑复核；本文未做实验室实测，也没有外部数据引用。</p></aside>

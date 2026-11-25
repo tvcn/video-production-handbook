@@ -10,13 +10,13 @@ summary: "授权、技术、发布三组检查。每一项都能在十分钟内�
 slug: publish-checklist
 aliases: [publish-checklist]
 canonical_site: tools
-canonical_path: /delivery/publish-checklist/
+canonical_path: /article/publish-checklist/
 status: published
 difficulty: beginner
 stage: delivery
 format: checklist
 tools: [output, rights, cover]
-authors: [editor]
+authors: ["TVCN 工具组"]
 reviewers: [technical-reviewer]
 cover: /images/tools/publish-checklist.webp
 diagram: /images/diagrams/zh/publish-checklist.png
@@ -25,7 +25,7 @@ diagram_caption: "授权、技术、发布三组，每组四项。每一项都�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [copyright, storage]
+related: [tools.workflow.storage.en, tools.delivery.delivery-specs.en, tools.producing.budget-contingency.en]
 depth: deep
 deep_minutes: 6
 ---

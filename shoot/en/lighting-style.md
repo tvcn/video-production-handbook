@@ -5,47 +5,56 @@ type: article
 lang: en
 translation_key: shoot.lighting.lighting-style
 translation_status: reviewed
-title: "Lighting Style: Soft, Hard, Natural"
-summary: "Pick one direction first: soft, hard, or natural. All three at once means no attitude."
+title: 'Lighting Style: Soft, Hard, Natural'
+summary: 'Pick one direction first: soft, hard, or natural. All three at once means
+  no attitude.'
 slug: lighting-style
-aliases: [lighting-style]
+aliases:
+- lighting-style
 canonical_site: shoot
-canonical_path: /en/lighting/lighting-style/
+canonical_path: /en/article/lighting-style/
 status: published
 diagram: /images/diagrams/en/lighting-style.svg
-diagram_alt: "Lighting Style: Soft, Hard, Natural three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Lighting Style: Soft, Hard, Natural.'
+diagram_caption: 'Watch “Choose one reference: soft source, hard source, or” and “Shoot
+  three intensities from that direction and compare”; judge whether highlights, skin
+  and sound survive together.'
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: ["TVCN Tech Desk"]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Tech Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- shoot.multicam.multicam-live.en
+- story.storyboard.storyboard.en
+- tools.guide.crew-management.en
 depth: deep
 deep_minutes: 6
-sources: [S23, S31, S32, S33]
-test_context: "Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus and samples; lens claims follow page labels, not every lens tested."
-known_failures: "Known failures: menus and firmware differ; uncalibrated color temperature/monitors cause misreads."
+sources:
+- S23
+- S31
+- S32
+- S33
+test_context: 'Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus
+  and samples; lens claims follow page labels, not every lens tested.'
+known_failures: 'Known failures: menus and firmware differ; uncalibrated color temperature/monitors
+  cause misreads.'
 verified: 2026-11-22
+source_kind: sourced
 ---
 
-<p>Pick one direction first: soft, hard, or natural. All three at once means no attitude.</p>
+<p>Lighting style is not a preset. Set the ratio—how many stops between face highlight and shadow; then direction—where the key comes from; then color—warm, cool or mixed. With those three, the style repeats.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/lighting-style.svg" alt="Lighting Style: Soft, Hard, Natural three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/lighting-style.svg" alt="Structure diagram for Lighting Style: Soft, Hard, Natural.">
+  <figcaption>Watch “Choose one reference: soft source, hard source, or” and “Shoot three intensities from that direction and compare”; judge whether highlights, skin and sound survive together.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Pick one reference: soft, hard, or window light. Use one direction and shoot three versions at different strengths; choose the take where the face has the most shape.</p>
-<h2>Do this</h2>
-<p>Pick one lighting direction first: soft, hard, or natural. Then adjust brightness. Wanting all three leaves the face without an attitude.</p><ol><li>Choose one reference: soft source, hard source, or window light, and use one direction only.</li><li>Shoot three intensities from that direction and compare facial structure.</li><li>Pick the take with the clearest structure, then decide whether the shadow needs fill.</li></ol>
-<h2>Avoid</h2>
-<p>Do not open three lamps at once; without direction, three lamps only make it brighter.</p>
-<h2>Check</h2>
-<ul><li>All three stills share one key direction; three styles are not mixed on one face.</li><li>You can name the intensity with the clearest facial structure and say why.</li><li>Shadows keep detail without being flattened by fill.</li></ul>
+<section><h2 id="section-1">Style starts with ratio, then color</h2><p>Read references for direction, shadow hardness and face brightness, not only tone. Tone can be graded; position cannot.</p><h2 id="section-2">Limits</h2><p>Style is not a new look every scene. The film needs one ratio through-line; changing every scene reads as chaos.</p></section><section><h2 id="section-3">On set</h2><p>Pick one reference: soft, hard, or window light. Use one direction and shoot three versions at different strengths; choose the take where the face has the most shape.</p></section><section><h2 id="section-4">Do this</h2><p>Pick one lighting direction first: soft, hard, or natural. Then adjust brightness. Wanting all three leaves the face without an attitude.</p><ol><li>Choose one reference: soft source, hard source, or window light, and use one direction only.</li><li>Shoot three intensities from that direction and compare facial structure.</li><li>Pick the take with the clearest structure, then decide whether the shadow needs fill.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not open three lamps at once; without direction, three lamps only make it brighter.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>highlights are not clipped and shadows keep recoverable detail</li><li>skin stays consistent across camera angles</li><li>sound has an independent track, not just the on-camera mic</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>exposure is right but the light has no direction</li><li>sound relies on the camera mic and dies in a noisy room</li><li>crossing the line leaves the audience without a map</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Shoot three 10-second takes by the same window, changing only “Choose one reference: soft source, hard source, or”. Compare highlights, skin and background; keep the one that is editable.</p></section>
+<h2>Check</h2><ul><li>All three stills share one key direction; three styles are not mixed on one face.</li><li>You can name the intensity with the clearest facial structure and say why.</li><li>Shadows keep detail without being flattened by fill.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive
@@ -64,8 +73,3 @@ verified: 2026-11-22
 <ul><li>Decide how long the shadow should be</li><li>Judge softness by relative source size</li><li>Move the softbox closer for softer light</li><li>Control the nose shadow with hard light</li><li>Bounce into the dark side</li><li>Find the window and shade first</li><li>Turn off unneeded mixed sources</li><li>Shoot one frame before and after</li><li>Check skin against background</li><li>Avoid half-hard light</li></ul><p>Decide how long the shadow should be before deciding which lamp to buy.</p>
 <!-- DEEP_DIVE_END -->
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S31]</span> ARRI Technical Documentation</li><li><span class="mono">[S32]</span> Sony Pro Support</li><li><span class="mono">[S33]</span> Canon Support</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
-<!-- SOURCES_END -->

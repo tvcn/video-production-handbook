@@ -11,13 +11,13 @@ summary: "Voice-over is not the picture read aloud. It either gives information 
 slug: voice-over
 aliases: [voice-over, narration, VO, voiceover]
 canonical_site: story
-canonical_path: /en/screenplay/voice-over/
+canonical_path: /en/article/voice-over/
 status: published
 difficulty: intermediate
 stage: script
 format: short-film
 tools: [script, audio]
-authors: [editor]
+authors: ["TVCN Story Desk"]
 reviewers: [technical-reviewer]
 cover: /images/story/voice-over.webp
 diagram: /images/diagrams/en/voice-over.png
@@ -26,7 +26,7 @@ diagram_caption: "If the picture already says it, shut up. If the picture cannot
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [story.screenplay.logline, post.sound.sound, post.editing.transitions]
+related: [story.screenplay.dialogue.en, story.screenplay.character-arc.en, story.screenplay.conflict.en]
 ---
 
 <!-- DIAGRAM_START -->

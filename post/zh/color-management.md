@@ -5,26 +5,36 @@ type: article
 lang: zh
 translation_key: post.color.color-management
 translation_status: source
-title: "色彩管理：把 LUT 放在正确的位置"
-summary: "色彩管理不是套一个“电影感 LUT”。它先回答：素材是什么色彩空间、监视器是什么、交付是什么；再把转换放在正确的节点上。"
+title: 色彩管理：把 LUT 放在正确的位置
+summary: 色彩管理不是套一个“电影感 LUT”。它先回答：素材是什么色彩空间、监视器是什么、交付是什么；再把转换放在正确的节点上。
 slug: color-management
-aliases: [color-management]
+aliases:
+- color-management
 canonical_site: post
 canonical_path: /article/color-management/
 status: published
 diagram: /images/diagrams/zh/color-management.svg
-diagram_alt: "色彩管理节点专题图解"
-diagram_caption: "示意：每个箭头都是一次转换；把风格 LUT 放在输入前，会把所有素材一起压坏。"
+diagram_alt: 色彩管理节点专题图解
+diagram_caption: 示意：每个箭头都是一次转换；把风格 LUT 放在输入前，会把所有素材一起压坏。
 difficulty: intermediate
 stage: handbook
 format: workflow
-authors: ["TVCN 后期组"]
+authors:
+- TVCN 后期组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S24, S25, S30]
-test_context: "复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere Pro 2025 复跑；不声称每台机器结果一致。"
-known_failures: "已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。"
+sources:
+- S24
+- S25
+- S30
+test_context: 复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere Pro 2025 复跑；不声称每台机器结果一致。
+known_failures: 已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。
 verified: 2026-11-22
+related:
+- post.delivery.conform-online.en
+- shoot.blocking.blocking.en
+- story.storyboard.storyboard.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +49,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
 <ul><li><span class="mono">[S24]</span> ACES 色彩管理</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S30]</span> DaVinci Resolve 产品与文档</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

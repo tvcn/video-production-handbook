@@ -10,13 +10,13 @@ summary: "景别不是远景、中景、特写的名词表。它决定观众和�
 slug: shot-size
 aliases: [shot-size, 景别, 远景, 特写]
 canonical_site: shoot
-canonical_path: /camera/shot-size/
+canonical_path: /article/shot-size/
 status: published
 difficulty: beginner
 stage: shoot
 format: short-film
 tools: [camera, storyboard]
-authors: [editor]
+authors: ["TVCN 拍摄组"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/shot-size.webp
 diagram: /images/diagrams/zh/shot-size.png
@@ -25,7 +25,7 @@ diagram_caption: "景别不是镜头的远近，是观众和人物的关系。�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [shoot.camera.lens-distance, shoot.camera.composition, shoot.storyboard.storyboard]
+related: [shoot.camera.lens-distance.en, shoot.production.camera-height.en, shoot.camera.camera-move.en]
 ---
 
 <!-- DIAGRAM_START -->

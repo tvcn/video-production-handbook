@@ -11,7 +11,7 @@ summary: "A cheap mic twenty centimeters from the mouth usually beats an expensi
 slug: audio-position
 aliases: [audio-position]
 canonical_site: tools
-canonical_path: /en/audio/audio-position/
+canonical_path: /en/article/audio-position/
 status: published
 difficulty: beginner
 stage: gear
@@ -26,7 +26,7 @@ diagram_caption: "A cheap mic 20 cm from the mouth usually beats expensive gear 
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: []
+related: [tools.guide.budget-quote.en, ai.audio.ai-tts.en, animation.2d.2d-animation.en]
 depth: deep
 deep_minutes: 7
 sources: [S23, S25, S26, S29, S38]
@@ -92,5 +92,5 @@ Record thirty seconds of clean ambience at every location and note it on the sla
 <h2>Sources</h2>
 <p class="source-types">Experience: field notes and buying checklists; tested: short tests against public specs, not lab scores; references: manufacturer and standards links below.</p>
 <ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube Upload Specs</li><li><span class="mono">[S38]</span> State Taxation Administration</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

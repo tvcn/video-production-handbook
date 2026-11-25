@@ -5,26 +5,36 @@ type: article
 lang: en
 translation_key: post.delivery.conform-online
 translation_status: reviewed
-title: "Conform and Online: Relink, Round-Trip, and Master"
-summary: "Conform is not opening the edit in another app. It verifies every cut returns to the original media, every clip has enough handles, and every version traces to one master."
+title: 'Conform and Online: Relink, Round-Trip, and Master'
+summary: Conform is not opening the edit in another app. It verifies every cut returns to the original media, every clip has enough handles, and every version traces to one master.
 slug: conform-online
-aliases: [conform-online]
+aliases:
+- conform-online
 canonical_site: post
 canonical_path: /en/article/conform-online/
 status: published
 diagram: /images/diagrams/en/conform-online.svg
-diagram_alt: "Conform and online round-trip diagram"
-diagram_caption: "Diagram: a round-trip is not “it opened.” Every cut returns to source with handles."
+diagram_alt: Conform and online round-trip diagram
+diagram_caption: 'Diagram: a round-trip is not “it opened.” Every cut returns to source with handles.'
 difficulty: intermediate
 stage: handbook
 format: workflow
-authors: ["TVCN Post Desk"]
+authors:
+- TVCN Post Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S23, S30, S34]
-test_context: "Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine."
-known_failures: "Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking."
+sources:
+- S23
+- S30
+- S34
+test_context: 'Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine.'
+known_failures: 'Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking.'
 verified: 2026-11-22
+related:
+- post.assets.dit-data-handoff.en
+- shoot.camera.composition.en
+- story.screenplay.three-act.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +49,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S30]</span> DaVinci Resolve</li><li><span class="mono">[S34]</span> Adobe Premiere Pro Guide</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

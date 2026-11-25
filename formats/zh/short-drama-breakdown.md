@@ -5,23 +5,29 @@ type: article
 lang: zh
 translation_key: formats.short-drama.short-drama-breakdown
 translation_status: source
-title: "短剧拉片：30 秒一个反转"
-summary: "按 30 秒短剧的通用结构，拆 8 个时间码：画面钩子、结论、设定、升级、假答案、真线索、反转、反应。"
+title: 短剧拉片：30 秒一个反转
+summary: 按 30 秒短剧的通用结构，拆 8 个时间码：画面钩子、结论、设定、升级、假答案、真线索、反转、反应。
 slug: short-drama-breakdown
-aliases: [short-drama-breakdown]
+aliases:
+- short-drama-breakdown
 canonical_site: formats
-canonical_path: /short-drama/short-drama-breakdown/
+canonical_path: /article/short-drama-breakdown/
 status: published
 diagram: /images/diagrams/zh/short-drama-breakdown.svg
-diagram_alt: "短剧拉片：30 秒一个反转：时间码、结构与预算拉片工作纸"
-diagram_caption: "图解是入口：先看时间码，再用文末验收表检查。"
+diagram_alt: 短剧拉片：30 秒一个反转：时间码、结构与预算拉片工作纸
+diagram_caption: 图解是入口：先看时间码，再用文末验收表检查。
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN 片型组
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [formats.product-ad.product-ad-breakdown, main.path.path-story, formats.talking-head.talking-head-breakdown]
+related:
+- formats.vlog.vlog-breakdown.en
+- formats.talking-head.talking-head-breakdown.en
+- formats.music-video.music-video-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

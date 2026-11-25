@@ -5,43 +5,57 @@ type: template
 lang: zh
 translation_key: main.method.method-no-budget
 translation_status: source
-title: "预算为零"
-summary: "零预算先砍场面，不砍结构；一个能拍完的简单故事，比一个拍不起的好故事强。"
+title: 预算为零
+summary: 零预算先砍场面，不砍结构；一个能拍完的简单故事，比一个拍不起的好故事强。
 slug: method-no-budget
-aliases: [method-no-budget]
+aliases:
+- method-no-budget
 canonical_site: main
-canonical_path: /method/method-no-budget/
+canonical_path: /article/method-no-budget/
 status: published
 diagram: /images/diagrams/zh/method-no-budget.svg
-diagram_alt: "预算为零 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 预算为零的结构示意图。
+diagram_caption: 看“把剧本的场景数压到一到两个，人物压到…”和“用自然光、现有房间、手机或借来的机器…”两处，判断症状能不能被复述成一句可观察的话。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 编辑部
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- main.method.method-shoot-alone.en
+- main.method.method-phone-only.en
+- main.method.method-deadline.en
 depth: deep
 deep_minutes: 6
+sources:
+- S22
+- S23
+source_kind: sourced
 ---
 
-<p>零预算先砍场面，不砍结构；一个能拍完的简单故事，比一个拍不起的好故事强。</p>
+<p>零预算能拍的是小空间、少角色、自然光、短时长。把剧本压到一个房间、两个人、一个下午；不要用“低成本”当借口保留五个场景。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/method-no-budget.svg" alt="预算为零 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/method-no-budget.svg" alt="预算为零的结构示意图。">
+  <figcaption>看“把剧本的场景数压到一到两个，人物压到…”和“用自然光、现有房间、手机或借来的机器…”两处，判断症状能不能被复述成一句可观察的话。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>砍场面：人群、夜景、车辆；用一间房、两个人、一个道具重写。</p>
-<h2>怎么做</h2>
-<p>零预算先砍场面，不砍结构；一个能拍完的简单故事，比拍不起的好故事强。</p><ol><li>把剧本的场景数压到一到两个，人物压到一到两个。</li><li>用自然光、现有房间、手机或借来的机器拍。</li><li>把省下的钱放在声音和一顿饭上，保证能拍完。</li></ol>
-<h2>别踩</h2>
-<p>别用“等有钱再拍”当借口；先拍一个能交的版本。</p>
-<h2>验收</h2>
-<ul><li>场景和人物都压到一到两个。</li><li>全片用自然光、现有房间、手机或借来的机器拍完。</li><li>声音清楚，剧组吃上饭，片子能交付。</li></ul>
+<section><h2 id="section-1">没钱时先换“规模”，不换“标准”</h2><p>把钱花在观众最能感到的地方：声音、演员、一个关键道具。别平均撒在器材上。</p><h2 id="section-2">边界</h2><p>低成本不等于粗糙。画面可以简单，声音不能听不清，故事不能没有变化；这三样是底线，不是预算项。</p><h2 id="section-3">零预算项目，先定“不能做什么”</h2>
+<p>零预算不是“免费拍片”，是用现有资源换一个可展示的结果。开始前先写三条边界：不租器材、不请演员、不出外景；或只保留一条。边界越清楚，项目越可能完成。</p>
+<div class="table-scroll"><table class="data-table"><thead><tr><th>资源</th><th>能换什么</th><th>代价</th></tr></thead><tbody>
+<tr><td>你的技能</td><td>为对方拍一条 30 秒片</td><td>时间，不是现金</td></tr>
+<tr><td>对方的场地/产品</td><td>免费拍摄场景与道具</td><td>要给对方可用成片</td></tr>
+<tr><td>平台/社群</td><td>曝光、互推、反馈</td><td>不一定带来客户</td></tr>
+</tbody></table></div>
+<h3>零预算的正确目标</h3>
+<p>不是“做一个大片”，是“完成一次完整流程”。把范围压到 1 个场景、1 个机位、1 个成片、1 轮修改。用手机或现有相机，不追求参数；把时间花在脚本、现场声和剪辑节奏上。</p>
+<h3>三种不要接的零预算</h3>
+<ul><li>要求“先看效果再谈钱”的商业品牌；这是比稿，不是合作。</li><li>需要垫付场地、器材、演员的项目；零预算不等于零成本。</li><li>版权归客户、还要你承担无限修改的项目；没有预算，更要把范围写死。</li></ul>
+<p>若决定做，签一页备忘录：双方各自出什么、成片用在哪、署名怎么写、什么时候结束。零预算项目也要有交付日，否则它会无限延长。</p></section><section><h2 id="section-4">现场</h2><p>砍场面：人群、夜景、车辆；用一间房、两个人、一个道具重写。</p></section><section><h2 id="section-5">怎么做</h2><p>零预算先砍场面，不砍结构；一个能拍完的简单故事，比拍不起的好故事强。</p><ol><li>把剧本的场景数压到一到两个，人物压到一到两个。</li><li>用自然光、现有房间、手机或借来的机器拍。</li><li>把省下的钱放在声音和一顿饭上，保证能拍完。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别用“等有钱再拍”当借口；先拍一个能交的版本。</p></section><section><h2>替代</h2><p>如果“把剧本的场景数压到一到两个，人物压到…”不是你的主问题，先用“用自然光、现有房间、手机或借来的机器…”对应的基础做法；两项都成立再考虑升级。</p></section><section><h2>60 秒自测</h2><p>用现有器材按“把剧本的场景数压到一到两个，人物压到…”做一次 60 秒测试，记下一个数字；数字没有变化，就不要加预算。</p></section><section><h2>什么时候不该用</h2><p>当“把剧本的场景数压到一到两个，人物压到…”还没写清，或“用自然光、现有房间、手机或借来的机器…”只是凑数时，不要套模板；先回到人物和问题。</p></section><section><h2>三个失败</h2><ul><li>模板每段都有，但人物没有决定。</li><li>中段只换场景，没有新信息。</li><li>结尾靠旁白总结，画面没有变化。</li></ul></section>
+<h2>验收</h2><ul><li>场景和人物都压到一到两个。</li><li>全片用自然光、现有房间、手机或借来的机器拍完。</li><li>声音清楚，剧组吃上饭，片子能交付。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读
@@ -57,3 +71,12 @@ deep_minutes: 6
 ### 零预算，十项检查
 <ul><li>先删掉三样拍不起的东西</li><li>场景围绕现有空间写</li><li>只用一扇窗或一盏 practical</li><li>拍摄安排在光线稳定时段</li><li>会挡光和反光</li><li>白平衡和曝光手动锁定</li><li>声音用有线麦或贴近人物</li><li>用三个时间段区分空间</li><li>限制变成可见风格</li><li>省下的钱花在一个可见细节</li></ul><p>零预算不是没有条件，是把条件写进剧本，让片子从第一秒就承认自己是什么。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S22] 《中华人民共和国民法典》；见 SOURCES.md 的原始链接与用途。
+- [S23] SMPTE 标准入口；见 SOURCES.md 的原始链接与用途。
+
+完整链接与用途见 [`SOURCES.md`](../../about/)。
+<!-- SOURCES_END -->

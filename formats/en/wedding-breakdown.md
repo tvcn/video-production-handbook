@@ -5,23 +5,29 @@ type: article
 lang: en
 translation_key: formats.wedding.wedding-breakdown
 translation_status: reviewed
-title: "Wedding Breakdown: Six Minutes Without a Checklist"
-summary: "An eleven-beat breakdown of a six-minute wedding film: prep, arrival, ceremony, vows, rings, family, reception, dance, quiet, portraits, exit."
+title: 'Wedding Breakdown: Six Minutes Without a Checklist'
+summary: 'An eleven-beat breakdown of a six-minute wedding film: prep, arrival, ceremony, vows, rings, family, reception, dance, quiet, portraits, exit.'
 slug: wedding-breakdown
-aliases: [wedding-breakdown]
+aliases:
+- wedding-breakdown
 canonical_site: formats
-canonical_path: /en/wedding/wedding-breakdown/
+canonical_path: /en/article/wedding-breakdown/
 status: published
 diagram: /images/diagrams/en/wedding-breakdown.svg
-diagram_alt: "Wedding Breakdown: Six Minutes Without a Checklist: timecode, structure, and budget worksheet"
-diagram_caption: "The diagram is an entry point: watch the timecodes, then use the checks at the end."
+diagram_alt: 'Wedding Breakdown: Six Minutes Without a Checklist: timecode, structure, and budget worksheet'
+diagram_caption: 'The diagram is an entry point: watch the timecodes, then use the checks at the end.'
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN Formats Desk
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [main.case.case-wedding, formats.event.event-breakdown, main.path.path-live-film]
+related:
+- formats.event.event-breakdown.en
+- formats.vlog.vlog-breakdown.en
+- formats.news.news-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

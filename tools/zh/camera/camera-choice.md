@@ -10,7 +10,7 @@ summary: "先写你拍什么、在哪拍、给谁看、能背多重，再选机�
 slug: camera-choice
 aliases: [camera-choice]
 canonical_site: tools
-canonical_path: /camera/camera-choice/
+canonical_path: /article/camera-choice/
 status: published
 difficulty: beginner
 stage: gear
@@ -25,7 +25,7 @@ diagram_caption: "参数表不能替你做决定。先写清楚拍什么、在�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: []
+related: [tools.guide.crew-management.en, ai.generation.text-to-video.en, animation.3d.rigging.en]
 depth: deep
 deep_minutes: 7
 sources: [S23, S25, S26, S29, S38]
@@ -91,5 +91,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：编辑部现场手册与购买检查表；实测来源：短测与公开规格核对，不是实验室跑分；参考来源：以下厂商与标准链接。</p>
 <ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube 上传规格</li><li><span class="mono">[S38]</span> 国家税务总局</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

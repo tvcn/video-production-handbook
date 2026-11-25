@@ -5,43 +5,43 @@ type: article
 lang: zh
 translation_key: story.screenplay.scene-description
 translation_status: source
-title: "场景描述：只写镜头拍得到的"
-summary: "场景描述只写镜头拍得到的东西：光、动作、物件、声音；心理活动留给演员。"
+title: 场景描述：只写镜头拍得到的
+summary: 场景描述只写镜头拍得到的东西：光、动作、物件、声音；心理活动留给演员。
 slug: scene-description
-aliases: [scene-description]
+aliases:
+- scene-description
 canonical_site: story
-canonical_path: /screenplay/scene-description/
+canonical_path: /article/scene-description/
 status: published
 diagram: /images/diagrams/zh/scene-description.svg
-diagram_alt: "场景描述：只写镜头拍得到的 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 场景描述：只写镜头拍得到的的结构示意图。
+diagram_caption: 看“把一页场景改成只写可见可听：谁坐在哪…”和“删掉“他很焦虑”，换成一个动作：抖腿…”两处，判断人物想要的東西能不能用一个动作说出来。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 故事组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- story.directing.rehearsal.en
+- story.storyboard.shot-sheet.en
+- story.screenplay.script-format.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>场景描述只写镜头拍得到的东西：光、动作、物件、声音；心理活动留给演员。</p>
+<p>场景描述不是小说环境描写。写“桌上有一只没洗的杯子，水槽里泡着另一只”，不要写“她感到生活失控”。前者能拍，后者只能演。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/scene-description.svg" alt="场景描述：只写镜头拍得到的 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/scene-description.svg" alt="场景描述：只写镜头拍得到的的结构示意图。">
+  <figcaption>看“把一页场景改成只写可见可听：谁坐在哪…”和“删掉“他很焦虑”，换成一个动作：抖腿…”两处，判断人物想要的東西能不能用一个动作说出来。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>把一页场景改成只写可见可听：谁坐在哪、手里拿什么、窗外什么声。删掉他很焦虑，让演员用抖腿或反复看表演出来。</p>
-<h2>怎么做</h2>
-<p>场景描述只写镜头拍得到的东西：光、动作、物件、声音；心理活动留给演员。</p><ol><li>把一页场景改成只写可见可听：谁坐在哪、手里拿什么、窗外什么声。</li><li>删掉“他很焦虑”，换成一个动作：抖腿、反复看门。</li><li>读一遍，确认每句都能被摄影机或录音机拍到。</li></ol>
-<h2>别踩</h2>
-<p>别让人物说出主题；主题一出口，戏就死了。</p>
-<h2>验收</h2>
-<ul><li>每句描述都能被拍到或录到，没有心理独白。</li><li>焦虑、犹豫这类状态都换成了具体动作。</li><li>摄影和录音读一页，能标出机位和该收的声音。</li></ul>
+<section><h2 id="section-1">只写摄影机能看到和听到的</h2><p>每段描述控制在一到两个动作，给导演和美术留出空间；不要替他们决定墙纸颜色和镜头焦距。</p><h2 id="section-2">边界</h2><p>可拍不等于流水账。每个物件都要有用：推动动作、说明关系或制造阻碍；纯装饰的道具，删。</p></section><section><h2>现场</h2><p>把一页场景改成只写可见可听：谁坐在哪、手里拿什么、窗外什么声。删掉他很焦虑，让演员用抖腿或反复看表演出来。</p></section><section><h2 id="section-3">怎么做</h2><ol><li>把一页场景改成只写可见可听：谁坐在哪、手里拿什么、窗外什么声。</li><li>删掉“他很焦虑”，换成一个动作：抖腿、反复看门。</li><li>读一遍，确认每句都能被摄影机或录音机拍到。</li></ol></section><section><h2 id="section-4">别踩</h2><p>别让人物说出主题；主题一出口，戏就死了。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>人物的目标能用一个动作说出来</li><li>障碍在同一场里升级，而不是换一个</li><li>删掉一句解释对白，冲突仍然成立</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>人物想要什么没写清，场面只剩情绪</li><li>障碍靠巧合解决，人物没有做决定</li><li>对白把画面已经说明的事再说一遍</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>写一页 30 秒的场景，只保留“把一页场景改成只写可见可听：谁坐在哪…”和“删掉“他很焦虑”，换成一个动作：抖腿…”，删掉所有解释；请一个人读一遍，问他能不能复述人物想要什么。</p></section>
+<h2>验收</h2><ul><li>每句描述都能被拍到或录到，没有心理独白。</li><li>焦虑、犹豫这类状态都换成了具体动作。</li><li>摄影和录音读一页，能标出机位和该收的声音。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读

@@ -9,13 +9,13 @@ title: "7 天第一条片"
 summary: "用手机或轻便相机，在 7 天里走完定题、分镜、拍摄、粗剪、字幕和复盘，拿到一条能播放的 60–90 秒短片。"
 slug: first-film
 canonical_site: main
-canonical_path: /start/first-film/
+canonical_path: /article/first-film/
 status: published
 difficulty: beginner
 stage: concept
 format: learning-path
 tools: [story, shoot, edit]
-authors: [editor]
+authors: ["TVCN 编辑部"]
 reviewers: [editor]
 diagram: /images/diagrams/zh/first-film.svg
 diagram_alt: "7 天第一条片：每天只做一件"

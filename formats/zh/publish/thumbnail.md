@@ -10,13 +10,13 @@ summary: 手机上的封面只有拇指大。先保证一张脸、一个动作�
 slug: thumbnail
 aliases: [thumbnail, 封面, 缩略图]
 canonical_site: formats
-canonical_path: /publish/thumbnail/
+canonical_path: /article/thumbnail/
 status: published
 difficulty: beginner
 stage: publish
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN 片型组"]
 reviewers: [technical-reviewer]
 cover: /images/formats/thumbnail.webp
 diagram: /images/diagrams/zh/thumbnail.png
@@ -25,7 +25,7 @@ diagram_caption: "手机上的封面只有拇指大。先保证一张脸、一�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [tools.delivery.publish-checklist, formats.ad.product-ad]
+related: [formats.talk.talking-head.en, formats.drama.vertical-drama.en, formats.ad.product-ad.en]
 depth: deep
 deep_minutes: 5
 ---

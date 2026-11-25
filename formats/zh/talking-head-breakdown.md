@@ -5,23 +5,29 @@ type: article
 lang: zh
 translation_key: formats.talking-head.talking-head-breakdown
 translation_status: source
-title: "口播拉片：60 秒怎么留住人"
-summary: "按 60 秒口播的通用结构，拆 8 个时间码：结论、原因、例子一、例子二、反方、证据、应用、问题。"
+title: 口播拉片：60 秒怎么留住人
+summary: 按 60 秒口播的通用结构，拆 8 个时间码：结论、原因、例子一、例子二、反方、证据、应用、问题。
 slug: talking-head-breakdown
-aliases: [talking-head-breakdown]
+aliases:
+- talking-head-breakdown
 canonical_site: formats
-canonical_path: /talking-head/talking-head-breakdown/
+canonical_path: /article/talking-head-breakdown/
 status: published
 diagram: /images/diagrams/zh/talking-head-breakdown.svg
-diagram_alt: "口播拉片：60 秒怎么留住人：时间码、结构与预算拉片工作纸"
-diagram_caption: "图解是入口：先看时间码，再用文末验收表检查。"
+diagram_alt: 口播拉片：60 秒怎么留住人：时间码、结构与预算拉片工作纸
+diagram_caption: 图解是入口：先看时间码，再用文末验收表检查。
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN 片型组
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [formats.tutorial.tutorial-breakdown, formats.interview.interview-breakdown, main.path.path-distribution]
+related:
+- formats.interview.interview-breakdown.en
+- formats.short-drama.short-drama-breakdown.en
+- formats.tutorial.tutorial-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

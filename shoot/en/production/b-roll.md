@@ -6,27 +6,35 @@ lang: en
 translation_key: shoot.production.b-roll
 translation_status: reviewed
 translation_reviewed: 2026-11-21
-title: B-roll: Give the Sentence a Picture
+title: 'B-roll: Give the Sentence a Picture'
 summary: When someone says “I set up at five every morning” and the camera stays on their face, the audience can only listen. B-roll turns that line into something visible.
 slug: b-roll
-aliases: [b-roll, insert, cutaway]
+aliases:
+- b-roll
+- insert
+- cutaway
 canonical_site: shoot
-canonical_path: /en/production/b-roll/
+canonical_path: /en/article/b-roll/
 status: published
 difficulty: beginner
 stage: shoot
 format: documentary
 tools: []
-authors: [editor]
-reviewers: [technical-reviewer]
+authors:
+- TVCN Shoot Desk
+reviewers:
+- technical-reviewer
 cover: /images/shoot/b-roll.webp
 diagram: /images/diagrams/en/b-roll.png
-diagram_alt: "B-roll: turn one line into four shots"
-diagram_caption: "When the subject says “I set up at five every morning” and the camera stays on the face, the audience can only listen. B-roll makes the line visible."
+diagram_alt: 'B-roll: turn one line into four shots'
+diagram_caption: When the subject says “I set up at five every morning” and the camera stays on the face, the audience can only listen. B-roll makes the line visible.
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [shoot.production.shot-list, formats.documentary.documentary]
+related:
+- shoot.coverage.coverage.en
+- shoot.production.shot-list.en
+- shoot.production.slate-continuity.en
 depth: deep
 deep_minutes: 5
 ---

@@ -5,23 +5,29 @@ type: article
 lang: zh
 translation_key: formats.interview.interview-breakdown
 translation_status: source
-title: "采访拉片：3 分钟怎么让人物成立"
-summary: "按 3 分钟采访片的通用结构，拆 9 个时间码：答案钩子、人物在工作、问题一、证据、问题二、转向、语境、收束、停留。"
+title: 采访拉片：3 分钟怎么让人物成立
+summary: 按 3 分钟采访片的通用结构，拆 9 个时间码：答案钩子、人物在工作、问题一、证据、问题二、转向、语境、收束、停留。
 slug: interview-breakdown
-aliases: [interview-breakdown]
+aliases:
+- interview-breakdown
 canonical_site: formats
-canonical_path: /interview/interview-breakdown/
+canonical_path: /article/interview-breakdown/
 status: published
 diagram: /images/diagrams/zh/interview-breakdown.svg
-diagram_alt: "采访拉片：3 分钟怎么让人物成立：时间码、结构与预算拉片工作纸"
-diagram_caption: "图解是入口：先看时间码，再用文末验收表检查。"
+diagram_alt: 采访拉片：3 分钟怎么让人物成立：时间码、结构与预算拉片工作纸
+diagram_caption: 图解是入口：先看时间码，再用文末验收表检查。
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN 片型组
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [formats.talking-head.talking-head-breakdown, formats.documentary.documentary-breakdown, main.path.path-live-film]
+related:
+- formats.talking-head.talking-head-breakdown.en
+- formats.documentary.documentary-breakdown.en
+- formats.news.news-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

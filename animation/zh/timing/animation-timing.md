@@ -10,13 +10,13 @@ summary: "一个球从桌上掉下来，画几张中间帧、每张隔多远，�
 slug: animation-timing
 aliases: [animation-timing]
 canonical_site: animation
-canonical_path: /timing/animation-timing/
+canonical_path: /article/animation-timing/
 status: published
 difficulty: beginner
 stage: animation
 format: animation
 tools: [animation, edit]
-authors: [editor]
+authors: ["TVCN 动画组"]
 reviewers: [technical-reviewer]
 cover: /images/animation/animation-timing.webp
 diagram: /images/diagrams/zh/animation-timing.png
@@ -25,7 +25,7 @@ diagram_caption: "同样的总距离，中间帧的间隔一改，观众就读�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [2d-animation, animation-history]
+related: [animation.2d.animation-walk.en, animation.2d.2d-animation.en, animation.3d.blockout.en]
 depth: deep
 deep_minutes: 6
 ---

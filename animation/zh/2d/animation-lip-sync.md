@@ -10,13 +10,13 @@ summary: "口型不是把每个字都画出来。先对闭唇的辅音，再给�
 slug: animation-lip-sync
 aliases: [animation-lip-sync, 口型, lip sync]
 canonical_site: animation
-canonical_path: /2d/animation-lip-sync/
+canonical_path: /article/animation-lip-sync/
 status: published
 difficulty: intermediate
 stage: post
 format: animation
 tools: []
-authors: [editor]
+authors: ["TVCN 动画组"]
 reviewers: [technical-reviewer]
 cover: /images/animation/animation-lip-sync.webp
 diagram: /images/diagrams/zh/animation-lip-sync.png
@@ -25,7 +25,7 @@ diagram_caption: "不用背音素表。先把闭唇辅音对死，再让元音�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [animation.2d.2d-animation, animation.2d.animation-timing]
+related: [animation.2d.animation-walk.en, animation.2d.loop-cycle.en, animation.motion-graphics.mg-rhythm.en]
 ---
 
 <!-- DIAGRAM_START -->

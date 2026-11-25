@@ -5,43 +5,45 @@ type: article
 lang: en
 translation_key: tools.guide.export-fail-fix
 translation_status: reviewed
-title: "Export Failure Fix: Codec, Disk, Permission"
-summary: "Check codec, disk space, and permissions; only then rebuild the project."
+title: 'Export Failure Fix: Codec, Disk, Permission'
+summary: Check codec, disk space, and permissions; only then rebuild the project.
 slug: export-fail-fix
-aliases: [export-fail-fix]
+aliases:
+- export-fail-fix
 canonical_site: tools
-canonical_path: /en/guide/export-fail-fix/
+canonical_path: /en/article/export-fail-fix/
 status: published
 diagram: /images/diagrams/en/export-fail-fix.svg
-diagram_alt: "Export Failure Fix: Codec, Disk, Permission three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Export Failure Fix: Codec, Disk, Permission.'
+diagram_caption: Watch “Read the exact error and note the time” and “Failure at the
+  start points to codec, path,”; judge whether the spec maps to one concrete shooting
+  problem.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Tools Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- tools.tutorial.backup-3-2-1.en
+- tools.guide.audio-noise-fix.en
+- tools.guide.jelly-fix.en
 depth: deep
 deep_minutes: 7
+source_kind: experience
 ---
 
-<p>Check codec, disk space, and permissions; only then rebuild the project.</p>
+<p>Check in order: bad frames or offline media, disk space, codec support, special characters in the filename, hardware acceleration. Change one variable and log the result.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/export-fail-fix.svg" alt="Export Failure Fix: Codec, Disk, Permission three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/export-fail-fix.svg" alt="Structure diagram for Export Failure Fix: Codec, Disk, Permission.">
+  <figcaption>Watch “Read the exact error and note the time” and “Failure at the start points to codec, path,”; judge whether the spec maps to one concrete shooting problem.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Check the codec, disk space, permissions, and fonts. Change the output path, rebuild the project, and eliminate one item at a time.</p>
-<h2>Do this</h2>
-<p>Export failure: classify it as codec, disk, permission, media, or resources. Change one variable at a time.</p><ol><li>Read the exact error and note the time and percentage where it fails.</li><li>Failure at the start points to codec, path, or permissions; failure at a fixed point points to media or fonts.</li><li>Use a short English path, keep twice the space, and export in sections.</li></ol>
-<h2>Avoid</h2>
-<p>Do not reinstall the software on the first failure; locate the variable first.</p>
-<h2>Check</h2>
-<ul><li>The exact error and failure point are recorded.</li><li>Codec, path, permissions, media, and fonts were checked as categories.</li><li>A short English path, twice the space, and sectioned export were tested.</li></ul>
+<section><h2 id="section-1">Find the failing step before reinstalling</h2><p>Copy the project, export to a local disk with a short filename. If it passes, the issue is path or permission, not the project.</p><h2 id="section-2">Limits</h2><p>A successful export is not a correct file. Open the result and play three points for black frames, freezes, audio dropouts and captions; a finished progress bar is not enough.</p></section><section><h2 id="section-3">On set</h2><p>Check the codec, disk space, permissions, and fonts. Change the output path, rebuild the project, and eliminate one item at a time.</p></section><section><h2 id="section-4">Do this</h2><p>Export failure: classify it as codec, disk, permission, media, or resources. Change one variable at a time.</p><ol><li>Read the exact error and note the time and percentage where it fails.</li><li>Failure at the start points to codec, path, or permissions; failure at a fixed point points to media or fonts.</li><li>Use a short English path, keep twice the space, and export in sections.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not reinstall the software on the first failure; locate the variable first.</p></section><aside class="regional-note"><p><strong>Regional note for US / UK / EU readers</strong></p><p>This English page keeps mainland-China examples where they are part of the method. Read platform names as examples, not as the only market: Douyin ↔ TikTok/Reels, Bilibili ↔ YouTube, Xiaohongshu ↔ Instagram/Pinterest; RMB figures are not converted here. Voltage, plug, warranty, import duty and radio certification differ by market; check the local spec sheet before ordering gear or batteries.</p></aside><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>every spec maps to one concrete shooting problem</li><li>weight, power and connections hold on a real rig</li><li>a 60-second test leaves one comparable number</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>specs without connections, power or weight</li><li>batteries, storage or body do not match after purchase</li><li>no 60-second test, so the problem arrives on the shoot</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Run a 60-second test with the gear you already own, measuring only “Read the exact error and note the time”. Record two numbers: what you need and what the gear actually gives.</p></section>
+<h2>Check</h2><ul><li>The exact error and failure point are recorded.</li><li>Codec, path, permissions, media, and fonts were checked as categories.</li><li>A short English path, twice the space, and sectioned export were tested.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

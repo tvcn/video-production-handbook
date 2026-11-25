@@ -5,26 +5,36 @@ type: article
 lang: en
 translation_key: formats.food.food-video-structure
 translation_status: reviewed
-title: "Food & Table Structure: Six Beats"
-summary: "Food video is not a rotating platter. Shoot change: raw to cooked, cold to hot, whole to cut. Sound is the second dish; hands persuade more than words."
+title: 'Food & Table Structure: Six Beats'
+summary: 'Food video is not a rotating platter. Shoot change: raw to cooked, cold to hot, whole to cut. Sound is the second dish; hands persuade more than words.'
 slug: food-video-structure
-aliases: [food-video-structure]
+aliases:
+- food-video-structure
 canonical_site: formats
 canonical_path: /en/article/food-video-structure/
 status: published
 diagram: /images/diagrams/en/food-video-structure.svg
-diagram_alt: "Food & Table structure diagram"
-diagram_caption: "Diagram: six beats in order; miss one and it becomes a pile of footage."
+diagram_alt: Food & Table structure diagram
+diagram_caption: 'Diagram: six beats in order; miss one and it becomes a pile of footage.'
 difficulty: intermediate
 stage: handbook
 format: format
-authors: ["TVCN Formats Desk"]
+authors:
+- TVCN Formats Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S14, S15, S16]
-test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
-known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
+sources:
+- S14
+- S15
+- S16
+test_context: 'Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project.'
+known_failures: 'Known failures: composite samples are not client proof; platform length/spec changes expire templates.'
 verified: 2026-11-22
+related:
+- formats.food.food-video-template.en
+- post.editing.rough-cut.en
+- shoot.lighting.ratio.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +49,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

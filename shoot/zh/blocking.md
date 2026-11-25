@@ -5,47 +5,51 @@ type: article
 lang: zh
 translation_key: shoot.blocking.blocking
 translation_status: source
-title: "走位：让人用身体说话"
-summary: "走位不是把演员摆好看，而是让身体在空间里做出关系：谁靠近、谁退、谁挡住谁。"
+title: 走位：让人用身体说话
+summary: 走位不是把演员摆好看，而是让身体在空间里做出关系：谁靠近、谁退、谁挡住谁。
 slug: blocking
-aliases: [blocking]
+aliases:
+- blocking
 canonical_site: shoot
-canonical_path: /blocking/blocking/
+canonical_path: /article/blocking/
 status: published
 diagram: /images/diagrams/zh/blocking.svg
-diagram_alt: "走位：让人用身体说话 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 走位：让人用身体说话的结构示意图。
+diagram_caption: 看“在地上标出门、椅子和摄影机的准确位置”和“让演员从门走到椅子，在镜头前停两秒…”两处，判断高光、肤色和声音有没有被同时保住。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: ["TVCN 技术组"]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 技术组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- shoot.camera.composition.en
+- story.screenplay.three-act.en
+- tools.guide.buy-tripod.en
 depth: deep
 deep_minutes: 6
-sources: [S23, S31, S32, S33]
-test_context: "复核环境：Windows 11 工作站；Sony FX3 / Canon R5 公开菜单与样片对照；镜头以页面标注为准，不声称每支都实测。"
-known_failures: "已知失败：不同机型菜单/固件差异；现场色温与监视器未校准会导致误判。"
+sources:
+- S23
+- S31
+- S32
+- S33
+test_context: 复核环境：Windows 11 工作站；Sony FX3 / Canon R5 公开菜单与样片对照；镜头以页面标注为准，不声称每支都实测。
+known_failures: 已知失败：不同机型菜单/固件差异；现场色温与监视器未校准会导致误判。
 verified: 2026-11-22
+source_kind: sourced
 ---
 
-<p>走位不是把演员摆好看，而是让身体在空间里做出关系：谁靠近、谁退、谁挡住谁。</p>
+<p>走位不是把演员摆得好看，而是让谁靠近、谁退、谁挡住谁变成画面信息。先在地上标门、椅子和摄影机，再让演员用一个动作穿过这段距离。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/blocking.svg" alt="走位：让人用身体说话 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/blocking.svg" alt="走位：让人用身体说话的结构示意图。">
+  <figcaption>看“在地上标出门、椅子和摄影机的准确位置”和“让演员从门走到椅子，在镜头前停两秒…”两处，判断高光、肤色和声音有没有被同时保住。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>在地上标出门、椅子和摄影机的位置。让演员从门走到椅子，在镜头前停两秒。先拍一条全景，检查谁挡住了谁。</p>
-<h2>怎么做</h2>
-<p>走位不是把演员摆好看，而是让身体在空间里做出关系：谁靠近、谁退、谁挡住谁。位置先标出来，再让人用一个动作穿过空间；最后用全景检查关系是否读得出来。</p><ol><li>在地上标出门、椅子和摄影机的准确位置。</li><li>让演员从门走到椅子，在镜头前停两秒，不拿台词。</li><li>先拍一条全景，回放确认谁挡住谁、距离是否说出了关系。</li></ol>
-<h2>别踩</h2>
-<p>别让人物为了构图站成海报；身体一假，关系就假。</p>
-<h2>验收</h2>
-<ul><li>全景里能看出谁靠近、谁退、谁挡住谁，不靠台词解释。</li><li>演员走的是动作路径，不是摆姿势；起点、转身和终点都能在画面里找到。</li><li>走位图或手机视频留下后，另一个人能按图复走一遍。</li></ul>
+<section><h2 id="section-1">让关系在空间里发生</h2><p>拍一条全景回放：如果观众能只看身体就说出现在谁更有权力，走位成立；如果必须靠台词解释，重排。</p><h2 id="section-2">边界</h2><p>不要为了构图让人物站成海报。身体不动，关系也不会动。</p></section><section><h2 id="section-3">现场</h2><p>在地上标出门、椅子和摄影机的位置。让演员从门走到椅子，在镜头前停两秒。先拍一条全景，检查谁挡住了谁。</p></section><section><h2 id="section-4">怎么做</h2><p>位置先标出来，再让人用一个动作穿过空间；最后用全景检查关系是否读得出来。</p><ol><li>在地上标出门、椅子和摄影机的准确位置。</li><li>让演员从门走到椅子，在镜头前停两秒，不拿台词。</li><li>先拍一条全景，回放确认谁挡住谁、距离是否说出了关系。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别让人物为了构图站成海报；身体一假，关系就假。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>高光没有死白，暗部仍保留可恢复的细节</li><li>同一条片子里肤色一致，切机位不跳</li><li>声音有独立音轨，不靠机头麦兜底</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>曝光对了，但光没有方向，脸和背景粘在一起</li><li>声音只靠机头麦，现场一吵就废</li><li>机位越轴，观众失去空间方向</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用同一扇窗拍三条 10 秒，只改“在地上标出门、椅子和摄影机的准确位置”；比较高光、肤色和背景，选一条能直接剪的。</p></section>
+<h2>验收</h2><ul><li>全景里能看出谁靠近、谁退、谁挡住谁，不靠台词解释。</li><li>演员走的是动作路径，不是摆姿势；起点、转身和终点都能在画面里找到。</li><li>走位图或手机视频留下后，另一个人能按图复走一遍。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读
@@ -66,8 +70,3 @@ verified: 2026-11-22
 <ul><li>先走一遍，不拿台词</li><li>标出起点、终点、转身点</li><li>让演员试一次坐下和起身</li><li>确认主光不挡脸</li><li>群戏给每个人一个动作</li><li>拍一张走位图存档</li></ul><p>走位对了，台词才有地方落；走位错了，演员只能用表情硬撑。</p>
 <!-- DEEP_DIVE_END -->
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
-<ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S31]</span> ARRI 技术文档</li><li><span class="mono">[S32]</span> Sony 专业影像支持</li><li><span class="mono">[S33]</span> Canon 支持</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
-<!-- SOURCES_END -->

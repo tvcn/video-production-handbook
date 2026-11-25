@@ -11,13 +11,13 @@ summary: "People rarely remember a feeling. They remember which foot they moved 
 slug: interview-questions
 aliases: [interview-questions]
 canonical_site: story
-canonical_path: /en/interview/interview-questions/
+canonical_path: /en/article/interview-questions/
 status: published
 difficulty: beginner
 stage: story
 format: documentary
 tools: [script, sound]
-authors: [editor]
+authors: ["TVCN Story Desk"]
 reviewers: [technical-reviewer]
 cover: /images/story/interview-questions.webp
 diagram: /images/diagrams/en/interview-questions.png
@@ -26,7 +26,7 @@ diagram_caption: "People cannot recall a feeling, but they remember which foot m
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [documentary, directing-nonactors]
+related: [story.directing.directing-nonactors.en, story.screenplay.dialogue.en, story.screenplay.conflict.en]
 ---
 
 <!-- DIAGRAM_START -->

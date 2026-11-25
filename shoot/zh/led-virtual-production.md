@@ -5,26 +5,37 @@ type: article
 lang: zh
 translation_key: shoot.virtual-production.led-virtual-production
 translation_status: source
-title: "LED 虚拟拍摄：墙、跟踪、同步与色温"
-summary: "LED 虚拟拍摄不是“背景换成屏幕”。它把真实光影、相机跟踪、屏幕刷新和后期色彩绑成一条链；任何一项没锁，演员脸上的光就会和背景分开。"
+title: LED 虚拟拍摄：墙、跟踪、同步与色温
+summary: LED 虚拟拍摄不是“背景换成屏幕”。它把真实光影、相机跟踪、屏幕刷新和后期色彩绑成一条链；任何一项没锁，演员脸上的光就会和背景分开。
 slug: led-virtual-production
-aliases: [led-virtual-production]
+aliases:
+- led-virtual-production
 canonical_site: shoot
 canonical_path: /article/led-virtual-production/
 status: published
 diagram: /images/diagrams/zh/led-virtual-production.svg
-diagram_alt: "LED 虚拟拍摄流程专题图解"
-diagram_caption: "示意：墙的刷新、相机的跟踪和引擎的时间必须同一条；只把画面投上墙，不叫虚拟拍摄。"
+diagram_alt: LED 虚拟拍摄流程专题图解
+diagram_caption: 示意：墙的刷新、相机的跟踪和引擎的时间必须同一条；只把画面投上墙，不叫虚拟拍摄。
 difficulty: intermediate
 stage: handbook
 format: workflow
-authors: ["TVCN 技术组"]
+authors:
+- TVCN 技术组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S23, S31, S32, S33]
-test_context: "复核环境：Windows 11 工作站；Sony FX3 / Canon R5 公开菜单与样片对照；镜头以页面标注为准，不声称每支都实测。"
-known_failures: "已知失败：不同机型菜单/固件差异；现场色温与监视器未校准会导致误判。"
+sources:
+- S23
+- S31
+- S32
+- S33
+test_context: 复核环境：Windows 11 工作站；Sony FX3 / Canon R5 公开菜单与样片对照；镜头以页面标注为准，不声称每支都实测。
+known_failures: 已知失败：不同机型菜单/固件差异；现场色温与监视器未校准会导致误判。
 verified: 2026-11-22
+related:
+- shoot.lighting.lighting-style.en
+- story.screenplay.logline.en
+- tools.camera.camera-choice.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +50,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
 <ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S31]</span> ARRI 技术文档</li><li><span class="mono">[S32]</span> Sony 专业影像支持</li><li><span class="mono">[S33]</span> Canon 支持</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

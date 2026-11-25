@@ -11,13 +11,13 @@ summary: When a film sounds uncomfortable, the audience rarely says “the sound
 slug: sound-post
 aliases: [sound-post, audio post, noise reduction]
 canonical_site: post
-canonical_path: /en/sound/sound-post/
+canonical_path: /en/article/sound-post/
 status: published
 difficulty: beginner
 stage: edit
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN Post Desk"]
 reviewers: [technical-reviewer]
 cover: /images/post/sound-post.webp
 diagram: /images/diagrams/en/sound-post.png
@@ -26,7 +26,7 @@ diagram_caption: "When sound is uncomfortable, viewers do not say “bad audio�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [post.sound.sound, tools.audio.audio-position]
+related: [post.sound.room-tone.en, post.editing.mix-dialogue.en, post.color.color.en]
 ---
 
 <!-- DIAGRAM_START -->

@@ -5,38 +5,39 @@ type: tool
 lang: en
 translation_key: tools.capability.softbox
 translation_status: reviewed
-title: "Softbox: Size Decides Softness"
-summary: "Bigger and closer means softer; move the box before changing the light."
+title: 'Softbox: Size Decides Softness'
+summary: Bigger and closer means softer; move the box before changing the light.
 slug: softbox
-aliases: [softbox]
+aliases:
+- softbox
 canonical_site: tools
-canonical_path: /en/capability/softbox/
+canonical_path: /en/article/softbox/
 status: published
 diagram: /images/diagrams/en/softbox.svg
-diagram_alt: "Softbox: Size Decides Softness three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Softbox: Size Decides Softness.'
+diagram_caption: Watch “Same light, softbox at 0.8 and 1.5 meters.” and “Shoot one
+  frame at each distance.”; judge whether the spec maps to one concrete shooting problem.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Tools Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- tools.capability.cob-light.en
+- tools.capability.reflector.en
+- tools.capability.nd-gel.en
+source_kind: experience
 ---
 
-<p>Bigger and closer means softer; move the box before changing the light.</p>
+<p>For hard light, defined shadows or long throws, a softbox scatters the direction. Do not use it for every lighting problem.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/softbox.svg" alt="Softbox: Size Decides Softness three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/softbox.svg" alt="Structure diagram for Softbox: Size Decides Softness.">
+  <figcaption>Watch “Same light, softbox at 0.8 and 1.5 meters.” and “Shoot one frame at each distance.”; judge whether the spec maps to one concrete shooting problem.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>With the same lamp, shoot at 0.8 and 1.5 meters. Compare the shadow edge and the size of the eye light.</p>
-<h2>Do this</h2>
-<p>The larger and closer the softbox, the softer the light; moving it closer beats changing the lamp.</p><ol><li>Same light, softbox at 0.8 and 1.5 meters.</li><li>Shoot one frame at each distance.</li><li>Compare shadow edges and the size of the eye light.</li></ol>
-<h2>Avoid</h2>
-<p>Do not buy a pricier lamp for softness; moving the softbox closer works more directly.</p>
-<h2>Check</h2>
-<ul><li>0.8 m and 1.5 m samples use the same light.</li><li>The closer frame has visibly softer shadow edges.</li><li>Eye-light size changes with distance and is compared.</li></ul>
+<section><h2 id="section-1">What to compare first</h2><ul><li><strong>Size:</strong> softness comes from area and distance, not brand; if a 120cm box will not fit, use a smaller one closer.</li><li><strong>Mount and structure:</strong> confirm mount, quick release, grid and diffusion; a box that is hard to build will be used less on set.</li><li><strong>Heat:</strong> a high-output COB in a small box traps heat; check vents and the fixture's cooling direction.</li></ul><h2 id="section-2">When not to use it</h2></section><section><h2 id="section-3">On set</h2><p>With the same lamp, shoot at 0.8 and 1.5 meters. Compare the shadow edge and the size of the eye light.</p></section><section><h2 id="section-4">Do this</h2><p>The larger and closer the softbox, the softer the light; moving it closer beats changing the lamp.</p><ol><li>Same light, softbox at 0.8 and 1.5 meters.</li><li>Shoot one frame at each distance.</li><li>Compare shadow edges and the size of the eye light.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not buy a pricier lamp for softness; moving the softbox closer works more directly.</p></section>
+<h2>Check</h2><ul><li>0.8 m and 1.5 m samples use the same light.</li><li>The closer frame has visibly softer shadow edges.</li><li>Eye-light size changes with distance and is compared.</li></ul>

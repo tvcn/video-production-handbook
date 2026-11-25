@@ -5,26 +5,35 @@ type: article
 lang: en
 translation_key: context.law.music-license
 translation_status: reviewed
-title: "Music Licensing: Sync, Performance, and Platform Libraries"
-summary: "“I bought the song” does not mean “I can use it commercially.” Film projects must separate sync (recording into the film), performance (public playback), mechanical (copying audio), and master rights."
+title: 'Music Licensing: Sync, Performance, and Platform Libraries'
+summary: “I bought the song” does not mean “I can use it commercially.” Film projects must separate sync (recording into the film), performance (public playback), mechanical (copying audio), and master rights.
 slug: music-license
-aliases: [music-license]
+aliases:
+- music-license
 canonical_site: context
 canonical_path: /en/article/music-license/
 status: published
 diagram: /images/diagrams/en/music-license.svg
-diagram_alt: "Music licensing diagram"
-diagram_caption: "Diagram: composition, master, sync, and public performance are licensed separately."
+diagram_alt: Music licensing diagram
+diagram_caption: 'Diagram: composition, master, sync, and public performance are licensed separately.'
 difficulty: intermediate
 stage: handbook
 format: law
-authors: ["TVCN Research Desk"]
+authors:
+- TVCN Research Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S02, S22]
-test_context: "Review setup: current China mainland statutes, platform rules and public cases; not legal advice."
-known_failures: "Known failures: platform rules and local enforcement change; counsel must confirm applicability."
+sources:
+- S02
+- S22
+test_context: 'Review setup: current China mainland statutes, platform rules and public cases; not legal advice.'
+known_failures: 'Known failures: platform rules and local enforcement change; counsel must confirm applicability.'
 verified: 2026-11-22
+related:
+- context.literacy.platform-rules.en
+- formats.ad.product-ad.en
+- post.editing.proxy-workflow.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +48,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: editorial statute comparison and project reviews; tested: no lab measurement; references: the laws, platform rules and institutional texts below.</p>
 <ul><li><span class="mono">[S02]</span> WIPO: Copyright FAQ</li><li><span class="mono">[S22]</span> China's Civil Code</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

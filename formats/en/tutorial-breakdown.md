@@ -5,23 +5,29 @@ type: article
 lang: en
 translation_key: formats.tutorial.tutorial-breakdown
 translation_status: reviewed
-title: "Tutorial Breakdown: Teach in Five Minutes"
-summary: "A ten-beat breakdown of a five-minute tutorial: result, materials, three steps, check, failure, recap, next, action."
+title: 'Tutorial Breakdown: Teach in Five Minutes'
+summary: 'A ten-beat breakdown of a five-minute tutorial: result, materials, three steps, check, failure, recap, next, action.'
 slug: tutorial-breakdown
-aliases: [tutorial-breakdown]
+aliases:
+- tutorial-breakdown
 canonical_site: formats
-canonical_path: /en/tutorial/tutorial-breakdown/
+canonical_path: /en/article/tutorial-breakdown/
 status: published
 diagram: /images/diagrams/en/tutorial-breakdown.svg
-diagram_alt: "Tutorial Breakdown: Teach in Five Minutes: timecode, structure, and budget worksheet"
-diagram_caption: "The diagram is an entry point: watch the timecodes, then use the checks at the end."
+diagram_alt: 'Tutorial Breakdown: Teach in Five Minutes: timecode, structure, and budget worksheet'
+diagram_caption: 'The diagram is an entry point: watch the timecodes, then use the checks at the end.'
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN Formats Desk
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [formats.talking-head.talking-head-breakdown, formats.product-ad.product-ad-breakdown, main.path.path-post]
+related:
+- formats.talking-head.talking-head-breakdown.en
+- formats.music-video.music-video-breakdown.en
+- formats.interview.interview-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

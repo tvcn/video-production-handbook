@@ -5,43 +5,43 @@ type: article
 lang: zh
 translation_key: shoot.movement.stabilizer
 translation_status: source
-title: "稳定器：走路的节奏"
-summary: "稳定器最怕碎步；膝盖微屈、脚跟着地、速度均匀，画面才会稳。"
+title: 稳定器：走路的节奏
+summary: 稳定器最怕碎步；膝盖微屈、脚跟着地、速度均匀，画面才会稳。
 slug: stabilizer
-aliases: [stabilizer]
+aliases:
+- stabilizer
 canonical_site: shoot
-canonical_path: /movement/stabilizer/
+canonical_path: /article/stabilizer/
 status: published
 diagram: /images/diagrams/zh/stabilizer.svg
-diagram_alt: "稳定器：走路的节奏 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 稳定器：走路的节奏的结构示意图。
+diagram_caption: 看“膝盖微屈，脚跟先落地，走直线”和“上机器前先空走二十米，找到匀速”两处，判断高光、肤色和声音有没有被同时保住。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 拍摄组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- shoot.movement.handheld.en
+- shoot.art.set-dressing.en
+- shoot.camera.frame-rate.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>稳定器最怕碎步；膝盖微屈、脚跟着地、速度均匀，画面才会稳。</p>
+<p>后期稳定会放大画面、裁掉边缘。先确认构图四周有余量；没有余量，稳定后会出现黑边或软边。手持广角比长焦更容易救。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/stabilizer.svg" alt="稳定器：走路的节奏 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/stabilizer.svg" alt="稳定器：走路的节奏的结构示意图。">
+  <figcaption>看“膝盖微屈，脚跟先落地，走直线”和“上机器前先空走二十米，找到匀速”两处，判断高光、肤色和声音有没有被同时保住。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>膝盖微屈，脚跟先落地，走直线。上机器前先空走二十米。转弯要慢，不要靠腰拧。</p>
-<h2>怎么做</h2>
-<p>稳定器最怕碎步；膝盖微屈、脚跟着地、速度均匀，画面才会稳。</p><ol><li>膝盖微屈，脚跟先落地，走直线。</li><li>上机器前先空走二十米，找到匀速。</li><li>转弯要慢，用脚步转，不要靠腰拧。</li></ol>
-<h2>别踩</h2>
-<p>别碎步、别拧腰；稳定器只能消小抖，消不掉脚步的上下跳。</p>
-<h2>验收</h2>
-<ul><li>直线行走时画面没有随脚步上下起伏。</li><li>转弯速度均匀，没有突然甩头或横移。</li><li>二十米空走和带机器走的节奏一致。</li></ul>
+<section><h2 id="section-1">稳定先看“有没有空间裁切”</h2><p>稳定的顺序：先做相机校正，再做稳定，最后做构图微调；不要先裁再稳。</p><h2 id="section-2">边界</h2><p>稳定不能修运动模糊和果冻。快门太慢、滚动快门太强，稳定只会让变形更明显；先回拍摄解决。</p></section><section><h2 id="section-3">现场</h2><p>膝盖微屈，脚跟先落地，走直线。上机器前先空走二十米。转弯要慢，不要靠腰拧。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>膝盖微屈，脚跟先落地，走直线。</li><li>上机器前先空走二十米，找到匀速。</li><li>转弯要慢，用脚步转，不要靠腰拧。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别碎步、别拧腰；稳定器只能消小抖，消不掉脚步的上下跳。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>高光没有死白，暗部仍保留可恢复的细节</li><li>同一条片子里肤色一致，切机位不跳</li><li>声音有独立音轨，不靠机头麦兜底</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>曝光对了，但光没有方向，脸和背景粘在一起</li><li>声音只靠机头麦，现场一吵就废</li><li>机位越轴，观众失去空间方向</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用同一扇窗拍三条 10 秒，只改“膝盖微屈，脚跟先落地，走直线”；比较高光、肤色和背景，选一条能直接剪的。</p></section>
+<h2>验收</h2><ul><li>直线行走时画面没有随脚步上下起伏。</li><li>转弯速度均匀，没有突然甩头或横移。</li><li>二十米空走和带机器走的节奏一致。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读

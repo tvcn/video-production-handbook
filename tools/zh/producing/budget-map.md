@@ -10,13 +10,13 @@ summary: "预算不是一列数字，是四块怎么分：必须花的、会上�
 slug: budget-map
 aliases: [budget-map, 预算表, 制片预算, 四块预算]
 canonical_site: tools
-canonical_path: /producing/budget-map/
+canonical_path: /article/budget-map/
 status: published
 difficulty: beginner
 stage: producing
 format: workflow
 tools: [budget, sheet]
-authors: [editor]
+authors: ["TVCN 工具组"]
 reviewers: [technical-reviewer]
 cover: /images/tools/budget-map.webp
 diagram: /images/diagrams/zh/budget-map.png
@@ -25,7 +25,7 @@ diagram_caption: "必须花、上镜、可替换、缓冲。四块先分比例�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [tools.producing.budget-contingency, tools.producing.call-sheet]
+related: [tools.producing.budget-contingency.en, tools.producing.stripboard.en, tools.calculator.budget-calculator.en]
 ---
 
 <!-- DIAGRAM_START -->

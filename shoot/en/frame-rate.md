@@ -5,43 +5,46 @@ type: article
 lang: en
 translation_key: shoot.camera.frame-rate
 translation_status: reviewed
-title: "Frame Rate: Motion and Slow Motion"
-summary: "Frame rate sets how motion feels; high speed does not slow time, it lets the eye study a moment."
+title: 'Frame Rate: Motion and Slow Motion'
+summary: Frame rate sets how motion feels; high speed does not slow time, it lets
+  the eye study a moment.
 slug: frame-rate
-aliases: [frame-rate]
+aliases:
+- frame-rate
 canonical_site: shoot
-canonical_path: /en/camera/frame-rate/
+canonical_path: /en/article/frame-rate/
 status: published
 diagram: /images/diagrams/en/frame-rate.svg
-diagram_alt: "Frame Rate: Motion and Slow Motion three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Frame Rate: Motion and Slow Motion.'
+diagram_caption: Watch “Shoot 25p for a 25p project; keep footage” and “For two-times
+  slow motion, shoot 50p at 1/100”; judge whether highlights, skin and sound survive
+  together.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Shoot Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- shoot.camera.shutter-angle.en
+- shoot.camera.nd-filter.en
+- shoot.exposure.waveform.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>Frame rate sets how motion feels; high speed does not slow time, it lets the eye study a moment.</p>
+<p>Project frame rate drives sound, captions and platform compatibility; slow motion is a capture rate. 24/25/30 is the narrative base, 60/120 for later slowdown. Do not mix base rates in one project.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/frame-rate.svg" alt="Frame Rate: Motion and Slow Motion three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/frame-rate.svg" alt="Structure diagram for Frame Rate: Motion and Slow Motion.">
+  <figcaption>Watch “Shoot 25p for a 25p project; keep footage” and “For two-times slow motion, shoot 50p at 1/100”; judge whether highlights, skin and sound survive together.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Shoot 25p for a 25p project. For a two-times slow motion, shoot 50p at 1/100 shutter and play back to check for flicker.</p>
-<h2>Do this</h2>
-<p>Frame rate decides how action feels in time. High-speed is not “slow”; it lets the audience see one instant. Decide the timeline and slow-motion factor before rolling.</p><ol><li>Shoot 25p for a 25p project; keep footage and timeline matched.</li><li>For two-times slow motion, shoot 50p at 1/100 shutter.</li><li>Review for flicker and decide which second the slow-motion beat belongs to.</li></ol>
-<h2>Avoid</h2>
-<p>Do not treat high-speed as a post slap-on; decide at the shoot, because stretching later stutters.</p>
-<h2>Check</h2>
-<ul><li>Timeline and footage frame rates match; 50p is not dropped onto a 25p timeline as normal speed.</li><li>The slow-motion shot uses 50p at 1/100 and shows no flicker.</li><li>Slow motion is used only where the instant matters, not as decoration.</li></ul>
+<section><h2 id="section-1">Set the project rate before slow motion</h2><p>Choose capture rate by the slowdown: 2x needs 48/50/60; 4x needs 96/100/120.</p><h2 id="section-2">Limits</h2><p>High frame rate is not more cinematic. It makes action too smooth and weightless; narrative usually stays at 24/25, with slow motion only where needed.</p></section><section><h2 id="section-3">On set</h2><p>Shoot 25p for a 25p project. For a two-times slow motion, shoot 50p at 1/100 shutter and play back to check for flicker.</p></section><section><h2 id="section-4">Do this</h2><p>Frame rate decides how action feels in time. High-speed is not “slow”; it lets the audience see one instant. Decide the timeline and slow-motion factor before rolling.</p><ol><li>Shoot 25p for a 25p project; keep footage and timeline matched.</li><li>For two-times slow motion, shoot 50p at 1/100 shutter.</li><li>Review for flicker and decide which second the slow-motion beat belongs to.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not treat high-speed as a post slap-on; decide at the shoot, because stretching later stutters.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>highlights are not clipped and shadows keep recoverable detail</li><li>skin stays consistent across camera angles</li><li>sound has an independent track, not just the on-camera mic</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>exposure is right but the light has no direction</li><li>sound relies on the camera mic and dies in a noisy room</li><li>crossing the line leaves the audience without a map</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Shoot three 10-second takes by the same window, changing only “Shoot 25p for a 25p project; keep footage”. Compare highlights, skin and background; keep the one that is editable.</p></section>
+<h2>Check</h2><ul><li>Timeline and footage frame rates match; 50p is not dropped onto a 25p timeline as normal speed.</li><li>The slow-motion shot uses 50p at 1/100 and shows no flicker.</li><li>Slow motion is used only where the instant matters, not as decoration.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

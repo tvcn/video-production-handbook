@@ -5,26 +5,36 @@ type: article
 lang: en
 translation_key: formats.corporate.corporate-video-breakdown
 translation_status: reviewed
-title: "Corporate Video Breakdown: Six Beats in Practice"
-summary: "Composite sample: break corporate video into six beats and read picture, sound, and the pass line beat by beat; illustrative numbers are not client data."
+title: 'Corporate Video Breakdown: Six Beats in Practice'
+summary: 'Composite sample: break corporate video into six beats and read picture, sound, and the pass line beat by beat; illustrative numbers are not client data.'
 slug: corporate-video-breakdown
-aliases: [corporate-video-breakdown]
+aliases:
+- corporate-video-breakdown
 canonical_site: formats
 canonical_path: /en/article/corporate-video-breakdown/
 status: published
 diagram: /images/diagrams/en/corporate-video-breakdown.svg
-diagram_alt: "Corporate Video breakdown diagram"
-diagram_caption: "Diagram: time, beat, picture, sound, and job aligned in five columns."
+diagram_alt: Corporate Video breakdown diagram
+diagram_caption: 'Diagram: time, beat, picture, sound, and job aligned in five columns.'
 difficulty: intermediate
 stage: handbook
 format: format
-authors: ["TVCN Formats Desk"]
+authors:
+- TVCN Formats Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S14, S15, S16]
-test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
-known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
+sources:
+- S14
+- S15
+- S16
+test_context: 'Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project.'
+known_failures: 'Known failures: composite samples are not client proof; platform length/spec changes expire templates.'
 verified: 2026-11-22
+related:
+- formats.corporate.corporate-video-structure.en
+- post.sound.sound-post-workflow.en
+- shoot.multicam.multicam-live.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +49,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

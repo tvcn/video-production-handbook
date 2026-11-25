@@ -11,13 +11,13 @@ summary: "A location is not a place that looks right. Who can say yes, who will 
 slug: location-scout
 aliases: [location scout, recce, location check]
 canonical_site: tools
-canonical_path: /en/producing/location-scout/
+canonical_path: /en/article/location-scout/
 status: published
 difficulty: intermediate
 stage: producing
 format: workflow
 tools: [budget, rights]
-authors: [editor]
+authors: ["TVCN Tools Desk"]
 reviewers: [technical-reviewer]
 cover: /images/tools/location-scout.webp
 diagram: /images/diagrams/en/location-scout.png
@@ -26,7 +26,7 @@ diagram_caption: "Permission, power, sound, neighbors and permit, damage and ins
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [tools.workflow.first-shoot-day, tools.producing.budget-contingency]
+related: [tools.producing.budget-contingency.en, tools.workflow.first-shoot-day.en, tools.producing.call-sheet.en]
 ---
 
 <!-- DIAGRAM_START -->

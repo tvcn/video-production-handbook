@@ -5,27 +5,35 @@ type: article
 lang: zh
 translation_key: context.history.animation.animation-history
 translation_status: source
-title: "动画史：从赛璐珞到 3D"
-summary: "从纸、赛璐珞到多边形，工具换了几轮，动画师每天面对的仍是同一个问题：怎么让静止的东西看起来想动。"
+title: 动画史：从赛璐珞到 3D
+summary: 从纸、赛璐珞到多边形，工具换了几轮，动画师每天面对的仍是同一个问题：怎么让静止的东西看起来想动。
 slug: animation-history
-aliases: [animation-history]
+aliases:
+- animation-history
 canonical_site: context
-canonical_path: /history/animation/animation-history/
+canonical_path: /article/animation-history/
 status: published
 difficulty: beginner
 stage: context
 format: short-film
 tools: []
-authors: [editor]
-reviewers: [technical-reviewer]
+authors:
+- TVCN 研究组
+reviewers:
+- technical-reviewer
 cover: /images/context/animation-history.webp
 diagram: /images/diagrams/zh/animation-history.png
-diagram_alt: "动画史：工具换了，问题没换"
-diagram_caption: "从纸、赛璐珞到多边形，动画师每天面对的仍是同一个问题：怎么让静止的东西看起来想动。"
+diagram_alt: 动画史：工具换了，问题没换
+diagram_caption: 从纸、赛璐珞到多边形，动画师每天面对的仍是同一个问题：怎么让静止的东西看起来想动。
 last_verified: 2026-11-20
 review_due: 2027-05-20
-sources: [S12]
-related: []
+sources:
+- S12
+related:
+- context.history.film.1895.en
+- context.history.photography.1839.en
+- context.history.vfx-history.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -68,5 +76,5 @@ related: []
 
 - [S12] Britannica：动画
 
-完整链接与用途见 [`SOURCES.md`](../../../../SOURCES.md)。
+完整链接与用途见 [`SOURCES.md`](../../../../about/)。
 <!-- SOURCES_END -->

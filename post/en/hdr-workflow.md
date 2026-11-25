@@ -5,26 +5,36 @@ type: article
 lang: en
 translation_key: post.color.hdr-workflow
 translation_status: reviewed
-title: "HDR End to End: Do Not Just Brighten at the End"
-summary: "HDR is not brightening SDR. It preserves one luminance relationship from capture through monitoring, grading, and delivery. Guess in SDR at any stage and the result is bright but flat."
+title: 'HDR End to End: Do Not Just Brighten at the End'
+summary: HDR is not brightening SDR. It preserves one luminance relationship from capture through monitoring, grading, and delivery. Guess in SDR at any stage and the result is bright but flat.
 slug: hdr-workflow
-aliases: [hdr-workflow]
+aliases:
+- hdr-workflow
 canonical_site: post
 canonical_path: /en/article/hdr-workflow/
 status: published
 diagram: /images/diagrams/en/hdr-workflow.svg
-diagram_alt: "HDR end-to-end workflow diagram"
-diagram_caption: "Diagram: every HDR stage needs a luminance anchor. Brightening the master at the end destroys highlights and skin together."
+diagram_alt: HDR end-to-end workflow diagram
+diagram_caption: 'Diagram: every HDR stage needs a luminance anchor. Brightening the master at the end destroys highlights and skin together.'
 difficulty: intermediate
 stage: handbook
 format: workflow
-authors: ["TVCN Post Desk"]
+authors:
+- TVCN Post Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S24, S26, S28]
-test_context: "Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine."
-known_failures: "Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking."
+sources:
+- S24
+- S26
+- S28
+test_context: 'Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine.'
+known_failures: 'Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking.'
 verified: 2026-11-22
+related:
+- post.sound.loudness.en
+- shoot.camera.exposure.en
+- story.storyboard.storyboard.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +49,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S24]</span> ACES Color Management</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S28]</span> Netflix Partner Help</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

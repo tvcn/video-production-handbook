@@ -10,7 +10,7 @@ summary: "先找到一个人，再等一件事发生。片子成立，往往是�
 slug: documentary
 aliases: [documentary]
 canonical_site: formats
-canonical_path: /documentary/documentary/
+canonical_path: /article/documentary/
 status: published
 difficulty: beginner
 stage: format
@@ -25,7 +25,7 @@ diagram_caption: "剪辑时缺的往往不是镜头，是能接上的另一面�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: []
+related: [formats.event.event-structure.en, post.delivery.conform-online.en, shoot.blocking.blocking.en]
 depth: deep
 deep_minutes: 7
 sources: [S14, S15, S16]
@@ -89,5 +89,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
 <ul><li><span class="mono">[S14]</span> YouTube 社区准则</li><li><span class="mono">[S15]</span> TikTok 社区准则</li><li><span class="mono">[S16]</span> BBC 编辑准则</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

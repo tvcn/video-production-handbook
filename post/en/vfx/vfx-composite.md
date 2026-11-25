@@ -11,13 +11,13 @@ summary: A clean key is not a composite. Match direction, softness, color temper
 slug: vfx-composite
 aliases: [vfx-composite, compositing, keying]
 canonical_site: post
-canonical_path: /en/vfx/vfx-composite/
+canonical_path: /en/article/vfx-composite/
 status: published
 difficulty: intermediate
 stage: post
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN Post Desk"]
 reviewers: [technical-reviewer]
 cover: /images/post/vfx-composite.webp
 diagram: /images/diagrams/en/vfx-composite.png
@@ -26,7 +26,7 @@ diagram_caption: "Wrong direction or softness makes a clean edge look pasted. Te
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [post.color.color, animation.3d.3d-pipeline]
+related: [post.vfx.cg-integration.en, post.color.color.en, post.editing.sound-bridge.en]
 ---
 
 <!-- DIAGRAM_START -->

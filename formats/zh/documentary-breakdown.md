@@ -5,23 +5,29 @@ type: article
 lang: zh
 translation_key: formats.documentary.documentary-breakdown
 translation_status: source
-title: "纪录短片拉片：一个人、一件事、一个变化"
-summary: "按 3 分钟纪录短片的通用结构，拆 8 个时间码：动作、人物、欲望、阻碍、尝试、代价、变化、之后。"
+title: 纪录短片拉片：一个人、一件事、一个变化
+summary: 按 3 分钟纪录短片的通用结构，拆 8 个时间码：动作、人物、欲望、阻碍、尝试、代价、变化、之后。
 slug: documentary-breakdown
-aliases: [documentary-breakdown]
+aliases:
+- documentary-breakdown
 canonical_site: formats
-canonical_path: /documentary/documentary-breakdown/
+canonical_path: /article/documentary-breakdown/
 status: published
 diagram: /images/diagrams/zh/documentary-breakdown.svg
-diagram_alt: "纪录短片拉片：一个人、一件事、一个变化：时间码、结构与预算拉片工作纸"
-diagram_caption: "图解是入口：先看时间码，再用文末验收表检查。"
+diagram_alt: 纪录短片拉片：一个人、一件事、一个变化：时间码、结构与预算拉片工作纸
+diagram_caption: 图解是入口：先看时间码，再用文末验收表检查。
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN 片型组
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [formats.brand-film.brand-film-breakdown, formats.event.event-breakdown, main.path.path-live-film]
+related:
+- formats.brand-film.brand-film-breakdown.en
+- formats.interview.interview-breakdown.en
+- formats.vlog.vlog-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

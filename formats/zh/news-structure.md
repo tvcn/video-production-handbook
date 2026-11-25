@@ -5,47 +5,50 @@ type: article
 lang: zh
 translation_key: formats.news.news-structure
 translation_status: source
-title: "新闻结构：先给现场，再给核实"
-summary: "新闻结构先给现场，再给核实；先讲背景，观众已经走了。"
+title: 新闻结构：先给现场，再给核实
+summary: 新闻结构先给现场，再给核实；先讲背景，观众已经走了。
 slug: news-structure
-aliases: [news-structure]
+aliases:
+- news-structure
 canonical_site: formats
-canonical_path: /news/news-structure/
+canonical_path: /article/news-structure/
 status: published
 diagram: /images/diagrams/zh/news-structure.svg
-diagram_alt: "新闻结构：先给现场，再给核实 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 新闻结构：先给现场，再给核实的结构示意图。
+diagram_caption: 看“0 到 5 秒给现场”和“5 到 15 秒给核实”两处，判断前三秒给出的理由，能不能撑到结尾。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: ["TVCN 片型组"]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 片型组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- formats.ad.product-ad.en
+- post.color.hdr-workflow.en
+- shoot.lighting.lighting-style.en
 depth: deep
 deep_minutes: 6
-sources: [S14, S15, S16]
-test_context: "复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。"
-known_failures: "已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。"
+sources:
+- S14
+- S15
+- S16
+test_context: 复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。
+known_failures: 已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。
 verified: 2026-11-22
+source_kind: sourced
 ---
 
-<p>新闻结构先给现场，再给核实；先讲背景，观众已经走了。</p>
+<p>新闻开场先给现场发生了什么，再给核实：谁确认、什么时候、还有哪些未知；最后给影响和下一步。背景只保留解释当前事件必需的部分，不要从历史课讲起。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/news-structure.svg" alt="新闻结构：先给现场，再给核实 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/news-structure.svg" alt="新闻结构：先给现场，再给核实的结构示意图。">
+  <figcaption>看“0 到 5 秒给现场”和“5 到 15 秒给核实”两处，判断前三秒给出的理由，能不能撑到结尾。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>0 到 5 秒现场，5 到 15 秒核实，15 到 30 秒背景和影响；信源字幕标清。</p>
-<h2>怎么做</h2>
-<p>新闻结构先给现场，再给核实；先讲背景，观众已经走了。</p><ol><li>0 到 5 秒给现场。</li><li>5 到 15 秒给核实。</li><li>15 到 30 秒给背景和影响，信源字幕标清。</li></ol>
-<h2>别踩</h2>
-<p>别用二手画面当现场；那会毁掉可信度。</p>
-<h2>验收</h2>
-<ul><li>前 5 秒是现场画面或现场声音，不是主播口播。</li><li>核实段有具体信源、时间和可查记录。</li><li>二手画面有角标，观众能分清。</li></ul>
+<section><h2 id="section-1">现场、核实、影响，一段回答一个问题</h2><p>每一段只回答一个观众问题。把“为什么会这样”和“接下来会怎样”分开，观众才不会在中段迷路。</p><h2 id="section-2">边界</h2><p>没有核实的信息，不要用确定语气。把“据称”“正在核实”写进画面或旁白，不要用剪辑把不确定变成确定。</p></section><section><h2 id="section-3">现场</h2><p>0 到 5 秒现场，5 到 15 秒核实，15 到 30 秒背景和影响；信源字幕标清。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>0 到 5 秒给现场。</li><li>5 到 15 秒给核实。</li><li>15 到 30 秒给背景和影响，信源字幕标清。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别用二手画面当现场；那会毁掉可信度。</p></section><figure class="article-audio"><audio controls preload="none" src="../../assets/audio/zh/fmt-news.zh.mp3"></audio><figcaption>20 秒语音演示：一个检查点和最常见的失败。文字稿与步骤在正文里。</figcaption></figure><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>前三秒给出一个可相信的理由</li><li>中段有新信息或新阻碍，不是重复气氛</li><li>结尾有一个可看见的变化，旁白没有替它收尾</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>模板套上了，人物和问题却没成立</li><li>前三秒没有理由，只靠标题和音乐</li><li>结尾没有可看见的变化，全靠旁白总结</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>拆一条 30 秒参考片，标出“0 到 5 秒给现场”和“5 到 15 秒给核实”的时间点；再写一句：如果删掉其中一个，片子还成立吗？</p></section>
+<h2>验收</h2><ul><li>前 5 秒是现场画面或现场声音，不是主播口播。</li><li>核实段有具体信源、时间和可查记录。</li><li>二手画面有角标，观众能分清。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读
@@ -64,8 +67,3 @@ verified: 2026-11-22
 <ul><li>十秒内给时间地点人物</li><li>有一个可验证细节</li><li>一手素材优先</li><li>二手画面标来源</li><li>截图保留发布时间</li><li>至少两个独立信源</li><li>匿名信源说明原因</li><li>事实与判断分开</li><li>没有煽情音乐代判</li><li>发布前有更正入口</li></ul><p>新闻现场不是比谁拍得狠，是比谁敢把自己能核实的东西放到最前面。</p>
 <!-- DEEP_DIVE_END -->
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
-<ul><li><span class="mono">[S14]</span> YouTube 社区准则</li><li><span class="mono">[S15]</span> TikTok 社区准则</li><li><span class="mono">[S16]</span> BBC 编辑准则</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
-<!-- SOURCES_END -->

@@ -11,13 +11,13 @@ summary: "Shot size is not a vocabulary list of wide, medium, and close. It sets
 slug: shot-size
 aliases: [shot size, wide shot, medium shot, close-up]
 canonical_site: shoot
-canonical_path: /en/camera/shot-size/
+canonical_path: /en/article/shot-size/
 status: published
 difficulty: beginner
 stage: shoot
 format: short-film
 tools: [camera, storyboard]
-authors: [editor]
+authors: ["TVCN Shoot Desk"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/shot-size.webp
 diagram: /images/diagrams/en/shot-size.png
@@ -26,7 +26,7 @@ diagram_caption: "Shot size is not lens distance; it is the relationship between
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [shoot.camera.lens-distance, shoot.camera.composition, shoot.storyboard.storyboard]
+related: [shoot.camera.lens-distance.en, shoot.production.camera-height.en, shoot.camera.camera-move.en]
 ---
 
 <!-- DIAGRAM_START -->

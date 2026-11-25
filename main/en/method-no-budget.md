@@ -5,43 +5,60 @@ type: template
 lang: en
 translation_key: main.method.method-no-budget
 translation_status: reviewed
-title: "Your Budget Is Zero"
-summary: "Cut scale, not structure; a simple film you can finish beats a better one you cannot."
+title: Your Budget Is Zero
+summary: Cut scale, not structure; a simple film you can finish beats a better one
+  you cannot.
 slug: method-no-budget
-aliases: [method-no-budget]
+aliases:
+- method-no-budget
 canonical_site: main
-canonical_path: /en/method/method-no-budget/
+canonical_path: /en/article/method-no-budget/
 status: published
 diagram: /images/diagrams/en/method-no-budget.svg
-diagram_alt: "Your Budget Is Zero three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: Structure diagram for Your Budget Is Zero.
+diagram_caption: Watch “Reduce the script to one or two locations” and “Use available
+  light, existing rooms, a phone, or”; judge whether the symptom can be restated as
+  one observable sentence.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Editorial
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- main.method.method-shoot-alone.en
+- main.method.method-phone-only.en
+- main.method.method-deadline.en
 depth: deep
 deep_minutes: 6
+sources:
+- S22
+- S23
+source_kind: sourced
 ---
 
-<p>Cut scale, not structure; a simple film you can finish beats a better one you cannot.</p>
+<p>Zero budget can shoot a small space, few characters, natural light, short runtime. Compress the script to one room, two people, one afternoon; do not keep five locations and call it low budget.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/method-no-budget.svg" alt="Your Budget Is Zero three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/method-no-budget.svg" alt="Structure diagram for Your Budget Is Zero.">
+  <figcaption>Watch “Reduce the script to one or two locations” and “Use available light, existing rooms, a phone, or”; judge whether the symptom can be restated as one observable sentence.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Cut crowds, night exteriors, and vehicles. Rewrite with one room, two people, one prop.</p>
-<h2>Do this</h2>
-<p>With zero budget, cut scale, not structure. A simple story you can finish beats a better story you cannot afford to shoot.</p><ol><li>Reduce the script to one or two locations and one or two characters.</li><li>Use available light, existing rooms, a phone, or borrowed gear.</li><li>Spend what is left on sound and a meal for the crew; finishing is the priority.</li></ol>
-<h2>Avoid</h2>
-<p>Do not hide behind “we will shoot it when we have money.” Make a version you can deliver now.</p>
-<h2>Check</h2>
-<ul><li>Locations and characters are reduced to one or two.</li><li>The film is finished with available light, existing rooms, a phone, or borrowed gear.</li><li>Sound is clean, the crew ate, and the film can be delivered.</li></ul>
+<section><h2 id="section-1">With no budget, change scale, not standards</h2><p>Spend on what the audience feels most: sound, actors, one key prop. Do not spread it evenly across gear.</p><h2 id="section-2">Limits</h2><p>Low cost is not roughness. The image can be simple, but sound must be audible and the story must change. Those are the floor, not budget lines.</p><h2 id="section-3">Zero-budget projects start with what you will not do</h2>
+<p>Zero budget is not “free filming.” It is trading existing resources for a presentable result. Before starting, write three boundaries: no gear rental, no paid talent, no exterior; or keep only one. Clear boundaries make completion possible.</p>
+<div class="table-scroll"><table class="data-table"><thead><tr><th>Resource</th><th>What it trades for</th><th>Cost</th></tr></thead><tbody>
+<tr><td>Your skill</td><td>A 30-second film for the other side</td><td>Time, not cash</td></tr>
+<tr><td>Their location or product</td><td>A free set and props</td><td>A usable film in return</td></tr>
+<tr><td>Platform or community</td><td>Reach, cross-promotion, feedback</td><td>Not guaranteed clients</td></tr>
+</tbody></table></div>
+<h3>The right goal for zero budget</h3>
+<p>Not “a big film,” but “one complete process.” Cut scope to one location, one camera, one finished piece, one revision. Use a phone or the camera you own; do not chase specs. Spend the time on script, location sound and edit rhythm.</p>
+<h3>Three zero-budget jobs to refuse</h3>
+<ul><li>A commercial brand that says “show us the result, then we'll talk money.” That is a spec pitch, not a collaboration.</li><li>A project that asks you to front location, gear or talent costs. Zero budget is not zero cost.</li><li>Client owns all rights and asks for unlimited revisions. With no budget, lock scope even harder.</li></ul>
+<p>If you do it, sign a one-page memo: who contributes what, where the film can be used, how credit reads, and when it ends. A zero-budget project still needs a delivery date, or it never ends.</p></section><section><h2 id="section-4">On set</h2><p>Cut crowds, night exteriors, and vehicles. Rewrite with one room, two people, one prop.</p></section><section><h2 id="section-5">Do this</h2><p>With zero budget, cut scale, not structure. A simple story you can finish beats a better story you cannot afford to shoot.</p><ol><li>Reduce the script to one or two locations and one or two characters.</li><li>Use available light, existing rooms, a phone, or borrowed gear.</li><li>Spend what is left on sound and a meal for the crew; finishing is the priority.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not hide behind “we will shoot it when we have money.” Make a version you can deliver now.</p></section><section><p><strong>Boundary</strong></p><p>It does not guarantee a story. The template only orders structure; the person, obstacle and cost still need writing.</p></section><section><h2>Alternative</h2><p>If “Reduce the script to one or two locations” is not the main problem, start with the basic move behind “Use available light, existing rooms, a phone, or”. Upgrade only after both hold.</p></section><section><h2>60-second test</h2><p>Run a 60-second test with the gear you own, focused on “Reduce the script to one or two locations”, and record one number. If the number does not change, do not add budget.</p></section><section><h2>When not to use</h2><p>Do not use the template when “Reduce the script to one or two locations” is still unclear or “Use available light, existing rooms, a phone, or” is only filler. Go back to the person and the problem.</p></section><section><h2>Three failures</h2><ul><li>Every beat exists, but no one makes a decision.</li><li>The middle changes location, not information.</li><li>The ending is narrated, with no visible change.</li></ul></section>
+<h2>Check</h2><ul><li>Locations and characters are reduced to one or two.</li><li>The film is finished with available light, existing rooms, a phone, or borrowed gear.</li><li>Sound is clean, the crew ate, and the film can be delivered.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive
@@ -57,3 +74,12 @@ deep_minutes: 6
 ### Ten zero-budget checks
 <ul><li>Three unaffordable things cut first</li><li>Scenes written around the room</li><li>One window or one practical only</li><li>Shoot in the stable light window</li><li>Block and bounce instead of buying</li><li>White balance and exposure locked</li><li>Wired mic or phone close to subject</li><li>Three times of day separate the room</li><li>The limit becomes visible style</li><li>Savings spent on one visible detail</li></ul><p>Zero budget is not no conditions. It is writing the conditions into the script so the film admits what it is from the first second.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## Sources
+
+- [S22] 《中华人民共和国民法典》; see the original link and use note in SOURCES.md.
+- [S23] SMPTE 标准入口; see the original link and use note in SOURCES.md.
+
+Full links and use notes: [`SOURCES.md`](../../about/).
+<!-- SOURCES_END -->

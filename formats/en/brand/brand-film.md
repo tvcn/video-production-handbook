@@ -11,7 +11,7 @@ summary: "A brand film does not explain specs; it leaves one attitude. The produ
 slug: brand-film
 aliases: [brand film, brand video, manifesto]
 canonical_site: formats
-canonical_path: /en/brand/brand-film/
+canonical_path: /en/article/brand-film/
 status: published
 difficulty: intermediate
 stage: format
@@ -26,7 +26,7 @@ diagram_caption: "A brand film does not explain specs; it leaves one attitude. T
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [formats.ad.product-ad, story.screenplay.three-act]
+related: [formats.corporate.corporate-video-breakdown.en, post.sound.sound.en, shoot.lighting.lighting-style.en]
 depth: deep
 deep_minutes: 7
 sources: [S14, S15, S16]
@@ -88,5 +88,5 @@ A brand film can have no voice-over, but it cannot have no stance. Without a sta
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

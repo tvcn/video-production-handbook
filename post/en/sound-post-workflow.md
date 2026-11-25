@@ -5,26 +5,35 @@ type: article
 lang: en
 translation_key: post.sound.sound-post-workflow
 translation_status: reviewed
-title: "Sound Post: The Order from Dialogue to Final Mix"
-summary: "Sound post does not start with music. The order is: dialogue audible, ambience continuous, effects supporting, music last; each step has a checkable result."
+title: 'Sound Post: The Order from Dialogue to Final Mix'
+summary: 'Sound post does not start with music. The order is: dialogue audible, ambience continuous, effects supporting, music last; each step has a checkable result.'
 slug: sound-post-workflow
-aliases: [sound-post-workflow]
+aliases:
+- sound-post-workflow
 canonical_site: post
 canonical_path: /en/article/sound-post-workflow/
 status: published
 diagram: /images/diagrams/en/sound-post-workflow.svg
-diagram_alt: "Sound-post workflow diagram"
-diagram_caption: "Diagram: treat each layer separately, combine last. Filling with music first hides dialogue problems."
+diagram_alt: Sound-post workflow diagram
+diagram_caption: 'Diagram: treat each layer separately, combine last. Filling with music first hides dialogue problems.'
 difficulty: intermediate
 stage: handbook
 format: workflow
-authors: ["TVCN Post Desk"]
+authors:
+- TVCN Post Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S27, S28]
-test_context: "Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine."
-known_failures: "Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking."
+sources:
+- S27
+- S28
+test_context: 'Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine.'
+known_failures: 'Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking.'
 verified: 2026-11-22
+related:
+- post.assets.archive-reuse.en
+- shoot.camera.composition.en
+- story.screenplay.three-act.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +48,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S27]</span> EBU R128 Loudness</li><li><span class="mono">[S28]</span> Netflix Partner Help</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

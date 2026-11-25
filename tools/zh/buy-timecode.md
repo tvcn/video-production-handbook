@@ -5,26 +5,34 @@ type: article
 lang: zh
 translation_key: tools.guide.buy-timecode
 translation_status: source
-title: "购买时码器：漂移、同步与电池"
-summary: "时码器不是“多机位一定需要”，但一旦需要，漂移和同步稳定性比外观重要。先测 8 小时漂移，再决定买几台。"
+title: 购买时码器：漂移、同步与电池
+summary: 时码器不是“多机位一定需要”，但一旦需要，漂移和同步稳定性比外观重要。先测 8 小时漂移，再决定买几台。
 slug: buy-timecode
-aliases: [buy-timecode]
+aliases:
+- buy-timecode
 canonical_site: tools
 canonical_path: /article/buy-timecode/
 status: published
 diagram: /images/diagrams/zh/buy-timecode.svg
-diagram_alt: "购买时码器专题图解"
-diagram_caption: "示意：漂移、同步、电池、接口、元数据，五项决定后期能不能一键对齐。"
+diagram_alt: 购买时码器专题图解
+diagram_caption: 示意：漂移、同步、电池、接口、元数据，五项决定后期能不能一键对齐。
 difficulty: intermediate
 stage: handbook
 format: guide
-authors: ["TVCN 工具组"]
+authors:
+- TVCN 工具组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S23]
-test_context: "复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。"
-known_failures: "已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。"
+sources:
+- S23
+test_context: 复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。
+known_failures: 已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。
 verified: 2026-11-22
+related:
+- tools.guide.buy-tripod.en
+- ai.ethics.model-comparison.en
+- animation.stop-motion.stop-motion.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +47,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：编辑部现场手册与购买检查表；实测来源：短测与公开规格核对，不是实验室跑分；参考来源：以下厂商与标准链接。</p>
 <ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

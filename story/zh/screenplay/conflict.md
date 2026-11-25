@@ -10,13 +10,13 @@ summary: "吵架不等于冲突。真正的冲突，是两个人要的东西都�
 slug: conflict
 aliases: [conflict, 冲突, 对抗]
 canonical_site: story
-canonical_path: /screenplay/conflict/
+canonical_path: /article/conflict/
 status: published
 difficulty: intermediate
 stage: script
 format: short-film
 tools: [script]
-authors: [editor]
+authors: ["TVCN 故事组"]
 reviewers: [technical-reviewer]
 cover: /images/story/conflict.webp
 diagram: /images/diagrams/zh/conflict.png
@@ -25,7 +25,7 @@ diagram_caption: "先给双方一个能说出口的理由，再一轮一轮拿�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [story.screenplay.dialogue, story.screenplay.three-act]
+related: [story.screenplay.character-arc.en, story.screenplay.dialogue.en, story.screenplay.voice-over.en]
 ---
 
 <!-- DIAGRAM_START -->

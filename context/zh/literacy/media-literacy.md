@@ -5,29 +5,37 @@ type: article
 lang: zh
 translation_key: context.literacy.media-literacy
 translation_status: source
-title: "媒介素养：一条视频的五个问题"
-summary: "不要先问“真的假的”，先问：谁做的、剪掉了什么、放在什么语境、为什么现在推给我。"
+title: 媒介素养：一条视频的五个问题
+summary: 不要先问“真的假的”，先问：谁做的、剪掉了什么、放在什么语境、为什么现在推给我。
 slug: media-literacy
-aliases: [media-literacy]
+aliases:
+- media-literacy
 canonical_site: context
-canonical_path: /literacy/media-literacy/
+canonical_path: /article/media-literacy/
 status: published
 difficulty: beginner
 stage: context
 format: short-film
 tools: []
-authors: [editor]
-reviewers: [technical-reviewer]
+authors:
+- TVCN 研究组
+reviewers:
+- technical-reviewer
 cover: /images/context/media-literacy.webp
 diagram: /images/diagrams/zh/media-literacy.png
-diagram_alt: "一条视频到你眼前，经过五道手"
-diagram_caption: "每一道都在删掉一些东西。看到成片，不等于看到现场。"
+diagram_alt: 一条视频到你眼前，经过五道手
+diagram_caption: 每一道都在删掉一些东西。看到成片，不等于看到现场。
 last_verified: 2026-11-20
 review_due: 2027-05-20
-sources: [S01]
-related: []
+sources:
+- S01
+related:
+- context.literacy.source-check.en
+- context.law.documentary-ethics.en
+- context.literacy.deepfake.en
 depth: deep
 deep_minutes: 7
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -70,7 +78,7 @@ deep_minutes: 7
 
 - [S01] UNESCO：媒介与信息素养
 
-完整链接与用途见 [`SOURCES.md`](../../../SOURCES.md)。
+完整链接与用途见 [`SOURCES.md`](../../../about/)。
 <!-- SOURCES_END -->
 
 <!-- DEEP_DIVE_START -->

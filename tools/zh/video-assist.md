@@ -5,38 +5,38 @@ type: tool
 lang: zh
 translation_key: tools.capability.video-assist
 translation_status: source
-title: "视频助理：现场回放"
-summary: "视频助理负责回放、标记和备份；导演能立刻看到刚才那条，拍摄速度会快很多."
+title: 视频助理：现场回放
+summary: 视频助理负责回放、标记和备份；导演能立刻看到刚才那条，拍摄速度会快很多.
 slug: video-assist
-aliases: [video-assist]
+aliases:
+- video-assist
 canonical_site: tools
-canonical_path: /capability/video-assist/
+canonical_path: /article/video-assist/
 status: published
 diagram: /images/diagrams/zh/video-assist.svg
-diagram_alt: "视频助理：现场回放 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 视频助理：现场回放的结构示意图。
+diagram_caption: 看“每拍一条，标记好、坏、场次、镜号”和“备份卡”两处，判断这个参数能不能对应到一个具体的拍摄问题。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 工具组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- tools.capability.scope-monitor.en
+- tools.capability.wireless-video.en
+- tools.capability.field-monitor.en
+source_kind: experience
 ---
 
-<p>视频助理负责回放、标记和备份；导演能立刻看到刚才那条，拍摄速度会快很多.</p>
+<p>小剧组、单机且导演就在监视器旁时，视频助理是多余岗位；先解决监看位置和通讯。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/video-assist.svg" alt="视频助理：现场回放 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/video-assist.svg" alt="视频助理：现场回放的结构示意图。">
+  <figcaption>看“每拍一条，标记好、坏、场次、镜号”和“备份卡”两处，判断这个参数能不能对应到一个具体的拍摄问题。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>每拍一条，标记好、坏、场次、镜号；备份卡，导演回放时不用等。</p>
-<h2>怎么做</h2>
-<p>视频助理负责回放、标记和备份；导演能立刻看到刚才那条，拍摄速度会快很多。</p><ol><li>每拍一条，标记好、坏、场次、镜号。</li><li>备份卡。</li><li>导演回放时不用等，直接调到对应条。</li></ol>
-<h2>别踩</h2>
-<p>别只备份不标记；导演要回放时，全场陪你翻卡。</p>
-<h2>验收</h2>
-<ul><li>每条素材有好坏、场次、镜号标记。</li><li>卡在拍摄间隙完成备份，有校验记录。</li><li>导演点一条，能在 30 秒内放到。</li></ul>
+<section><h2 id="section-1">选型先看什么</h2><ul><li><strong>延迟与回放：</strong>确认从相机到监视器的延迟，以及能否即时回放；导演等三秒就会打断节奏。</li><li><strong>LUT 与录制：</strong>能否加载 LUT、录制干净信号和备份；只看画面漂亮不够。</li><li><strong>供电与线缆：</strong>现场要能长距离、抗拉扯；接口松会比功能少更常见。</li></ul><h2 id="section-2">什么时候不要用</h2></section><section><h2 id="section-3">现场</h2><p>每拍一条，标记好、坏、场次、镜号；备份卡，导演回放时不用等。</p></section><section><h2 id="section-4">怎么做</h2><p>视频助理负责回放、标记和备份；导演能立刻看到刚才那条，拍摄速度会快很多。</p><ol><li>每拍一条，标记好、坏、场次、镜号。</li><li>备份卡。</li><li>导演回放时不用等，直接调到对应条。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别只备份不标记；导演要回放时，全场陪你翻卡。</p></section>
+<h2>验收</h2><ul><li>每条素材有好坏、场次、镜号标记。</li><li>卡在拍摄间隙完成备份，有校验记录。</li><li>导演点一条，能在 30 秒内放到。</li></ul>

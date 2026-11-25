@@ -5,29 +5,41 @@ type: article
 lang: zh
 translation_key: context.rights.copyright
 translation_status: source
-title: "版权：先查五件事，再发布"
-summary: "画面、音乐、字体、肖像、场地，五项分别授权。CC 与商用授权不是一回事。"
+title: 版权：先查五件事，再发布
+summary: 画面、音乐、字体、肖像、场地，五项分别授权。CC 与商用授权不是一回事。
 slug: copyright
-aliases: [copyright, 版权, 授权]
+aliases:
+- copyright
+- 版权
+- 授权
 canonical_site: context
-canonical_path: /rights/copyright/
+canonical_path: /article/copyright/
 status: published
 difficulty: intermediate
 stage: rights
 format: compliance
-tools: [rights, audio]
-authors: [editor]
-reviewers: [technical-reviewer]
+tools:
+- rights
+- audio
+authors:
+- TVCN 研究组
+reviewers:
+- technical-reviewer
 cover: /images/context/copyright.webp
 diagram: /images/diagrams/zh/copyright.png
-diagram_alt: "版权：五项分别授权"
-diagram_caption: "画面、音乐、字体、肖像、场地，五项分别授权。CC 与商用授权不是一回事；能拿出纸，才算拿到授权。"
+diagram_alt: 版权：五项分别授权
+diagram_caption: 画面、音乐、字体、肖像、场地，五项分别授权。CC 与商用授权不是一回事；能拿出纸，才算拿到授权。
 last_verified: 2026-11-20
 review_due: 2027-05-20
-sources: [S02]
-related: [context.literacy.media-literacy, ai.generation.digital-human]
+sources:
+- S02
+related:
+- context.literacy.media-literacy.en
+- context.law.ai-label-law.en
+- context.law.contract-scope.en
 depth: deep
 deep_minutes: 8
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -68,7 +80,7 @@ AI 生成、数字人、合成配音，按平台要求标注。标注不是求�
 
 - [S02] WIPO：版权常见问题
 
-完整链接与用途见 [`SOURCES.md`](../../../SOURCES.md)。
+完整链接与用途见 [`SOURCES.md`](../../../about/)。
 <!-- SOURCES_END -->
 
 <!-- DEEP_DIVE_START -->

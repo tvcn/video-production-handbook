@@ -5,23 +5,29 @@ type: article
 lang: zh
 translation_key: formats.vlog.vlog-breakdown
 translation_status: source
-title: "Vlog 拉片：90 秒一个发现"
-summary: "按 90 秒旅拍 Vlog 的通用结构，拆 8 个时间码：动作、地点、任务、阻碍、失败、发现、安静、离开。"
+title: Vlog 拉片：90 秒一个发现
+summary: 按 90 秒旅拍 Vlog 的通用结构，拆 8 个时间码：动作、地点、任务、阻碍、失败、发现、安静、离开。
 slug: vlog-breakdown
-aliases: [vlog-breakdown]
+aliases:
+- vlog-breakdown
 canonical_site: formats
-canonical_path: /vlog/vlog-breakdown/
+canonical_path: /article/vlog-breakdown/
 status: published
 diagram: /images/diagrams/zh/vlog-breakdown.svg
-diagram_alt: "Vlog 拉片：90 秒一个发现：时间码、结构与预算拉片工作纸"
-diagram_caption: "图解是入口：先看时间码，再用文末验收表检查。"
+diagram_alt: Vlog 拉片：90 秒一个发现：时间码、结构与预算拉片工作纸
+diagram_caption: 图解是入口：先看时间码，再用文末验收表检查。
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN 片型组
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [main.case.case-vlog, formats.event.event-breakdown, main.path.path-story]
+related:
+- formats.event.event-breakdown.en
+- formats.short-drama.short-drama-breakdown.en
+- formats.wedding.wedding-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

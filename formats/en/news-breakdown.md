@@ -5,23 +5,29 @@ type: article
 lang: en
 translation_key: formats.news.news-breakdown
 translation_status: reviewed
-title: "News Breakdown: Keep the Unknown in Ninety Seconds"
-summary: "An eight-beat breakdown of a ninety-second news feature: verified fact, scene, witness, archive, context, known/unknown, unresolved, next."
+title: 'News Breakdown: Keep the Unknown in Ninety Seconds'
+summary: 'An eight-beat breakdown of a ninety-second news feature: verified fact, scene, witness, archive, context, known/unknown, unresolved, next.'
 slug: news-breakdown
-aliases: [news-breakdown]
+aliases:
+- news-breakdown
 canonical_site: formats
-canonical_path: /en/news/news-breakdown/
+canonical_path: /en/article/news-breakdown/
 status: published
 diagram: /images/diagrams/en/news-breakdown.svg
-diagram_alt: "News Breakdown: Keep the Unknown in Ninety Seconds: timecode, structure, and budget worksheet"
-diagram_caption: "The diagram is an entry point: watch the timecodes, then use the checks at the end."
+diagram_alt: 'News Breakdown: Keep the Unknown in Ninety Seconds: timecode, structure, and budget worksheet'
+diagram_caption: 'The diagram is an entry point: watch the timecodes, then use the checks at the end.'
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN Formats Desk
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [main.case.case-news, main.path.path-literacy, formats.documentary.documentary-breakdown]
+related:
+- formats.event.event-breakdown.en
+- formats.vlog.vlog-breakdown.en
+- formats.interview.interview-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

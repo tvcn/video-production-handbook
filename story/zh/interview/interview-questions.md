@@ -10,13 +10,13 @@ summary: "一个人回忆不起“感受”，但记得那天先迈了哪只脚�
 slug: interview-questions
 aliases: [interview-questions]
 canonical_site: story
-canonical_path: /interview/interview-questions/
+canonical_path: /article/interview-questions/
 status: published
 difficulty: beginner
 stage: story
 format: documentary
 tools: [script, sound]
-authors: [editor]
+authors: ["TVCN 故事组"]
 reviewers: [technical-reviewer]
 cover: /images/story/interview-questions.webp
 diagram: /images/diagrams/zh/interview-questions.png
@@ -25,7 +25,7 @@ diagram_caption: "一个人回忆不起“感受”，但记得那天先迈了�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [documentary, directing-nonactors]
+related: [story.directing.directing-nonactors.en, story.screenplay.dialogue.en, story.screenplay.conflict.en]
 ---
 
 <!-- DIAGRAM_START -->

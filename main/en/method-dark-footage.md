@@ -5,38 +5,42 @@ type: template
 lang: en
 translation_key: main.method.method-dark-footage
 translation_status: reviewed
-title: "The Shadows Are Dirty"
-summary: "Lower ISO, add ambient light, and do not lift shadows hard; lifted black is noise."
+title: The Shadows Are Dirty
+summary: Lower ISO, add ambient light, and do not lift shadows hard; lifted black
+  is noise.
 slug: method-dark-footage
-aliases: [method-dark-footage]
+aliases:
+- method-dark-footage
 canonical_site: main
-canonical_path: /en/method/method-dark-footage/
+canonical_path: /en/article/method-dark-footage/
 status: published
 diagram: /images/diagrams/en/method-dark-footage.svg
-diagram_alt: "The Shadows Are Dirty three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: Structure diagram for The Shadows Are Dirty.
+diagram_caption: Watch “Set ISO to its native base; accept a” and “Add a quarter stop
+  to the shadow with”; judge whether the symptom can be restated as one observable
+  sentence.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Editorial
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- tools.tutorial.exposure-check.en
+- main.method.method-overexposed.en
+- post.color.color-management.en
+verified: 2026-11-23
+source_kind: experience
 ---
 
-<p>Lower ISO, add ambient light, and do not lift shadows hard; lifted black is noise.</p>
+<p>Noisy shadows: lower ISO, add a little ambient light, and do not force the shadows up. Lifted blacks are noise.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/method-dark-footage.svg" alt="The Shadows Are Dirty three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/method-dark-footage.svg" alt="Structure diagram for The Shadows Are Dirty.">
+  <figcaption>Watch “Set ISO to its native base; accept a” and “Add a quarter stop to the shadow with”; judge whether the symptom can be restated as one observable sentence.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Drop to native ISO, add a small ambient light, and do not lift the shadows hard. Let some black stay.</p>
-<h2>Do this</h2>
-<p>Noisy shadows: lower ISO, add a little ambient light, and do not force the shadows up. Lifted blacks are noise.</p><ol><li>Set ISO to its native base; accept a slightly darker image.</li><li>Add a quarter stop to the shadow with a small lamp or reflector; do not light the face straight on.</li><li>Lift shadows only slightly in post and keep blacks black; do not excavate the noise.</li></ol>
-<h2>Avoid</h2>
-<p>Do not use “cinematic” as an excuse for underexposure; crushed shadows do not come back.</p>
-<h2>Check</h2>
-<ul><li>ISO is at its native base and shadows show no chroma noise.</li><li>The shadow got a little fill but blacks remain black.</li><li>Post lifts shadows only slightly and does not excavate noise.</li></ul>
+<section><h2 id="section-1">On set</h2><p>Drop to native ISO, add a small ambient light, and do not lift the shadows hard. Let some black stay.</p></section><section><h2 id="section-2">Do this</h2><ol><li>Set ISO to its native base; accept a slightly darker image.</li><li>Add a quarter stop to the shadow with a small lamp or reflector; do not light the face straight on.</li><li>Lift shadows only slightly in post and keep blacks black; do not excavate the noise.</li></ol></section><section><h2 id="section-3">Avoid</h2><p>Do not use “cinematic” as an excuse for underexposure; crushed shadows do not come back.</p></section><section><h2 id="section-4">Three causes</h2><p>For “The Shadows Are Dirty”, check three directions first. Change one variable, record a 30-second comparison, and see which link the change follows.</p><div class="table-scroll"><table class="data-table"><thead><tr><th>Cause</th><th>Signal on set</th><th>Five-minute test</th></tr></thead><tbody><tr><td>Underexposure + high ISO</td><td>Lifting shadows reveals noise and grey colour</td><td>Drop ISO one stop and add face light</td></tr><tr><td>Log not transformed</td><td>The image is flat and black is not black</td><td>Apply the correct colour transform first</td></tr><tr><td>Heavy compression</td><td>Shadow blocking and smearing appear</td><td>Use a higher bitrate or a ProRes intermediate</td></tr></tbody></table></div></section><section><h2 id="section-5">On-set diagnosis</h2><ol><li>Open the waveform: check black level and whether shadows hold more than 5% detail.</li><li>Judge after transforming Log, not on the flat image.</li><li>Compare high and low bitrate versions to see whether blocking is compression or noise.</li></ol></section><section><h2 id="section-6">Fix</h2><p>Dirty shadows usually mean too little light on set and too much lifting in post. Expose skin first, then decide how black the shadows should be.</p><ol><li>Add soft light to the face; let the background go dark before underexposing skin.</li><li>Drop to native ISO and use ND to control highlights.</li><li>Apply the correct LUT/transform before judging black level.</li><li>Denoise shadows only until blocking disappears; keep some grain.</li></ol></section><section><h2 id="section-7">Failure cases</h2><p>With “The Shadows Are Dirty”, these three moves make it worse. Pick one replacement action and do not change three variables at once.</p><div class="table-scroll"><table class="data-table"><thead><tr><th>Failure</th><th>Why it gets worse</th><th>Replace with</th></tr></thead><tbody><tr><td>Lift the whole image</td><td>Noise and blocking grow together</td><td>Raise midtones and hold black</td></tr><tr><td>Maximum denoise</td><td>Skin turns plastic and hair smears</td><td>Local denoise; keep texture</td></tr><tr><td>Use high ISO</td><td>Shadows get dirtier and highlights clip sooner</td><td>Add light instead of gain</td></tr></tbody></table></div></section><section><h2 id="section-8">Acceptance table</h2><p>Acceptance is not “it feels better”; all four must be identifiable, playable and logged.</p><div class="table-scroll"><table class="data-table"><thead><tr><th>Check</th><th>Pass line</th><th>Log</th></tr></thead><tbody><tr><td>Skin exposure</td><td>The face is readable, not underexposed</td><td>Waveform 60–70%</td></tr><tr><td>Black level</td><td>Black sits at 0–5%, not grey</td><td>Waveform/scope</td></tr><tr><td>Noise</td><td>No obvious blocking in shadows</td><td>100% playback</td></tr><tr><td>Colour</td><td>Skin is not green or magenta after transform</td><td>Colour chart or skin reference</td></tr></tbody></table></div></section><section><h2>Boundary</h2><p>It does not guarantee a story. The template only orders structure; the person, obstacle and cost still need writing.</p></section><section><h2>Alternative</h2><p>If “Set ISO to its native base; accept a” is not the main problem, start with the basic move behind “Add a quarter stop to the shadow with”. Upgrade only after both hold.</p></section><section><h2>60-second test</h2><p>Run a 60-second test with the gear you own, focused on “Set ISO to its native base; accept a”, and record one number. If the number does not change, do not add budget.</p></section><section><h2>When not to use</h2><p>Do not use the template when “Set ISO to its native base; accept a” is still unclear or “Add a quarter stop to the shadow with” is only filler. Go back to the person and the problem.</p></section><section><h2>Three failures</h2><ul><li>Every beat exists, but no one makes a decision.</li><li>The middle changes location, not information.</li><li>The ending is narrated, with no visible change.</li></ul></section>
+<h2>Check</h2><ul><li>ISO is at its native base and shadows show no chroma noise.</li><li>The shadow got a little fill but blacks remain black.</li><li>Post lifts shadows only slightly and does not excavate noise.</li></ul>

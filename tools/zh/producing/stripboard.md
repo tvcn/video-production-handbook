@@ -10,13 +10,13 @@ summary: "排期不是把场景按顺序填进日历。先按地点和人物拆�
 slug: stripboard
 aliases: [stripboard, 拍摄日程, 排期, 场次表]
 canonical_site: tools
-canonical_path: /producing/stripboard/
+canonical_path: /article/stripboard/
 status: published
 difficulty: beginner
 stage: producing
 format: workflow
 tools: [budget, sheet]
-authors: [editor]
+authors: ["TVCN 工具组"]
 reviewers: [technical-reviewer]
 cover: /images/tools/stripboard.webp
 diagram: /images/diagrams/zh/stripboard.png
@@ -25,7 +25,7 @@ diagram_caption: "先把场景拆成条，再按地点和人物分组。一天�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [tools.producing.call-sheet, tools.producing.budget-map]
+related: [tools.producing.budget-map.en, tools.producing.casting.en, tools.workflow.first-shoot-day.en]
 ---
 
 <!-- DIAGRAM_START -->

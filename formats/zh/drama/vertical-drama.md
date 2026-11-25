@@ -10,7 +10,7 @@ summary: "竖屏没有时间铺世界。第一屏让人物想要一个东西，�
 slug: vertical-drama
 aliases: [vertical-drama, 竖屏短剧, vertical drama]
 canonical_site: formats
-canonical_path: /drama/vertical-drama/
+canonical_path: /article/vertical-drama/
 status: published
 difficulty: intermediate
 stage: format
@@ -25,7 +25,7 @@ diagram_caption: "第一屏给目标，第三秒给障碍，一场只翻一次�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [story.screenplay.three-act, tools.delivery.publish-checklist]
+related: [formats.vlog.vlog-structure.en, post.delivery.conform-online.en, shoot.multicam.multicam-live.en]
 depth: deep
 deep_minutes: 6
 sources: [S14, S15, S16]
@@ -95,5 +95,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
 <ul><li><span class="mono">[S14]</span> YouTube 社区准则</li><li><span class="mono">[S15]</span> TikTok 社区准则</li><li><span class="mono">[S16]</span> BBC 编辑准则</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

@@ -10,13 +10,13 @@ summary: 抠得像不等于合得成。边缘之前，先对光的方向、软�
 slug: vfx-composite
 aliases: [vfx-composite, 合成, 抠像]
 canonical_site: post
-canonical_path: /vfx/vfx-composite/
+canonical_path: /article/vfx-composite/
 status: published
 difficulty: intermediate
 stage: post
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN 后期组"]
 reviewers: [technical-reviewer]
 cover: /images/post/vfx-composite.webp
 diagram: /images/diagrams/zh/vfx-composite.png
@@ -25,7 +25,7 @@ diagram_caption: "方向和软硬不对，边缘再干净也是贴纸。先做�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [post.color.color, animation.3d.3d-pipeline]
+related: [post.vfx.cg-integration.en, post.color.color.en, post.editing.sound-bridge.en]
 ---
 
 <!-- DIAGRAM_START -->

@@ -5,47 +5,58 @@ type: article
 lang: en
 translation_key: post.color.primary-correction
 translation_status: reviewed
-title: "Primary Correction: Exposure and White Balance"
-summary: "Primary correction fixes exposure and white balance first. Do not hide technical problems under a look."
+title: 'Primary Correction: Exposure and White Balance'
+summary: Primary correction fixes exposure and white balance first. Do not hide technical
+  problems under a look.
 slug: primary-correction
-aliases: [primary-correction]
+aliases:
+- primary-correction
 canonical_site: post
-canonical_path: /en/color/primary-correction/
+canonical_path: /en/article/primary-correction/
 status: published
 diagram: /images/diagrams/en/primary-correction.svg
-diagram_alt: "Primary Correction: Exposure and White Balance three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Primary Correction: Exposure and White Balance.'
+diagram_caption: Watch “Shoot a gray or color chart; set black” and “Match every shot
+  in the scene for exposure”; judge whether removing one shot makes the scene faster
+  rather than muddier.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: ["TVCN Post Desk"]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Post Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- post.editing.proxy-workflow.en
+- shoot.multicam.multicam-live.en
+- story.storyboard.storyboard.en
 depth: deep
 deep_minutes: 6
-sources: [S24, S27, S28, S30, S34, S35]
-test_context: "Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine."
-known_failures: "Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking."
+sources:
+- S24
+- S27
+- S28
+- S30
+- S34
+- S35
+test_context: 'Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci
+  Resolve 20 and Premiere Pro 2025; results vary by machine.'
+known_failures: 'Known failures: older-version timelines break; camera Logs need remapping;
+  lost proxies require relinking.'
 verified: 2026-11-22
+source_kind: sourced
 ---
 
-<p>Primary correction fixes exposure and white balance first. Do not hide technical problems under a look.</p>
+<p>Primary correction only unifies exposure, white balance and contrast: align black, white and skin on every shot before discussing a look. Use scopes, not guesswork in a dark room.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/primary-correction.svg" alt="Primary Correction: Exposure and White Balance three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/primary-correction.svg" alt="Structure diagram for Primary Correction: Exposure and White Balance.">
+  <figcaption>Watch “Shoot a gray or color chart; set black” and “Match every shot in the scene for exposure”; judge whether removing one shot makes the scene faster rather than muddier.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Shoot a grey or color card first: set black to 0 to 5 and white below 100. Match every shot in the scene, then check the skin line.</p>
-<h2>Do this</h2>
-<p>Primary correction fixes exposure and white balance before style.</p><ol><li>Shoot a gray or color chart; set black to 0 to 5 and white below 100.</li><li>Match every shot in the scene for exposure and white balance, then check the skin line.</li><li>Add contrast and style only after the technical problems are gone.</li></ol>
-<h2>Avoid</h2>
-<p>Do not use a LUT to hide technical problems; it makes them look prettier.</p>
-<h2>Check</h2>
-<ul><li>Black and white levels match across the scene and cuts do not jump.</li><li>Skin sits on the same vector line with no green or red drift between shots.</li><li>Turn off the style LUT and the image still holds technically.</li></ul>
+<section><h2 id="section-1">Bring every shot to the same start line</h2><p>Order: normalize exposure, normalize white balance, normalize contrast, then check shot-to-shot jumps. If one step is skipped, the secondary grade locks the cast in.</p><h2 id="section-2">Limits</h2><p>Primary is not “make every shot equally bright.” Different shot sizes and lighting may differ; unify the reference, not the emotion.</p></section><section><h2 id="section-3">On set</h2><p>Shoot a grey or color card first: set black to 0 to 5 and white below 100. Match every shot in the scene, then check the skin line.</p></section><section><h2 id="section-4">Do this</h2><p>Primary correction fixes exposure and white balance before style.</p><ol><li>Shoot a gray or color chart; set black to 0 to 5 and white below 100.</li><li>Match every shot in the scene for exposure and white balance, then check the skin line.</li><li>Add contrast and style only after the technical problems are gone.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not use a LUT to hide technical problems; it makes them look prettier.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>removing one shot makes the scene faster, not muddier</li><li>skin, highlights and blacks sit inside scope limits</li><li>loudness, subtitles and file specs pass one delivery check</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>cuts follow the music, not the action</li><li>style before unity: shots jump in color</li><li>loudness and subtitles are checked at the very end</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Take 30 seconds of footage and make an A/B, changing only “Shoot a gray or color chart; set black”. Note one timecode and one difference before keeping it.</p></section>
+<h2>Check</h2><ul><li>Black and white levels match across the scene and cuts do not jump.</li><li>Skin sits on the same vector line with no green or red drift between shots.</li><li>Turn off the style LUT and the image still holds technically.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive
@@ -66,8 +77,3 @@ verified: 2026-11-22
 <ul><li>Choose one reference per scene</li><li>Match exposure</li><li>Then white balance</li><li>Then skin</li><li>Check black and highlight</li><li>Place the LUT after primary</li></ul><p>Primary correction is the foundation for any look; if it is crooked, every later grade looks false. Make the faces in one scene look like the same person before you talk about style. The face must stay the same person across the scene, not two color temperatures.</p>
 <!-- DEEP_DIVE_END -->
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S24]</span> ACES Color Management</li><li><span class="mono">[S27]</span> EBU R128 Loudness</li><li><span class="mono">[S28]</span> Netflix Partner Help</li><li><span class="mono">[S30]</span> DaVinci Resolve</li><li><span class="mono">[S34]</span> Adobe Premiere Pro Guide</li><li><span class="mono">[S35]</span> Avid Resource Center</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
-<!-- SOURCES_END -->

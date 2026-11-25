@@ -10,13 +10,13 @@ summary: "场记不是记时间码。他记的是观众会不会发现：杯子�
 slug: slate-continuity
 aliases: [slate, continuity, 场记, 连戏]
 canonical_site: shoot
-canonical_path: /production/slate-continuity/
+canonical_path: /article/slate-continuity/
 status: published
 difficulty: intermediate
 stage: shoot
 format: workflow
 tools: [camera, edit]
-authors: [editor]
+authors: ["TVCN 拍摄组"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/slate-continuity.webp
 diagram: /images/diagrams/zh/slate-continuity.png
@@ -25,7 +25,7 @@ diagram_caption: "服装、道具、光位先统一；每条留头留尾；表�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [shoot.camera.axis-line, post.editing.cutting-points]
+related: [shoot.camera.axis-line.en, shoot.production.scene-space.en, shoot.production.shot-list.en]
 ---
 
 <!-- DIAGRAM_START -->

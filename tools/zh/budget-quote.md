@@ -5,26 +5,38 @@ type: article
 lang: zh
 translation_key: tools.guide.budget-quote
 translation_status: source
-title: "预算与报价：把风险写进数字"
-summary: "预算不是成本清单，是把“会停拍的那一项”先保住。报价不是成本加 20%，是把范围、修改、授权和风险分别定价。"
+title: 预算与报价：把风险写进数字
+summary: 预算不是成本清单，是把“会停拍的那一项”先保住。报价不是成本加 20%，是把范围、修改、授权和风险分别定价。
 slug: budget-quote
-aliases: [budget-quote]
+aliases:
+- budget-quote
 canonical_site: tools
 canonical_path: /article/budget-quote/
 status: published
 diagram: /images/diagrams/zh/budget-quote.svg
-diagram_alt: "预算与报价五块专题图解"
-diagram_caption: "示意：人力、器材、场地、后期、应急五块各自封顶；报价另列修改、授权、加急。"
+diagram_alt: 预算与报价五块专题图解
+diagram_caption: 示意：人力、器材、场地、后期、应急五块各自封顶；报价另列修改、授权、加急。
 difficulty: intermediate
 stage: handbook
 format: workflow
-authors: ["TVCN 工具组"]
+authors:
+- TVCN 工具组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S23, S25, S26, S29, S38]
-test_context: "复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。"
-known_failures: "已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。"
+sources:
+- S23
+- S25
+- S26
+- S29
+- S38
+test_context: 复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。
+known_failures: 已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。
 verified: 2026-11-22
+related:
+- tools.guide.buy-audio-field.en
+- ai.ethics.model-comparison.en
+- animation.3d.3d-pipeline.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +51,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：编辑部现场手册与购买检查表；实测来源：短测与公开规格核对，不是实验室跑分；参考来源：以下厂商与标准链接。</p>
 <ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube 上传规格</li><li><span class="mono">[S38]</span> 国家税务总局</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

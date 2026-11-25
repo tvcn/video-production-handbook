@@ -5,38 +5,40 @@ type: tool
 lang: en
 translation_key: tools.capability.scope-monitor
 translation_status: reviewed
-title: "Scope Monitor: Exposure and Color Together"
-summary: "A scope monitor shows exposure and color together; a histogram alone misses skin drift."
+title: 'Scope Monitor: Exposure and Color Together'
+summary: A scope monitor shows exposure and color together; a histogram alone misses
+  skin drift.
 slug: scope-monitor
-aliases: [scope-monitor]
+aliases:
+- scope-monitor
 canonical_site: tools
-canonical_path: /en/capability/scope-monitor/
+canonical_path: /en/article/scope-monitor/
 status: published
 diagram: /images/diagrams/en/scope-monitor.svg
-diagram_alt: "Scope Monitor: Exposure and Color Together three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Scope Monitor: Exposure and Color Together.'
+diagram_caption: Watch “Switch the scope to waveform and vectorscope.” and “Shoot
+  a gray card.”; judge whether the spec maps to one concrete shooting problem.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Tools Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- tools.capability.cfexpress.en
+- tools.capability.video-assist.en
+- tools.capability.field-monitor.en
+source_kind: experience
 ---
 
-<p>A scope monitor shows exposure and color together; a histogram alone misses skin drift.</p>
+<p>A scope reads signal, not composition or performance. Treating the waveform as the only proof of “correct exposure” protects highlights while leaving the face without direction.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/scope-monitor.svg" alt="Scope Monitor: Exposure and Color Together three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/scope-monitor.svg" alt="Structure diagram for Scope Monitor: Exposure and Color Together.">
+  <figcaption>Watch “Switch the scope to waveform and vectorscope.” and “Shoot a gray card.”; judge whether the spec maps to one concrete shooting problem.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Switch the scope to waveform and vectorscope and shoot a grey card. Black at 0, white at 100, skin line on target.</p>
-<h2>Do this</h2>
-<p>A scope monitor shows exposure and color together; a histogram alone misses skin shift.</p><ol><li>Switch the scope to waveform and vectorscope.</li><li>Shoot a gray card.</li><li>Black at 0, white at 100, skin on the target line.</li></ol>
-<h2>Avoid</h2>
-<p>Do not read the histogram alone; skin can go green while the histogram looks perfect.</p>
-<h2>Check</h2>
-<ul><li>Both waveform and vectorscope are used.</li><li>Gray card reads black at 0 and white at 100.</li><li>Skin sits near the target line and any shift is named.</li></ul>
+<section><h2 id="section-1">What to compare first</h2><ul><li><strong>Waveform and vector:</strong> it must show luma waveform and vectorscope together; a histogram alone cannot judge skin or black level.</li><li><strong>Inputs and zoom:</strong> confirm 3G/6G/12G SDI or HDMI version, and whether it can magnify a critical area to 1:1 pixels.</li><li><strong>Power and brightness:</strong> it must run from mains or long batteries on set; screen brightness must survive exteriors, not only a dark room.</li></ul><h2 id="section-2">What it cannot do</h2></section><section><h2 id="section-3">On set</h2><p>Switch the scope to waveform and vectorscope and shoot a grey card. Black at 0, white at 100, skin line on target.</p></section><section><h2 id="section-4">Do this</h2><p>A scope monitor shows exposure and color together; a histogram alone misses skin shift.</p><ol><li>Switch the scope to waveform and vectorscope.</li><li>Shoot a gray card.</li><li>Black at 0, white at 100, skin on the target line.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not read the histogram alone; skin can go green while the histogram looks perfect.</p></section>
+<h2>Check</h2><ul><li>Both waveform and vectorscope are used.</li><li>Gray card reads black at 0 and white at 100.</li><li>Skin sits near the target line and any shift is named.</li></ul>

@@ -5,26 +5,36 @@ type: article
 lang: en
 translation_key: formats.live-podcast.live-podcast-structure
 translation_status: reviewed
-title: "Live & Podcast Structure: Six Beats"
-summary: "Live/podcast is not uploading a long video. Design cuttable units: one complete question every 3–5 minutes so a viewer entering late still understands."
+title: 'Live & Podcast Structure: Six Beats'
+summary: 'Live/podcast is not uploading a long video. Design cuttable units: one complete question every 3–5 minutes so a viewer entering late still understands.'
 slug: live-podcast-structure
-aliases: [live-podcast-structure]
+aliases:
+- live-podcast-structure
 canonical_site: formats
 canonical_path: /en/article/live-podcast-structure/
 status: published
 diagram: /images/diagrams/en/live-podcast-structure.svg
-diagram_alt: "Live & Podcast structure diagram"
-diagram_caption: "Diagram: six beats in order; miss one and it becomes a pile of footage."
+diagram_alt: Live & Podcast structure diagram
+diagram_caption: 'Diagram: six beats in order; miss one and it becomes a pile of footage.'
 difficulty: intermediate
 stage: handbook
 format: format
-authors: ["TVCN Formats Desk"]
+authors:
+- TVCN Formats Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S14, S15, S16]
-test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
-known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
+sources:
+- S14
+- S15
+- S16
+test_context: 'Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project.'
+known_failures: 'Known failures: composite samples are not client proof; platform length/spec changes expire templates.'
 verified: 2026-11-22
+related:
+- formats.live-podcast.live-podcast-template.en
+- post.color.color-management.en
+- shoot.coverage.coverage.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +49,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

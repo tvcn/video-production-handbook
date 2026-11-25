@@ -5,43 +5,43 @@ type: article
 lang: zh
 translation_key: shoot.exposure.waveform
 translation_status: source
-title: "波形图：看曝光，不靠感觉"
-summary: "波形图看亮度分布，不看画面好不好看；先保高光，再决定暗部留多少。"
+title: 波形图：看曝光，不靠感觉
+summary: 波形图看亮度分布，不看画面好不好看；先保高光，再决定暗部留多少。
 slug: waveform
-aliases: [waveform]
+aliases:
+- waveform
 canonical_site: shoot
-canonical_path: /exposure/waveform/
+canonical_path: /article/waveform/
 status: published
 diagram: /images/diagrams/zh/waveform.svg
-diagram_alt: "波形图：看曝光，不靠感觉 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 波形图：看曝光，不靠感觉的结构示意图。
+diagram_caption: 看“先把人脸放进 55 到 65 IRE…”和“再把天空或窗户压到 95 IRE 以…”两处，判断高光、肤色和声音有没有被同时保住。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 拍摄组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- shoot.exposure.false-color.en
+- shoot.exposure.log-footage.en
+- shoot.lighting.night-interior.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>波形图看亮度分布，不看画面好不好看；先保高光，再决定暗部留多少。</p>
+<p>波形图告诉你亮度落在哪：左边是黑，右边是白。先看肤色是否落在中间偏上，再看高光是否贴顶、暗部是否堆底。一个镜头“平均曝光正确”但脸在黑里，仍然不能用。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/waveform.svg" alt="波形图：看曝光，不靠感觉 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/waveform.svg" alt="波形图：看曝光，不靠感觉的结构示意图。">
+  <figcaption>看“先把人脸放进 55 到 65 IRE…”和“再把天空或窗户压到 95 IRE 以…”两处，判断高光、肤色和声音有没有被同时保住。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>人脸放在 55 到 65 IRE，天空压在 95 以下。波形顶到天花板时，先减一档光或加 ND，不要指望后期拉回来。</p>
-<h2>怎么做</h2>
-<p>波形图看亮度分布，先保高光，再决定暗部留多少。人脸放在 55 到 65 IRE，天空压在 95 以下；波形顶到天花板时，先减光或加 ND。</p><ol><li>先把人脸放进 55 到 65 IRE 的区间。</li><li>再把天空或窗户压到 95 IRE 以下，保住细节。</li><li>如果波形还顶到顶，减一档光或加 ND，不要指望后期拉回。</li></ol>
-<h2>别踩</h2>
-<p>别让波形顶到天花板还指望后期拉回来；高光一死就救不回。</p>
-<h2>验收</h2>
-<ul><li>人脸落在 55 到 65 IRE，没有一片死白。</li><li>天空或窗户在高光区仍有层次，波形没有贴顶。</li><li>出现过曝时先改光或加 ND，没有用高 ISO 硬撑。</li></ul>
+<section><h2 id="section-1">看分布，不只看一个峰值</h2><p>把波形和斑马、示波器矢量一起看：波形管亮度，矢量管颜色，斑马管具体高光范围。</p><h2 id="section-2">边界</h2><p>波形不是构图和表演的裁判。逆光剪影、夜景和风格化低对比都可能“波形难看但画面成立”，最终仍要回放判断。</p></section><section><h2 id="section-3">现场</h2><p>人脸放在 55 到 65 IRE，天空压在 95 以下。波形顶到天花板时，先减一档光或加 ND，不要指望后期拉回来。</p></section><section><h2 id="section-4">怎么做</h2><p>波形图看亮度分布，先保高光，再决定暗部留多少。人脸放在 55 到 65 IRE，天空压在 95 以下；波形顶到天花板时，先减光或加 ND。</p><ol><li>先把人脸放进 55 到 65 IRE 的区间。</li><li>再把天空或窗户压到 95 IRE 以下，保住细节。</li><li>如果波形还顶到顶，减一档光或加 ND，不要指望后期拉回。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别让波形顶到天花板还指望后期拉回来；高光一死就救不回。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>高光没有死白，暗部仍保留可恢复的细节</li><li>同一条片子里肤色一致，切机位不跳</li><li>声音有独立音轨，不靠机头麦兜底</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>曝光对了，但光没有方向，脸和背景粘在一起</li><li>声音只靠机头麦，现场一吵就废</li><li>机位越轴，观众失去空间方向</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用同一扇窗拍三条 10 秒，只改“先把人脸放进 55 到 65 IRE…”；比较高光、肤色和背景，选一条能直接剪的。</p></section>
+<h2>验收</h2><ul><li>人脸落在 55 到 65 IRE，没有一片死白。</li><li>天空或窗户在高光区仍有层次，波形没有贴顶。</li><li>出现过曝时先改光或加 ND，没有用高 ISO 硬撑。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读

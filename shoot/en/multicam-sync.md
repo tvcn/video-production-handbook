@@ -5,38 +5,40 @@ type: article
 lang: en
 translation_key: shoot.multicam.multicam-sync
 translation_status: reviewed
-title: "Multicam Sync: Timecode and a Camera Map"
-summary: "Draw the camera map, then sync timecode. The edit must know which camera stood where."
+title: 'Multicam Sync: Timecode and a Camera Map'
+summary: Draw the camera map, then sync timecode. The edit must know which camera
+  stood where.
 slug: multicam-sync
-aliases: [multicam-sync]
+aliases:
+- multicam-sync
 canonical_site: shoot
-canonical_path: /en/multicam/multicam-sync/
+canonical_path: /en/article/multicam-sync/
 status: published
 diagram: /images/diagrams/en/multicam-sync.svg
-diagram_alt: "Multicam Sync: Timecode and a Camera Map three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Multicam Sync: Timecode and a Camera Map.'
+diagram_caption: Watch “Draw a top-down map and label what size” and “Sync by timecode
+  or clap and confirm all”; judge whether highlights, skin and sound survive together.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Shoot Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- shoot.virtual-production.led-volume.en
+- shoot.art.prop-continuity.en
+- shoot.art.set-dressing.en
+source_kind: experience
 ---
 
-<p>Draw the camera map, then sync timecode. The edit must know which camera stood where.</p>
+<p>With timecode, jam sync; without it, use a shared clap or flash. Every camera must see the same event and align by audio waveform; do not guess from picture.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/multicam-sync.svg" alt="Multicam Sync: Timecode and a Camera Map three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/multicam-sync.svg" alt="Structure diagram for Multicam Sync: Timecode and a Camera Map.">
+  <figcaption>Watch “Draw a top-down map and label what size” and “Sync by timecode or clap and confirm all”; judge whether highlights, skin and sound survive together.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Draw a top-down camera map and mark what A, B, and C cover. Sync by timecode or a clap; the editor uses the map to find the take.</p>
-<h2>Do this</h2>
-<p>Multicam starts with a camera map, then timecode. The edit must know where each camera stood. Two cameras on the same size is repetition, not coverage.</p><ol><li>Draw a top-down map and label what size A, B, and C shoot.</li><li>Sync by timecode or clap and confirm all three angles align.</li><li>Check that each camera contributes different information, not the same size.</li></ol>
-<h2>Avoid</h2>
-<p>Do not put two cameras on the same size; multicam is not duplicate cam.</p>
-<h2>Check</h2>
-<ul><li>The map shows what A, B, and C each cover with no duplicate size.</li><li>All three angles align frame-accurately on the timeline.</li><li>Each angle offers different information, so cuts have a reason.</li></ul>
+<section><h2 id="section-1">Unify the time base before multicam</h2><p>Match frame rate, shutter, white balance and audio sample rate. Color can be matched later; mixed frame rates cannot sync losslessly.</p><h2 id="section-2">Limits</h2><p>Sync is not one-time. Long records drift; realign every twenty to thirty minutes, and use a timecode generator for critical scenes.</p></section><section><h2 id="section-3">On set</h2><p>Draw a top-down camera map and mark what A, B, and C cover. Sync by timecode or a clap; the editor uses the map to find the take.</p></section><section><h2 id="section-4">Do this</h2><p>Multicam starts with a camera map, then timecode. The edit must know where each camera stood. Two cameras on the same size is repetition, not coverage.</p><ol><li>Draw a top-down map and label what size A, B, and C shoot.</li><li>Sync by timecode or clap and confirm all three angles align.</li><li>Check that each camera contributes different information, not the same size.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not put two cameras on the same size; multicam is not duplicate cam.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>highlights are not clipped and shadows keep recoverable detail</li><li>skin stays consistent across camera angles</li><li>sound has an independent track, not just the on-camera mic</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>exposure is right but the light has no direction</li><li>sound relies on the camera mic and dies in a noisy room</li><li>crossing the line leaves the audience without a map</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Shoot three 10-second takes by the same window, changing only “Draw a top-down map and label what size”. Compare highlights, skin and background; keep the one that is editable.</p></section>
+<h2>Check</h2><ul><li>The map shows what A, B, and C each cover with no duplicate size.</li><li>All three angles align frame-accurately on the timeline.</li><li>Each angle offers different information, so cuts have a reason.</li></ul>

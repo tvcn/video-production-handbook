@@ -10,13 +10,13 @@ summary: 镜头动起来不难，难的是让观众不觉得摄影机在炫耀�
 slug: camera-move
 aliases: [camera-move, 运镜, camera movement]
 canonical_site: shoot
-canonical_path: /camera/camera-move/
+canonical_path: /article/camera-move/
 status: published
 difficulty: intermediate
 stage: shoot
 format: short-film
 tools: [camera, gimbal]
-authors: [editor]
+authors: ["TVCN 拍摄组"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/camera-move.webp
 diagram: /images/diagrams/zh/camera-move.png
@@ -25,7 +25,7 @@ diagram_caption: "跟随、揭示、压迫，一个镜头只做一种。动完�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [tools.camera.camera-choice, shoot.lighting.ratio]
+related: [shoot.camera.shot-size.en, shoot.camera.lens-distance.en, shoot.production.camera-height.en]
 ---
 
 <!-- DIAGRAM_START -->

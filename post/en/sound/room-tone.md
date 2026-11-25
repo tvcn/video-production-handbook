@@ -11,13 +11,13 @@ summary: "The room's sound is not noise; it is the space. In every location, rec
 slug: room-tone
 aliases: [room tone, ambience, background sound, silence]
 canonical_site: post
-canonical_path: /en/sound/room-tone/
+canonical_path: /en/article/room-tone/
 status: published
 difficulty: beginner
 stage: post
 format: dialogue
 tools: [audio]
-authors: [editor]
+authors: ["TVCN Post Desk"]
 reviewers: [technical-reviewer]
 cover: /images/post/room-tone.webp
 diagram: /images/diagrams/en/room-tone.png
@@ -26,7 +26,7 @@ diagram_caption: "Room tone is one continuous floor. Where dialogue breaks, it s
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [post.sound.sound-post, post.editing.mix-dialogue]
+related: [post.editing.mix-dialogue.en, post.editing.transitions.en, post.sound.sound-post.en]
 ---
 
 <!-- DIAGRAM_START -->

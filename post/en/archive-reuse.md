@@ -5,26 +5,39 @@ type: article
 lang: en
 translation_key: post.assets.archive-reuse
 translation_status: reviewed
-title: "Archive and Asset Reuse: Make the Next Film Faster"
-summary: "Archiving is not dragging a folder onto a drive. It lets the next person open the project, find media, know the rights, and restore grade and sound. Reuse is indexed retrieval, not digging through old films."
+title: 'Archive and Asset Reuse: Make the Next Film Faster'
+summary: Archiving is not dragging a folder onto a drive. It lets the next person open the project, find media, know the rights, and restore grade and sound. Reuse is indexed retrieval, not digging through old films.
 slug: archive-reuse
-aliases: [archive-reuse]
+aliases:
+- archive-reuse
 canonical_site: post
 canonical_path: /en/article/archive-reuse/
 status: published
 diagram: /images/diagrams/en/archive-reuse.svg
-diagram_alt: "Archive and reuse package diagram"
-diagram_caption: "Diagram: an archive is five retrievable parts, not one zip. Without rights, footage cannot be reused."
+diagram_alt: Archive and reuse package diagram
+diagram_caption: 'Diagram: an archive is five retrievable parts, not one zip. Without rights, footage cannot be reused.'
 difficulty: intermediate
 stage: handbook
 format: workflow
-authors: ["TVCN Post Desk"]
+authors:
+- TVCN Post Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S24, S27, S28, S30, S34, S35]
-test_context: "Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine."
-known_failures: "Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking."
+sources:
+- S24
+- S27
+- S28
+- S30
+- S34
+- S35
+test_context: 'Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine.'
+known_failures: 'Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking.'
 verified: 2026-11-22
+related:
+- post.color.color-management.en
+- shoot.safety.set-safety.en
+- story.screenplay.logline.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +52,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S24]</span> ACES Color Management</li><li><span class="mono">[S27]</span> EBU R128 Loudness</li><li><span class="mono">[S28]</span> Netflix Partner Help</li><li><span class="mono">[S30]</span> DaVinci Resolve</li><li><span class="mono">[S34]</span> Adobe Premiere Pro Guide</li><li><span class="mono">[S35]</span> Avid Resource Center</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

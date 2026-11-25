@@ -5,26 +5,35 @@ type: article
 lang: en
 translation_key: context.law.portrait-rights
 translation_status: reviewed
-title: "Likeness, Location, and Minors: What a Release Must Say"
-summary: "Consent to be filmed is not consent to be used commercially. Likeness, property, guardian consent for minors, and AI face/voice synthesis are four different clearances; a “consent to shoot” note will not save a paid ad."
+title: 'Likeness, Location, and Minors: What a Release Must Say'
+summary: Consent to be filmed is not consent to be used commercially. Likeness, property, guardian consent for minors, and AI face/voice synthesis are four different clearances; a “consent to shoot” note will not save a paid ad.
 slug: portrait-rights
-aliases: [portrait-rights]
+aliases:
+- portrait-rights
 canonical_site: context
 canonical_path: /en/article/portrait-rights/
 status: published
 diagram: /images/diagrams/en/portrait-rights.svg
-diagram_alt: "Likeness/location/minor release diagram"
-diagram_caption: "Diagram: likeness, location, minors, and AI synthesis are signed and archived separately."
+diagram_alt: Likeness/location/minor release diagram
+diagram_caption: 'Diagram: likeness, location, minors, and AI synthesis are signed and archived separately.'
 difficulty: intermediate
 stage: handbook
 format: law
-authors: ["TVCN Research Desk"]
+authors:
+- TVCN Research Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S22, S03]
-test_context: "Review setup: current China mainland statutes, platform rules and public cases; not legal advice."
-known_failures: "Known failures: platform rules and local enforcement change; counsel must confirm applicability."
+sources:
+- S22
+- S03
+test_context: 'Review setup: current China mainland statutes, platform rules and public cases; not legal advice.'
+known_failures: 'Known failures: platform rules and local enforcement change; counsel must confirm applicability.'
 verified: 2026-11-22
+related:
+- context.law.accessibility-caption.en
+- formats.real-estate.real-estate-video-breakdown.en
+- post.sound.sound.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +48,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: editorial statute comparison and project reviews; tested: no lab measurement; references: the laws, platform rules and institutional texts below.</p>
 <ul><li><span class="mono">[S22]</span> China's Civil Code</li><li><span class="mono">[S03]</span> China's Personal Information Protection Law (PIPL)</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

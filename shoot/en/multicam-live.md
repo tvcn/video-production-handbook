@@ -5,26 +5,37 @@ type: article
 lang: en
 translation_key: shoot.multicam.multicam-live
 translation_status: reviewed
-title: "Multicam and Live: Lock Timecode, Return, and Recording First"
-summary: "Multicam is not more cameras. It is three cameras on one timeline, one return, and one audio plan. If any link lacks a backup, directing turns into guessing."
+title: 'Multicam and Live: Lock Timecode, Return, and Recording First'
+summary: Multicam is not more cameras. It is three cameras on one timeline, one return, and one audio plan. If any link lacks a backup, directing turns into guessing.
 slug: multicam-live
-aliases: [multicam-live]
+aliases:
+- multicam-live
 canonical_site: shoot
 canonical_path: /en/article/multicam-live/
 status: published
 diagram: /images/diagrams/en/multicam-live.svg
-diagram_alt: "Multicam and live signal-chain diagram"
-diagram_caption: "Diagram: every signal needs a source, a record, and a monitor. A program feed without ISO recording is not multicam."
+diagram_alt: Multicam and live signal-chain diagram
+diagram_caption: 'Diagram: every signal needs a source, a record, and a monitor. A program feed without ISO recording is not multicam.'
 difficulty: intermediate
 stage: handbook
 format: workflow
-authors: ["TVCN Tech Desk"]
+authors:
+- TVCN Tech Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S23, S31, S32, S33]
-test_context: "Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus and samples; lens claims follow page labels, not every lens tested."
-known_failures: "Known failures: menus and firmware differ; uncalibrated color temperature/monitors cause misreads."
+sources:
+- S23
+- S31
+- S32
+- S33
+test_context: 'Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus and samples; lens claims follow page labels, not every lens tested.'
+known_failures: 'Known failures: menus and firmware differ; uncalibrated color temperature/monitors cause misreads.'
 verified: 2026-11-22
+related:
+- shoot.lighting.ratio.en
+- story.screenplay.three-act.en
+- tools.audio.audio-position.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +50,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S31]</span> ARRI Technical Documentation</li><li><span class="mono">[S32]</span> Sony Pro Support</li><li><span class="mono">[S33]</span> Canon Support</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

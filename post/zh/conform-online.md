@@ -5,26 +5,36 @@ type: article
 lang: zh
 translation_key: post.delivery.conform-online
 translation_status: source
-title: "Conform / Online：套底、回批与母版"
-summary: "Conform 不是把剪辑时间线换个软件打开。它要确认每一刀都回到原始素材、每一段都有足够 handles、每一个版本都能回到同一条母版。"
+title: Conform / Online：套底、回批与母版
+summary: Conform 不是把剪辑时间线换个软件打开。它要确认每一刀都回到原始素材、每一段都有足够 handles、每一个版本都能回到同一条母版。
 slug: conform-online
-aliases: [conform-online]
+aliases:
+- conform-online
 canonical_site: post
 canonical_path: /article/conform-online/
 status: published
 diagram: /images/diagrams/zh/conform-online.svg
-diagram_alt: "Conform 与 Online 套底专题图解"
-diagram_caption: "示意：回批不是“打开成功”，是每一刀都能对回原素材并保留 handles。"
+diagram_alt: Conform 与 Online 套底专题图解
+diagram_caption: 示意：回批不是“打开成功”，是每一刀都能对回原素材并保留 handles。
 difficulty: intermediate
 stage: handbook
 format: workflow
-authors: ["TVCN 后期组"]
+authors:
+- TVCN 后期组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S23, S30, S34]
-test_context: "复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere Pro 2025 复跑；不声称每台机器结果一致。"
-known_failures: "已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。"
+sources:
+- S23
+- S30
+- S34
+test_context: 复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere Pro 2025 复跑；不声称每台机器结果一致。
+known_failures: 已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。
 verified: 2026-11-22
+related:
+- post.assets.dit-data-handoff.en
+- shoot.camera.composition.en
+- story.screenplay.three-act.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +49,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
 <ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S30]</span> DaVinci Resolve 产品与文档</li><li><span class="mono">[S34]</span> Adobe Premiere Pro 用户指南</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

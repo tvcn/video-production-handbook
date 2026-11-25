@@ -5,47 +5,55 @@ type: article
 lang: en
 translation_key: formats.wedding.wedding-structure
 translation_status: reviewed
-title: "Wedding Film Structure: Ceremony Before Style"
-summary: "Protect ceremony and vows before slow motion and grading; style cannot save a missed ritual."
+title: 'Wedding Film Structure: Ceremony Before Style'
+summary: Protect ceremony and vows before slow motion and grading; style cannot save
+  a missed ritual.
 slug: wedding-structure
-aliases: [wedding-structure]
+aliases:
+- wedding-structure
 canonical_site: formats
-canonical_path: /en/wedding/wedding-structure/
+canonical_path: /en/article/wedding-structure/
 status: published
 diagram: /images/diagrams/en/wedding-structure.svg
-diagram_alt: "Wedding Film Structure: Ceremony Before Style three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Wedding Film Structure: Ceremony Before Style.'
+diagram_caption: 'Watch “Use two cameras: a wide master for the” and “Keep vows complete
+  without slow motion.”; judge whether the reason given in the first three seconds
+  still holds at the end.'
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: ["TVCN Formats Desk"]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Formats Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- formats.brand.brand-film.en
+- post.color.hdr-workflow.en
+- shoot.safety.set-safety.en
 depth: deep
 deep_minutes: 7
-sources: [S14, S15, S16]
-test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
-known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
+sources:
+- S14
+- S15
+- S16
+test_context: 'Review setup: composite samples and public cases; previewed on MacBook
+  Pro M1 / iPhone 13; not one real client project.'
+known_failures: 'Known failures: composite samples are not client proof; platform
+  length/spec changes expire templates.'
 verified: 2026-11-22
+source_kind: sourced
 ---
 
-<p>Protect ceremony and vows before slow motion and grading; style cannot save a missed ritual.</p>
+<p>A wedding film starts from what happened today: one morning action, two separate preparations, the ceremony whole, the first embrace after. One action per section, not equal coverage of every ritual.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/wedding-structure.svg" alt="Wedding Film Structure: Ceremony Before Style three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/wedding-structure.svg" alt="Structure diagram for Wedding Film Structure: Ceremony Before Style.">
+  <figcaption>Watch “Use two cameras: a wide master for the” and “Keep vows complete without slow motion.”; judge whether the reason given in the first three seconds still holds at the end.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Cover the ceremony with two cameras: a wide for the flow, a close for hands and rings. Do not cut to slow motion during the vows.</p>
-<h2>Do this</h2>
-<p>A wedding film protects ceremony and vows before slow motion and grading; a missed ritual cannot be saved by style.</p><ol><li>Use two cameras: a wide master for the flow, a close-up for hands and rings.</li><li>Keep vows complete without slow motion.</li><li>Then add one quiet reaction shot.</li></ol>
-<h2>Avoid</h2>
-<p>Do not use slow motion instead of emotion; slow is not deep.</p>
-<h2>Check</h2>
-<ul><li>A wide master covers the ceremony without gaps.</li><li>Vows run complete without slow motion or music cuts.</li><li>At least one quiet reaction shot exists, not a posed smile.</li></ul>
+<section><h2 id="section-1">Use the actions of the day, not dress still lifes</h2><p>Keep vows sync and pull the music back. The audience needs to hear what they said, not a song.</p><h2 id="section-2">Limits</h2><p>Do not write “happy forever” for them. A wedding film can be warm, but narration should not summarize their lives; leave one true line of their own.</p></section><section><h2 id="section-3">On set</h2><p>Cover the ceremony with two cameras: a wide for the flow, a close for hands and rings. Do not cut to slow motion during the vows.</p></section><section><h2 id="section-4">Do this</h2><p>A wedding film protects ceremony and vows before slow motion and grading; a missed ritual cannot be saved by style.</p><ol><li>Use two cameras: a wide master for the flow, a close-up for hands and rings.</li><li>Keep vows complete without slow motion.</li><li>Then add one quiet reaction shot.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not use slow motion instead of emotion; slow is not deep.</p></section><figure class="article-audio"><audio controls preload="none" src="../../../assets/audio/en/fmt-wedding.en.mp3"></audio><figcaption>20-second audio demo: one check point and the most common failure. Transcript and steps are in the article.</figcaption></figure><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the first three seconds give a believable reason</li><li>the middle adds information or resistance, not just mood</li><li>the ending shows a visible change instead of narrating it</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>the template is filled but the person and problem are not</li><li>no reason in the first three seconds, only title and music</li><li>no visible change at the end, only voice-over</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Break down one 30-second reference, mark the timecodes for “Use two cameras: a wide master for the” and “Keep vows complete without slow motion.”, then answer: if one disappeared, would the film still hold?</p></section>
+<h2>Check</h2><ul><li>A wide master covers the ceremony without gaps.</li><li>Vows run complete without slow motion or music cuts.</li><li>At least one quiet reaction shot exists, not a posed smile.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive
@@ -64,8 +72,3 @@ verified: 2026-11-22
 <ul><li>Vows recorded complete</li><li>Ring exchange covered</li><li>Parents’ reactions captured</li><li>Camera not blocking the aisle</li><li>One lav per partner</li><li>Independent recorder at the front</li><li>One quiet moment found</li><li>That moment has action and relationship</li><li>Preparation under one third</li><li>Music never covers vows</li></ul><p>A wedding film does not prove how much you covered; it proves you saw how two people care for each other.</p>
 <!-- DEEP_DIVE_END -->
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
-<!-- SOURCES_END -->

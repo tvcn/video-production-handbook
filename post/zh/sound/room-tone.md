@@ -10,13 +10,13 @@ summary: "房间的声音不是噪声，是空间。每换一个地方，录三�
 slug: room-tone
 aliases: [room-tone, 环境音, 底噪, 空场]
 canonical_site: post
-canonical_path: /sound/room-tone/
+canonical_path: /article/room-tone/
 status: published
 difficulty: beginner
 stage: post
 format: dialogue
 tools: [audio]
-authors: [editor]
+authors: ["TVCN 后期组"]
 reviewers: [technical-reviewer]
 cover: /images/post/room-tone.webp
 diagram: /images/diagrams/zh/room-tone.png
@@ -25,7 +25,7 @@ diagram_caption: "环境音是连续的一条底。对白断开的地方，靠�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [post.sound.sound-post, post.editing.mix-dialogue]
+related: [post.editing.mix-dialogue.en, post.editing.transitions.en, post.sound.sound-post.en]
 ---
 
 <!-- DIAGRAM_START -->

@@ -9,13 +9,13 @@ title: 镜头视角计算器：焦距、画幅与水平视角
 summary: 输入传感器宽度和焦距，算出水平视角；用来判断这支镜头在室内、户外和人物近景里够不够用。
 slug: fov
 canonical_site: tools
-canonical_path: /calculators/fov/
+canonical_path: /article/fov/
 status: published
 difficulty: beginner
 stage: prep
 format: all
 tools: [camera, lens]
-authors: [editor]
+authors: ["TVCN 工具组"]
 reviewers: [technical-reviewer]
 diagram: /images/diagrams/zh/fov.svg
 diagram_alt: "视角不是放大：画幅和焦距一起决定"
@@ -23,7 +23,10 @@ diagram_caption: "同一焦距，画幅越小，视角越窄；视角变窄不�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [main.paths.first-film]
+related:
+- main.paths.first-film
+- tools.calculator.dof-calculator
+- tools.guide.rent-camera
 ---
 
 <!-- DIAGRAM_START -->
@@ -69,3 +72,10 @@ related: [main.paths.first-film]
 ## 边界
 
 这是水平视角，不含畸变、呼吸效应和镜头实际标称误差；电影镜头以实测为准。
+
+<p><strong>边界</strong></p>
+水平视角只是第一步。广角端的畸变、镜头的呼吸效应、传感器的实际裁切，都会让画面和公式有差异；电影镜头以实拍测试为准，不拿标称焦距当保证。
+
+## 练习
+
+拿一支 24mm 和一支 50mm，在同一间房、同一个机位各拍一张。先算水平视角，再对照画面：24mm 能装下多少墙，50mm 把人物放大了多少。能解释“视角变宽”和“主体变大”不是同一件事，这一页才算用上。

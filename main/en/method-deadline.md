@@ -5,43 +5,58 @@ type: template
 lang: en
 translation_key: main.method.method-deadline
 translation_status: reviewed
-title: "There Is No Time"
-summary: "Cut shots and locations, not sound or backup; post can be lean, media cannot."
+title: There Is No Time
+summary: Cut shots and locations, not sound or backup; post can be lean, media cannot.
 slug: method-deadline
-aliases: [method-deadline]
+aliases:
+- method-deadline
 canonical_site: main
-canonical_path: /en/method/method-deadline/
+canonical_path: /en/article/method-deadline/
 status: published
 diagram: /images/diagrams/en/method-deadline.svg
-diagram_alt: "There Is No Time three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: Structure diagram for There Is No Time.
+diagram_caption: Watch “Split the shot list into must-have and nice-to-have;” and
+  “Merge locations and camera setups to cut moves.”; judge whether the symptom can
+  be restated as one observable sentence.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Editorial
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- main.method.method-shoot-alone.en
+- main.method.method-client-revision.en
+- main.method.method-no-budget.en
 depth: deep
 deep_minutes: 6
+source_kind: experience
 ---
 
-<p>Cut shots and locations, not sound or backup; post can be lean, media cannot.</p>
+<p>Fix the delivery date and immovable gates: client review, platform launch, event date. Then count back through post, shoot, prep and recce, leaving rework time—not “probably enough.”</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/method-deadline.svg" alt="There Is No Time three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/method-deadline.svg" alt="Structure diagram for There Is No Time.">
+  <figcaption>Watch “Split the shot list into must-have and nice-to-have;” and “Merge locations and camera setups to cut moves.”; judge whether the symptom can be restated as one observable sentence.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Cut shots and scenes, not sound and backup. Post can be lean; media cannot be missing.</p>
-<h2>Do this</h2>
-<p>Short on time: cut shots and locations, not sound or backup. Post can be leaner; footage cannot be missing.</p><ol><li>Split the shot list into must-have and nice-to-have; shoot must-have first.</li><li>Merge locations and camera setups to cut moves.</li><li>Protect fixed time for backup, meals, and wrap; do not squeeze them.</li></ol>
-<h2>Avoid</h2>
-<p>Do not trade sleep or backup for time; a failure costs more.</p>
-<h2>Check</h2>
-<ul><li>The shot list is split into must-have and nice-to-have; must-have is shot first.</li><li>Locations and setups are merged and moves reduced.</li><li>Time for backup, meals, and wrap is protected.</li></ul>
+<section><h2 id="section-1">Schedule backward from delivery, not forward from the shoot</h2><p>Write latest decision dates: if the location is not locked by then, switch; if cast is not confirmed, rewrite.</p><h2 id="section-2">Limits</h2><p>Rushing does not mean cutting sound and QC. When time is short, cut scope, not acceptance; a film without sound and QC is not delivered.</p><h2 id="section-3">Back-planning is not squeezing the schedule; it is finding the critical path</h2>
+<p>“Next week” is usually not a date; it is anxiety. Ask for three dates: internal review, platform launch and the latest acceptable delivery. Once those exist, plan backwards; do not count days from today.</p>
+<div class="table-scroll"><table class="data-table"><thead><tr><th>Back-planned milestone</th><th>Minimum reserve</th><th>Cost of compressing it</th></tr></thead><tbody>
+<tr><td>Final delivery</td><td>2 days before launch</td><td>No revision or transcode buffer</td></tr>
+<tr><td>Client final review</td><td>1 day before delivery</td><td>Notes cannot be fixed; errors ship</td></tr>
+<tr><td>Rough cut</td><td>2 days before final review</td><td>Structural problems surface at the end</td></tr>
+<tr><td>Shoot</td><td>1 day before rough cut</td><td>No backup; edit starts with damaged media</td></tr>
+<tr><td>Script / storyboard lock</td><td>2 days before shoot</td><td>On-set rewrites; crew and location idle</td></tr>
+</tbody></table></div>
+<h3>There is only one critical path</h3>
+<p>Write the prerequisites for every task; the longest chain is the critical path. Compressing a non-critical task does not finish the project earlier; it only creates a longer wait. If the shoot on the critical path is one day, do not spend the budget on a second camera; protect that day first.</p>
+<h3>Name three buffers</h3>
+<ul><li>Shoot buffer: weather, location, late talent, two hours.</li><li>Post buffer: software crash, media re-transcode, one day.</li><li>Client buffer: approval delay, one day.</li></ul>
+<p>A buffer is not “if there is time.” Put it on the calendar and tell the client, “these days are protected; no new tasks.” An unnamed buffer will always be eaten by another meeting.</p></section><section><h2 id="section-4">On set</h2><p>Cut shots and scenes, not sound and backup. Post can be lean; media cannot be missing.</p></section><section><h2 id="section-5">Do this</h2><p>Short on time: cut shots and locations, not sound or backup. Post can be leaner; footage cannot be missing.</p><ol><li>Split the shot list into must-have and nice-to-have; shoot must-have first.</li><li>Merge locations and camera setups to cut moves.</li><li>Protect fixed time for backup, meals, and wrap; do not squeeze them.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not trade sleep or backup for time; a failure costs more.</p></section><section><p><strong>Boundary</strong></p><p>It does not guarantee a story. The template only orders structure; the person, obstacle and cost still need writing.</p></section><section><h2>Alternative</h2><p>If “Split the shot list into must-have and nice-to-have;” is not the main problem, start with the basic move behind “Merge locations and camera setups to cut moves.”. Upgrade only after both hold.</p></section><section><h2>60-second test</h2><p>Run a 60-second test with the gear you own, focused on “Split the shot list into must-have and nice-to-have;”, and record one number. If the number does not change, do not add budget.</p></section><section><h2>When not to use</h2><p>Do not use the template when “Split the shot list into must-have and nice-to-have;” is still unclear or “Merge locations and camera setups to cut moves.” is only filler. Go back to the person and the problem.</p></section><section><h2>Three failures</h2><ul><li>Every beat exists, but no one makes a decision.</li><li>The middle changes location, not information.</li><li>The ending is narrated, with no visible change.</li></ul></section>
+<h2>Check</h2><ul><li>The shot list is split into must-have and nice-to-have; must-have is shot first.</li><li>Locations and setups are merged and moves reduced.</li><li>Time for backup, meals, and wrap is protected.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

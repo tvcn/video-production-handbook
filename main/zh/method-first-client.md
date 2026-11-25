@@ -5,43 +5,54 @@ type: template
 lang: zh
 translation_key: main.method.method-first-client
 translation_status: source
-title: "第一个客户怎么接"
-summary: "第一个客户从熟人、社区和小商家开始；先给一个具体方案，不要发作品集大海报。"
+title: 第一个客户怎么接
+summary: 第一个客户从熟人、社区和小商家开始；先给一个具体方案，不要发作品集大海报。
 slug: method-first-client
-aliases: [method-first-client]
+aliases:
+- method-first-client
 canonical_site: main
-canonical_path: /method/method-first-client/
+canonical_path: /article/method-first-client/
 status: published
 diagram: /images/diagrams/zh/method-first-client.svg
-diagram_alt: "第一个客户怎么接 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 第一个客户怎么接的结构示意图。
+diagram_caption: 看“列十个可能认识的人或店，选一个真有拍…”和“给对方一页方案：拍什么、多久、交什么…”两处，判断症状能不能被复述成一句可观察的话。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 编辑部
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- main.method.method-quote-low.en
+- main.method.method-portfolio-empty.en
+- main.method.method-client-revision.en
 depth: deep
 deep_minutes: 7
+sources:
+- S22
+- S23
+source_kind: sourced
 ---
 
-<p>第一个客户从熟人、社区和小商家开始；先给一个具体方案，不要发作品集大海报。</p>
+<p>不要从“谁会给我钱”开始，从“我帮谁解决过什么具体问题”开始。列出三个你实际做过的成果：省了多少时间、减少了多少次返工、让什么流程能跑通。第一个客户通常来自这三件事的同类人。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/method-first-client.svg" alt="第一个客户怎么接 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/method-first-client.svg" alt="第一个客户怎么接的结构示意图。">
+  <figcaption>看“列十个可能认识的人或店，选一个真有拍…”和“给对方一页方案：拍什么、多久、交什么…”两处，判断症状能不能被复述成一句可观察的话。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>从熟人、社区、小商家开始；给一个具体方案，不发大海报。</p>
-<h2>怎么做</h2>
-<p>第一个客户从熟人、社区和小商家开始；先给一个具体方案，不要发作品集大海报。</p><ol><li>列十个可能认识的人或店，选一个真有拍摄需求的。</li><li>给对方一页方案：拍什么、多久、交什么、多少钱。</li><li>先做一个小单，按时交付，再要一句评价或转介绍。</li></ol>
-<h2>别踩</h2>
-<p>别群发“我会拍视频”；具体方案比自我介绍有用。</p>
-<h2>验收</h2>
-<ul><li>列了十个可能认识的人或店，选了一个真有需求的。</li><li>给了一页方案：拍什么、多久、交什么、多少钱。</li><li>小单按时交付，拿到一句评价或转介绍。</li></ul>
+<section><h2 id="section-1">第一个客户从“你已经解决过的问题”找</h2><p>第一次合作把范围缩小到一件可交付的事，不要卖“全年内容方案”。</p><h2 id="section-2">边界</h2><p>低价不是入场券。报价低于成本，第一个客户会变成第一个烂尾；用明确范围换信任，不用免费换。</p><h2 id="section-3">第一单不靠人脉，靠一个可验证的小交付</h2>
+<p>没有客户时，最有效的做法不是发“我可以拍片”的私信，而是做一个 30–60 秒的样本，直接对应某类人的一个具体问题。样本要能被对方在 10 秒内看懂，且能指出“这就是我们”。</p>
+<h3>三个来源，按成功率排序</h3>
+<ol><li>你已经在的社群：行业群、校友、前同事。先帮一个人解决一个 1 小时内能完成的小问题，不收费，留下可复用的文件。</li><li>本地小商家：咖啡馆、理发店、宠物店。带一个 30 秒样片上门，问“你现在的照片/视频最缺什么”，不要先讲设备。</li><li>公开招募：品牌共创、平台任务。用它练报价和交付，不指望第一单赚钱。</li></ol>
+<h3>首单范围要小到能关门</h3>
+<p>只接一个场景、一个成片、两轮修改，周期不超过 7 天。首单的目标不是利润，是拿到三样东西：一次完整流程、一个可公开的案例、一个愿意写两句反馈的客户。把“后续合作”写进邮件，但不写进报价。</p>
+<h3>第一次会面问四个问题</h3>
+<ul><li>这条片子给谁看？</li><li>你希望他们看完做什么？</li><li>现在没有这条片子，会损失什么？</li><li>预算和上线时间哪个更紧？</li></ul>
+<p>四个问题答不全，说明项目还没准备好；先卖一个 1 页方案或 1 天咨询，不要直接承诺成片。</p></section><section><h2 id="section-4">现场</h2><p>从熟人、社区、小商家开始；给一个具体方案，不发大海报。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>列十个可能认识的人或店，选一个真有拍摄需求的。</li><li>给对方一页方案：拍什么、多久、交什么、多少钱。</li><li>先做一个小单，按时交付，再要一句评价或转介绍。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别群发“我会拍视频”；具体方案比自我介绍有用。</p></section><section><h2>替代</h2><p>如果“列十个可能认识的人或店，选一个真有拍…”不是你的主问题，先用“给对方一页方案：拍什么、多久、交什么…”对应的基础做法；两项都成立再考虑升级。</p></section><section><h2>60 秒自测</h2><p>用现有器材按“列十个可能认识的人或店，选一个真有拍…”做一次 60 秒测试，记下一个数字；数字没有变化，就不要加预算。</p></section><section><h2>什么时候不该用</h2><p>当“列十个可能认识的人或店，选一个真有拍…”还没写清，或“给对方一页方案：拍什么、多久、交什么…”只是凑数时，不要套模板；先回到人物和问题。</p></section><section><h2>三个失败</h2><ul><li>模板每段都有，但人物没有决定。</li><li>中段只换场景，没有新信息。</li><li>结尾靠旁白总结，画面没有变化。</li></ul></section>
+<h2>验收</h2><ul><li>列了十个可能认识的人或店，选了一个真有需求的。</li><li>给了一页方案：拍什么、多久、交什么、多少钱。</li><li>小单按时交付，拿到一句评价或转介绍。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读
@@ -59,3 +70,12 @@ deep_minutes: 7
 ### 第一个客户，十项检查
 <ul><li>第一单只卖一个小范围</li><li>一个地点一个人物一个交付</li><li>先问给谁看和看完做什么</li><li>交付日期写清</li><li>报价四行写进一页纸</li><li>定金至少一半</li><li>尾款在源文件前结清</li><li>只含一轮修改</li><li>反馈一次提完</li><li>交付三种文件加一页说明</li></ul><p>第一个客户买的不是你的才华，是你能不能把一件小事按时、按范围、按价格交完。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S22] 《中华人民共和国民法典》；见 SOURCES.md 的原始链接与用途。
+- [S23] SMPTE 标准入口；见 SOURCES.md 的原始链接与用途。
+
+完整链接与用途见 [`SOURCES.md`](../../about/)。
+<!-- SOURCES_END -->

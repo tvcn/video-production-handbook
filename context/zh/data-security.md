@@ -5,47 +5,48 @@ type: literacy
 lang: zh
 translation_key: context.law.data-security
 translation_status: source
-title: "素材安全：客户隐私与泄露"
-summary: "素材安全包括硬盘、云盘、聊天记录和转发权限；客户隐私不是只有正片。"
+title: 素材安全：客户隐私与泄露
+summary: 素材安全包括硬盘、云盘、聊天记录和转发权限；客户隐私不是只有正片。
 slug: data-security
-aliases: [data-security]
+aliases:
+- data-security
 canonical_site: context
-canonical_path: /law/data-security/
+canonical_path: /article/data-security/
 status: published
 diagram: /images/diagrams/zh/data-security.svg
-diagram_alt: "素材安全：客户隐私与泄露 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 素材安全：客户隐私与泄露的结构示意图。
+diagram_caption: 看“移动硬盘加密，云盘按项目设权限”和“聊天记录不转发原片，只发受控链接”两处，判断它替代了什么旧办法，又新增了什么限制。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-sources: [S03]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 研究组
+sources:
+- S03
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- context.law.location-release.en
+- context.history.digital-cinema.en
+- context.history.video-tape.en
+source_kind: sourced
 ---
 
-<p>素材安全包括硬盘、云盘、聊天记录和转发权限；客户隐私不是只有正片。</p>
+<p>把素材分三级：可公开、仅客户、含个人信息。含个人信息的素材单独加密盘、单独权限、单独归档；不要和宣传素材混在一个共享文件夹。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/data-security.svg" alt="素材安全：客户隐私与泄露 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/data-security.svg" alt="素材安全：客户隐私与泄露的结构示意图。">
+  <figcaption>看“移动硬盘加密，云盘按项目设权限”和“聊天记录不转发原片，只发受控链接”两处，判断它替代了什么旧办法，又新增了什么限制。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>硬盘加密、云盘权限、聊天记录、转发权限；客户隐私包括废片和备份。</p>
-<h2>怎么做</h2>
-<p>素材安全包括硬盘、云盘、聊天记录和转发权限；客户隐私不是只有正片。</p><ol><li>移动硬盘加密，云盘按项目设权限。</li><li>聊天记录不转发原片，只发受控链接。</li><li>废片和备份同样按客户隐私管理。</li></ol>
-<h2>别踩</h2>
-<p>别把废片当没用的东西；废片里一样有客户隐私。</p>
-<h2>验收</h2>
-<ul><li>移动硬盘加密，云盘按项目分级授权。</li><li>聊天里没有直接转发原片，只用受控链接。</li><li>废片和备份与正片执行同一套隐私规则。</li></ul>
+<section><h2 id="section-1">项目数据先分级，再谈加密</h2><p>交付用加密链接或硬盘，设置有效期；项目结束撤销共享权限，保留一份归档清单。</p><h2 id="section-2">边界</h2><p>加密不是万能。弱密码、重复密码、把密钥和文件放一起，等于没加密；权限和流程比算法更重要。</p></section><section><h2 id="section-3">现场</h2><p>硬盘加密、云盘权限、聊天记录、转发权限；客户隐私包括废片和备份。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>移动硬盘加密，云盘按项目设权限。</li><li>聊天记录不转发原片，只发受控链接。</li><li>废片和备份同样按客户隐私管理。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别把废片当没用的东西；废片里一样有客户隐私。</p></section><section><h2>今天怎么用</h2><p>把这条历史放回一个今天的工作：做档案、修复、教学或短片时，先问它解决了什么，再问它今天还缺什么。</p><ul><li>找一条今天的同类作品，标出一个它继承的旧限制。</li><li>找一个它已经不再需要的条件，说明为什么。</li><li>写一句今天仍不能做的事。</li></ul></section><section><h2>来源边界</h2><p>这是解释，不是原始档案；关键年份、人物和法律条文回到 <a href="../../about/">SOURCES.md</a> 的原始链接复核。二手叙述只能当线索，不能当证据。</p></section>
+<h2>验收</h2><ul><li>移动硬盘加密，云盘按项目分级授权。</li><li>聊天里没有直接转发原片，只用受控链接。</li><li>废片和备份与正片执行同一套隐私规则。</li></ul>
 
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
 - [S03] 《中华人民共和国个人信息保护法》
 
-完整链接与用途见 [`SOURCES.md`](../../SOURCES.md)。
+完整链接与用途见 [`SOURCES.md`](../../about/)。
 <!-- SOURCES_END -->

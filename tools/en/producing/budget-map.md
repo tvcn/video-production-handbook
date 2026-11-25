@@ -11,13 +11,13 @@ summary: "A budget is not a column of numbers. It is four buckets: what must be 
 slug: budget-map
 aliases: [budget, production budget, four buckets]
 canonical_site: tools
-canonical_path: /en/producing/budget-map/
+canonical_path: /en/article/budget-map/
 status: published
 difficulty: beginner
 stage: producing
 format: workflow
 tools: [budget, sheet]
-authors: [editor]
+authors: ["TVCN Tools Desk"]
 reviewers: [technical-reviewer]
 cover: /images/tools/budget-map.webp
 diagram: /images/diagrams/en/budget-map.png
@@ -26,7 +26,7 @@ diagram_caption: "Must-pay, on-screen, swappable, buffer. Set the proportions be
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [tools.producing.budget-contingency, tools.producing.call-sheet]
+related: [tools.producing.budget-contingency.en, tools.producing.stripboard.en, tools.calculator.budget-calculator.en]
 ---
 
 <!-- DIAGRAM_START -->

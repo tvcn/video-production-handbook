@@ -5,26 +5,38 @@ type: article
 lang: zh
 translation_key: tools.guide.buy-storage-cards
 translation_status: source
-title: "购买存储卡：VPG、持续写入与发热"
-summary: "卡的标称读取速度没有意义，持续写入才决定会不会丢帧。先看相机要求的最小持续写入，再买高一档的卡，并至少两张轮换。"
+title: 购买存储卡：VPG、持续写入与发热
+summary: 卡的标称读取速度没有意义，持续写入才决定会不会丢帧。先看相机要求的最小持续写入，再买高一档的卡，并至少两张轮换。
 slug: buy-storage-cards
-aliases: [buy-storage-cards]
+aliases:
+- buy-storage-cards
 canonical_site: tools
 canonical_path: /article/buy-storage-cards/
 status: published
 diagram: /images/diagrams/zh/buy-storage-cards.svg
-diagram_alt: "购买存储卡专题图解"
-diagram_caption: "示意：VPG、持续写入、容量、发热、恢复，五项决定一张卡能不能上项目。"
+diagram_alt: 购买存储卡专题图解
+diagram_caption: 示意：VPG、持续写入、容量、发热、恢复，五项决定一张卡能不能上项目。
 difficulty: intermediate
 stage: handbook
 format: guide
-authors: ["TVCN 工具组"]
+authors:
+- TVCN 工具组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S23, S25, S26, S29, S38]
-test_context: "复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。"
-known_failures: "已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。"
+sources:
+- S23
+- S25
+- S26
+- S29
+- S38
+test_context: 复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。
+known_failures: 已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。
 verified: 2026-11-22
+related:
+- tools.guide.buy-timecode.en
+- ai.audio.ai-tts.en
+- animation.3d.rigging.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +51,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：编辑部现场手册与购买检查表；实测来源：短测与公开规格核对，不是实验室跑分；参考来源：以下厂商与标准链接。</p>
 <ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube 上传规格</li><li><span class="mono">[S38]</span> 国家税务总局</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

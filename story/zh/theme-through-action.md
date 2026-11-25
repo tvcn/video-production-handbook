@@ -5,43 +5,43 @@ type: article
 lang: zh
 translation_key: story.story.theme-through-action
 translation_status: source
-title: "主题：让人物做出来，不让他说出来"
-summary: "主题不要让人物讲出来，让他在压力下做一个能暴露价值观的选择。"
+title: 主题：让人物做出来，不让他说出来
+summary: 主题不要让人物讲出来，让他在压力下做一个能暴露价值观的选择。
 slug: theme-through-action
-aliases: [theme-through-action]
+aliases:
+- theme-through-action
 canonical_site: story
-canonical_path: /story/theme-through-action/
+canonical_path: /article/theme-through-action/
 status: published
 diagram: /images/diagrams/zh/theme-through-action.svg
-diagram_alt: "主题：让人物做出来，不让他说出来 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 主题：让人物做出来，不让他说出来的结构示意图。
+diagram_caption: 看“先写一句你不打算让角色说出的主题”和“设计一个选择：他为了 A 放弃 B”两处，判断人物想要的東西能不能用一个动作说出来。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 故事组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- story.story.ending-choice.en
+- story.story.want-stakes.en
+- story.story.scene-sequence.en
 depth: deep
 deep_minutes: 6
+source_kind: experience
 ---
 
-<p>主题不要让人物讲出来，让他在压力下做一个能暴露价值观的选择。</p>
+<p>“主题”不是一句旁白，而是一个反复出现、每次含义不同的动作。比如一个人每次紧张就擦桌子：第一次是习惯，第二次是掩饰，第三次是告别。观众从动作的变化读到主题。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/theme-through-action.svg" alt="主题：让人物做出来，不让他说出来 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/theme-through-action.svg" alt="主题：让人物做出来，不让他说出来的结构示意图。">
+  <figcaption>看“先写一句你不打算让角色说出的主题”和“设计一个选择：他为了 A 放弃 B”两处，判断人物想要的東西能不能用一个动作说出来。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>先写一句你不打算让角色说出的主题，再设计一个选择：他为了 A 放弃 B，镜头只拍他伸手和停住。</p>
-<h2>怎么做</h2>
-<p>主题不要让人物讲出来，让他在压力下做一个能暴露价值观的选择。</p><ol><li>先写一句你不打算让角色说出的主题。</li><li>设计一个选择：他为了 A 放弃 B。</li><li>镜头只拍他伸手和停住，让观众自己读出主题。</li></ol>
-<h2>别踩</h2>
-<p>别让主题靠台词总结；让选择本身暴露立场。</p>
-<h2>验收</h2>
-<ul><li>成片里没有人说出那句主题，主题靠选择成立。</li><li>选择有明确的 A 和 B，观众知道放弃了什么。</li><li>最后一个动作是伸手或停住，不是解释性台词。</li></ul>
+<section><h2 id="section-1">主题要落在重复的动作上</h2><p>写主题句后，问“哪个动作能证明它？”找不到动作，就还停在概念。</p><h2 id="section-2">边界</h2><p>不要让角色说出主题。角色可以说错、说反、说不出口；主题由整部片的结构证明，不由台词宣布。</p></section><section><h2 id="section-3">现场</h2><p>先写一句你不打算让角色说出的主题，再设计一个选择：他为了 A 放弃 B，镜头只拍他伸手和停住。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>先写一句你不打算让角色说出的主题。</li><li>设计一个选择：他为了 A 放弃 B。</li><li>镜头只拍他伸手和停住，让观众自己读出主题。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别让主题靠台词总结；让选择本身暴露立场。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>人物的目标能用一个动作说出来</li><li>障碍在同一场里升级，而不是换一个</li><li>删掉一句解释对白，冲突仍然成立</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>人物想要什么没写清，场面只剩情绪</li><li>障碍靠巧合解决，人物没有做决定</li><li>对白把画面已经说明的事再说一遍</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>写一页 30 秒的场景，只保留“先写一句你不打算让角色说出的主题”和“设计一个选择：他为了 A 放弃 B”，删掉所有解释；请一个人读一遍，问他能不能复述人物想要什么。</p></section>
+<h2>验收</h2><ul><li>成片里没有人说出那句主题，主题靠选择成立。</li><li>选择有明确的 A 和 B，观众知道放弃了什么。</li><li>最后一个动作是伸手或停住，不是解释性台词。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读

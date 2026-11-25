@@ -11,13 +11,13 @@ summary: "Scheduling is not filling the calendar in script order. Break the scri
 slug: stripboard
 aliases: [stripboard, shooting schedule, breakdown, production board]
 canonical_site: tools
-canonical_path: /en/producing/stripboard/
+canonical_path: /en/article/stripboard/
 status: published
 difficulty: beginner
 stage: producing
 format: workflow
 tools: [budget, sheet]
-authors: [editor]
+authors: ["TVCN Tools Desk"]
 reviewers: [technical-reviewer]
 cover: /images/tools/stripboard.webp
 diagram: /images/diagrams/en/stripboard.png
@@ -26,7 +26,7 @@ diagram_caption: "Break the script into strips, then group by location and cast.
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [tools.producing.call-sheet, tools.producing.budget-map]
+related: [tools.producing.budget-map.en, tools.producing.casting.en, tools.workflow.first-shoot-day.en]
 ---
 
 <!-- DIAGRAM_START -->

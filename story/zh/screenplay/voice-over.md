@@ -10,13 +10,13 @@ summary: "旁白不是把画面再说一遍。它要么给画面没有的信息�
 slug: voice-over
 aliases: [voice-over, 旁白, 画外音, 解说]
 canonical_site: story
-canonical_path: /screenplay/voice-over/
+canonical_path: /article/voice-over/
 status: published
 difficulty: intermediate
 stage: script
 format: short-film
 tools: [script, audio]
-authors: [editor]
+authors: ["TVCN 故事组"]
 reviewers: [technical-reviewer]
 cover: /images/story/voice-over.webp
 diagram: /images/diagrams/zh/voice-over.png
@@ -25,7 +25,7 @@ diagram_caption: "画面已经说了，旁白就闭嘴；画面说不了，旁�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [story.screenplay.logline, post.sound.sound, post.editing.transitions]
+related: [story.screenplay.dialogue.en, story.screenplay.character-arc.en, story.screenplay.conflict.en]
 ---
 
 <!-- DIAGRAM_START -->

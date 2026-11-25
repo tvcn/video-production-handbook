@@ -10,13 +10,13 @@ summary: "交付不是点导出。先问平台要什么：比例、分辨率、�
 slug: delivery-specs
 aliases: [delivery, 交付, 导出, 输出规格]
 canonical_site: tools
-canonical_path: /delivery/delivery-specs/
+canonical_path: /article/delivery-specs/
 status: published
 difficulty: beginner
 stage: deliver
 format: workflow
 tools: [edit, output]
-authors: [editor]
+authors: ["TVCN 工具组"]
 reviewers: [technical-reviewer]
 cover: /images/tools/delivery-specs.webp
 diagram: /images/diagrams/zh/delivery-specs.png
@@ -25,7 +25,7 @@ diagram_caption: "规格先写成表，交付前按表逐项勾。最后一步�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [tools.delivery.publish-checklist, post.color.color, tools.workflow.storage]
+related: [tools.delivery.publish-checklist.en, tools.workflow.storage.en, tools.tutorial.backup-3-2-1.en]
 depth: deep
 deep_minutes: 7
 ---

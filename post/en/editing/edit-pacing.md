@@ -11,13 +11,13 @@ summary: "Fast cuts do not make a film good. Cut the explanation, land cuts on m
 slug: edit-pacing
 aliases: [edit-pacing]
 canonical_site: post
-canonical_path: /en/editing/edit-pacing/
+canonical_path: /en/article/edit-pacing/
 status: published
 difficulty: beginner
 stage: post
 format: short-film
 tools: [edit, sound]
-authors: [editor]
+authors: ["TVCN Post Desk"]
 reviewers: [technical-reviewer]
 cover: /images/post/edit-pacing.webp
 diagram: /images/diagrams/en/edit-pacing.png
@@ -26,7 +26,7 @@ diagram_caption: "Cut at peak curiosity. Give the audience a breath before it dr
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [rough-cut, color]
+related: [post.editing.fine-cut.en, post.sound.music-editing.en, post.editing.cutting-points.en]
 depth: deep
 deep_minutes: 6
 ---

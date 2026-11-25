@@ -11,13 +11,13 @@ summary: Moving the camera is easy. Keeping the audience from noticing the machi
 slug: camera-move
 aliases: [camera-move, camera movement, blocking]
 canonical_site: shoot
-canonical_path: /en/camera/camera-move/
+canonical_path: /en/article/camera-move/
 status: published
 difficulty: intermediate
 stage: shoot
 format: short-film
 tools: [camera, gimbal]
-authors: [editor]
+authors: ["TVCN Shoot Desk"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/camera-move.webp
 diagram: /images/diagrams/en/camera-move.png
@@ -26,7 +26,7 @@ diagram_caption: "Follow, reveal, pressure: one per shot. Stop after the move so
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [tools.camera.camera-choice, shoot.lighting.ratio]
+related: [shoot.camera.shot-size.en, shoot.camera.lens-distance.en, shoot.production.camera-height.en]
 ---
 
 <!-- DIAGRAM_START -->

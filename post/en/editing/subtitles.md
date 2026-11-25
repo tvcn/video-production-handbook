@@ -11,13 +11,13 @@ summary: "Subtitles are not a transcript. They have to land the meaning before t
 slug: subtitles
 aliases: [subtitles, caption layout, caption timing]
 canonical_site: post
-canonical_path: /en/editing/subtitles/
+canonical_path: /en/article/subtitles/
 status: published
 difficulty: intermediate
 stage: post
 format: short-film
 tools: [edit, output]
-authors: [editor]
+authors: ["TVCN Post Desk"]
 reviewers: [technical-reviewer]
 cover: /images/post/subtitles.webp
 diagram: /images/diagrams/en/subtitles.png
@@ -26,7 +26,7 @@ diagram_caption: "Subtitles are not a transcript. Chinese 12–16 characters, En
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [post.sound.sound-post, tools.delivery.publish-checklist]
+related: [post.editing.sound-bridge.en, post.editing.mix-dialogue.en, post.editing.cutting-points.en]
 ---
 
 <!-- DIAGRAM_START -->

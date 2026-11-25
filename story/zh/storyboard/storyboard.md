@@ -10,7 +10,7 @@ summary: "画得丑没关系，现场看得懂就行。一张分镜表只回答�
 slug: storyboard
 aliases: [storyboard]
 canonical_site: story
-canonical_path: /storyboard/storyboard/
+canonical_path: /article/storyboard/
 status: published
 difficulty: beginner
 stage: script
@@ -25,7 +25,7 @@ diagram_caption: "分镜不是把景别排一遍，是把观众该知道的信�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: []
+related: [story.screenplay.three-act.en, tools.guide.buy-audio-first.en, ai.post.ai-qc.en]
 sources: [S02, S16, S17]
 test_context: "复核环境：Windows 11 + Chrome；按公开影片、剧本与平台页面复核；不声称逐帧实测。"
 known_failures: "已知失败：公开案例信息不全；平台规格与片长限制会变化；不同项目需重新验证。"
@@ -72,5 +72,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
 <ul><li><span class="mono">[S02]</span> WIPO：版权常见问题</li><li><span class="mono">[S16]</span> BBC 编辑准则</li><li><span class="mono">[S17]</span> Reuters Trust Principles</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

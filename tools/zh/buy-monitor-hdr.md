@@ -5,26 +5,36 @@ type: article
 lang: zh
 translation_key: tools.guide.buy-monitor-hdr
 translation_status: source
-title: "购买 HDR 监视器：峰值亮度不是全部"
-summary: "HDR 监看要看峰值、黑位、色域、色调映射和校准。只看“1000 nit”会买到一台高亮但高光全糊的屏。"
+title: 购买 HDR 监视器：峰值亮度不是全部
+summary: HDR 监看要看峰值、黑位、色域、色调映射和校准。只看“1000 nit”会买到一台高亮但高光全糊的屏。
 slug: buy-monitor-hdr
-aliases: [buy-monitor-hdr]
+aliases:
+- buy-monitor-hdr
 canonical_site: tools
 canonical_path: /article/buy-monitor-hdr/
 status: published
 diagram: /images/diagrams/zh/buy-monitor-hdr.svg
-diagram_alt: "购买 HDR 监视器专题图解"
-diagram_caption: "示意：峰值、黑位、色域、色调映射、校准，五项决定 HDR 调色是否可信。"
+diagram_alt: 购买 HDR 监视器专题图解
+diagram_caption: 示意：峰值、黑位、色域、色调映射、校准，五项决定 HDR 调色是否可信。
 difficulty: intermediate
 stage: handbook
 format: guide
-authors: ["TVCN 工具组"]
+authors:
+- TVCN 工具组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S24, S26, S28]
-test_context: "复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。"
-known_failures: "已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。"
+sources:
+- S24
+- S26
+- S28
+test_context: 复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。
+known_failures: 已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。
 verified: 2026-11-22
+related:
+- tools.guide.buy-nas-raid.en
+- ai.ethics.model-comparison.en
+- animation.3d.3d-pipeline.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +49,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：编辑部现场手册与购买检查表；实测来源：短测与公开规格核对，不是实验室跑分；参考来源：以下厂商与标准链接。</p>
 <ul><li><span class="mono">[S24]</span> ACES 色彩管理</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S28]</span> Netflix 制作与交付帮助</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

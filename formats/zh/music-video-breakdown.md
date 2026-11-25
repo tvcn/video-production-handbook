@@ -5,23 +5,29 @@ type: article
 lang: zh
 translation_key: formats.music-video.music-video-breakdown
 translation_status: source
-title: "MV 拉片：歌的结构怎么变成画面"
-summary: "按 3 分半 MV 的通用结构，拆 9 个时间码：前奏母题、主歌、预副歌、副歌、主歌二、桥段、副歌二、尾奏、停留。"
+title: MV 拉片：歌的结构怎么变成画面
+summary: 按 3 分半 MV 的通用结构，拆 9 个时间码：前奏母题、主歌、预副歌、副歌、主歌二、桥段、副歌二、尾奏、停留。
 slug: music-video-breakdown
-aliases: [music-video-breakdown]
+aliases:
+- music-video-breakdown
 canonical_site: formats
-canonical_path: /music-video/music-video-breakdown/
+canonical_path: /article/music-video-breakdown/
 status: published
 diagram: /images/diagrams/zh/music-video-breakdown.svg
-diagram_alt: "MV 拉片：歌的结构怎么变成画面：时间码、结构与预算拉片工作纸"
-diagram_caption: "图解是入口：先看时间码，再用文末验收表检查。"
+diagram_alt: MV 拉片：歌的结构怎么变成画面：时间码、结构与预算拉片工作纸
+diagram_caption: 图解是入口：先看时间码，再用文末验收表检查。
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN 片型组
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [main.case.case-music-video, formats.product-ad.product-ad-breakdown, main.path.path-post]
+related:
+- formats.short-drama.short-drama-breakdown.en
+- formats.experimental.experimental-breakdown.en
+- formats.interview.interview-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

@@ -5,43 +5,43 @@ type: article
 lang: zh
 translation_key: story.directing.rehearsal
 translation_status: source
-title: "排练：先走位，再给台词"
-summary: "排练先走位，台词可以拿在手上；身体站对了，话才有地方落。"
+title: 排练：先走位，再给台词
+summary: 排练先走位，台词可以拿在手上；身体站对了，话才有地方落。
 slug: rehearsal
-aliases: [rehearsal]
+aliases:
+- rehearsal
 canonical_site: story
-canonical_path: /directing/rehearsal/
+canonical_path: /article/rehearsal/
 status: published
 diagram: /images/diagrams/zh/rehearsal.svg
-diagram_alt: "排练：先走位，再给台词 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 排练：先走位，再给台词的结构示意图。
+diagram_caption: 看“前 20 分钟只走位，用胶带标门口、…”和“演员不带台词走三遍，只走动作和停顿”两处，判断人物想要的東西能不能用一个动作说出来。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 故事组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- story.directing.actor-adjustment.en
+- story.screenplay.scene-description.en
+- story.storyboard.shot-sheet.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>排练先走位，台词可以拿在手上；身体站对了，话才有地方落。</p>
+<p>现场排练只做三件事：走位、道具交接、台词接点。不要从头到尾演一遍，把情绪用光；把力气留给正式条。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/rehearsal.svg" alt="排练：先走位，再给台词 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/rehearsal.svg" alt="排练：先走位，再给台词的结构示意图。">
+  <figcaption>看“前 20 分钟只走位，用胶带标门口、…”和“演员不带台词走三遍，只走动作和停顿”两处，判断人物想要的東西能不能用一个动作说出来。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>排练前 20 分钟只走位：用胶带标门口、椅子和摄影机；演员不带台词走三遍，第三遍才加台词。</p>
-<h2>怎么做</h2>
-<p>排练先走位，台词可以拿在手上；身体站对了，话才有地方落。</p><ol><li>前 20 分钟只走位，用胶带标门口、椅子和摄影机。</li><li>演员不带台词走三遍，只走动作和停顿。</li><li>第三遍才加台词，确认话落在已经成立的位置上。</li></ol>
-<h2>别踩</h2>
-<p>别在监视器后面喊“自然一点”；演员不知道那是什么意思。</p>
-<h2>验收</h2>
-<ul><li>前两遍没有台词，演员只走位置和动作。</li><li>第三遍加台词后，停顿仍落在动作上。</li><li>演员能说出自己在这一场一直想做什么。</li></ul>
+<section><h2 id="section-1">排练走动作，不走完整表演</h2><p>让摄影和录音一起走一遍，确认机位、麦克风、光线不会被挡住。排练发现的空间问题，比表演问题更值钱。</p><h2 id="section-2">边界</h2><p>排练不是正式拍摄。不要用排练条当素材；演员知道还在排练，动作和注意力都不一样。</p></section><section><h2 id="section-3">现场</h2><p>排练前 20 分钟只走位：用胶带标门口、椅子和摄影机；演员不带台词走三遍，第三遍才加台词。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>前 20 分钟只走位，用胶带标门口、椅子和摄影机。</li><li>演员不带台词走三遍，只走动作和停顿。</li><li>第三遍才加台词，确认话落在已经成立的位置上。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别在监视器后面喊“自然一点”；演员不知道那是什么意思。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>人物的目标能用一个动作说出来</li><li>障碍在同一场里升级，而不是换一个</li><li>删掉一句解释对白，冲突仍然成立</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>人物想要什么没写清，场面只剩情绪</li><li>障碍靠巧合解决，人物没有做决定</li><li>对白把画面已经说明的事再说一遍</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>写一页 30 秒的场景，只保留“前 20 分钟只走位，用胶带标门口、…”和“演员不带台词走三遍，只走动作和停顿”，删掉所有解释；请一个人读一遍，问他能不能复述人物想要什么。</p></section>
+<h2>验收</h2><ul><li>前两遍没有台词，演员只走位置和动作。</li><li>第三遍加台词后，停顿仍落在动作上。</li><li>演员能说出自己在这一场一直想做什么。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读

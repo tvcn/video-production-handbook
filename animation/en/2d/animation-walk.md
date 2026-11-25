@@ -11,13 +11,13 @@ summary: Walks look hard because feet slide, weight is wrong, and limbs move tog
 slug: animation-walk
 aliases: [animation-walk, walk cycle, foot plant]
 canonical_site: animation
-canonical_path: /en/2d/animation-walk/
+canonical_path: /en/article/animation-walk/
 status: published
 difficulty: beginner
 stage: post
 format: animation
 tools: []
-authors: [editor]
+authors: ["TVCN Animation Desk"]
 reviewers: [technical-reviewer]
 cover: /images/animation/animation-walk.webp
 diagram: /images/diagrams/en/animation-walk.png
@@ -26,7 +26,7 @@ diagram_caption: "Pin the planted foot and give the hips a rise and fall. With t
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [animation.2d.animation-timing, animation.2d.2d-animation]
+related: [animation.timing.animation-timing.en, animation.2d.2d-animation.en, animation.pipeline.animatic-pipeline.en]
 depth: deep
 deep_minutes: 6
 ---

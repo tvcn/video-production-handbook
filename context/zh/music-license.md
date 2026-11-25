@@ -5,26 +5,35 @@ type: article
 lang: zh
 translation_key: context.law.music-license
 translation_status: source
-title: "音乐授权：同步权、表演权与平台曲库"
-summary: "“买了这首歌”不等于“能商用”。影视项目至少要区分同步权（把歌录进片子）、表演权（公开播放）、机械复制权（复制音频）和录音制作者权。"
+title: 音乐授权：同步权、表演权与平台曲库
+summary: “买了这首歌”不等于“能商用”。影视项目至少要区分同步权（把歌录进片子）、表演权（公开播放）、机械复制权（复制音频）和录音制作者权。
 slug: music-license
-aliases: [music-license]
+aliases:
+- music-license
 canonical_site: context
 canonical_path: /article/music-license/
 status: published
 diagram: /images/diagrams/zh/music-license.svg
-diagram_alt: "音乐授权专题图解"
-diagram_caption: "示意：词曲、录音、画面同步、公开播放，四层分别授权。"
+diagram_alt: 音乐授权专题图解
+diagram_caption: 示意：词曲、录音、画面同步、公开播放，四层分别授权。
 difficulty: intermediate
 stage: handbook
 format: law
-authors: ["TVCN 研究组"]
+authors:
+- TVCN 研究组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S02, S22]
-test_context: "复核环境：现行中国大陆法律条文、平台规则与公开案例；不是法律意见。"
-known_failures: "已知失败：平台规则与地方执法口径变化；条文适用需律师确认。"
+sources:
+- S02
+- S22
+test_context: 复核环境：现行中国大陆法律条文、平台规则与公开案例；不是法律意见。
+known_failures: 已知失败：平台规则与地方执法口径变化；条文适用需律师确认。
 verified: 2026-11-22
+related:
+- context.literacy.platform-rules.en
+- formats.ad.product-ad.en
+- post.editing.proxy-workflow.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +48,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：编辑部的条文对照与项目复盘；实测来源：无实验室实测；参考来源：以下法律、平台与机构文本。</p>
 <ul><li><span class="mono">[S02]</span> WIPO：版权常见问题</li><li><span class="mono">[S22]</span> 《中华人民共和国民法典》</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

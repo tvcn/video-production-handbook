@@ -5,47 +5,55 @@ type: article
 lang: en
 translation_key: formats.vlog.vlog-structure
 translation_status: reviewed
-title: "Vlog Structure: Give the Place a Reason"
-summary: "Give the place a reason before making it pretty; without reason, scenery is a screensaver."
+title: 'Vlog Structure: Give the Place a Reason'
+summary: Give the place a reason before making it pretty; without reason, scenery
+  is a screensaver.
 slug: vlog-structure
-aliases: [vlog-structure]
+aliases:
+- vlog-structure
 canonical_site: formats
-canonical_path: /en/vlog/vlog-structure/
+canonical_path: /en/article/vlog-structure/
 status: published
 diagram: /images/diagrams/en/vlog-structure.svg
-diagram_alt: "Vlog Structure: Give the Place a Reason three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Vlog Structure: Give the Place a Reason.'
+diagram_caption: Watch “Give a concrete reason in the first ten” and “Let one person
+  do one specific thing instead”; judge whether the reason given in the first three
+  seconds still holds at the end.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: ["TVCN Formats Desk"]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Formats Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- formats.wedding.wedding-structure.en
+- post.assets.dit-data-handoff.en
+- shoot.lighting.ratio.en
 depth: deep
 deep_minutes: 6
-sources: [S14, S15, S16]
-test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
-known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
+sources:
+- S14
+- S15
+- S16
+test_context: 'Review setup: composite samples and public cases; previewed on MacBook
+  Pro M1 / iPhone 13; not one real client project.'
+known_failures: 'Known failures: composite samples are not client proof; platform
+  length/spec changes expire templates.'
 verified: 2026-11-22
+source_kind: sourced
 ---
 
-<p>Give the place a reason before making it pretty; without reason, scenery is a screensaver.</p>
+<p>A vlog opens with “why I came here,” not an aerial landscape. State the reason in one line, then cut to the first action. Once the audience has a question, they tolerate the empty stretches of travel.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/vlog-structure.svg" alt="Vlog Structure: Give the Place a Reason three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/vlog-structure.svg" alt="Structure diagram for Vlog Structure: Give the Place a Reason.">
+  <figcaption>Watch “Give a concrete reason in the first ten” and “Let one person do one specific thing instead”; judge whether the reason given in the first three seconds still holds at the end.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Give a concrete reason in the first ten seconds: a friend is waiting at this shop. Do not open with drone footage.</p>
-<h2>Do this</h2>
-<p>A travel vlog gives a reason for going before it looks pretty; without a reason, scenery is a screensaver.</p><ol><li>Give a concrete reason in the first ten seconds, such as a friend waiting at this shop.</li><li>Let one person do one specific thing instead of only flying drone shots.</li><li>Keep one quiet moment and let ambient sound speak.</li></ol>
-<h2>Avoid</h2>
-<p>Do not score the whole piece; ambient sound is the place.</p>
-<h2>Check</h2>
-<ul><li>The first ten seconds name a concrete reason for visiting.</li><li>At least one person does a visible thing, not just scenery.</li><li>One stretch runs without score and lets location sound through.</li></ul>
+<section><h2 id="section-1">Give the place a reason before the scenery</h2><p>The middle needs at least one unplanned person or event; the end needs a visible small change, even deciding to stay for one meal. A change that only happens in narration is not believed.</p><h2 id="section-2">Limits</h2><p>A vlog is not a diary. Every section must answer “why shoot this now.” If it cannot, cut it.</p></section><section><h2 id="section-3">On set</h2><p>Give a concrete reason in the first ten seconds: a friend is waiting at this shop. Do not open with drone footage.</p></section><section><h2 id="section-4">Do this</h2><p>A travel vlog gives a reason for going before it looks pretty; without a reason, scenery is a screensaver.</p><ol><li>Give a concrete reason in the first ten seconds, such as a friend waiting at this shop.</li><li>Let one person do one specific thing instead of only flying drone shots.</li><li>Keep one quiet moment and let ambient sound speak.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not score the whole piece; ambient sound is the place.</p></section><figure class="article-audio"><audio controls preload="none" src="../../../assets/audio/en/fmt-vlog.en.mp3"></audio><figcaption>20-second audio demo: one check point and the most common failure. Transcript and steps are in the article.</figcaption></figure><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the first three seconds give a believable reason</li><li>the middle adds information or resistance, not just mood</li><li>the ending shows a visible change instead of narrating it</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>the template is filled but the person and problem are not</li><li>no reason in the first three seconds, only title and music</li><li>no visible change at the end, only voice-over</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Break down one 30-second reference, mark the timecodes for “Give a concrete reason in the first ten” and “Let one person do one specific thing instead”, then answer: if one disappeared, would the film still hold?</p></section>
+<h2>Check</h2><ul><li>The first ten seconds name a concrete reason for visiting.</li><li>At least one person does a visible thing, not just scenery.</li><li>One stretch runs without score and lets location sound through.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive
@@ -64,8 +72,3 @@ verified: 2026-11-22
 <ul><li>Why you came is clear up front</li><li>One concrete task for the day</li><li>The place has variables</li><li>All five beats are present</li><li>The turn is a human response</li><li>No long narration in the quiet beat</li><li>The exit answers the opening question</li><li>Main shot and detail at each location</li><li>Cut on action or sound</li><li>Music does not cover ambience</li></ul><p>A travel vlog is not where you went; it is what got done while you were there.</p>
 <!-- DEEP_DIVE_END -->
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
-<!-- SOURCES_END -->

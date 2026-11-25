@@ -11,13 +11,13 @@ summary: "Three groups of checks: rights, technical, and publishing. Each takes 
 slug: publish-checklist
 aliases: [publish-checklist]
 canonical_site: tools
-canonical_path: /en/delivery/publish-checklist/
+canonical_path: /en/article/publish-checklist/
 status: published
 difficulty: beginner
 stage: delivery
 format: checklist
 tools: [output, rights, cover]
-authors: [editor]
+authors: ["TVCN Tools Desk"]
 reviewers: [technical-reviewer]
 cover: /images/tools/publish-checklist.webp
 diagram: /images/diagrams/en/publish-checklist.png
@@ -26,7 +26,7 @@ diagram_caption: "Rights, technical, publishing: four checks each. Every item ta
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [copyright, storage]
+related: [tools.workflow.storage.en, tools.delivery.delivery-specs.en, tools.producing.budget-contingency.en]
 depth: deep
 deep_minutes: 6
 ---

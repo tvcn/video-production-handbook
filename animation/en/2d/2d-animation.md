@@ -11,7 +11,7 @@ summary: "2D is not about beautiful drawings. It is about controlling time with 
 slug: 2d-animation
 aliases: [2d-animation]
 canonical_site: animation
-canonical_path: /en/2d/2d-animation/
+canonical_path: /en/article/2d-animation/
 status: published
 difficulty: beginner
 stage: animate
@@ -26,7 +26,7 @@ diagram_caption: "2D is not about pretty drawings; it is about timing with keys 
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: []
+related: [animation.3d.3d-pipeline.en, context.law.insurance-equipment.en, formats.experimental.experimental-structure.en]
 depth: deep
 deep_minutes: 7
 sources: [S12, S28, S34]
@@ -90,5 +90,5 @@ Loop length comes from the action, not the software. A step may take twelve fram
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S12]</span> Britannica: Animation</li><li><span class="mono">[S28]</span> Netflix Partner Help</li><li><span class="mono">[S34]</span> Adobe Premiere Pro Guide</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

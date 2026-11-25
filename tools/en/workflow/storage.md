@@ -11,13 +11,13 @@ summary: "Back up before wrap. Put date, scene, and camera in the filename. Foot
 slug: storage
 aliases: [storage, media management, backup]
 canonical_site: tools
-canonical_path: /en/workflow/storage/
+canonical_path: /en/article/storage/
 status: published
 difficulty: beginner
 stage: workflow
 format: workflow
 tools: [media, output, budget]
-authors: [editor]
+authors: ["TVCN Tools Desk"]
 reviewers: [technical-reviewer]
 cover: /images/tools/storage.webp
 diagram: /images/diagrams/en/storage.png
@@ -26,7 +26,7 @@ diagram_caption: "Back up before wrap: 3 copies, 2 media types, 1 off-site. Put 
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [tools.camera.camera-choice, post.editing.rough-cut]
+related: [tools.tutorial.backup-3-2-1.en, tools.delivery.publish-checklist.en, tools.camera.camera-choice.en]
 depth: deep
 deep_minutes: 7
 ---

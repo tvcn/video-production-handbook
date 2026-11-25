@@ -5,26 +5,37 @@ type: article
 lang: en
 translation_key: shoot.virtual-production.led-virtual-production
 translation_status: reviewed
-title: "LED Virtual Production: Wall, Tracking, Sync, and Color"
-summary: "LED virtual production is not swapping a backdrop for a screen. It binds practical light, camera tracking, panel refresh, and color into one chain; if one link is loose, the light on the actor separates from the background."
+title: 'LED Virtual Production: Wall, Tracking, Sync, and Color'
+summary: LED virtual production is not swapping a backdrop for a screen. It binds practical light, camera tracking, panel refresh, and color into one chain; if one link is loose, the light on the actor separates from the background.
 slug: led-virtual-production
-aliases: [led-virtual-production]
+aliases:
+- led-virtual-production
 canonical_site: shoot
 canonical_path: /en/article/led-virtual-production/
 status: published
 diagram: /images/diagrams/en/led-virtual-production.svg
-diagram_alt: "LED virtual production pipeline diagram"
-diagram_caption: "Diagram: wall refresh, camera tracking, and engine time must share one clock. Projecting an image on a wall is not virtual production."
+diagram_alt: LED virtual production pipeline diagram
+diagram_caption: 'Diagram: wall refresh, camera tracking, and engine time must share one clock. Projecting an image on a wall is not virtual production.'
 difficulty: intermediate
 stage: handbook
 format: workflow
-authors: ["TVCN Tech Desk"]
+authors:
+- TVCN Tech Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S23, S31, S32, S33]
-test_context: "Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus and samples; lens claims follow page labels, not every lens tested."
-known_failures: "Known failures: menus and firmware differ; uncalibrated color temperature/monitors cause misreads."
+sources:
+- S23
+- S31
+- S32
+- S33
+test_context: 'Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus and samples; lens claims follow page labels, not every lens tested.'
+known_failures: 'Known failures: menus and firmware differ; uncalibrated color temperature/monitors cause misreads.'
 verified: 2026-11-22
+related:
+- shoot.lighting.lighting-style.en
+- story.screenplay.logline.en
+- tools.camera.camera-choice.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +50,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S31]</span> ARRI Technical Documentation</li><li><span class="mono">[S32]</span> Sony Pro Support</li><li><span class="mono">[S33]</span> Canon Support</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

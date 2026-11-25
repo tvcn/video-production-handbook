@@ -5,43 +5,46 @@ type: article
 lang: en
 translation_key: post.editing.versioning
 translation_status: reviewed
-title: "Versioning: Never Name It Final"
-summary: "Name versions by date, platform, duration, and change reason. Never 'final final.'"
+title: 'Versioning: Never Name It Final'
+summary: Name versions by date, platform, duration, and change reason. Never 'final
+  final.'
 slug: versioning
-aliases: [versioning]
+aliases:
+- versioning
 canonical_site: post
-canonical_path: /en/editing/versioning/
+canonical_path: /en/article/versioning/
 status: published
 diagram: /images/diagrams/en/versioning.svg
-diagram_alt: "Versioning: Never Name It Final three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Versioning: Never Name It Final.'
+diagram_caption: Watch “Name files date_platform_duration_v3, e.g. 20261122_web_60s_v3.”
+  and “Log what changed, why, and who approved it.”; judge whether removing one shot
+  makes the scene faster rather than muddier.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Post Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- post.editing.parallel-editing.en
+- post.assets.project-structure.en
+- post.delivery.archive.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>Name versions by date, platform, duration, and change reason. Never "final final."</p>
+<p>Use v001, v002, never “final” or “final2.” Every export gets one line: which scene, which shot, why. Without a note, a version number is just a number.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/versioning.svg" alt="Versioning: Never Name It Final three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/versioning.svg" alt="Structure diagram for Versioning: Never Name It Final.">
+  <figcaption>Watch “Name files date_platform_duration_v3, e.g. 20261122_web_60s_v3.” and “Log what changed, why, and who approved it.”; judge whether removing one shot makes the scene faster rather than muddier.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Name files date_platform_duration_v3 and log every change: what changed, why, and who approved it.</p>
-<h2>Do this</h2>
-<p>Version names carry date, platform, duration, and reason, never “final really final.”</p><ol><li>Name files date_platform_duration_v3, e.g. 20261122_web_60s_v3.</li><li>Log what changed, why, and who approved it.</li><li>Keep one current delivery and archive the rest; do not rely on memory.</li></ol>
-<h2>Avoid</h2>
-<p>Do not use “latest” as a filename; in three months nobody knows what it is latest over.</p>
-<h2>Check</h2>
-<ul><li>The filename contains date, platform, duration, and version and sorts cleanly.</li><li>The log shows why each change happened and who approved it.</li><li>Pick an old version and you can state how it differs from the current one.</li></ul>
+<section><h2 id="section-1">Version numbers only go up, with a change note</h2><p>Keep current and previous in the working folder, archive older ones. State which version is the master at delivery so the client opens the right file.</p><h2 id="section-2">Limits</h2><p>More versions is not better. One purpose per pass, name it immediately; ten versions a day means no version control.</p></section><section><h2 id="section-3">On set</h2><p>Name files date_platform_duration_v3 and log every change: what changed, why, and who approved it.</p></section><section><h2 id="section-4">Do this</h2><p>Version names carry date, platform, duration, and reason, never “final really final.”</p><ol><li>Name files date_platform_duration_v3, e.g. 20261122_web_60s_v3.</li><li>Log what changed, why, and who approved it.</li><li>Keep one current delivery and archive the rest; do not rely on memory.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not use “latest” as a filename; in three months nobody knows what it is latest over.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>removing one shot makes the scene faster, not muddier</li><li>skin, highlights and blacks sit inside scope limits</li><li>loudness, subtitles and file specs pass one delivery check</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>cuts follow the music, not the action</li><li>style before unity: shots jump in color</li><li>loudness and subtitles are checked at the very end</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Take 30 seconds of footage and make an A/B, changing only “Name files date_platform_duration_v3, e.g. 20261122_web_60s_v3.”. Note one timecode and one difference before keeping it.</p></section>
+<h2>Check</h2><ul><li>The filename contains date, platform, duration, and version and sorts cleanly.</li><li>The log shows why each change happened and who approved it.</li><li>Pick an old version and you can state how it differs from the current one.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

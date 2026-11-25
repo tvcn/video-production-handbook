@@ -5,26 +5,35 @@ type: article
 lang: en
 translation_key: context.law.contract-scope
 translation_status: reviewed
-title: "Contract Scope: Price the “One More Revision” Before It Happens"
-summary: "The most common film contract dispute is not payment; it is scope. Unclear deliverables, revisions, rights, acceptance, and termination become unpaid overtime."
+title: 'Contract Scope: Price the “One More Revision” Before It Happens'
+summary: The most common film contract dispute is not payment; it is scope. Unclear deliverables, revisions, rights, acceptance, and termination become unpaid overtime.
 slug: contract-scope
-aliases: [contract-scope]
+aliases:
+- contract-scope
 canonical_site: context
 canonical_path: /en/article/contract-scope/
 status: published
 diagram: /images/diagrams/en/contract-scope.svg
-diagram_alt: "Contract scope diagram"
-diagram_caption: "Diagram: eight items make “change order” possible."
+diagram_alt: Contract scope diagram
+diagram_caption: 'Diagram: eight items make “change order” possible.'
 difficulty: intermediate
 stage: handbook
 format: law
-authors: ["TVCN Research Desk"]
+authors:
+- TVCN Research Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S02, S22]
-test_context: "Review setup: current China mainland statutes, platform rules and public cases; not legal advice."
-known_failures: "Known failures: platform rules and local enforcement change; counsel must confirm applicability."
+sources:
+- S02
+- S22
+test_context: 'Review setup: current China mainland statutes, platform rules and public cases; not legal advice.'
+known_failures: 'Known failures: platform rules and local enforcement change; counsel must confirm applicability.'
 verified: 2026-11-22
+related:
+- context.literacy.deepfake.en
+- formats.live-podcast.live-podcast-breakdown.en
+- post.assets.dit-data-handoff.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +48,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: editorial statute comparison and project reviews; tested: no lab measurement; references: the laws, platform rules and institutional texts below.</p>
 <ul><li><span class="mono">[S02]</span> WIPO: Copyright FAQ</li><li><span class="mono">[S22]</span> China's Civil Code</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

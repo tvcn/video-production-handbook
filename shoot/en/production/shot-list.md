@@ -11,13 +11,13 @@ summary: A shot list says what comes first, how long it takes, and what happens 
 slug: shot-list
 aliases: [shot-list]
 canonical_site: shoot
-canonical_path: /en/production/shot-list/
+canonical_path: /en/article/shot-list/
 status: published
 difficulty: beginner
 stage: shoot
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN Shoot Desk"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/shot-list.webp
 diagram: /images/diagrams/en/shot-list.png
@@ -26,7 +26,7 @@ diagram_caption: "A shot list says what comes first, how long it takes, and what
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [shoot.production.b-roll, tools.workflow.first-shoot-day]
+related: [shoot.camera.axis-line.en, shoot.production.b-roll.en, shoot.production.slate-continuity.en]
 ---
 
 <!-- DIAGRAM_START -->

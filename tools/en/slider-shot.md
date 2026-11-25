@@ -5,38 +5,43 @@ type: article
 lang: en
 translation_key: tools.tutorial.slider-shot
 translation_status: reviewed
-title: "Slider Shot: Head, Body, Tail"
-summary: "A slider shot needs a head, body, and tail: hold the start, move evenly, hold the end."
+title: 'Slider Shot: Head, Body, Tail'
+summary: 'A slider shot needs a head, body, and tail: hold the start, move evenly,
+  hold the end.'
 slug: slider-shot
-aliases: [slider-shot]
+aliases:
+- slider-shot
 canonical_site: tools
-canonical_path: /en/tutorial/slider-shot/
+canonical_path: /en/article/slider-shot/
 status: published
 diagram: /images/diagrams/en/slider-shot.svg
-diagram_alt: "Slider Shot: Head, Body, Tail three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Slider Shot: Head, Body, Tail.'
+diagram_caption: Watch “Hold one second at the start.” and “Travel evenly for three
+  seconds.”; judge whether the spec maps to one concrete shooting problem.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Tools Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- tools.tutorial.boom-swing.en
+- tools.tutorial.gimbal-balance.en
+- tools.tutorial.lav-hidden.en
+source_kind: experience
 ---
 
-<p>A slider shot needs a head, body, and tail: hold the start, move evenly, hold the end.</p>
+<p>Ask what relationship the move reveals: foreground blocking giving way to a face, one person&#x27;s back to another&#x27;s face, an empty chair to a doorway. Without a change in relationship, the move is decoration.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/slider-shot.svg" alt="Slider Shot: Head, Body, Tail three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/slider-shot.svg" alt="Structure diagram for Slider Shot: Head, Body, Tail.">
+  <figcaption>Watch “Hold one second at the start.” and “Travel evenly for three seconds.”; judge whether the spec maps to one concrete shooting problem.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Hold one second at the start, move evenly for three, and hold one at the end. Watch the start and stop on the monitor; do not force it with the wrist.</p>
-<h2>Do this</h2>
-<p>A slider shot needs head, body, and tail: hold at the start, travel evenly, hold at the end.</p><ol><li>Hold one second at the start.</li><li>Travel evenly for three seconds.</li><li>Hold one second at the end and watch the monitor, not your wrist.</li></ol>
-<h2>Avoid</h2>
-<p>Do not push the moment you roll; without a start hold, the editor cannot find an in-point.</p>
-<h2>Check</h2>
-<ul><li>Start hold, three-second travel, and end hold are timecoded.</li><li>The monitor shows no sudden acceleration or stop.</li><li>Movement comes from the slider, not a forced wrist.</li></ul>
+<section><h2 id="section-1">A slider is a relationship shot, not a flourish</h2><p>Ask what relationship the move reveals: foreground blocking giving way to a face, one person's back to another's face, an empty chair to a doorway. Without a change in relationship, the move is decoration.</p><p>Keep the travel 20–40 cm and slow enough to read the background; both start and end must compose on their own.</p><h2 id="section-2">Limits</h2><p>A slider is wrong for fast action and tight spaces. Uneven floors and cables cause shake; clear the path before laying track.</p><h2 id="section-3">Slider start and stop: three frames of ease at each end</h2>
+<p>A slider looks fake when it starts and stops abruptly. For a manual move, ease in and out over three frames; for a motor, set start/stop to 10–20% of travel.</p>
+<ol><li>Rehearse once and mark start and end. Do not look for the position after rolling.</li><li>Match speed to shot length: one meter in three seconds is about 0.33m/s. Faster blurs, slower drags.</li><li>Level the track with two boards on uneven ground; a tilted track tilts the frame.</li></ol>
+<p>Acceptance: playback for a “clunk” at the ends. If it knocks, add ease; do not fix it with warp stabilization.</p></section><section><h2 id="section-4">On set</h2><p>Hold one second at the start, move evenly for three, and hold one at the end. Watch the start and stop on the monitor; do not force it with the wrist.</p></section><section><h2 id="section-5">Do this</h2><p>A slider shot needs head, body, and tail: hold at the start, travel evenly, hold at the end.</p><ol><li>Hold one second at the start.</li><li>Travel evenly for three seconds.</li><li>Hold one second at the end and watch the monitor, not your wrist.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not push the moment you roll; without a start hold, the editor cannot find an in-point.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>every spec maps to one concrete shooting problem</li><li>weight, power and connections hold on a real rig</li><li>a 60-second test leaves one comparable number</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>specs without connections, power or weight</li><li>batteries, storage or body do not match after purchase</li><li>no 60-second test, so the problem arrives on the shoot</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Run a 60-second test with the gear you already own, measuring only “Hold one second at the start.”. Record two numbers: what you need and what the gear actually gives.</p></section>
+<h2>Check</h2><ul><li>Start hold, three-second travel, and end hold are timecoded.</li><li>The monitor shows no sudden acceleration or stop.</li><li>Movement comes from the slider, not a forced wrist.</li></ul>

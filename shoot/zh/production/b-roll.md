@@ -10,13 +10,13 @@ summary: 受访者说“每天早上五点出摊”，画面还停在脸上，�
 slug: b-roll
 aliases: [b-roll, 空镜, 补拍素材]
 canonical_site: shoot
-canonical_path: /production/b-roll/
+canonical_path: /article/b-roll/
 status: published
 difficulty: beginner
 stage: shoot
 format: documentary
 tools: []
-authors: [editor]
+authors: ["TVCN 拍摄组"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/b-roll.webp
 diagram: /images/diagrams/zh/b-roll.png
@@ -25,7 +25,7 @@ diagram_caption: "受访者说“每天早上五点出摊”，画面还停在�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [shoot.production.shot-list, formats.documentary.documentary]
+related: [shoot.coverage.coverage.en, shoot.production.shot-list.en, shoot.production.slate-continuity.en]
 depth: deep
 deep_minutes: 5
 ---

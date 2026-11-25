@@ -5,26 +5,34 @@ type: article
 lang: zh
 translation_key: context.law.insurance-equipment
 translation_status: source
-title: "器材与制作保险：保什么、不保什么"
-summary: "设备险不是“坏了就赔”。要区分财产一切险、机器损坏险、公众责任险、货运险；免赔额、折旧、除外责任和理赔材料决定你能不能拿到钱。"
+title: 器材与制作保险：保什么、不保什么
+summary: 设备险不是“坏了就赔”。要区分财产一切险、机器损坏险、公众责任险、货运险；免赔额、折旧、除外责任和理赔材料决定你能不能拿到钱。
 slug: insurance-equipment
-aliases: [insurance-equipment]
+aliases:
+- insurance-equipment
 canonical_site: context
 canonical_path: /article/insurance-equipment/
 status: published
 diagram: /images/diagrams/zh/insurance-equipment.svg
-diagram_alt: "器材与制作保险专题图解"
-diagram_caption: "示意：器材、损坏、责任、货运，四类风险不要用一张保单硬覆盖。"
+diagram_alt: 器材与制作保险专题图解
+diagram_caption: 示意：器材、损坏、责任、货运，四类风险不要用一张保单硬覆盖。
 difficulty: intermediate
 stage: handbook
 format: law
-authors: ["TVCN 研究组"]
+authors:
+- TVCN 研究组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S22]
-test_context: "复核环境：现行中国大陆法律条文、平台规则与公开案例；不是法律意见。"
-known_failures: "已知失败：平台规则与地方执法口径变化；条文适用需律师确认。"
+sources:
+- S22
+test_context: 复核环境：现行中国大陆法律条文、平台规则与公开案例；不是法律意见。
+known_failures: 已知失败：平台规则与地方执法口径变化；条文适用需律师确认。
 verified: 2026-11-22
+related:
+- context.law.invoice-tax-cross-border.en
+- formats.live-podcast.live-podcast-template.en
+- post.sound.loudness.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +47,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：编辑部的条文对照与项目复盘；实测来源：无实验室实测；参考来源：以下法律、平台与机构文本。</p>
 <ul><li><span class="mono">[S22]</span> 《中华人民共和国民法典》</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

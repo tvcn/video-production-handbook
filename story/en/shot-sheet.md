@@ -5,43 +5,45 @@ type: article
 lang: en
 translation_key: story.storyboard.shot-sheet
 translation_status: reviewed
-title: "Shot Sheet: Number, Framing, Action, Duration"
-summary: "Four columns are enough: number, framing, action, duration. If these are vague, the set will be chaos."
+title: 'Shot Sheet: Number, Framing, Action, Duration'
+summary: 'Four columns are enough: number, framing, action, duration. If these are
+  vague, the set will be chaos.'
 slug: shot-sheet
-aliases: [shot-sheet]
+aliases:
+- shot-sheet
 canonical_site: story
-canonical_path: /en/storyboard/shot-sheet/
+canonical_path: /en/article/shot-sheet/
 status: published
 diagram: /images/diagrams/en/shot-sheet.svg
-diagram_alt: "Shot Sheet: Number, Framing, Action, Duration three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Shot Sheet: Number, Framing, Action, Duration.'
+diagram_caption: Watch “Fill shots 1, 3, and 5 first, each” and “Cut or split any
+  shot over eight seconds”; judge whether the want can be said with one visible action.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Story Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- story.screenplay.scene-description.en
+- story.directing.rehearsal.en
+- story.storyboard.sequence-board.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>Four columns are enough: number, framing, action, duration. If these are vague, the set will be chaos.</p>
+<p>Each row: shot number, framing, camera position, action, line, duration, props, sound. Miss one and the set stops to ask. A shot sheet is not a substitute for the board; it is the board made executable.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/shot-sheet.svg" alt="Shot Sheet: Number, Framing, Action, Duration three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/shot-sheet.svg" alt="Structure diagram for Shot Sheet: Number, Framing, Action, Duration.">
+  <figcaption>Watch “Fill shots 1, 3, and 5 first, each” and “Cut or split any shot over eight seconds”; judge whether the want can be said with one visible action.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Fill shots 1, 3, and 5 first: one verb and one duration each. Read the sheet before rolling; if a shot runs past 8 seconds or has no action, cut it or split it.</p>
-<h2>Do this</h2>
-<p>A shot sheet needs four columns: number, size, action, duration. If these are unclear, the set will be chaos.</p><ol><li>Fill shots 1, 3, and 5 first, each with one verb and one duration.</li><li>Cut or split any shot over eight seconds or without an action.</li><li>Read it aloud before rolling so camera and edit can repeat the order.</li></ol>
-<h2>Avoid</h2>
-<p>Do not draw what the camera cannot shoot; a board is not an illustration.</p>
-<h2>Check</h2>
-<ul><li>Every shot has number, size, action, and seconds; no column is missing.</li><li>No shot runs over eight seconds without an action.</li><li>A third person can repeat the shooting order from the sheet.</li></ul>
+<section><h2 id="section-1">A shot sheet must be executable on set</h2><p>Order by shoot sequence, not edit sequence, grouping the same camera and light to reduce moves.</p><h2 id="section-2">Limits</h2><p>The sheet can change, but every change goes to camera, sound and script supervisor. Three people with three versions is worse than no sheet.</p></section><section><h2 id="section-3">On set</h2><p>Fill shots 1, 3, and 5 first: one verb and one duration each. Read the sheet before rolling; if a shot runs past 8 seconds or has no action, cut it or split it.</p></section><section><h2 id="section-4">Do this</h2><p>A shot sheet needs four columns: number, size, action, duration. If these are unclear, the set will be chaos.</p><ol><li>Fill shots 1, 3, and 5 first, each with one verb and one duration.</li><li>Cut or split any shot over eight seconds or without an action.</li><li>Read it aloud before rolling so camera and edit can repeat the order.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not draw what the camera cannot shoot; a board is not an illustration.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the want is visible in one action</li><li>the obstacle escalates inside the same scene</li><li>delete one expository line and the conflict still holds</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>the want is unclear and the scene is only mood</li><li>the obstacle is solved by coincidence, not a decision</li><li>dialogue repeats what the image already says</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Write one 30-second scene with only “Fill shots 1, 3, and 5 first, each” and “Cut or split any shot over eight seconds”. Cut every explanation and ask one person to retell what the character wants.</p></section>
+<h2>Check</h2><ul><li>Every shot has number, size, action, and seconds; no column is missing.</li><li>No shot runs over eight seconds without an action.</li><li>A third person can repeat the shooting order from the sheet.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

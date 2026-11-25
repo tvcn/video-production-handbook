@@ -11,13 +11,13 @@ summary: On a phone, a cover is the size of a thumb. Secure one face, one action
 slug: thumbnail
 aliases: [thumbnail, cover, video thumbnail]
 canonical_site: formats
-canonical_path: /en/publish/thumbnail/
+canonical_path: /en/article/thumbnail/
 status: published
 difficulty: beginner
 stage: publish
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN Formats Desk"]
 reviewers: [technical-reviewer]
 cover: /images/formats/thumbnail.webp
 diagram: /images/diagrams/en/thumbnail.png
@@ -26,7 +26,7 @@ diagram_caption: "On a phone the cover is thumb-sized. Secure one face, one acti
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [tools.delivery.publish-checklist, formats.ad.product-ad]
+related: [formats.talk.talking-head.en, formats.drama.vertical-drama.en, formats.ad.product-ad.en]
 depth: deep
 deep_minutes: 5
 ---

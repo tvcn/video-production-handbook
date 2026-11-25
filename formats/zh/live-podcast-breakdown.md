@@ -5,26 +5,36 @@ type: article
 lang: zh
 translation_key: formats.live-podcast.live-podcast-breakdown
 translation_status: source
-title: "直播播客拉片：六个段落怎么落地"
-summary: "综合样例：把直播播客拆成六拍，逐段看画面、声音和通过线；示例数字只作示范，不是客户数据。"
+title: 直播播客拉片：六个段落怎么落地
+summary: 综合样例：把直播播客拆成六拍，逐段看画面、声音和通过线；示例数字只作示范，不是客户数据。
 slug: live-podcast-breakdown
-aliases: [live-podcast-breakdown]
+aliases:
+- live-podcast-breakdown
 canonical_site: formats
 canonical_path: /article/live-podcast-breakdown/
 status: published
 diagram: /images/diagrams/zh/live-podcast-breakdown.svg
-diagram_alt: "直播播客拉片专题图解"
-diagram_caption: "示意：时间、段落、画面、声音、作用，五列对齐看。"
+diagram_alt: 直播播客拉片专题图解
+diagram_caption: 示意：时间、段落、画面、声音、作用，五列对齐看。
 difficulty: intermediate
 stage: handbook
 format: format
-authors: ["TVCN 片型组"]
+authors:
+- TVCN 片型组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S14, S15, S16]
-test_context: "复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。"
-known_failures: "已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。"
+sources:
+- S14
+- S15
+- S16
+test_context: 复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。
+known_failures: 已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。
 verified: 2026-11-22
+related:
+- formats.live-podcast.live-podcast-structure.en
+- post.assets.archive-reuse.en
+- shoot.camera.composition.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +49,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
 <ul><li><span class="mono">[S14]</span> YouTube 社区准则</li><li><span class="mono">[S15]</span> TikTok 社区准则</li><li><span class="mono">[S16]</span> BBC 编辑准则</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

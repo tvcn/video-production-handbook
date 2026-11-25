@@ -5,38 +5,44 @@ type: tool
 lang: zh
 translation_key: main.tool.tool-card-travel-kit
 translation_status: source
-title: "旅拍轻装"
-summary: "旅拍轻装：一机一镜、小型稳定器、两电池、一块 ND、一个腰包；先能走一天。"
+title: 旅拍轻装
+summary: 旅拍轻装：一机一镜、小型稳定器、两电池、一块 ND、一个腰包；先能走一天。
 slug: tool-card-travel-kit
-aliases: [tool-card-travel-kit]
+aliases:
+- tool-card-travel-kit
 canonical_site: main
-canonical_path: /tool/tool-card-travel-kit/
+canonical_path: /article/tool-card-travel-kit/
 status: published
 diagram: /images/diagrams/zh/tool-card-travel-kit.svg
-diagram_alt: "旅拍轻装 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 旅拍轻装的结构示意图。
+diagram_caption: 看“轻装： 一台机身、一支 24–70m…”和“完整： 加一支广角或长焦、备用电池、…”两处，判断症状能不能被复述成一句可观察的话。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 编辑部
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- main.tool.tool-card-lighting-kit.en
+- main.tool.tool-card-interview-kit.en
+- main.tool.tool-card-audio-kit.en
+source_kind: experience
 ---
 
-<p>旅拍轻装：一机一镜、小型稳定器、两电池、一块 ND、一个腰包；先能走一天。</p>
+<p>旅拍的第一限制是背包和步行，不是镜头数量。机身加两支镜头加录音加脚架，超过你走一小时还能举起的重量，就会开始漏拍。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/tool-card-travel-kit.svg" alt="旅拍轻装 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/tool-card-travel-kit.svg" alt="旅拍轻装的结构示意图。">
+  <figcaption>看“轻装： 一台机身、一支 24–70m…”和“完整： 加一支广角或长焦、备用电池、…”两处，判断症状能不能被复述成一句可观察的话。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>一机一镜、小型稳定器、两块电池、ND、腰包；称总重，能走一天再出门。</p>
-<h2>怎么做</h2>
-<p>旅拍轻装：一机一镜、小型稳定器、两电池、一块 ND、一个腰包；先能走一天。</p><ol><li>一机一镜，不带第二支镜头。</li><li>小型稳定器、两块电池、一块 ND 放腰包。</li><li>称总重，背着走一天再出门。</li></ol>
-<h2>别踩</h2>
-<p>别带三支镜头“以防万一”；走半天就背不动，什么也拍不到。</p>
-<h2>验收</h2>
-<ul><li>总重称过，背着走一天肩膀能承受。</li><li>只有一机一镜，没有额外镜头。</li><li>电池、ND、稳定器都在腰包，能单手取。</li></ul>
+<section><h2 id="section-1">先算重量，再算焦段</h2>
+
+<ul><li><strong>轻装：</strong>一台机身、一支 24–70mm 等效变焦、一支轻枪麦或领夹、一块 ND、两张卡、一块 SSD。脚架用轻量反折。</li><li><strong>完整：</strong>加一支广角或长焦、备用电池、轻量补光灯；所有配件能塞进一个登机包。</li><li><strong>不要带：</strong>没有拍摄计划的无人机、第三支重复焦段、超过现场能用的灯。</li></ul>
+<h2 id="section-2">每天结束的 3 件事</h2>
+<ol><li>把当天素材拷到 SSD，再从卡回放一遍，确认不是空文件。</li><li>给电池充电，给卡格式化前先确认备份完成。</li><li>写下第二天的第一个机位和光线时间，不要到现场再想。</li></ol>
+<h2 id="section-3">现场测试</h2>
+<p>出发前把最终背包背上，走十分钟、爬一层楼，再拍 30 秒。如果肩带勒、脚架晃或录音线找不到，回桌上减东西，不要到目的地再减。</p></section><section><h2 id="section-4">现场</h2><p>一机一镜、小型稳定器、两块电池、ND、腰包；称总重，能走一天再出门。</p></section><section><h2 id="section-5">别踩</h2><p>别带三支镜头“以防万一”；走半天就背不动，什么也拍不到。</p></section>
+<h2>验收</h2><ul><li>总重称过，背着走一天肩膀能承受。</li><li>只有一机一镜，没有额外镜头。</li><li>电池、ND、稳定器都在腰包，能单手取。</li></ul>

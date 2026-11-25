@@ -10,13 +10,13 @@ title: "Your First Film in 7 Days"
 summary: "Use a phone or small camera to finish a watchable 60–90 second short in seven days: idea, board, shoot, cut, subtitles, review."
 slug: first-film
 canonical_site: main
-canonical_path: /en/start/first-film/
+canonical_path: /en/article/first-film/
 status: published
 difficulty: beginner
 stage: concept
 format: learning-path
 tools: [story, shoot, edit]
-authors: [editor]
+authors: ["TVCN Editorial"]
 reviewers: [editor]
 diagram: /images/diagrams/en/first-film.svg
 diagram_alt: "First film in seven days: one job per day"

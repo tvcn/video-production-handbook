@@ -5,26 +5,39 @@ type: article
 lang: zh
 translation_key: post.assets.archive-reuse
 translation_status: source
-title: "归档与资产复用：让下一条片子更快"
-summary: "归档不是把文件夹拖进硬盘。它要让下一个人能打开工程、找到素材、知道授权、恢复调色和声音；复用不是翻旧片，是有索引地取用。"
+title: 归档与资产复用：让下一条片子更快
+summary: 归档不是把文件夹拖进硬盘。它要让下一个人能打开工程、找到素材、知道授权、恢复调色和声音；复用不是翻旧片，是有索引地取用。
 slug: archive-reuse
-aliases: [archive-reuse]
+aliases:
+- archive-reuse
 canonical_site: post
 canonical_path: /article/archive-reuse/
 status: published
 diagram: /images/diagrams/zh/archive-reuse.svg
-diagram_alt: "归档与资产复用专题图解"
-diagram_caption: "示意：归档包不是一个压缩包，是五个部分都能独立找到；缺授权，素材就不能复用。"
+diagram_alt: 归档与资产复用专题图解
+diagram_caption: 示意：归档包不是一个压缩包，是五个部分都能独立找到；缺授权，素材就不能复用。
 difficulty: intermediate
 stage: handbook
 format: workflow
-authors: ["TVCN 后期组"]
+authors:
+- TVCN 后期组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S24, S27, S28, S30, S34, S35]
-test_context: "复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere Pro 2025 复跑；不声称每台机器结果一致。"
-known_failures: "已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。"
+sources:
+- S24
+- S27
+- S28
+- S30
+- S34
+- S35
+test_context: 复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere Pro 2025 复跑；不声称每台机器结果一致。
+known_failures: 已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。
 verified: 2026-11-22
+related:
+- post.color.color-management.en
+- shoot.safety.set-safety.en
+- story.screenplay.logline.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +52,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
 <ul><li><span class="mono">[S24]</span> ACES 色彩管理</li><li><span class="mono">[S27]</span> EBU R128 响度</li><li><span class="mono">[S28]</span> Netflix 制作与交付帮助</li><li><span class="mono">[S30]</span> DaVinci Resolve 产品与文档</li><li><span class="mono">[S34]</span> Adobe Premiere Pro 用户指南</li><li><span class="mono">[S35]</span> Avid 资源中心</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

@@ -5,43 +5,45 @@ type: article
 lang: en
 translation_key: shoot.movement.stabilizer
 translation_status: reviewed
-title: "Stabilizer: Walk Like You Mean It"
-summary: "Gimbals hate tiny steps. Soft knees, heel-first, even speed."
+title: 'Stabilizer: Walk Like You Mean It'
+summary: Gimbals hate tiny steps. Soft knees, heel-first, even speed.
 slug: stabilizer
-aliases: [stabilizer]
+aliases:
+- stabilizer
 canonical_site: shoot
-canonical_path: /en/movement/stabilizer/
+canonical_path: /en/article/stabilizer/
 status: published
 diagram: /images/diagrams/en/stabilizer.svg
-diagram_alt: "Stabilizer: Walk Like You Mean It three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Stabilizer: Walk Like You Mean It.'
+diagram_caption: Watch “Bend the knees, land heel first, and walk” and “Walk twenty
+  meters without the rig to find”; judge whether highlights, skin and sound survive
+  together.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Shoot Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- shoot.movement.handheld.en
+- shoot.art.set-dressing.en
+- shoot.camera.frame-rate.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>Gimbals hate tiny steps. Soft knees, heel-first, even speed.</p>
+<p>Post stabilization zooms and cuts edges. Confirm the frame has margin; without it you get black or soft edges. Handheld wide is easier to rescue than long lens.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/stabilizer.svg" alt="Stabilizer: Walk Like You Mean It three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/stabilizer.svg" alt="Structure diagram for Stabilizer: Walk Like You Mean It.">
+  <figcaption>Watch “Bend the knees, land heel first, and walk” and “Walk twenty meters without the rig to find”; judge whether highlights, skin and sound survive together.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Bend the knees slightly, land on the heels, and walk a straight line. Practice twenty meters empty before mounting the camera. Slow down for turns; do not twist at the waist.</p>
-<h2>Do this</h2>
-<p>A gimbal hates small choppy steps. Bend the knees, land on the heel, and keep an even speed.</p><ol><li>Bend the knees, land heel first, and walk a straight line.</li><li>Walk twenty meters without the rig to find an even pace.</li><li>Turn slowly with the feet, not by twisting the waist.</li></ol>
-<h2>Avoid</h2>
-<p>Do not take tiny steps or twist the waist; a gimbal smooths micro-jitter, not footstep bounce.</p>
-<h2>Check</h2>
-<ul><li>The frame does not bounce with each footstep on a straight walk.</li><li>Turns stay even with no sudden whip or lateral snap.</li><li>The twenty-meter empty walk and the rig walk share the same rhythm.</li></ul>
+<section><h2 id="section-1">Check room to crop before stabilizing</h2><p>Order: lens correction, stabilization, then reframe. Do not crop before stabilizing.</p><h2 id="section-2">Limits</h2><p>Stabilization cannot fix motion blur or rolling shutter. Slow shutter and heavy skew become more visible; fix them on set.</p></section><section><h2 id="section-3">On set</h2><p>Bend the knees slightly, land on the heels, and walk a straight line. Practice twenty meters empty before mounting the camera. Slow down for turns; do not twist at the waist.</p></section><section><h2 id="section-4">Do this</h2><p>A gimbal hates small choppy steps. Bend the knees, land on the heel, and keep an even speed.</p><ol><li>Bend the knees, land heel first, and walk a straight line.</li><li>Walk twenty meters without the rig to find an even pace.</li><li>Turn slowly with the feet, not by twisting the waist.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not take tiny steps or twist the waist; a gimbal smooths micro-jitter, not footstep bounce.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>highlights are not clipped and shadows keep recoverable detail</li><li>skin stays consistent across camera angles</li><li>sound has an independent track, not just the on-camera mic</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>exposure is right but the light has no direction</li><li>sound relies on the camera mic and dies in a noisy room</li><li>crossing the line leaves the audience without a map</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Shoot three 10-second takes by the same window, changing only “Bend the knees, land heel first, and walk”. Compare highlights, skin and background; keep the one that is editable.</p></section>
+<h2>Check</h2><ul><li>The frame does not bounce with each footstep on a straight walk.</li><li>Turns stay even with no sudden whip or lateral snap.</li><li>The twenty-meter empty walk and the rig walk share the same rhythm.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

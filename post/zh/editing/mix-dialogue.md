@@ -10,13 +10,13 @@ summary: "观众可以不听音乐，但不能听不清台词。先把对白压�
 slug: mix-dialogue
 aliases: [mix-dialogue, 混音, 对白混音, 音乐压低]
 canonical_site: post
-canonical_path: /editing/mix-dialogue/
+canonical_path: /article/mix-dialogue/
 status: published
 difficulty: intermediate
 stage: post
 format: dialogue
 tools: [audio, edit]
-authors: [editor]
+authors: ["TVCN 后期组"]
 reviewers: [technical-reviewer]
 cover: /images/post/mix-dialogue.webp
 diagram: /images/diagrams/zh/mix-dialogue.png
@@ -25,7 +25,7 @@ diagram_caption: "对白在哪儿，音乐就让到哪儿。音乐不需要消�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [post.sound.sound-post, post.sound.sound]
+related: [post.sound.room-tone.en, post.sound.sound-post.en, post.editing.transitions.en]
 ---
 
 <!-- DIAGRAM_START -->

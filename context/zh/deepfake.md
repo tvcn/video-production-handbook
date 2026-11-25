@@ -5,68 +5,51 @@ type: literacy
 lang: zh
 translation_key: context.literacy.deepfake
 translation_status: source
-title: "深伪识别：看脸之外看什么"
-summary: "深伪识别别只看脸；看牙齿、耳朵、眨眼、背景文字和光影方向。"
+title: 深伪识别：看脸之外看什么
+summary: 深伪识别别只看脸；看牙齿、耳朵、眨眼、背景文字和光影方向。
 slug: deepfake
-aliases: [deepfake]
+aliases:
+- deepfake
 canonical_site: context
-canonical_path: /literacy/deepfake/
+canonical_path: /article/deepfake/
 status: published
 diagram: /images/diagrams/zh/deepfake.svg
-diagram_alt: "深伪识别：看脸之外看什么 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 深伪识别：看脸之外看什么的结构示意图。
+diagram_caption: 看“逐帧看五秒：牙齿是否一排、耳朵是否对…”和“看背景文字、招牌和眼镜反光是否连贯”两处，判断它替代了什么旧办法，又新增了什么限制。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: ["TVCN 研究组"]
-sources: [S01, S03, S22, S39]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 研究组
+sources:
+- S01
+- S03
+- S22
+- S39
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- context.law.insurance-equipment.en
+- formats.live-podcast.live-podcast-structure.en
+- post.color.hdr-workflow.en
 depth: deep
 deep_minutes: 8
-test_context: "复核环境：Windows 11 + Chrome；按公开影片、剧本与平台页面复核；不声称逐帧实测。"
-known_failures: "已知失败：公开案例信息不全；平台规格与片长限制会变化；不同项目需重新验证。"
+test_context: 复核环境：Windows 11 + Chrome；按公开影片、剧本与平台页面复核；不声称逐帧实测。
+known_failures: 已知失败：公开案例信息不全；平台规格与片长限制会变化；不同项目需重新验证。
 verified: 2026-11-22
+source_kind: sourced
 ---
 
-<p>深伪识别别只看脸；看牙齿、耳朵、眨眼、背景文字和光影方向。</p>
+<p>深度伪造最容易露馅的地方不是五官，而是物理：影子方向不一致、眼镜反光不对、牙齿数量变化、头发穿过肩膀、说话时脖子不动。逐帧看这些关系，比看“像不像”可靠。</p>
+<!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/deepfake.svg" alt="深伪识别：看脸之外看什么 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/deepfake.svg" alt="深伪识别：看脸之外看什么的结构示意图。">
+  <figcaption>看“逐帧看五秒：牙齿是否一排、耳朵是否对…”和“看背景文字、招牌和眼镜反光是否连贯”两处，判断它替代了什么旧办法，又新增了什么限制。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>看牙齿、耳朵、眨眼、背景文字、光影方向；逐帧看 5 秒，找不自然。</p>
-<h2>怎么做</h2>
-<p>深伪别只看脸；看牙齿、耳朵、眨眼、背景文字和光影方向。</p><ol><li>逐帧看五秒：牙齿是否一排、耳朵是否对称、眨眼是否自然。</li><li>看背景文字、招牌和眼镜反光是否连贯。</li><li>找原始来源、本人回应或第二角度；三项对不上再判高风险。</li></ol>
-<h2>别踩</h2>
-<p>别用“看着假”当结论；说出哪几处对不上。</p>
-<h2>验收</h2>
-<ul><li>五秒逐帧看过牙齿、耳朵和眨眼。</li><li>背景文字、招牌和眼镜反光的连续性看过。</li><li>原始来源、本人回应或第二角度三项对不上。</li></ul>
+<section><h2 id="section-1">先看物理，再看脸</h2><p>再用来源判断：原始视频在哪、谁拍的、有没有未压缩版本。没有来源链，单靠肉眼不能下结论。</p><h2 id="section-2">边界</h2><p>不要把“有 AI 痕迹”当成“必然是假”。压缩、美颜、低光也会造成类似瑕疵；结论要写概率和证据，不写“一眼假”。</p></section><section><h2 id="section-3">现场</h2><p>看牙齿、耳朵、眨眼、背景文字、光影方向；逐帧看 5 秒，找不自然。</p></section><section><h2 id="section-4">怎么做</h2><p>深伪别只看脸；看牙齿、耳朵、眨眼、背景文字和光影方向。</p><ol><li>逐帧看五秒：牙齿是否一排、耳朵是否对称、眨眼是否自然。</li><li>看背景文字、招牌和眼镜反光是否连贯。</li><li>找原始来源、本人回应或第二角度；三项对不上再判高风险。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别用“看着假”当结论；说出哪几处对不上。</p></section><section><h2>今天怎么用</h2><p>把这条历史放回一个今天的工作：做档案、修复、教学或短片时，先问它解决了什么，再问它今天还缺什么。</p><ul><li>找一条今天的同类作品，标出一个它继承的旧限制。</li><li>找一个它已经不再需要的条件，说明为什么。</li><li>写一句今天仍不能做的事。</li></ul></section><section><h2>来源边界</h2><p>这是解释，不是原始档案；关键年份、人物和法律条文回到 <a href="../../about/">SOURCES.md</a> 的原始链接复核。二手叙述只能当线索，不能当证据。</p></section>
+<h2>验收</h2><ul><li>五秒逐帧看过牙齿、耳朵和眨眼。</li><li>背景文字、招牌和眼镜反光的连续性看过。</li><li>原始来源、本人回应或第二角度三项对不上。</li></ul>
 
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：编辑部的条文对照与项目复盘；实测来源：无实验室实测；参考来源：以下法律、平台与机构文本。</p>
-<ul><li><span class="mono">[S01]</span> UNESCO：媒介与信息素养</li><li><span class="mono">[S03]</span> 《中华人民共和国个人信息保护法》</li><li><span class="mono">[S22]</span> 《中华人民共和国民法典》</li><li><span class="mono">[S39]</span> W3C WCAG</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
-<!-- SOURCES_END -->
-
-<!-- DEEP_DIVE_START -->
-## 深读
-<p><strong>约 8 分钟。</strong> 深度伪造不是“看着假”，是来源、时间、地点、身体细节四处对不上。</p>
-### 先查来源，再看画面
-<p>先找原始账号、原始直播、完整版本；没有来源的“独家”视频，先当未知。伪造视频最怕你回到源头，最不怕你放大看像素。</p><p>问谁有动机做这条、什么时候放出、想让你转发什么；三个问题比任何检测工具都先到。</p>
-### 身体细节的破绽
-<p>看牙齿是不是一排、耳朵左右是否对称、手指关节有没有多、眨眼频率是否突然变、脖子和衣领的阴影是否一致。AI 常在边缘和接触处露馅。</p><p>看口型和声音是否对得上，尤其是爆破音和停顿；再看背景文字、招牌、眼镜反光。破绽通常在你不注意的角落。</p>
-### 检测之后怎么做
-<p>检测给概率，不给判决；不要用一条“97% 伪造”的分数公开指控。找原始来源、找本人回应、找第二个独立角度。</p><p>如果无法确认，报道“这段视频来源不明、无法核实”，不要传播细节，也不要把被伪造的人当成笑话。受害者不是素材。</p>
-### 五分钟练习：一条视频四查
-<p>找一条可疑视频，查来源、时间、地点、身体细节；每项写一行“有/无/不确定”，不要写“感觉假”。</p><p>把四项给一个人看，让他独立判断；你们结论不同，就回去查最弱的一项，不要吵。</p>
-### 什么时候可以下结论
-<p>原始来源缺失、时间地点对不上、身体细节有硬伤、本人或权威方否认，四项里至少三项成立，才能说“高度可能伪造”。</p><p>只有一项，写“存疑”；一项都没有，闭嘴。公开指控的成本，永远比多查十分钟高。</p>
-### 深度伪造，十项检查
-<ul><li>先找原始账号和直播</li><li>看发布时间和动机</li><li>牙齿是否一排</li><li>耳朵左右是否对称</li><li>手指关节是否正常</li><li>眨眼频率是否突变</li><li>脖子衣领阴影是否一致</li><li>口型爆破音是否对上</li><li>背景文字眼镜反光</li><li>三项成立才说高度可能</li></ul><p>识别伪造的终点不是“我看出来了”，是“我能指出哪四处对不上”。</p>
-<!-- DEEP_DIVE_END -->

@@ -10,13 +10,13 @@ summary: "口播不是把文章念出来。观众听不见标点，只听得见�
 slug: talking-head
 aliases: [talking-head, 口播, 知识口播]
 canonical_site: formats
-canonical_path: /talk/talking-head/
+canonical_path: /article/talking-head/
 status: published
 difficulty: beginner
 stage: format
 format: talking-head
 tools: [camera, audio]
-authors: [editor]
+authors: ["TVCN 片型组"]
 reviewers: [technical-reviewer]
 cover: /images/formats/talking-head.webp
 diagram: /images/diagrams/zh/talking-head.png
@@ -25,7 +25,7 @@ diagram_caption: "短句、具体例子、看镜头。观众听不见标点，�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [formats.publish.thumbnail, tools.camera.audio-position]
+related: [formats.drama.vertical-drama.en, formats.ad.product-ad.en, formats.vlog.vlog-structure.en]
 depth: deep
 deep_minutes: 6
 ---

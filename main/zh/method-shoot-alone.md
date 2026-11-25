@@ -5,43 +5,43 @@ type: template
 lang: zh
 translation_key: main.method.method-shoot-alone
 translation_status: source
-title: "一个人怎么拍"
-summary: "一个人拍先用固定机位和连续动作；不要同时演、拍、跟焦。"
+title: 一个人怎么拍
+summary: 一个人拍先用固定机位和连续动作；不要同时演、拍、跟焦。
 slug: method-shoot-alone
-aliases: [method-shoot-alone]
+aliases:
+- method-shoot-alone
 canonical_site: main
-canonical_path: /method/method-shoot-alone/
+canonical_path: /article/method-shoot-alone/
 status: published
 diagram: /images/diagrams/zh/method-shoot-alone.svg
-diagram_alt: "一个人怎么拍 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 一个人怎么拍的结构示意图。
+diagram_caption: 看“先拍空镜和全景，把机位锁死”和“用监视器看构图，提前对焦，再走到位置…”两处，判断症状能不能被复述成一句可观察的话。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 编辑部
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- main.method.method-no-budget.en
+- main.method.method-deadline.en
+- main.method.method-portfolio-empty.en
 depth: deep
 deep_minutes: 6
+source_kind: experience
 ---
 
-<p>一个人拍先用固定机位和连续动作；不要同时演、拍、跟焦。</p>
+<p>单人拍摄最耗时的是调整机位、对焦和收音。把镜头设计成固定机位、预设焦点、连续动作；能用三脚架和自动曝光解决的，不要现场手动。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/method-shoot-alone.svg" alt="一个人怎么拍 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/method-shoot-alone.svg" alt="一个人怎么拍的结构示意图。">
+  <figcaption>看“先拍空镜和全景，把机位锁死”和“用监视器看构图，提前对焦，再走到位置…”两处，判断症状能不能被复述成一句可观察的话。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>固定机位，先拍自己走位和动作，再拍空镜；不要同时演和跟焦。</p>
-<h2>怎么做</h2>
-<p>一个人拍就用固定机位和连续动作；不要同时演、拍、跟焦。</p><ol><li>先拍空镜和全景，把机位锁死。</li><li>用监视器看构图，提前对焦，再走到位置做动作。</li><li>同一动作拍三遍：全景、中景、特写，后期剪在一起。</li></ol>
-<h2>别踩</h2>
-<p>别手持跟拍自己；焦点和构图一定会丢。</p>
-<h2>验收</h2>
-<ul><li>机位锁死，空镜和全景先拍完。</li><li>每个动作有全景、中景、特写三条。</li><li>焦点在走位前对好，没有反复拉风箱。</li></ul>
+<section><h2 id="section-1">一个人拍，先设计“不需要第二双手”的镜头</h2><p>每个镜头只拍一个动作，拍完立刻回放；不要一次拍十个，回家才发现都不能用。</p><h2 id="section-2">边界</h2><p>一个人不要拍需要同步跟焦和推轨的复杂运镜。不是做不到，是出错时没人替你保底；把复杂度留给有团队的项目。</p></section><section><h2 id="section-3">现场</h2><p>固定机位，先拍自己走位和动作，再拍空镜；不要同时演和跟焦。</p></section><section><h2 id="section-4">怎么做</h2><p>一个人拍就用固定机位和连续动作；不要同时演、拍、跟焦。</p><ol><li>先拍空镜和全景，把机位锁死。</li><li>用监视器看构图，提前对焦，再走到位置做动作。</li><li>同一动作拍三遍：全景、中景、特写，后期剪在一起。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别手持跟拍自己；焦点和构图一定会丢。</p></section><section><h2>替代</h2><p>如果“先拍空镜和全景，把机位锁死”不是你的主问题，先用“用监视器看构图，提前对焦，再走到位置…”对应的基础做法；两项都成立再考虑升级。</p></section><section><h2>60 秒自测</h2><p>用现有器材按“先拍空镜和全景，把机位锁死”做一次 60 秒测试，记下一个数字；数字没有变化，就不要加预算。</p></section><section><h2>什么时候不该用</h2><p>当“先拍空镜和全景，把机位锁死”还没写清，或“用监视器看构图，提前对焦，再走到位置…”只是凑数时，不要套模板；先回到人物和问题。</p></section><section><h2>三个失败</h2><ul><li>模板每段都有，但人物没有决定。</li><li>中段只换场景，没有新信息。</li><li>结尾靠旁白总结，画面没有变化。</li></ul></section>
+<h2>验收</h2><ul><li>机位锁死，空镜和全景先拍完。</li><li>每个动作有全景、中景、特写三条。</li><li>焦点在走位前对好，没有反复拉风箱。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读

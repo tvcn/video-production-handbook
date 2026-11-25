@@ -5,23 +5,29 @@ type: article
 lang: zh
 translation_key: formats.experimental.experimental-breakdown
 translation_status: source
-title: "实验影像拉片：规则、重复、打破"
-summary: "按 4 分钟实验片的通用结构，拆 8 个时间码：前规则、规则、重复三次、打破、后果、停止。"
+title: 实验影像拉片：规则、重复、打破
+summary: 按 4 分钟实验片的通用结构，拆 8 个时间码：前规则、规则、重复三次、打破、后果、停止。
 slug: experimental-breakdown
-aliases: [experimental-breakdown]
+aliases:
+- experimental-breakdown
 canonical_site: formats
-canonical_path: /experimental/experimental-breakdown/
+canonical_path: /article/experimental-breakdown/
 status: published
 diagram: /images/diagrams/zh/experimental-breakdown.svg
-diagram_alt: "实验影像拉片：规则、重复、打破：时间码、结构与预算拉片工作纸"
-diagram_caption: "图解是入口：先看时间码，再用文末验收表检查。"
+diagram_alt: 实验影像拉片：规则、重复、打破：时间码、结构与预算拉片工作纸
+diagram_caption: 图解是入口：先看时间码，再用文末验收表检查。
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN 片型组
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [main.case.case-experimental, main.path.path-history, main.path.path-post]
+related:
+- formats.music-video.music-video-breakdown.en
+- formats.short-drama.short-drama-breakdown.en
+- formats.documentary.documentary-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

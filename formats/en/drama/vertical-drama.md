@@ -11,7 +11,7 @@ summary: "Vertical drama has no time for a world. Put a want in the first frame,
 slug: vertical-drama
 aliases: [vertical-drama, vertical drama, short drama]
 canonical_site: formats
-canonical_path: /en/drama/vertical-drama/
+canonical_path: /en/article/vertical-drama/
 status: published
 difficulty: intermediate
 stage: format
@@ -26,7 +26,7 @@ diagram_caption: "Want in the first frame, obstacle by second three, one turn pe
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [story.screenplay.three-act, tools.delivery.publish-checklist]
+related: [formats.vlog.vlog-structure.en, post.delivery.conform-online.en, shoot.multicam.multicam-live.en]
 depth: deep
 deep_minutes: 6
 sources: [S14, S15, S16]
@@ -96,5 +96,5 @@ Keep subtitles in the bottom safe area, off the mouth and hands. Platform UI cov
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

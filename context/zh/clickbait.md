@@ -5,47 +5,48 @@ type: literacy
 lang: zh
 translation_key: context.literacy.clickbait
 translation_status: source
-title: "标题党：标题承诺了什么，正文给了什么"
-summary: "标题党先承诺一个强结果，正文只给一个弱例子；判断方法是把标题和正文各写一句。"
+title: 标题党：标题承诺了什么，正文给了什么
+summary: 标题党先承诺一个强结果，正文只给一个弱例子；判断方法是把标题和正文各写一句。
 slug: clickbait
-aliases: [clickbait]
+aliases:
+- clickbait
 canonical_site: context
-canonical_path: /literacy/clickbait/
+canonical_path: /article/clickbait/
 status: published
 diagram: /images/diagrams/zh/clickbait.svg
-diagram_alt: "标题党：标题承诺了什么，正文给了什么 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 标题党：标题承诺了什么，正文给了什么的结构示意图。
+diagram_caption: 看“把标题改写成一句“承诺”，把正文改写…”和“看两句是否同一件事，证据是否支撑承诺”两处，判断它替代了什么旧办法，又新增了什么限制。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-sources: [S01]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 研究组
+sources:
+- S01
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- context.literacy.algorithm-feed.en
+- context.literacy.edit-manipulation.en
+- context.literacy.statistics-video.en
+source_kind: sourced
 ---
 
-<p>标题党先承诺一个强结果，正文只给一个弱例子；判断方法是把标题和正文各写一句。</p>
+<p>可用的钩子不是“你绝对想不到”，而是“第 37 秒，他把镜头转过来”。它承诺一个真实存在的时刻，观众点进来能找到。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/clickbait.svg" alt="标题党：标题承诺了什么，正文给了什么 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/clickbait.svg" alt="标题党：标题承诺了什么，正文给了什么的结构示意图。">
+  <figcaption>看“把标题改写成一句“承诺”，把正文改写…”和“看两句是否同一件事，证据是否支撑承诺”两处，判断它替代了什么旧办法，又新增了什么限制。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>把标题和正文各写一句，看是否同一件事；标题承诺 A，正文给 B 就是标题党。</p>
-<h2>怎么做</h2>
-<p>标题党先承诺一个强结果，正文只给一个弱例子；把标题和正文各写一句。</p><ol><li>把标题改写成一句“承诺”，把正文改写成一句“证据”。</li><li>看两句是否同一件事，证据是否支撑承诺。</li><li>标题承诺 A、正文给 B，就判为标题党。</li></ol>
-<h2>别踩</h2>
-<p>别只骂标题夸张；要说出正文缺了哪条证据。</p>
-<h2>验收</h2>
-<ul><li>标题写成承诺句，正文写成证据句。</li><li>检查了两者是否同一件事、证据是否支撑。</li><li>能指出标题承诺 A、正文给 B 的地方。</li></ul>
+<section><h2 id="section-1">钩子要指向片子里的具体一刻</h2><p>写钩子时同时写“兑现点”：第几秒、发生什么。写不出兑现点，就还是在骗点击。</p><h2 id="section-2">边界</h2><p>钩子可以制造悬念，不能制造错误事实。标题说“失败”，片子里却成功了，这不是悬念，是欺骗。</p></section><section><h2 id="section-3">现场</h2><p>把标题和正文各写一句，看是否同一件事；标题承诺 A，正文给 B 就是标题党。</p></section><section><h2 id="section-4">怎么做</h2><p>标题党先承诺一个强结果，正文只给一个弱例子；把标题和正文各写一句。</p><ol><li>把标题改写成一句“承诺”，把正文改写成一句“证据”。</li><li>看两句是否同一件事，证据是否支撑承诺。</li><li>标题承诺 A、正文给 B，就判为标题党。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别只骂标题夸张；要说出正文缺了哪条证据。</p></section><section><h2>今天怎么用</h2><p>把这条历史放回一个今天的工作：做档案、修复、教学或短片时，先问它解决了什么，再问它今天还缺什么。</p><ul><li>找一条今天的同类作品，标出一个它继承的旧限制。</li><li>找一个它已经不再需要的条件，说明为什么。</li><li>写一句今天仍不能做的事。</li></ul></section><section><h2>来源边界</h2><p>这是解释，不是原始档案；关键年份、人物和法律条文回到 <a href="../../about/">SOURCES.md</a> 的原始链接复核。二手叙述只能当线索，不能当证据。</p></section>
+<h2>验收</h2><ul><li>标题写成承诺句，正文写成证据句。</li><li>检查了两者是否同一件事、证据是否支撑。</li><li>能指出标题承诺 A、正文给 B 的地方。</li></ul>
 
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
 - [S01] UNESCO：媒介与信息素养
 
-完整链接与用途见 [`SOURCES.md`](../../SOURCES.md)。
+完整链接与用途见 [`SOURCES.md`](../../about/)。
 <!-- SOURCES_END -->

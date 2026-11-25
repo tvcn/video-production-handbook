@@ -5,47 +5,61 @@ type: article
 lang: zh
 translation_key: formats.event.event-structure
 translation_status: source
-title: "活动片结构：先给结果，再给过程"
-summary: "活动片先给结果，再给过程；观众要知道这场活动成了什么。"
+title: 活动片结构：先给结果，再给过程
+summary: 活动片先给结果，再给过程；观众要知道这场活动成了什么。
 slug: event-structure
-aliases: [event-structure]
+aliases:
+- event-structure
 canonical_site: formats
-canonical_path: /event/event-structure/
+canonical_path: /article/event-structure/
 status: published
 diagram: /images/diagrams/zh/event-structure.svg
-diagram_alt: "活动片结构：先给结果，再给过程 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 活动片结构：先给结果，再给过程的结构示意图。
+diagram_caption: 看“开场 10 秒给结果：人数、成交或落…”和“再给三个现场亮点”两处，判断前三秒给出的理由，能不能撑到结尾。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: ["TVCN 片型组"]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 片型组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- formats.experimental.experimental-structure.en
+- post.assets.dit-data-handoff.en
+- shoot.camera.composition.en
 depth: deep
 deep_minutes: 6
-sources: [S14, S15, S16]
-test_context: "复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。"
-known_failures: "已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。"
+sources:
+- S14
+- S15
+- S16
+test_context: 复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。
+known_failures: 已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。
 verified: 2026-11-22
+source_kind: sourced
 ---
 
-<p>活动片先给结果，再给过程；观众要知道这场活动成了什么。</p>
+<p>活动片最常犯的错，是按时间顺序从签到讲到散场。观众要的是“这场活动发生了什么”，所以开场先给最热的一秒或结束后的现场，再回到进场和过程。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/event-structure.svg" alt="活动片结构：先给结果，再给过程 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/event-structure.svg" alt="活动片结构：先给结果，再给过程的结构示意图。">
+  <figcaption>看“开场 10 秒给结果：人数、成交或落…”和“再给三个现场亮点”两处，判断前三秒给出的理由，能不能撑到结尾。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>开场 10 秒给结果：人数、成交或落幕；再回到过程。</p>
-<h2>怎么做</h2>
-<p>活动片先给结果，再给过程；观众要知道这场活动成了什么。</p><ol><li>开场 10 秒给结果：人数、成交或落幕。</li><li>再给三个现场亮点。</li><li>最后给时间、地点和行动。</li></ol>
-<h2>别踩</h2>
-<p>别把活动片剪成领导名单；观众要知道发生了什么。</p>
-<h2>验收</h2>
-<ul><li>前 10 秒给出一个可量化或可看见的结果。</li><li>中段有三个现场亮点，不是台上发言。</li><li>结尾能说清时间、地点、怎么参加。</li></ul>
+<section><h2 id="section-1">先给结果，再给流程</h2><p>中段只选三个不同亮点，每个用一个镜头说明；不要把所有嘉宾讲话平均剪一遍。</p><h2 id="section-2">边界</h2><p>活动片不是新闻片，也不是宣传片。它可以让节奏快，但不能编造结果；没有发生的事，不要用音乐和慢动作补。</p><h2 id="section-3">案例：90 秒活动回顾，先给结果再给过程</h2><p class="case-disclosure">案例说明：匿名复合复盘，来自多个同类型项目的合并与改写；金额为区间，人物、地点与客户信息已隐去，不对应单一真实客户。</p>
+<div class="table-scroll"><table class="data-table"><thead><tr><th>项目</th><th>约束</th><th>结果</th></tr></thead><tbody>
+<tr><td>90 秒活动回顾</td><td>1 个会场、1 个拍摄日、2 人</td><td>当天拍，次日交</td></tr>
+<tr><td>预算区间</td><td>¥2,000–6,000</td><td>无彩排、无摆拍</td></tr>
+<tr><td>目的</td><td>让没来的人知道“发生了什么”</td><td>不是完整流程记录</td></tr>
+</tbody></table></div>
+<h3>现场发生了什么</h3>
+<ol><li>开场不拍空会场，先拍嘉宾进门时的第一句话和一个具体动作；观众先知道“今天发生了什么”。</li><li>中段只选 3 个亮点，每个不超过 8 秒；领导讲话只保留一句能独立成立的话，不放全程。</li><li>结尾给下一次活动的时间与动作，不放“圆满成功”字幕。</li></ol>
+<h3>取舍</h3>
+<p>放弃完整流程和多人采访，改用“一个结果、三个证据、一个下一步”。现场收音不可控，所以关键句用字幕卡补，但保留 2 秒真实环境声，让观众知道这是现场。</p>
+<h3>可复用 / 不可照搬</h3>
+<ul><li>可复用：活动片先给结果，再给过程；每个亮点只留一个可看的动作。</li><li>不可照搬：发布会涉及未公开产品或嘉宾肖像，发布前要按主办方清单逐条确认，不能因为“现场”就默认可发。</li></ul></section><section><h2 id="section-4">现场</h2><p>开场 10 秒给结果：人数、成交或落幕；再回到过程。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>开场 10 秒给结果：人数、成交或落幕。</li><li>再给三个现场亮点。</li><li>最后给时间、地点和行动。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别把活动片剪成领导名单；观众要知道发生了什么。</p></section><figure class="article-audio"><audio controls preload="none" src="../../assets/audio/zh/fmt-event.zh.mp3"></audio><figcaption>20 秒语音演示：一个检查点和最常见的失败。文字稿与步骤在正文里。</figcaption></figure><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>前三秒给出一个可相信的理由</li><li>中段有新信息或新阻碍，不是重复气氛</li><li>结尾有一个可看见的变化，旁白没有替它收尾</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>模板套上了，人物和问题却没成立</li><li>前三秒没有理由，只靠标题和音乐</li><li>结尾没有可看见的变化，全靠旁白总结</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>拆一条 30 秒参考片，标出“开场 10 秒给结果：人数、成交或落…”和“再给三个现场亮点”的时间点；再写一句：如果删掉其中一个，片子还成立吗？</p></section>
+<h2>验收</h2><ul><li>前 10 秒给出一个可量化或可看见的结果。</li><li>中段有三个现场亮点，不是台上发言。</li><li>结尾能说清时间、地点、怎么参加。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读
@@ -64,8 +78,3 @@ verified: 2026-11-22
 <ul><li>三秒内给最热闹的瞬间</li><li>不从签到台开始</li><li>一句字幕交代时间地点人数</li><li>人、动作、空间各一个亮点</li><li>每个亮点五到八秒</li><li>亮点配现场声或一句采访</li><li>采访只留一句</li><li>结尾信息一条一画面</li><li>时长十五到六十秒</li><li>不用“圆满成功”代替结果</li></ul><p>活动片不是把流程走完，是让人看完之后知道下一次该不该来。</p>
 <!-- DEEP_DIVE_END -->
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
-<ul><li><span class="mono">[S14]</span> YouTube 社区准则</li><li><span class="mono">[S15]</span> TikTok 社区准则</li><li><span class="mono">[S16]</span> BBC 编辑准则</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
-<!-- SOURCES_END -->

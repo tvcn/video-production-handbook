@@ -11,13 +11,13 @@ summary: Picture does not have to cut at the same time as sound. Let the next sc
 slug: sound-bridge
 aliases: [sound-bridge, J-cut, L-cut, audio bridge]
 canonical_site: post
-canonical_path: /en/editing/sound-bridge/
+canonical_path: /en/article/sound-bridge/
 status: published
 difficulty: intermediate
 stage: post
 format: short-film
 tools: [editor]
-authors: [editor]
+authors: ["TVCN Post Desk"]
 reviewers: [technical-reviewer]
 cover: /images/post/sound-bridge.webp
 diagram: /images/diagrams/en/sound-bridge.png
@@ -26,7 +26,7 @@ diagram_caption: "A J-cut lets the next scene speak first; an L-cut lets the las
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [post.sound.sound-post, post.editing.edit-pacing]
+related: [post.editing.cutting-points.en, post.editing.transitions.en, post.sound.room-tone.en]
 ---
 
 <!-- DIAGRAM_START -->

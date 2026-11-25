@@ -5,47 +5,54 @@ type: article
 lang: zh
 translation_key: post.color.primary-correction
 translation_status: source
-title: "一级校正：曝光与白平衡"
-summary: "一级校正先解决曝光和白平衡，别用风格掩盖技术问题。"
+title: 一级校正：曝光与白平衡
+summary: 一级校正先解决曝光和白平衡，别用风格掩盖技术问题。
 slug: primary-correction
-aliases: [primary-correction]
+aliases:
+- primary-correction
 canonical_site: post
-canonical_path: /color/primary-correction/
+canonical_path: /article/primary-correction/
 status: published
 diagram: /images/diagrams/zh/primary-correction.svg
-diagram_alt: "一级校正：曝光与白平衡 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 一级校正：曝光与白平衡的结构示意图。
+diagram_caption: 看“先拍灰卡或色卡，黑位压到 0 到 5…”和“同场镜头逐条对齐曝光和白平衡，再看肤…”两处，判断剪掉一个镜头后，节奏是更快还是更乱。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: ["TVCN 后期组"]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 后期组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- post.editing.proxy-workflow.en
+- shoot.multicam.multicam-live.en
+- story.storyboard.storyboard.en
 depth: deep
 deep_minutes: 6
-sources: [S24, S27, S28, S30, S34, S35]
-test_context: "复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere Pro 2025 复跑；不声称每台机器结果一致。"
-known_failures: "已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。"
+sources:
+- S24
+- S27
+- S28
+- S30
+- S34
+- S35
+test_context: 复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere
+  Pro 2025 复跑；不声称每台机器结果一致。
+known_failures: 已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。
 verified: 2026-11-22
+source_kind: sourced
 ---
 
-<p>一级校正先解决曝光和白平衡，别用风格掩盖技术问题。</p>
+<p>一级校正只做曝光、白平衡和对比度的统一：先把每个镜头的黑位、白位和肤色对齐，再谈风格。用示波器看，不靠眼睛在暗房里猜。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/primary-correction.svg" alt="一级校正：曝光与白平衡 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/primary-correction.svg" alt="一级校正：曝光与白平衡的结构示意图。">
+  <figcaption>看“先拍灰卡或色卡，黑位压到 0 到 5…”和“同场镜头逐条对齐曝光和白平衡，再看肤…”两处，判断剪掉一个镜头后，节奏是更快还是更乱。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>先拍一张灰卡或色卡：黑位压到 0 到 5，白位不超过 100；同场镜头逐条对齐，再看肤色线。</p>
-<h2>怎么做</h2>
-<p>一级校正先解决曝光和白平衡，别用风格掩盖技术问题。</p><ol><li>先拍灰卡或色卡，黑位压到 0 到 5，白位不超过 100。</li><li>同场镜头逐条对齐曝光和白平衡，再看肤色线。</li><li>技术问题清零后，才加对比和风格。</li></ol>
-<h2>别踩</h2>
-<p>别用 LUT 掩盖技术问题；它会把问题染得更好看。</p>
-<h2>验收</h2>
-<ul><li>同场镜头的黑位和白位对齐，切点不跳。</li><li>肤色线落在同一区域，没有一条偏绿一条偏红。</li><li>关掉风格 LUT 后，画面技术仍然成立。</li></ul>
+<section><h2 id="section-1">先把所有镜头拉回同一条起跑线</h2><p>顺序：曝光归一 → 白平衡归一 → 对比度归一 → 镜头之间跳切检查。任何一步没统一，二级校正只会把偏色锁死。</p><h2 id="section-2">边界</h2><p>一级校正不是“每个镜头都调成一样亮”。不同景别、不同光位允许有差异；统一的是基准，不是画面情绪。</p></section><section><h2 id="section-3">现场</h2><p>先拍一张灰卡或色卡：黑位压到 0 到 5，白位不超过 100；同场镜头逐条对齐，再看肤色线。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>先拍灰卡或色卡，黑位压到 0 到 5，白位不超过 100。</li><li>同场镜头逐条对齐曝光和白平衡，再看肤色线。</li><li>技术问题清零后，才加对比和风格。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别用 LUT 掩盖技术问题；它会把问题染得更好看。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>剪掉一个镜头，节奏更快而不是更乱</li><li>示波器上肤色、高光和黑位都在范围内</li><li>响度、字幕和文件规格能过一次交付检查</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>剪辑点跟着音乐，不跟动作</li><li>先定风格再统一，镜头之间跳色</li><li>交付前没查响度和字幕，最后一遍才发现</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>拿一段 30 秒素材做 A/B，只改“先拍灰卡或色卡，黑位压到 0 到 5…”；记下一个时间码和一处差异，再决定是否保留。</p></section>
+<h2>验收</h2><ul><li>同场镜头的黑位和白位对齐，切点不跳。</li><li>肤色线落在同一区域，没有一条偏绿一条偏红。</li><li>关掉风格 LUT 后，画面技术仍然成立。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读
@@ -66,8 +73,3 @@ verified: 2026-11-22
 <ul><li>每场选一条参考镜头</li><li>先对曝光</li><li>再对白平衡</li><li>再对肤色</li><li>看黑位和高光</li><li>LUT 放在一级之后</li></ul><p>一级校正做对了，后面的风格才有地基；地基歪了，越调越假。先让一场戏里的脸看起来是同一个人，再谈风格。这场戏的脸，要像同一个人，不是两个色温的人。</p>
 <!-- DEEP_DIVE_END -->
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
-<ul><li><span class="mono">[S24]</span> ACES 色彩管理</li><li><span class="mono">[S27]</span> EBU R128 响度</li><li><span class="mono">[S28]</span> Netflix 制作与交付帮助</li><li><span class="mono">[S30]</span> DaVinci Resolve 产品与文档</li><li><span class="mono">[S34]</span> Adobe Premiere Pro 用户指南</li><li><span class="mono">[S35]</span> Avid 资源中心</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
-<!-- SOURCES_END -->

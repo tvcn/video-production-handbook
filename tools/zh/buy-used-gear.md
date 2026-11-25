@@ -5,26 +5,38 @@ type: article
 lang: zh
 translation_key: tools.guide.buy-used-gear
 translation_status: source
-title: "购买二手器材：快门、传感器与维修"
-summary: "二手不是“便宜”，是“把风险折成价格”。先查快门/传感器/接口/维修记录，再谈价；没有试拍和退货条款，再便宜也不要。"
+title: 购买二手器材：快门、传感器与维修
+summary: 二手不是“便宜”，是“把风险折成价格”。先查快门/传感器/接口/维修记录，再谈价；没有试拍和退货条款，再便宜也不要。
 slug: buy-used-gear
-aliases: [buy-used-gear]
+aliases:
+- buy-used-gear
 canonical_site: tools
 canonical_path: /article/buy-used-gear/
 status: published
 diagram: /images/diagrams/zh/buy-used-gear.svg
-diagram_alt: "购买二手器材专题图解"
-diagram_caption: "示意：快门、传感器、接口、维修、价格，五项决定二手值不值得买。"
+diagram_alt: 购买二手器材专题图解
+diagram_caption: 示意：快门、传感器、接口、维修、价格，五项决定二手值不值得买。
 difficulty: intermediate
 stage: handbook
 format: guide
-authors: ["TVCN 工具组"]
+authors:
+- TVCN 工具组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S23, S25, S26, S29, S38]
-test_context: "复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。"
-known_failures: "已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。"
+sources:
+- S23
+- S25
+- S26
+- S29
+- S38
+test_context: 复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。
+known_failures: 已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。
 verified: 2026-11-22
+related:
+- tools.guide.buy-wireless-lav.en
+- ai.audio.ai-tts.en
+- animation.principles.animation-principles.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +51,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：编辑部现场手册与购买检查表；实测来源：短测与公开规格核对，不是实验室跑分；参考来源：以下厂商与标准链接。</p>
 <ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube 上传规格</li><li><span class="mono">[S38]</span> 国家税务总局</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

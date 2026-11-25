@@ -10,13 +10,13 @@ summary: 一条片子的声音不舒服，观众不会说“声音不好”，�
 slug: sound-post
 aliases: [sound-post, 声音后期, 降噪]
 canonical_site: post
-canonical_path: /sound/sound-post/
+canonical_path: /article/sound-post/
 status: published
 difficulty: beginner
 stage: edit
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN 后期组"]
 reviewers: [technical-reviewer]
 cover: /images/post/sound-post.webp
 diagram: /images/diagrams/zh/sound-post.png
@@ -25,7 +25,7 @@ diagram_caption: "一条片子的声音不舒服，观众不会说“声音不�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [post.sound.sound, tools.audio.audio-position]
+related: [post.sound.room-tone.en, post.editing.mix-dialogue.en, post.color.color.en]
 ---
 
 <!-- DIAGRAM_START -->

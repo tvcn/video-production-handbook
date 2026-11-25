@@ -11,7 +11,7 @@ summary: "One key and one reflector can shoot most portrait scenes. Control the 
 slug: ratio
 aliases: [ratio]
 canonical_site: shoot
-canonical_path: /en/lighting/ratio/
+canonical_path: /en/article/ratio/
 status: published
 difficulty: beginner
 stage: shoot
@@ -26,7 +26,7 @@ diagram_caption: "Key shapes, fill opens the shadow, back separates the subject 
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: []
+related: [shoot.safety.set-safety.en, story.screenplay.logline.en, tools.guide.budget-quote.en]
 sources: [S23, S31, S32, S33]
 test_context: "Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus and samples; lens claims follow page labels, not every lens tested."
 known_failures: "Known failures: menus and firmware differ; uncalibrated color temperature/monitors cause misreads."
@@ -71,5 +71,5 @@ Do not buy lights first. Window light already has color and direction; you only 
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S31]</span> ARRI Technical Documentation</li><li><span class="mono">[S32]</span> Sony Pro Support</li><li><span class="mono">[S33]</span> Canon Support</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

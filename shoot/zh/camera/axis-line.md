@@ -10,13 +10,13 @@ summary: "两个人对话，摄影机跨到桌子另一边，观众会以为他�
 slug: axis-line
 aliases: [axis-line]
 canonical_site: shoot
-canonical_path: /camera/axis-line/
+canonical_path: /article/axis-line/
 status: published
 difficulty: beginner
 stage: shoot
 format: short-film
 tools: [camera, support]
-authors: [editor]
+authors: ["TVCN 拍摄组"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/axis-line.webp
 diagram: /images/diagrams/zh/axis-line.png
@@ -25,7 +25,7 @@ diagram_caption: "主机位和反打留在同一边，观众才知道谁在左�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [composition, storyboard]
+related: [shoot.production.shot-list.en, shoot.production.camera-height.en, shoot.lighting.window-light.en]
 ---
 
 <!-- DIAGRAM_START -->

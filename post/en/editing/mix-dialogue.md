@@ -11,13 +11,13 @@ summary: "The audience can ignore the music; they cannot afford to miss the line
 slug: mix-dialogue
 aliases: [mixing, dialogue mix, ducking music]
 canonical_site: post
-canonical_path: /en/editing/mix-dialogue/
+canonical_path: /en/article/mix-dialogue/
 status: published
 difficulty: intermediate
 stage: post
 format: dialogue
 tools: [audio, edit]
-authors: [editor]
+authors: ["TVCN Post Desk"]
 reviewers: [technical-reviewer]
 cover: /images/post/mix-dialogue.webp
 diagram: /images/diagrams/en/mix-dialogue.png
@@ -26,7 +26,7 @@ diagram_caption: "Where the dialogue is, the music gives way. It does not need t
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [post.sound.sound-post, post.sound.sound]
+related: [post.sound.room-tone.en, post.sound.sound-post.en, post.editing.transitions.en]
 ---
 
 <!-- DIAGRAM_START -->

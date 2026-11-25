@@ -10,13 +10,13 @@ summary: "采访对象、店主、家人，越说“自然一点”越僵。给�
 slug: directing-nonactors
 aliases: [directing-nonactors]
 canonical_site: story
-canonical_path: /directing/directing-nonactors/
+canonical_path: /article/directing-nonactors/
 status: published
 difficulty: beginner
 stage: directing
 format: documentary
 tools: [script, camera, sound]
-authors: [editor]
+authors: ["TVCN 故事组"]
 reviewers: [technical-reviewer]
 cover: /images/story/directing-nonactors.webp
 diagram: /images/diagrams/zh/directing-nonactors.png
@@ -25,7 +25,7 @@ diagram_caption: "越说“自然一点”越僵。给他一件具体的事做�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [documentary, story]
+related: [story.interview.interview-questions.en, story.directing.actor-adjustment.en, story.directing.ensemble-scene.en]
 ---
 
 <!-- DIAGRAM_START -->

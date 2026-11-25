@@ -5,43 +5,56 @@ type: template
 lang: en
 translation_key: main.method.method-portfolio-empty
 translation_status: reviewed
-title: "You Have No Portfolio"
-summary: "Make three 30-second proof films: a person, an object, a story."
+title: You Have No Portfolio
+summary: 'Make three 30-second proof films: a person, an object, a story.'
 slug: method-portfolio-empty
-aliases: [method-portfolio-empty]
+aliases:
+- method-portfolio-empty
 canonical_site: main
-canonical_path: /en/method/method-portfolio-empty/
+canonical_path: /en/article/method-portfolio-empty/
 status: published
 diagram: /images/diagrams/en/method-portfolio-empty.svg
-diagram_alt: "You Have No Portfolio three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: Structure diagram for You Have No Portfolio.
+diagram_caption: 'Watch “Each film proves one skill: portrait interview, product”
+  and “Shoot with the same settings to show consistent”; judge whether the symptom
+  can be restated as one observable sentence.'
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Editorial
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- main.method.method-first-client.en
+- main.method.method-client-revision.en
+- main.method.method-shoot-alone.en
 depth: deep
 deep_minutes: 7
+source_kind: experience
 ---
 
-<p>Make three 30-second proof films: a person, an object, a story.</p>
+<p>Do not wait for a big project. Choose three films you can actually finish: a 60-second portrait, a 30-second product, a 15-second event. For each, state your role, gear and deliverable.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/method-portfolio-empty.svg" alt="You Have No Portfolio three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/method-portfolio-empty.svg" alt="Structure diagram for You Have No Portfolio.">
+  <figcaption>Watch “Each film proves one skill: portrait interview, product” and “Shoot with the same settings to show consistent”; judge whether the symptom can be restated as one observable sentence.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Make three thirty-second films: people, objects, and one story. One skill per film.</p>
-<h2>Do this</h2>
-<p>No portfolio: make three thirty-second proof films. Show you can shoot a person, an object, and a story.</p><ol><li>Each film proves one skill: portrait interview, product texture, or narrative turn.</li><li>Shoot with the same settings to show consistent quality.</li><li>Add one page per film: goal, method, result, failure.</li></ol>
-<h2>Avoid</h2>
-<p>Do not use a travel montage as a portfolio; the client cannot see what you can do.</p>
-<h2>Check</h2>
-<ul><li>Three thirty-second proof films: a person, an object, and a story.</li><li>They share one setting so quality is consistent.</li><li>Each has a one-page breakdown: goal, method, result, failure.</li></ul>
+<section><h2 id="section-1">With no portfolio, make three small signed deliverables</h2><p>A portfolio is not a pile of films; it is three lines: problem, action, result. Clients want to see whether you solve their problem.</p><h2 id="section-2">Limits</h2><p>Do not label exercises as commercial cases. Invented clients, fake data or claiming others' shots invalidates the whole portfolio once noticed.</p><h2 id="section-3">A credible portfolio without clients</h2>
+<p>A portfolio is not a client list; it is evidence of the problems you can solve. Without commercial work, fill it with three types: self-initiated films, shot reconstructions and process records. Each proves a different capability.</p>
+<div class="table-scroll"><table class="data-table"><thead><tr><th>Type</th><th>Proves</th><th>Minimum delivery</th></tr></thead><tbody>
+<tr><td>Self-initiated short</td><td>Story, directing, editing</td><td>One 60-second film + one-page intent</td></tr>
+<tr><td>Shot reconstruction</td><td>Precision in camera, light, grade</td><td>Original frame + rebuilt frame + difference notes</td></tr>
+<tr><td>Process record</td><td>Reliability, communication, delivery</td><td>One-page timeline + risk sheet + finished film</td></tr>
+</tbody></table></div>
+<h3>Four blocks per project</h3>
+<ol><li>Problem: who hit what specific problem, in one sentence.</li><li>Constraint: budget, time, location, crew; at least two.</li><li>Action: the trade-off you made, not “I shot it.”</li><li>Result: a verifiable change, or an honest “not launched / not tested.”</li></ol>
+<h3>What not to include</h3>
+<ul><li>Client films without permission, clear faces of passersby, uncleared music.</li><li>A duty list that says “shot and edited” with no judgment.</li><li>Team work presented as solo; naming your role is more credible, not less.</li></ul>
+<p>Put three strongest projects on the first page, not twenty. Give each a reason to watch: a 30-second cut, a technical breakdown or a one-page review. Label self-initiated work as self-initiated; never imply a commercial commission.</p></section><section><h2 id="section-4">On set</h2><p>Make three thirty-second films: people, objects, and one story. One skill per film.</p></section><section><h2 id="section-5">Do this</h2><p>No portfolio: make three thirty-second proof films. Show you can shoot a person, an object, and a story.</p><ol><li>Each film proves one skill: portrait interview, product texture, or narrative turn.</li><li>Shoot with the same settings to show consistent quality.</li><li>Add one page per film: goal, method, result, failure.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not use a travel montage as a portfolio; the client cannot see what you can do.</p></section><section><p><strong>Boundary</strong></p><p>It does not guarantee a story. The template only orders structure; the person, obstacle and cost still need writing.</p></section><section><h2>Alternative</h2><p>If “Each film proves one skill: portrait interview, product” is not the main problem, start with the basic move behind “Shoot with the same settings to show consistent”. Upgrade only after both hold.</p></section><section><h2>60-second test</h2><p>Run a 60-second test with the gear you own, focused on “Each film proves one skill: portrait interview, product”, and record one number. If the number does not change, do not add budget.</p></section><section><h2>When not to use</h2><p>Do not use the template when “Each film proves one skill: portrait interview, product” is still unclear or “Shoot with the same settings to show consistent” is only filler. Go back to the person and the problem.</p></section><section><h2>Three failures</h2><ul><li>Every beat exists, but no one makes a decision.</li><li>The middle changes location, not information.</li><li>The ending is narrated, with no visible change.</li></ul></section>
+<h2>Check</h2><ul><li>Three thirty-second proof films: a person, an object, and a story.</li><li>They share one setting so quality is consistent.</li><li>Each has a one-page breakdown: goal, method, result, failure.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

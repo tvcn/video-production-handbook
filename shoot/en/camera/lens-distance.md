@@ -11,13 +11,13 @@ summary: "Wide is not “fit everything in,” and long is not “shoot far away
 slug: lens-distance
 aliases: [focal length, wide angle, telephoto, lens choice]
 canonical_site: shoot
-canonical_path: /en/camera/lens-distance/
+canonical_path: /en/article/lens-distance/
 status: published
 difficulty: intermediate
 stage: shoot
 format: dialogue
 tools: [camera]
-authors: [editor]
+authors: ["TVCN Shoot Desk"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/lens-distance.webp
 diagram: /images/diagrams/en/lens-distance.png
@@ -26,7 +26,7 @@ diagram_caption: "Wide pulls foreground and background apart; long presses the p
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [shoot.camera.composition, shoot.production.camera-height]
+related: [shoot.camera.shot-size.en, shoot.production.camera-height.en, shoot.camera.camera-move.en]
 ---
 
 <!-- DIAGRAM_START -->

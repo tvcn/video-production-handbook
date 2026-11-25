@@ -10,13 +10,13 @@ summary: "没有灯组也能拍人脸：先定朝向，再用反光板补一点�
 slug: window-light
 aliases: [window-light]
 canonical_site: shoot
-canonical_path: /lighting/window-light/
+canonical_path: /article/window-light/
 status: published
 difficulty: beginner
 stage: shoot
 format: short-film
 tools: [light, camera, support]
-authors: [editor]
+authors: ["TVCN 拍摄组"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/window-light.webp
 diagram: /images/diagrams/zh/window-light.png
@@ -25,7 +25,7 @@ diagram_caption: "没有灯组也能拍人脸：先让人侧对窗，再用反�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [ratio, composition]
+related: [shoot.lighting.night-interior.en, shoot.camera.axis-line.en, shoot.camera.shot-size.en]
 ---
 
 <!-- DIAGRAM_START -->

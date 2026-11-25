@@ -5,26 +5,36 @@ type: article
 lang: en
 translation_key: post.color.color-management
 translation_status: reviewed
-title: "Color Management: Put the LUT in the Right Place"
-summary: "Color management is not applying a cinematic LUT. It answers what the source space is, what the monitor is, and what delivery needs, then puts the transform on the right node."
+title: 'Color Management: Put the LUT in the Right Place'
+summary: Color management is not applying a cinematic LUT. It answers what the source space is, what the monitor is, and what delivery needs, then puts the transform on the right node.
 slug: color-management
-aliases: [color-management]
+aliases:
+- color-management
 canonical_site: post
 canonical_path: /en/article/color-management/
 status: published
 diagram: /images/diagrams/en/color-management.svg
-diagram_alt: "Color-management node diagram"
-diagram_caption: "Diagram: every arrow is a transform. Putting a look LUT before the input transform crushes every source together."
+diagram_alt: Color-management node diagram
+diagram_caption: 'Diagram: every arrow is a transform. Putting a look LUT before the input transform crushes every source together.'
 difficulty: intermediate
 stage: handbook
 format: workflow
-authors: ["TVCN Post Desk"]
+authors:
+- TVCN Post Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S24, S25, S30]
-test_context: "Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine."
-known_failures: "Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking."
+sources:
+- S24
+- S25
+- S30
+test_context: 'Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine.'
+known_failures: 'Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking.'
 verified: 2026-11-22
+related:
+- post.delivery.conform-online.en
+- shoot.blocking.blocking.en
+- story.storyboard.storyboard.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +49,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S24]</span> ACES Color Management</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S30]</span> DaVinci Resolve</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

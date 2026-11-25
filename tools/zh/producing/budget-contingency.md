@@ -10,13 +10,13 @@ summary: "天气、场地超时、补拍、临时加人，这四件事几乎每�
 slug: budget-contingency
 aliases: [budget-contingency]
 canonical_site: tools
-canonical_path: /producing/budget-contingency/
+canonical_path: /article/budget-contingency/
 status: published
 difficulty: beginner
 stage: producing
 format: workflow
 tools: [budget, output]
-authors: [editor]
+authors: ["TVCN 工具组"]
 reviewers: [technical-reviewer]
 cover: /images/tools/budget-contingency.webp
 diagram: /images/diagrams/zh/budget-contingency.png
@@ -25,7 +25,7 @@ diagram_caption: "天气、场地超时、补拍、临时加人，这四件事�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [first-shoot-day, publish-checklist]
+related: [tools.workflow.first-shoot-day.en, tools.producing.budget-map.en, tools.delivery.publish-checklist.en]
 ---
 
 <!-- DIAGRAM_START -->

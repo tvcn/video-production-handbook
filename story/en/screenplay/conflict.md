@@ -11,13 +11,13 @@ summary: "An argument is not conflict. Real conflict is two valid wants that can
 slug: conflict
 aliases: [conflict, conflict scene]
 canonical_site: story
-canonical_path: /en/screenplay/conflict/
+canonical_path: /en/article/conflict/
 status: published
 difficulty: intermediate
 stage: script
 format: short-film
 tools: [script]
-authors: [editor]
+authors: ["TVCN Story Desk"]
 reviewers: [technical-reviewer]
 cover: /images/story/conflict.webp
 diagram: /images/diagrams/en/conflict.png
@@ -26,7 +26,7 @@ diagram_caption: "Give both sides a reason they could say out loud, then remove 
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [story.screenplay.dialogue, story.screenplay.three-act]
+related: [story.screenplay.character-arc.en, story.screenplay.dialogue.en, story.screenplay.voice-over.en]
 ---
 
 <!-- DIAGRAM_START -->

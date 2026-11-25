@@ -5,26 +5,35 @@ type: article
 lang: en
 translation_key: context.law.invoice-tax-cross-border
 translation_status: reviewed
-title: "Cross-border Production Invoices and Tax: Contract, Invoice, Withholding"
-summary: "Cross-border projects stall on “invoices”: a proforma invoice is not a tax invoice. Place of service, receiving entity, permanent establishment, and withholding decide the tax. Confirm the path before quoting."
+title: 'Cross-border Production Invoices and Tax: Contract, Invoice, Withholding'
+summary: 'Cross-border projects stall on “invoices”: a proforma invoice is not a tax invoice. Place of service, receiving entity, permanent establishment, and withholding decide the tax. Confirm the path before quoting.'
 slug: invoice-tax-cross-border
-aliases: [invoice-tax-cross-border]
+aliases:
+- invoice-tax-cross-border
 canonical_site: context
 canonical_path: /en/article/invoice-tax-cross-border/
 status: published
 diagram: /images/diagrams/en/invoice-tax-cross-border.svg
-diagram_alt: "Cross-border invoice/tax diagram"
-diagram_caption: "Diagram: contract, place of service, entity, invoice, and withholding; one wrong step affects payment."
+diagram_alt: Cross-border invoice/tax diagram
+diagram_caption: 'Diagram: contract, place of service, entity, invoice, and withholding; one wrong step affects payment.'
 difficulty: intermediate
 stage: handbook
 format: law
-authors: ["TVCN Research Desk"]
+authors:
+- TVCN Research Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S22, S38]
-test_context: "Review setup: current China mainland statutes, platform rules and public cases; not legal advice."
-known_failures: "Known failures: platform rules and local enforcement change; counsel must confirm applicability."
+sources:
+- S22
+- S38
+test_context: 'Review setup: current China mainland statutes, platform rules and public cases; not legal advice.'
+known_failures: 'Known failures: platform rules and local enforcement change; counsel must confirm applicability.'
 verified: 2026-11-22
+related:
+- context.history.montage.en
+- formats.music-video.music-video-structure.en
+- post.delivery.platform-deliverables.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +48,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: editorial statute comparison and project reviews; tested: no lab measurement; references: the laws, platform rules and institutional texts below.</p>
 <ul><li><span class="mono">[S22]</span> China's Civil Code</li><li><span class="mono">[S38]</span> State Taxation Administration</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

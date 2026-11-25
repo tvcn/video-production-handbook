@@ -11,13 +11,13 @@ summary: "A ball falls off a table. How many in-betweens you draw, and how far a
 slug: animation-timing
 aliases: [animation-timing]
 canonical_site: animation
-canonical_path: /en/timing/animation-timing/
+canonical_path: /en/article/animation-timing/
 status: published
 difficulty: beginner
 stage: animation
 format: animation
 tools: [animation, edit]
-authors: [editor]
+authors: ["TVCN Animation Desk"]
 reviewers: [technical-reviewer]
 cover: /images/animation/animation-timing.webp
 diagram: /images/diagrams/en/animation-timing.png
@@ -26,7 +26,7 @@ diagram_caption: "Same total distance. Change the spacing of the in-betweens and
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [2d-animation, animation-history]
+related: [animation.2d.animation-walk.en, animation.2d.2d-animation.en, animation.3d.blockout.en]
 depth: deep
 deep_minutes: 6
 ---

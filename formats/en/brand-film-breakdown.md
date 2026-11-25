@@ -5,23 +5,29 @@ type: article
 lang: en
 translation_key: formats.brand-film.brand-film-breakdown
 translation_status: reviewed
-title: "Brand Film Breakdown: Build a World in Ninety Seconds"
-summary: "A nine-beat breakdown of a ninety-second brand film: world, character, want, obstacle, turn, action, resolve, line, hold."
+title: 'Brand Film Breakdown: Build a World in Ninety Seconds'
+summary: 'A nine-beat breakdown of a ninety-second brand film: world, character, want, obstacle, turn, action, resolve, line, hold.'
 slug: brand-film-breakdown
-aliases: [brand-film-breakdown]
+aliases:
+- brand-film-breakdown
 canonical_site: formats
-canonical_path: /en/brand-film/brand-film-breakdown/
+canonical_path: /en/article/brand-film-breakdown/
 status: published
 diagram: /images/diagrams/en/brand-film-breakdown.svg
-diagram_alt: "Brand Film Breakdown: Build a World in Ninety Seconds: timecode, structure, and budget worksheet"
-diagram_caption: "The diagram is an entry point: watch the timecodes, then use the checks at the end."
+diagram_alt: 'Brand Film Breakdown: Build a World in Ninety Seconds: timecode, structure, and budget worksheet'
+diagram_caption: 'The diagram is an entry point: watch the timecodes, then use the checks at the end.'
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN Formats Desk
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [formats.product-ad.product-ad-breakdown, formats.documentary.documentary-breakdown, main.path.path-story]
+related:
+- formats.documentary.documentary-breakdown.en
+- formats.short-drama.short-drama-breakdown.en
+- formats.music-video.music-video-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

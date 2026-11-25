@@ -6,29 +6,41 @@ lang: en
 translation_key: context.rights.copyright
 translation_status: reviewed
 translation_reviewed: 2026-11-21
-title: "Rights: Check Five Things Before Publishing"
-summary: "Footage, music, fonts, likeness, and location are five separate permissions. CC is not a commercial license."
+title: 'Rights: Check Five Things Before Publishing'
+summary: Footage, music, fonts, likeness, and location are five separate permissions. CC is not a commercial license.
 slug: copyright
-aliases: [copyright, rights, licensing]
+aliases:
+- copyright
+- rights
+- licensing
 canonical_site: context
-canonical_path: /en/rights/copyright/
+canonical_path: /en/article/copyright/
 status: published
 difficulty: intermediate
 stage: rights
 format: compliance
-tools: [rights, audio]
-authors: [editor]
-reviewers: [technical-reviewer]
+tools:
+- rights
+- audio
+authors:
+- TVCN Research Desk
+reviewers:
+- technical-reviewer
 cover: /images/context/copyright.webp
 diagram: /images/diagrams/en/copyright.png
-diagram_alt: "Rights: five separate clearances"
-diagram_caption: "Footage, music, fonts, likeness, location: five separate clearances. CC is not commercial clearance. If you cannot produce the paper, you do not have the right."
+diagram_alt: 'Rights: five separate clearances'
+diagram_caption: 'Footage, music, fonts, likeness, location: five separate clearances. CC is not commercial clearance. If you cannot produce the paper, you do not have the right.'
 last_verified: 2026-11-20
 review_due: 2027-05-20
-sources: [S02]
-related: [context.literacy.media-literacy, ai.generation.digital-human]
+sources:
+- S02
+related:
+- context.literacy.media-literacy.en
+- context.law.ai-label-law.en
+- context.law.contract-scope.en
 depth: deep
 deep_minutes: 8
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -69,7 +81,7 @@ Label AI generation, digital humans, and synthetic voice as required. Disclosure
 
 - [S02] WIPO: Copyright FAQ
 
-Full links and notes: [`SOURCES.md`](../../../SOURCES.md).
+Full links and notes: [`SOURCES.md`](../../../about/).
 <!-- SOURCES_END -->
 
 <!-- DEEP_DIVE_START -->

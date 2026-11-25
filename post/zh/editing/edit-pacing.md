@@ -10,13 +10,13 @@ summary: "剪得快不等于好看。先删解释，再把切点放在动作上�
 slug: edit-pacing
 aliases: [edit-pacing]
 canonical_site: post
-canonical_path: /editing/edit-pacing/
+canonical_path: /article/edit-pacing/
 status: published
 difficulty: beginner
 stage: post
 format: short-film
 tools: [edit, sound]
-authors: [editor]
+authors: ["TVCN 后期组"]
 reviewers: [technical-reviewer]
 cover: /images/post/edit-pacing.webp
 diagram: /images/diagrams/zh/edit-pacing.png
@@ -25,7 +25,7 @@ diagram_caption: "好奇心升到最高时切；掉下来之前，给观众一�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [rough-cut, color]
+related: [post.editing.fine-cut.en, post.sound.music-editing.en, post.editing.cutting-points.en]
 depth: deep
 deep_minutes: 6
 ---

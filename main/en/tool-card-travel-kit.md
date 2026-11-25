@@ -5,38 +5,47 @@ type: tool
 lang: en
 translation_key: main.tool.tool-card-travel-kit
 translation_status: reviewed
-title: "Travel Kit"
-summary: "Travel light: one body, one lens, small stabilizer, two batteries, one ND, one pouch."
+title: Travel Kit
+summary: 'Travel light: one body, one lens, small stabilizer, two batteries, one ND,
+  one pouch.'
 slug: tool-card-travel-kit
-aliases: [tool-card-travel-kit]
+aliases:
+- tool-card-travel-kit
 canonical_site: main
-canonical_path: /en/tool/tool-card-travel-kit/
+canonical_path: /en/article/tool-card-travel-kit/
 status: published
 diagram: /images/diagrams/en/tool-card-travel-kit.svg
-diagram_alt: "Travel Kit three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: Structure diagram for Travel Kit.
+diagram_caption: 'Watch “Light: one body, one 24–70mm-equivalent zoom, one small”
+  and “Full: add one wide or tele, spare batteries”; judge whether the symptom can
+  be restated as one observable sentence.'
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Editorial
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- main.tool.tool-card-lighting-kit.en
+- main.tool.tool-card-interview-kit.en
+- main.tool.tool-card-audio-kit.en
+source_kind: experience
 ---
 
-<p>Travel light: one body, one lens, small stabilizer, two batteries, one ND, one pouch.</p>
+<p>The first constraint on a travel shoot is the bag and the walk, not the number of lenses. If body, two lenses, audio and tripod exceed what you can lift after an hour, you start missing shots.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/tool-card-travel-kit.svg" alt="Travel Kit three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/tool-card-travel-kit.svg" alt="Structure diagram for Travel Kit.">
+  <figcaption>Watch “Light: one body, one 24–70mm-equivalent zoom, one small” and “Full: add one wide or tele, spare batteries”; judge whether the symptom can be restated as one observable sentence.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>One body, one lens, a small gimbal, two batteries, ND, and a waist bag. Weigh it and walk a day before going.</p>
-<h2>Do this</h2>
-<p>Travel light: one body, one lens, a small gimbal, two batteries, one ND, a waist bag; first survive a full day.</p><ol><li>One body and one lens, no second lens.</li><li>Small gimbal, two batteries, one ND in the waist bag.</li><li>Weigh the total and walk a full day before departure.</ol>
-<h2>Avoid</h2>
-<p>Do not carry three lenses “just in case”; after half a day you cannot shoot anything.</p>
-<h2>Check</h2>
-<ul><li>Total weight is measured and survives a full-day walk.</li><li>One body and one lens only, no extra optics.</li><li>Batteries, ND, and gimbal sit in the waist bag for one-hand access.</li></ul>
+<section><h2 id="section-1">Weight budget before focal length</h2>
+
+<ul><li><strong>Light:</strong> one body, one 24–70mm-equivalent zoom, one small shotgun or lav, one ND, two cards, one SSD, one lightweight reversing tripod.</li><li><strong>Full:</strong> add one wide or tele, spare batteries and a small fill light; everything fits one carry-on.</li><li><strong>Leave behind:</strong> a drone with no shot plan, a third duplicate focal length, and lights the location cannot power.</li></ul>
+<h2 id="section-2">Three things at the end of each day</h2>
+<ol><li>Copy the day to the SSD, then play back from the card to confirm the files are not empty.</li><li>Charge batteries; format a card only after the backup is verified.</li><li>Write tomorrow's first location and light time; do not decide at the location.</li></ol>
+<h2 id="section-3">Field test</h2>
+<p>Before leaving, wear the final bag, walk ten minutes and climb one floor, then shoot 30 seconds. If a strap cuts, the tripod wobbles or an audio cable is missing, remove gear at the table, not at the destination.</p></section><section><h2 id="section-4">On set</h2><p>One body, one lens, a small gimbal, two batteries, ND, and a waist bag. Weigh it and walk a day before going.</p></section><section><h2 id="section-5">Avoid</h2><p>Do not carry three lenses “just in case”; after half a day you cannot shoot anything.</p></section>
+<h2>Check</h2><ul><li>Total weight is measured and survives a full-day walk.</li><li>One body and one lens only, no extra optics.</li><li>Batteries, ND, and gimbal sit in the waist bag for one-hand access.</li></ul>

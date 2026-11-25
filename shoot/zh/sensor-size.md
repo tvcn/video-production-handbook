@@ -5,43 +5,43 @@ type: article
 lang: zh
 translation_key: shoot.camera.sensor-size
 translation_status: source
-title: "传感器尺寸：画幅决定什么"
-summary: "传感器尺寸改变的是视角、景深和低光，不是“电影感”本身。"
+title: 传感器尺寸：画幅决定什么
+summary: 传感器尺寸改变的是视角、景深和低光，不是“电影感”本身。
 slug: sensor-size
-aliases: [sensor-size]
+aliases:
+- sensor-size
 canonical_site: shoot
-canonical_path: /camera/sensor-size/
+canonical_path: /article/sensor-size/
 status: published
 diagram: /images/diagrams/zh/sensor-size.svg
-diagram_alt: "传感器尺寸：画幅决定什么 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 传感器尺寸：画幅决定什么的结构示意图。
+diagram_caption: 看“把同一支镜头装到 M4/3、S35 …”和“比较背景压缩、景深和暗部噪点，不要只…”两处，判断高光、肤色和声音有没有被同时保住。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 拍摄组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- shoot.camera.nd-filter.en
+- shoot.camera.shutter-angle.en
+- shoot.exposure.waveform.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>传感器尺寸改变的是视角、景深和低光，不是“电影感”本身。</p>
+<p>传感器越大，同一视角需要更长焦距，景深更浅，低光通常更好；但它不自动带来更好的颜色、编码或宽容度。先按工作距离和景深选画幅，再看处理器和录制规格。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/sensor-size.svg" alt="传感器尺寸：画幅决定什么 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/sensor-size.svg" alt="传感器尺寸：画幅决定什么的结构示意图。">
+  <figcaption>看“把同一支镜头装到 M4/3、S35 …”和“比较背景压缩、景深和暗部噪点，不要只…”两处，判断高光、肤色和声音有没有被同时保住。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>把同一支镜头分别装到 M4/3、S35 和全画幅机身上，拍同一个半身构图。保持取景一致，比较背景压缩和暗部噪点，再按项目选机身。</p>
-<h2>怎么做</h2>
-<p>传感器尺寸改变的是视角、景深和低光，不是“电影感”本身。用同一支镜头、同一构图在几个画幅上对比，才知道差别值不值。</p><ol><li>把同一支镜头装到 M4/3、S35 和全画幅机身上，保持同一个半身构图。</li><li>比较背景压缩、景深和暗部噪点，不要只看分辨率。</li><li>按项目需要选机身，再看卡口、录制格式和散热。</li></ol>
-<h2>别踩</h2>
-<p>别把“电影感”当传感器参数；它来自光、镜头和调度。</p>
-<h2>验收</h2>
-<ul><li>三台机身拍出的半身构图一致，能直接并排比较。</li><li>能指出背景压缩、景深和暗部噪点的具体差别，而不是只说“更有电影感”。</li><li>选中的机身能覆盖项目八成镜头，卡口和录制格式不需要转接凑合。</li></ul>
+<section><h2 id="section-1">它决定视角、景深和低光，不决定“画质”</h2><p>裁切模式会改变实际视角：同一支镜头在裁切模式下等于变长，景深也跟着变。算视角时用实际读出宽度，不用全画幅标称。</p><h2 id="section-2">边界</h2><p>不要为了“全画幅”牺牲对焦、散热和镜头成本。小传感器配好灯，画面可能比大传感器配错镜头更稳。</p></section><section><h2 id="section-3">现场</h2><p>把同一支镜头分别装到 M4/3、S35 和全画幅机身上，拍同一个半身构图。保持取景一致，比较背景压缩和暗部噪点，再按项目选机身。</p></section><section><h2 id="section-4">怎么做</h2><p>用同一支镜头、同一构图在几个画幅上对比，才知道差别值不值。</p><ol><li>把同一支镜头装到 M4/3、S35 和全画幅机身上，保持同一个半身构图。</li><li>比较背景压缩、景深和暗部噪点，不要只看分辨率。</li><li>按项目需要选机身，再看卡口、录制格式和散热。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别把“电影感”当传感器参数；它来自光、镜头和调度。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>高光没有死白，暗部仍保留可恢复的细节</li><li>同一条片子里肤色一致，切机位不跳</li><li>声音有独立音轨，不靠机头麦兜底</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>曝光对了，但光没有方向，脸和背景粘在一起</li><li>声音只靠机头麦，现场一吵就废</li><li>机位越轴，观众失去空间方向</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用同一扇窗拍三条 10 秒，只改“把同一支镜头装到 M4/3、S35 …”；比较高光、肤色和背景，选一条能直接剪的。</p></section>
+<h2>验收</h2><ul><li>三台机身拍出的半身构图一致，能直接并排比较。</li><li>能指出背景压缩、景深和暗部噪点的具体差别，而不是只说“更有电影感”。</li><li>选中的机身能覆盖项目八成镜头，卡口和录制格式不需要转接凑合。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读

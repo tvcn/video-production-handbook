@@ -5,43 +5,45 @@ type: article
 lang: en
 translation_key: shoot.lighting.night-interior
 translation_status: reviewed
-title: "Night Interior: One Practical Can Carry a Room"
-summary: "Find a practical light the room can believe, then add one small face light. Do not flatten the whole room."
+title: 'Night Interior: One Practical Can Carry a Room'
+summary: Find a practical light the room can believe, then add one small face light.
+  Do not flatten the whole room.
 slug: night-interior
-aliases: [night-interior]
+aliases:
+- night-interior
 canonical_site: shoot
-canonical_path: /en/lighting/night-interior/
+canonical_path: /en/article/night-interior/
 status: published
 diagram: /images/diagrams/en/night-interior.svg
-diagram_alt: "Night Interior: One Practical Can Carry a Room three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Night Interior: One Practical Can Carry a Room.'
+diagram_caption: Watch “Let a practical lamp or wall sconce motivate” and “Add a small
+  light at 45 degrees to”; judge whether highlights, skin and sound survive together.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Shoot Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- shoot.lighting.mixed-light.en
+- shoot.lighting.practical-light.en
+- shoot.exposure.waveform.en
 depth: deep
 deep_minutes: 6
+source_kind: experience
 ---
 
-<p>Find a practical light the room can believe, then add one small face light. Do not flatten the whole room.</p>
+<p>At least one practical must motivate the light: lamp, window, TV, hallway. Fill the face from that direction, not flat from camera. Protect the shade and window; keep some shadow detail.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/night-interior.svg" alt="Night Interior: One Practical Can Carry a Room three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/night-interior.svg" alt="Structure diagram for Night Interior: One Practical Can Carry a Room.">
+  <figcaption>Watch “Let a practical lamp or wall sconce motivate” and “Add a small light at 45 degrees to”; judge whether highlights, skin and sound survive together.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Let one practical lamp or wall light sit in frame as the motive. Add a small light at 45 degrees for the face and leave the background dark; do not turn on the ceiling.</p>
-<h2>Do this</h2>
-<p>A night interior needs a practical light the audience believes, then one small lamp on the face. Do not flatten the room.</p><ol><li>Let a practical lamp or wall sconce motivate the scene and actually stay on.</li><li>Add a small light at 45 degrees to the face for an eye light and nose shape.</li><li>Keep the background dark and leave the ceiling light off so bright and dark zones separate.</li></ol>
-<h2>Avoid</h2>
-<p>Do not turn on the ceiling light and flatten the room; night is not daylight dimmed down.</p>
-<h2>Check</h2>
-<ul><li>The practical is visibly on and motivates why the face is lit.</li><li>The face has a nose shadow and an eye light, not a flat frontal wash.</li><li>The background sits at least a stop darker than the face and keeps shadow detail.</li></ul>
+<section><h2 id="section-1">Interior night needs one believable source</h2><p>Turn off all off-screen sources to avoid mixed color and flicker; darken windows with curtains if needed.</p><h2 id="section-2">Limits</h2><p>Night is not blue moonlight. Interior night can mix warm lamps and cool windows; one uniform blue looks fake.</p></section><section><h2 id="section-3">On set</h2><p>Let one practical lamp or wall light sit in frame as the motive. Add a small light at 45 degrees for the face and leave the background dark; do not turn on the ceiling.</p></section><section><h2 id="section-4">Do this</h2><p>A night interior needs a practical light the audience believes, then one small lamp on the face. Do not flatten the room.</p><ol><li>Let a practical lamp or wall sconce motivate the scene and actually stay on.</li><li>Add a small light at 45 degrees to the face for an eye light and nose shape.</li><li>Keep the background dark and leave the ceiling light off so bright and dark zones separate.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not turn on the ceiling light and flatten the room; night is not daylight dimmed down.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>highlights are not clipped and shadows keep recoverable detail</li><li>skin stays consistent across camera angles</li><li>sound has an independent track, not just the on-camera mic</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>exposure is right but the light has no direction</li><li>sound relies on the camera mic and dies in a noisy room</li><li>crossing the line leaves the audience without a map</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Shoot three 10-second takes by the same window, changing only “Let a practical lamp or wall sconce motivate”. Compare highlights, skin and background; keep the one that is editable.</p></section>
+<h2>Check</h2><ul><li>The practical is visibly on and motivates why the face is lit.</li><li>The face has a nose shadow and an eye light, not a flat frontal wash.</li><li>The background sits at least a stop darker than the face and keeps shadow detail.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

@@ -10,13 +10,13 @@ summary: "叠化、黑场、划像不是装饰。每一次转场都在回答：�
 slug: transitions
 aliases: [transitions, 转场, 叠化, 硬切]
 canonical_site: post
-canonical_path: /editing/transitions/
+canonical_path: /article/transitions/
 status: published
 difficulty: intermediate
 stage: post
 format: short-film
 tools: [edit]
-authors: [editor]
+authors: ["TVCN 后期组"]
 reviewers: [technical-reviewer]
 cover: /images/post/transitions.webp
 diagram: /images/diagrams/zh/transitions.png
@@ -25,7 +25,7 @@ diagram_caption: "转场不是装饰，它要回答“过了多久、去了哪�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [post.editing.cutting-points, post.sound.sound-bridge]
+related: [post.editing.sound-bridge.en, post.sound.room-tone.en, post.editing.mix-dialogue.en]
 ---
 
 <!-- DIAGRAM_START -->

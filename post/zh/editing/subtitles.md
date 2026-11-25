@@ -10,13 +10,13 @@ summary: "字幕不是台词的复制件。它要在观众还来不及读的时�
 slug: subtitles
 aliases: [subtitles, 字幕, 字幕排版]
 canonical_site: post
-canonical_path: /editing/subtitles/
+canonical_path: /article/subtitles/
 status: published
 difficulty: intermediate
 stage: post
 format: short-film
 tools: [edit, output]
-authors: [editor]
+authors: ["TVCN 后期组"]
 reviewers: [technical-reviewer]
 cover: /images/post/subtitles.webp
 diagram: /images/diagrams/zh/subtitles.png
@@ -25,7 +25,7 @@ diagram_caption: "字幕不是逐字记录。中文一行 12–16 字，英文 3
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [post.sound.sound-post, tools.delivery.publish-checklist]
+related: [post.editing.sound-bridge.en, post.editing.mix-dialogue.en, post.editing.cutting-points.en]
 ---
 
 <!-- DIAGRAM_START -->

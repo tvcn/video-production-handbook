@@ -5,43 +5,43 @@ type: article
 lang: zh
 translation_key: story.storyboard.shot-sheet
 translation_status: source
-title: "镜头表：镜号、景别、动作、时长"
-summary: "镜头表四列就够：镜号、景别、动作、时长；写不清这四样，现场一定乱。"
+title: 镜头表：镜号、景别、动作、时长
+summary: 镜头表四列就够：镜号、景别、动作、时长；写不清这四样，现场一定乱。
 slug: shot-sheet
-aliases: [shot-sheet]
+aliases:
+- shot-sheet
 canonical_site: story
-canonical_path: /storyboard/shot-sheet/
+canonical_path: /article/shot-sheet/
 status: published
 diagram: /images/diagrams/zh/shot-sheet.svg
-diagram_alt: "镜头表：镜号、景别、动作、时长 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 镜头表：镜号、景别、动作、时长的结构示意图。
+diagram_caption: 看“先填第 1、3、5 镜，每镜写一个动…”和“某镜超过 8 秒或没有动作，就删掉或…”两处，判断人物想要的東西能不能用一个动作说出来。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 故事组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- story.screenplay.scene-description.en
+- story.directing.rehearsal.en
+- story.storyboard.sequence-board.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>镜头表四列就够：镜号、景别、动作、时长；写不清这四样，现场一定乱。</p>
+<p>每行写：镜号、景别、机位、动作、台词、时长、道具、声音。少一项，现场就要停下来问。镜头表不是分镜的替代，而是分镜的可执行版。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/shot-sheet.svg" alt="镜头表：镜号、景别、动作、时长 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/shot-sheet.svg" alt="镜头表：镜号、景别、动作、时长的结构示意图。">
+  <figcaption>看“先填第 1、3、5 镜，每镜写一个动…”和“某镜超过 8 秒或没有动作，就删掉或…”两处，判断人物想要的東西能不能用一个动作说出来。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>先填第 1、3、5 镜，每镜写一个动词和一个秒数。开机前读一遍，某镜超过 8 秒或没有动作，就删掉或拆成两镜。</p>
-<h2>怎么做</h2>
-<p>镜头表四列就够：镜号、景别、动作、时长；写不清这四样，现场一定乱。</p><ol><li>先填第 1、3、5 镜，每镜写一个动词和一个秒数。</li><li>某镜超过 8 秒或没有动作，就删掉或拆成两镜。</li><li>开机前读一遍，让摄影和剪辑都能按顺序复述。</li></ol>
-<h2>别踩</h2>
-<p>别画摄影机拍不到的东西；分镜不是插画。</p>
-<h2>验收</h2>
-<ul><li>每镜都有镜号、景别、动作和秒数，四列不缺。</li><li>没有超过 8 秒还没有动作的镜头。</li><li>第三个人按表能复述先拍什么、后拍什么。</li></ul>
+<section><h2 id="section-1">一张镜头表要能在现场直接执行</h2><p>按拍摄顺序而不是剪辑顺序排，把同一机位、同一光线的镜头放在一起，减少搬灯时间。</p><h2 id="section-2">边界</h2><p>镜头表可以改，但改完要同步给摄影、录音和场记。三个人拿着三个版本，比没有表更乱。</p></section><section><h2 id="section-3">现场</h2><p>先填第 1、3、5 镜，每镜写一个动词和一个秒数。开机前读一遍，某镜超过 8 秒或没有动作，就删掉或拆成两镜。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>先填第 1、3、5 镜，每镜写一个动词和一个秒数。</li><li>某镜超过 8 秒或没有动作，就删掉或拆成两镜。</li><li>开机前读一遍，让摄影和剪辑都能按顺序复述。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别画摄影机拍不到的东西；分镜不是插画。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>人物的目标能用一个动作说出来</li><li>障碍在同一场里升级，而不是换一个</li><li>删掉一句解释对白，冲突仍然成立</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>人物想要什么没写清，场面只剩情绪</li><li>障碍靠巧合解决，人物没有做决定</li><li>对白把画面已经说明的事再说一遍</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>写一页 30 秒的场景，只保留“先填第 1、3、5 镜，每镜写一个动…”和“某镜超过 8 秒或没有动作，就删掉或…”，删掉所有解释；请一个人读一遍，问他能不能复述人物想要什么。</p></section>
+<h2>验收</h2><ul><li>每镜都有镜号、景别、动作和秒数，四列不缺。</li><li>没有超过 8 秒还没有动作的镜头。</li><li>第三个人按表能复述先拍什么、后拍什么。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读

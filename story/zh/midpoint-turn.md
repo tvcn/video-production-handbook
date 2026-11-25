@@ -5,43 +5,43 @@ type: article
 lang: zh
 translation_key: story.story.midpoint-turn
 translation_status: source
-title: "中点转向：换方法，不换目标"
-summary: "中点不是反转剧情，而是人物换一种办法去要同一个东西。"
+title: 中点转向：换方法，不换目标
+summary: 中点不是反转剧情，而是人物换一种办法去要同一个东西。
 slug: midpoint-turn
-aliases: [midpoint-turn]
+aliases:
+- midpoint-turn
 canonical_site: story
-canonical_path: /story/midpoint-turn/
+canonical_path: /article/midpoint-turn/
 status: published
 diagram: /images/diagrams/zh/midpoint-turn.svg
-diagram_alt: "中点转向：换方法，不换目标 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 中点转向：换方法，不换目标的结构示意图。
+diagram_caption: 看“写一张 A4：左栏旧办法，右栏新办法…”和“两栏各写三个具体动作，能在画面上看出…”两处，判断人物想要的東西能不能用一个动作说出来。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 故事组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- story.story.scene-sequence.en
+- story.story.theme-through-action.en
+- story.story.want-stakes.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>中点不是反转剧情，而是人物换一种办法去要同一个东西。</p>
+<p>中点不是“剧情反转”，而是主角发现旧办法无效，主动换一种做法。目标还在，代价变高，观众才感到他在做选择，而不是编剧在推他。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/midpoint-turn.svg" alt="中点转向：换方法，不换目标 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/midpoint-turn.svg" alt="中点转向：换方法，不换目标的结构示意图。">
+  <figcaption>看“写一张 A4：左栏旧办法，右栏新办法…”和“两栏各写三个具体动作，能在画面上看出…”两处，判断人物想要的東西能不能用一个动作说出来。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>中点写一张 A4：左栏写人物原来的办法，右栏写新办法，目标那一行不变。两栏各写三个具体动作，拍出来观众能看到方法换了。</p>
-<h2>怎么做</h2>
-<p>中点不是反转剧情，而是人物换一种办法去要同一个东西。</p><ol><li>写一张 A4：左栏旧办法，右栏新办法，目标那一行不变。</li><li>两栏各写三个具体动作，能在画面上看出区别。</li><li>拍出来让观众看到方法换了，而不是只听他说“我变了”。</li></ol>
-<h2>别踩</h2>
-<p>别把中点写成反转；目标没变，方法变了，才叫转向。</p>
-<h2>验收</h2>
-<ul><li>中点前后目标那一行完全一样，没有偷偷换目标。</li><li>左右两栏各有三个可拍动作，方法差异看得见。</li><li>观众不看台词也能说出他换了什么办法。</li></ul>
+<section><h2 id="section-1">换方法，不换目标</h2><p>检查方法：把中点前后各写一句“他打算怎么做”。如果两句只是“更努力”，说明没有转向；如果第二句是一个新动作，转向成立。</p><h2 id="section-2">边界</h2><p>不要用新角色或新信息替主角做决定。中点必须由他自己的动作完成，否则结尾的选择没有重量。</p></section><section><h2 id="section-3">现场</h2><p>中点写一张 A4：左栏写人物原来的办法，右栏写新办法，目标那一行不变。两栏各写三个具体动作，拍出来观众能看到方法换了。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>写一张 A4：左栏旧办法，右栏新办法，目标那一行不变。</li><li>两栏各写三个具体动作，能在画面上看出区别。</li><li>拍出来让观众看到方法换了，而不是只听他说“我变了”。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别把中点写成反转；目标没变，方法变了，才叫转向。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>人物的目标能用一个动作说出来</li><li>障碍在同一场里升级，而不是换一个</li><li>删掉一句解释对白，冲突仍然成立</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>人物想要什么没写清，场面只剩情绪</li><li>障碍靠巧合解决，人物没有做决定</li><li>对白把画面已经说明的事再说一遍</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>写一页 30 秒的场景，只保留“写一张 A4：左栏旧办法，右栏新办法…”和“两栏各写三个具体动作，能在画面上看出…”，删掉所有解释；请一个人读一遍，问他能不能复述人物想要什么。</p></section>
+<h2>验收</h2><ul><li>中点前后目标那一行完全一样，没有偷偷换目标。</li><li>左右两栏各有三个可拍动作，方法差异看得见。</li><li>观众不看台词也能说出他换了什么办法。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读

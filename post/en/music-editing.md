@@ -5,43 +5,46 @@ type: article
 lang: en
 translation_key: post.sound.music-editing
 translation_status: reviewed
-title: "Music Editing: Let the Music Follow the Action"
-summary: "Music does not run wall to wall; it enters, exits, and leaves space at the turn."
+title: 'Music Editing: Let the Music Follow the Action'
+summary: Music does not run wall to wall; it enters, exits, and leaves space at the
+  turn.
 slug: music-editing
-aliases: [music-editing]
+aliases:
+- music-editing
 canonical_site: post
-canonical_path: /en/sound/music-editing/
+canonical_path: /en/article/music-editing/
 status: published
 diagram: /images/diagrams/en/music-editing.svg
-diagram_alt: "Music Editing: Let the Music Follow the Action three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Music Editing: Let the Music Follow the Action.'
+diagram_caption: 'Watch “Mark action points: door opens, turn, sit down.” and “Bring
+  music in at the first point, change”; judge whether removing one shot makes the
+  scene faster rather than muddier.'
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Post Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- post.sound.foley.en
+- post.editing.fine-cut.en
+- post.vfx.keying.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>Music does not run wall to wall; it enters, exits, and leaves space at the turn.</p>
+<p>Do not cut picture to the beat from the start. Make the story work, then lay the music; move the track&#x27;s sections when needed instead of chopping picture to fit.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/music-editing.svg" alt="Music Editing: Let the Music Follow the Action three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/music-editing.svg" alt="Structure diagram for Music Editing: Let the Music Follow the Action.">
+  <figcaption>Watch “Mark action points: door opens, turn, sit down.” and “Bring music in at the first point, change”; judge whether removing one shot makes the scene faster rather than muddier.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Mark the action beats: door opens, turn, sit. Bring music in on the first, change it on the second, and take it out on the third.</p>
-<h2>Do this</h2>
-<p>Music is not wall-to-wall; it enters, changes, and exits at action turns.</p><ol><li>Mark action points: door opens, turn, sit down.</li><li>Bring music in at the first point, change at the second, and exit at the third.</li><li>Leave one breath without music and let ambience take over.</li></ol>
-<h2>Avoid</h2>
-<p>Do not fill every gap with music; without an exit, the entrance has no power.</p>
-<h2>Check</h2>
-<ul><li>Music has at least one clear entrance, change, and exit.</li><li>The three action points line up with musical changes instead of arbitrary beats.</li><li>The silent passage works on ambience alone and does not feel like a dropout.</li></ul>
+<section><h2 id="section-1">Cut the story first, then the music</h2><p>Do not cut picture to the beat from the start. Make the story work, then lay the music; move the track's sections when needed instead of chopping picture to fit.</p><p>Use phrases and rests as transitions: half a beat before the chorus, pull music before the bridge. Do not cut on every beat.</p><h2 id="section-2">Limits</h2><p>Music is not emotional glue. If the picture does not change, louder music is only noise; make the action work first.</p></section><section><h2 id="section-3">On set</h2><p>Mark the action beats: door opens, turn, sit. Bring music in on the first, change it on the second, and take it out on the third.</p></section><section><h2 id="section-4">Do this</h2><p>Music is not wall-to-wall; it enters, changes, and exits at action turns.</p><ol><li>Mark action points: door opens, turn, sit down.</li><li>Bring music in at the first point, change at the second, and exit at the third.</li><li>Leave one breath without music and let ambience take over.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not fill every gap with music; without an exit, the entrance has no power.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>removing one shot makes the scene faster, not muddier</li><li>skin, highlights and blacks sit inside scope limits</li><li>loudness, subtitles and file specs pass one delivery check</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>cuts follow the music, not the action</li><li>style before unity: shots jump in color</li><li>loudness and subtitles are checked at the very end</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Take 30 seconds of footage and make an A/B, changing only “Mark action points: door opens, turn, sit down.”. Note one timecode and one difference before keeping it.</p></section>
+<h2>Check</h2><ul><li>Music has at least one clear entrance, change, and exit.</li><li>The three action points line up with musical changes instead of arbitrary beats.</li><li>The silent passage works on ambience alone and does not feel like a dropout.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

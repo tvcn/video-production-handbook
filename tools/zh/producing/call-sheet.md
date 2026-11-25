@@ -10,13 +10,13 @@ summary: "通告单不是形式。它决定谁几点到、去哪、带什么、�
 slug: call-sheet
 aliases: [call-sheet, 通告单, 拍摄通知]
 canonical_site: tools
-canonical_path: /producing/call-sheet/
+canonical_path: /article/call-sheet/
 status: published
 difficulty: beginner
 stage: producing
 format: workflow
 tools: [budget]
-authors: [editor]
+authors: ["TVCN 工具组"]
 reviewers: [technical-reviewer]
 cover: /images/tools/call-sheet.webp
 diagram: /images/diagrams/zh/call-sheet.png
@@ -25,7 +25,7 @@ diagram_caption: "第一行写到能导航，时间按小时排，变更写回�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [tools.producing.location-scout, tools.workflow.first-shoot-day]
+related: [tools.workflow.first-shoot-day.en, tools.guide.crew-management.en, tools.producing.location-scout.en]
 depth: deep
 deep_minutes: 7
 ---

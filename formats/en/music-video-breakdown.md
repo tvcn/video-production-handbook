@@ -5,23 +5,29 @@ type: article
 lang: en
 translation_key: formats.music-video.music-video-breakdown
 translation_status: reviewed
-title: "Music Video Breakdown: Map Song Structure to Image"
-summary: "A nine-beat breakdown of a three-and-a-half-minute music video: intro motif, verse, pre-chorus, chorus, verse two, bridge, final chorus, outro, hold."
+title: 'Music Video Breakdown: Map Song Structure to Image'
+summary: 'A nine-beat breakdown of a three-and-a-half-minute music video: intro motif, verse, pre-chorus, chorus, verse two, bridge, final chorus, outro, hold.'
 slug: music-video-breakdown
-aliases: [music-video-breakdown]
+aliases:
+- music-video-breakdown
 canonical_site: formats
-canonical_path: /en/music-video/music-video-breakdown/
+canonical_path: /en/article/music-video-breakdown/
 status: published
 diagram: /images/diagrams/en/music-video-breakdown.svg
-diagram_alt: "Music Video Breakdown: Map Song Structure to Image: timecode, structure, and budget worksheet"
-diagram_caption: "The diagram is an entry point: watch the timecodes, then use the checks at the end."
+diagram_alt: 'Music Video Breakdown: Map Song Structure to Image: timecode, structure, and budget worksheet'
+diagram_caption: 'The diagram is an entry point: watch the timecodes, then use the checks at the end.'
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN Formats Desk
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [main.case.case-music-video, formats.product-ad.product-ad-breakdown, main.path.path-post]
+related:
+- formats.short-drama.short-drama-breakdown.en
+- formats.experimental.experimental-breakdown.en
+- formats.interview.interview-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

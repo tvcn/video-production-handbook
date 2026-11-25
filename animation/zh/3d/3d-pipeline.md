@@ -10,7 +10,7 @@ summary: "3D 不是建模完就动画。先 blockout 定时间，再 layout、an
 slug: 3d-pipeline
 aliases: [3d-pipeline, 3D 动画, 三维管线]
 canonical_site: animation
-canonical_path: /3d/3d-pipeline/
+canonical_path: /article/3d-pipeline/
 status: published
 difficulty: advanced
 stage: animation
@@ -25,7 +25,7 @@ diagram_caption: "blockout 阶段改站位几乎不要钱；渲染完再改，�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [animation.2d.2d-animation, animation.stop-motion.stop-motion]
+related: [animation.principles.animation-principles.en, context.law.invoice-tax-cross-border.en, formats.fashion.fashion-beauty-video-breakdown.en]
 depth: deep
 deep_minutes: 7
 sources: [S12, S28, S34]
@@ -87,5 +87,5 @@ Layout 定构图、焦距、运动路径。机位没锁，动画师会在错误�
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
 <ul><li><span class="mono">[S12]</span> Britannica：动画</li><li><span class="mono">[S28]</span> Netflix 制作与交付帮助</li><li><span class="mono">[S34]</span> Adobe Premiere Pro 用户指南</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

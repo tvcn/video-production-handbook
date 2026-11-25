@@ -5,43 +5,46 @@ type: article
 lang: en
 translation_key: story.story.midpoint-turn
 translation_status: reviewed
-title: "Midpoint Turn: Change the Method, Not the Goal"
-summary: "The midpoint is not a plot twist; it is the character changing methods to pursue the same want."
+title: 'Midpoint Turn: Change the Method, Not the Goal'
+summary: The midpoint is not a plot twist; it is the character changing methods to
+  pursue the same want.
 slug: midpoint-turn
-aliases: [midpoint-turn]
+aliases:
+- midpoint-turn
 canonical_site: story
-canonical_path: /en/story/midpoint-turn/
+canonical_path: /en/article/midpoint-turn/
 status: published
 diagram: /images/diagrams/en/midpoint-turn.svg
-diagram_alt: "Midpoint Turn: Change the Method, Not the Goal three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Midpoint Turn: Change the Method, Not the Goal.'
+diagram_caption: 'Watch “Use one A4: old method on the left,” and “Write three concrete
+  actions per column that look”; judge whether the want can be said with one visible
+  action.'
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Story Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- story.story.scene-sequence.en
+- story.story.theme-through-action.en
+- story.story.want-stakes.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>The midpoint is not a plot twist; it is the character changing methods to pursue the same want.</p>
+<p>The midpoint is not a plot twist; it is the hero discovering that the old method fails and choosing a different approach. The goal remains, the cost rises, and the audience sees a choice rather than a writer pushing.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/midpoint-turn.svg" alt="Midpoint Turn: Change the Method, Not the Goal three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/midpoint-turn.svg" alt="Structure diagram for Midpoint Turn: Change the Method, Not the Goal.">
+  <figcaption>Watch “Use one A4: old method on the left,” and “Write three concrete actions per column that look”; judge whether the want can be said with one visible action.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>On one page, put the old method on the left and the new method on the right; the goal line stays the same. Three concrete actions in each column so the change is visible.</p>
-<h2>Do this</h2>
-<p>Midpoint is not a plot twist; the character changes method for the same goal.</p><ol><li>Use one A4: old method on the left, new method on the right, goal unchanged above.</li><li>Write three concrete actions per column that look different on screen.</li><li>Shoot the difference so the audience sees the method change, not hears “I changed.”</li></ol>
-<h2>Avoid</h2>
-<p>Do not make midpoint a twist; same goal, new method is the turn.</p>
-<h2>Check</h2>
-<ul><li>The goal line is identical before and after midpoint; it is not swapped.</li><li>Each column has three filmable actions and the methods look different.</li><li>Without dialogue, the audience can name what method changed.</li></ul>
+<section><h2 id="section-1">Change the method, not the goal</h2><p>Test it by writing “what he plans to do” before and after. If both lines say “try harder,” there is no turn. If the second line is a new action, the turn exists.</p><h2 id="section-2">Limits</h2><p>Do not let a new character or a new piece of information make the decision. The midpoint must turn on his own action, or the final choice has no weight.</p></section><section><h2 id="section-3">On set</h2><p>On one page, put the old method on the left and the new method on the right; the goal line stays the same. Three concrete actions in each column so the change is visible.</p></section><section><h2 id="section-4">Do this</h2><p>Midpoint is not a plot twist; the character changes method for the same goal.</p><ol><li>Use one A4: old method on the left, new method on the right, goal unchanged above.</li><li>Write three concrete actions per column that look different on screen.</li><li>Shoot the difference so the audience sees the method change, not hears “I changed.”</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not make midpoint a twist; same goal, new method is the turn.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the want is visible in one action</li><li>the obstacle escalates inside the same scene</li><li>delete one expository line and the conflict still holds</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>the want is unclear and the scene is only mood</li><li>the obstacle is solved by coincidence, not a decision</li><li>dialogue repeats what the image already says</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Write one 30-second scene with only “Use one A4: old method on the left,” and “Write three concrete actions per column that look”. Cut every explanation and ask one person to retell what the character wants.</p></section>
+<h2>Check</h2><ul><li>The goal line is identical before and after midpoint; it is not swapped.</li><li>Each column has three filmable actions and the methods look different.</li><li>Without dialogue, the audience can name what method changed.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

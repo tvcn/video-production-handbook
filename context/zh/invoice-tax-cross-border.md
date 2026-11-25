@@ -5,26 +5,35 @@ type: article
 lang: zh
 translation_key: context.law.invoice-tax-cross-border
 translation_status: source
-title: "跨境制作发票与税务：合同、发票、代扣代缴"
-summary: "跨境项目最容易在“发票”上卡住：客户要的形式发票不是税务发票；服务发生地、收款主体、常设机构、代扣代缴决定税负。先让财税确认路径，再报价。"
+title: 跨境制作发票与税务：合同、发票、代扣代缴
+summary: 跨境项目最容易在“发票”上卡住：客户要的形式发票不是税务发票；服务发生地、收款主体、常设机构、代扣代缴决定税负。先让财税确认路径，再报价。
 slug: invoice-tax-cross-border
-aliases: [invoice-tax-cross-border]
+aliases:
+- invoice-tax-cross-border
 canonical_site: context
 canonical_path: /article/invoice-tax-cross-border/
 status: published
 diagram: /images/diagrams/zh/invoice-tax-cross-border.svg
-diagram_alt: "跨境制作发票税务专题图解"
-diagram_caption: "示意：合同、服务地、主体、发票、代扣，五步任何一步错都会影响回款。"
+diagram_alt: 跨境制作发票税务专题图解
+diagram_caption: 示意：合同、服务地、主体、发票、代扣，五步任何一步错都会影响回款。
 difficulty: intermediate
 stage: handbook
 format: law
-authors: ["TVCN 研究组"]
+authors:
+- TVCN 研究组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S22, S38]
-test_context: "复核环境：现行中国大陆法律条文、平台规则与公开案例；不是法律意见。"
-known_failures: "已知失败：平台规则与地方执法口径变化；条文适用需律师确认。"
+sources:
+- S22
+- S38
+test_context: 复核环境：现行中国大陆法律条文、平台规则与公开案例；不是法律意见。
+known_failures: 已知失败：平台规则与地方执法口径变化；条文适用需律师确认。
 verified: 2026-11-22
+related:
+- context.history.montage.en
+- formats.music-video.music-video-structure.en
+- post.delivery.platform-deliverables.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +48,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：编辑部的条文对照与项目复盘；实测来源：无实验室实测；参考来源：以下法律、平台与机构文本。</p>
 <ul><li><span class="mono">[S22]</span> 《中华人民共和国民法典》</li><li><span class="mono">[S38]</span> 国家税务总局</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

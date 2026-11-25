@@ -5,27 +5,38 @@ type: article
 lang: zh
 translation_key: context.viewing.screen-size
 translation_status: source
-title: "脸为什么越来越近：从影院到手机"
-summary: "景别不是导演突然爱拍特写，是屏幕变了。影院银幕能装下一张脸，电视只给你一个客厅，手机只给你拇指宽。观众离画面越近，脸就得越大。"
+title: 脸为什么越来越近：从影院到手机
+summary: 景别不是导演突然爱拍特写，是屏幕变了。影院银幕能装下一张脸，电视只给你一个客厅，手机只给你拇指宽。观众离画面越近，脸就得越大。
 slug: screen-size
-aliases: [screen-size, 观看距离, 景别, 屏幕尺寸]
+aliases:
+- screen-size
+- 观看距离
+- 景别
+- 屏幕尺寸
 canonical_site: context
-canonical_path: /viewing/screen-size/
+canonical_path: /article/screen-size/
 status: published
 difficulty: beginner
 stage: context
 format: short-film
 tools: []
-authors: [editor]
-reviewers: [technical-reviewer]
+authors:
+- TVCN 研究组
+reviewers:
+- technical-reviewer
 cover: /images/context/screen-size.webp
 diagram: /images/diagrams/zh/screen-size.png
-diagram_alt: "同一张脸：银幕、电视、手机"
-diagram_caption: "屏幕越小，观众离得越近，景别就得越紧。不是审美变了，是阅读条件变了。"
+diagram_alt: 同一张脸：银幕、电视、手机
+diagram_caption: 屏幕越小，观众离得越近，景别就得越紧。不是审美变了，是阅读条件变了。
 last_verified: 2026-11-20
 review_due: 2027-05-20
-sources: [S10]
-related: [formats.drama.vertical-drama, shoot.camera.composition]
+sources:
+- S10
+related:
+- context.history.film.1895.en
+- context.history.photography.photo-history.en
+- context.history.animation.animation-history.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -70,5 +81,5 @@ related: [formats.drama.vertical-drama, shoot.camera.composition]
 
 - [S10] BFI：电影史与影像研究入口
 
-完整链接与用途见 [`SOURCES.md`](../../../SOURCES.md)。
+完整链接与用途见 [`SOURCES.md`](../../../about/)。
 <!-- SOURCES_END -->

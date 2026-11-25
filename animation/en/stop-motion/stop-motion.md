@@ -11,7 +11,7 @@ summary: "Stop motion is a test of stability: lock the camera, lock the light, m
 slug: stop-motion
 aliases: [stop-motion]
 canonical_site: animation
-canonical_path: /en/stop-motion/stop-motion/
+canonical_path: /en/article/stop-motion/
 status: published
 difficulty: beginner
 stage: animate
@@ -26,7 +26,7 @@ diagram_caption: "The hard part is not movement but stability. Lock the camera a
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: []
+related: [animation.2d.2d-animation.en, context.law.portrait-rights.en, formats.food.food-video-structure.en]
 depth: deep
 deep_minutes: 7
 sources: [S12, S28, S34]
@@ -88,5 +88,5 @@ Use continuous, flicker-free light. Avoid cheap LEDs with PWM flicker; test with
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S12]</span> Britannica: Animation</li><li><span class="mono">[S28]</span> Netflix Partner Help</li><li><span class="mono">[S34]</span> Adobe Premiere Pro Guide</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

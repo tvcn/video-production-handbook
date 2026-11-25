@@ -10,13 +10,13 @@ summary: 清单要写清楚先拍什么、拍多久、拍不到怎么办。想�
 slug: shot-list
 aliases: [shot-list, 拍摄清单, 通告单]
 canonical_site: shoot
-canonical_path: /production/shot-list/
+canonical_path: /article/shot-list/
 status: published
 difficulty: beginner
 stage: shoot
 format: short-film
 tools: []
-authors: [editor]
+authors: ["TVCN 拍摄组"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/shot-list.webp
 diagram: /images/diagrams/zh/shot-list.png
@@ -25,7 +25,7 @@ diagram_caption: "清单要写清楚先拍什么、拍多久、拍不到怎么�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [shoot.production.b-roll, tools.workflow.first-shoot-day]
+related: [shoot.camera.axis-line.en, shoot.production.b-roll.en, shoot.production.slate-continuity.en]
 ---
 
 <!-- DIAGRAM_START -->

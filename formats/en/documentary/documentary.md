@@ -11,7 +11,7 @@ summary: "Find one person, then wait for one thing to happen. The film usually w
 slug: documentary
 aliases: [documentary]
 canonical_site: formats
-canonical_path: /en/documentary/documentary/
+canonical_path: /en/article/documentary/
 status: published
 difficulty: beginner
 stage: format
@@ -26,7 +26,7 @@ diagram_caption: "What goes missing in the edit is usually the other side of the
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: []
+related: [formats.event.event-structure.en, post.delivery.conform-online.en, shoot.blocking.blocking.en]
 depth: deep
 deep_minutes: 7
 sources: [S14, S15, S16]
@@ -90,5 +90,5 @@ Do not let narration explain everything. Let images and location sound carry hal
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

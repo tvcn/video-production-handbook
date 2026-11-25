@@ -5,43 +5,48 @@ type: article
 lang: en
 translation_key: tools.tutorial.backup-3-2-1
 translation_status: reviewed
-title: "3-2-1 Backup: Finish It Today"
-summary: "Do 3-2-1 today: three copies, two media, one offsite; tomorrow the card may be gone."
+title: '3-2-1 Backup: Finish It Today'
+summary: 'Do 3-2-1 today: three copies, two media, one offsite; tomorrow the card
+  may be gone.'
 slug: backup-3-2-1
-aliases: [backup-3-2-1]
+aliases:
+- backup-3-2-1
 canonical_site: tools
-canonical_path: /en/tutorial/backup-3-2-1/
+canonical_path: /en/article/backup-3-2-1/
 status: published
 diagram: /images/diagrams/en/backup-3-2-1.svg
-diagram_alt: "3-2-1 Backup: Finish It Today three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for 3-2-1 Backup: Finish It Today.'
+diagram_caption: Watch “Copy the card to SSD the same day.” and “Copy to a second
+  drive.”; judge whether the spec maps to one concrete shooting problem.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Tools Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- tools.tutorial.restore-test.en
+- tools.tutorial.set-mediabay.en
+- tools.workflow.storage.en
 depth: deep
 deep_minutes: 5
+sources:
+- S31
+- S23
+source_kind: sourced
 ---
 
-<p>Do 3-2-1 today: three copies, two media, one offsite; tomorrow the card may be gone.</p>
+<p>3-2-1 is not “upload to cloud and done.” On a shoot day make at least three copies: card/camera, on-set drive, and another offline drive or cloud. One copy sits in a different building.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/backup-3-2-1.svg" alt="3-2-1 Backup: Finish It Today three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/backup-3-2-1.svg" alt="Structure diagram for 3-2-1 Backup: Finish It Today.">
+  <figcaption>Watch “Copy the card to SSD the same day.” and “Copy to a second drive.”; judge whether the spec maps to one concrete shooting problem.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Copy the card to an SSD, then to another drive, then to NAS or cloud. Format the card only after three copies exist.</p>
-<h2>Do this</h2>
-<p>3-2-1 backup finishes the same day: three copies, two media types, one offsite; wait until tomorrow and the media may be gone.</p><ol><li>Copy the card to SSD the same day.</li><li>Copy to a second drive.</li><li>Upload to NAS or cloud, and format the card only after three copies.</li></ol>
-<h2>Avoid</h2>
-<p>Do not plan to back up tomorrow; if the card is lost, three copies never happen.</p>
-<h2>Check</h2>
-<ul><li>Three copies complete the same day with matching file counts.</li><li>Two media types are used, one offsite or cloud.</li><li>The card is formatted only after all three are confirmed.</li></ul>
+<section><h2 id="section-1">Three copies, two media, one off-site, same day</h2><p>Every copy must read: randomly play one file and check name and duration. “Copy completed” is not a backup.</p><h2 id="section-2">Limits</h2><p>RAID is not backup, and a sync folder is not backup. A deletion syncs; ransomware encrypts the whole set. Keep at least one offline, read-only or versioned copy.</p></section><section><h2 id="section-3">On set</h2><p>Copy the card to an SSD, then to another drive, then to NAS or cloud. Format the card only after three copies exist.</p></section><section><h2 id="section-4">Do this</h2><p>3-2-1 backup finishes the same day: three copies, two media types, one offsite; wait until tomorrow and the media may be gone.</p><ol><li>Copy the card to SSD the same day.</li><li>Copy to a second drive.</li><li>Upload to NAS or cloud, and format the card only after three copies.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not plan to back up tomorrow; if the card is lost, three copies never happen.</p></section><figure class="article-audio"><audio controls preload="none" src="../../../assets/audio/en/tool-backup-3-2-1.en.mp3"></audio><figcaption>20-second audio demo: one check point and the most common failure. Transcript and steps are in the article.</figcaption></figure><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>every spec maps to one concrete shooting problem</li><li>weight, power and connections hold on a real rig</li><li>a 60-second test leaves one comparable number</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>specs without connections, power or weight</li><li>batteries, storage or body do not match after purchase</li><li>no 60-second test, so the problem arrives on the shoot</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Run a 60-second test with the gear you already own, measuring only “Copy the card to SSD the same day.”. Record two numbers: what you need and what the gear actually gives.</p></section>
+<h2>Check</h2><ul><li>Three copies complete the same day with matching file counts.</li><li>Two media types are used, one offsite or cloud.</li><li>The card is formatted only after all three are confirmed.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive
@@ -57,3 +62,12 @@ deep_minutes: 5
 ### Ten steps for every offload
 <ul><li>Confirm the card plays back before copying</li><li>Copy to the first working drive</li><li>Verify file count and decode with a checksum tool</li><li>Rename date_project_camera_card</li><li>Copy to a second backup drive</li><li>Move one copy off this machine</li><li>Open three random files and play them</li><li>Confirm both copies before formatting the card</li><li>Put restore steps at the project root</li><li>Run one restore drill per month</li></ul><p>Backup is not dragging files across; it is making sure tomorrow can still open, export, and deliver. Before formatting the card, open both copies once; open, play, and export is what makes a backup real.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## Sources
+
+- [S31] ARRI Cine Systems; see the original link and use note in SOURCES.md.
+- [S23] SMPTE 标准入口; see the original link and use note in SOURCES.md.
+
+Full links and use notes: [`SOURCES.md`](../../about/).
+<!-- SOURCES_END -->

@@ -5,23 +5,29 @@ type: article
 lang: en
 translation_key: formats.experimental.experimental-breakdown
 translation_status: reviewed
-title: "Experimental Breakdown: Rule, Repetition, Break"
-summary: "An eight-beat breakdown of a four-minute experimental film: pre-rule, rule, three repetitions, break, consequence, stop."
+title: 'Experimental Breakdown: Rule, Repetition, Break'
+summary: 'An eight-beat breakdown of a four-minute experimental film: pre-rule, rule, three repetitions, break, consequence, stop.'
 slug: experimental-breakdown
-aliases: [experimental-breakdown]
+aliases:
+- experimental-breakdown
 canonical_site: formats
-canonical_path: /en/experimental/experimental-breakdown/
+canonical_path: /en/article/experimental-breakdown/
 status: published
 diagram: /images/diagrams/en/experimental-breakdown.svg
-diagram_alt: "Experimental Breakdown: Rule, Repetition, Break: timecode, structure, and budget worksheet"
-diagram_caption: "The diagram is an entry point: watch the timecodes, then use the checks at the end."
+diagram_alt: 'Experimental Breakdown: Rule, Repetition, Break: timecode, structure, and budget worksheet'
+diagram_caption: 'The diagram is an entry point: watch the timecodes, then use the checks at the end.'
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN Formats Desk
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [main.case.case-experimental, main.path.path-history, main.path.path-post]
+related:
+- formats.music-video.music-video-breakdown.en
+- formats.short-drama.short-drama-breakdown.en
+- formats.documentary.documentary-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

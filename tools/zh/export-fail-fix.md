@@ -5,43 +5,43 @@ type: article
 lang: zh
 translation_key: tools.guide.export-fail-fix
 translation_status: source
-title: "导出失败排查：编码、磁盘、权限"
-summary: "导出失败先查编码、磁盘空间、权限；三样都排除，再重建项目。"
+title: 导出失败排查：编码、磁盘、权限
+summary: 导出失败先查编码、磁盘空间、权限；三样都排除，再重建项目。
 slug: export-fail-fix
-aliases: [export-fail-fix]
+aliases:
+- export-fail-fix
 canonical_site: tools
-canonical_path: /guide/export-fail-fix/
+canonical_path: /article/export-fail-fix/
 status: published
 diagram: /images/diagrams/zh/export-fail-fix.svg
-diagram_alt: "导出失败排查：编码、磁盘、权限 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 导出失败排查：编码、磁盘、权限的结构示意图。
+diagram_caption: 看“读报错原文，记录失败的时间点和百分比”和“开始时失败查编码、路径和权限；固定点…”两处，判断这个参数能不能对应到一个具体的拍摄问题。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 工具组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- tools.tutorial.backup-3-2-1.en
+- tools.guide.audio-noise-fix.en
+- tools.guide.jelly-fix.en
 depth: deep
 deep_minutes: 7
+source_kind: experience
 ---
 
-<p>导出失败先查编码、磁盘空间、权限；三样都排除，再重建项目。</p>
+<p>按顺序排查：时间线是否有坏帧/离线素材、磁盘是否满、编码器是否支持、文件名是否有特殊字符、是否开了硬件加速。每次只改一项，记录结果。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/export-fail-fix.svg" alt="导出失败排查：编码、磁盘、权限 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/export-fail-fix.svg" alt="导出失败排查：编码、磁盘、权限的结构示意图。">
+  <figcaption>看“读报错原文，记录失败的时间点和百分比”和“开始时失败查编码、路径和权限；固定点…”两处，判断这个参数能不能对应到一个具体的拍摄问题。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>查编码器、磁盘空间、权限、字体；换输出路径，重建项目，逐项排除。</p>
-<h2>怎么做</h2>
-<p>导出失败先分类：编码、磁盘、权限、素材、资源；一次只改一项。</p><ol><li>读报错原文，记录失败的时间点和百分比。</li><li>开始时失败查编码、路径和权限；固定点失败查素材和字体。</li><li>换短英文路径、留两倍空间，再分段导出。</li></ol>
-<h2>别踩</h2>
-<p>别一失败就重装软件；先定位变量。</p>
-<h2>验收</h2>
-<ul><li>报错原文和失败时间点记录下来了。</li><li>按编码、路径、权限、素材和字体分类排查过。</li><li>短英文路径、两倍空间和分段导出都试过。</li></ul>
+<section><h2 id="section-1">导出失败先看“哪一步”，不要重装软件</h2><p>把工程复制一份，换一个短文件名和本地磁盘导出；能过，说明是路径或权限问题，不是工程坏了。</p><h2 id="section-2">边界</h2><p>导出成功不等于文件正确。打开成片抽三个点回放，检查黑帧、静帧、断音和字幕；只看“进度条走完”不够。</p></section><section><h2 id="section-3">现场</h2><p>查编码器、磁盘空间、权限、字体；换输出路径，重建项目，逐项排除。</p></section><section><h2 id="section-4">怎么做</h2><p>导出失败先分类：编码、磁盘、权限、素材、资源；一次只改一项。</p><ol><li>读报错原文，记录失败的时间点和百分比。</li><li>开始时失败查编码、路径和权限；固定点失败查素材和字体。</li><li>换短英文路径、留两倍空间，再分段导出。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别一失败就重装软件；先定位变量。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>每一项参数都能对应一个具体的拍摄问题</li><li>重量、供电和接口在真实机位上成立</li><li>60 秒测试能留下一个可比较的数字</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>只看参数，不看接口、供电和重量</li><li>买回来才发现电池、存储或机身不匹配</li><li>没有 60 秒测试，问题被带到正式拍摄</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用现有器材做 60 秒测试，只测“读报错原文，记录失败的时间点和百分比”；记下两个数字：一个是你需要的，一个是器材实际给出的。</p></section>
+<h2>验收</h2><ul><li>报错原文和失败时间点记录下来了。</li><li>按编码、路径、权限、素材和字体分类排查过。</li><li>短英文路径、两倍空间和分段导出都试过。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读

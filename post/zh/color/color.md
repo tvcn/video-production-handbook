@@ -10,13 +10,13 @@ summary: "调色先解决白平衡、曝光和镜头匹配，再谈 LUT 和风�
 slug: color
 aliases: [color, 调色, 色彩]
 canonical_site: post
-canonical_path: /color/color/
+canonical_path: /article/color/
 status: published
 difficulty: intermediate
 stage: post
 format: short-film
 tools: [color, edit]
-authors: [editor]
+authors: ["TVCN 后期组"]
 reviewers: [technical-reviewer]
 cover: /images/post/color.webp
 diagram: /images/diagrams/zh/color.png
@@ -25,7 +25,7 @@ diagram_caption: "先解决白平衡、曝光和镜头匹配，再谈 LUT 和风
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [post.editing.rough-cut, post.sound.sound]
+related: [post.color.lut.en, post.color.secondary-correction.en, post.sound.sound-post.en]
 ---
 
 <!-- DIAGRAM_START -->

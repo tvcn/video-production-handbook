@@ -11,13 +11,13 @@ summary: "An arc is not a character turning good. Under the same pressure, they 
 slug: character-arc
 aliases: [character arc, growth, transformation]
 canonical_site: story
-canonical_path: /en/screenplay/character-arc/
+canonical_path: /en/article/character-arc/
 status: published
 difficulty: intermediate
 stage: script
 format: short-film
 tools: [script]
-authors: [editor]
+authors: ["TVCN Story Desk"]
 reviewers: [technical-reviewer]
 cover: /images/story/character-arc.webp
 diagram: /images/diagrams/en/character-arc.png
@@ -26,7 +26,7 @@ diagram_caption: "An arc is not a new personality label. Under the same pressure
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [story.screenplay.conflict, story.screenplay.three-act]
+related: [story.screenplay.conflict.en, story.screenplay.voice-over.en, story.story.theme-through-action.en]
 ---
 
 <!-- DIAGRAM_START -->

@@ -5,68 +5,54 @@ type: literacy
 lang: en
 translation_key: context.literacy.deepfake
 translation_status: reviewed
-title: "Deepfake Detection: Look Beyond the Face"
-summary: "Look beyond the face: teeth, ears, blinks, background text, and light direction."
+title: 'Deepfake Detection: Look Beyond the Face'
+summary: 'Look beyond the face: teeth, ears, blinks, background text, and light direction.'
 slug: deepfake
-aliases: [deepfake]
+aliases:
+- deepfake
 canonical_site: context
-canonical_path: /en/literacy/deepfake/
+canonical_path: /en/article/deepfake/
 status: published
 diagram: /images/diagrams/en/deepfake.svg
-diagram_alt: "Deepfake Detection: Look Beyond the Face three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Deepfake Detection: Look Beyond the Face.'
+diagram_caption: 'Watch “Step through five seconds: are teeth a single” and “Check
+  background text, signs, and reflections in glasses”; judge what old problem it replaced
+  and what new limit it added.'
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: ["TVCN Research Desk"]
-sources: [S01, S03, S22, S39]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Research Desk
+sources:
+- S01
+- S03
+- S22
+- S39
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- context.law.insurance-equipment.en
+- formats.live-podcast.live-podcast-structure.en
+- post.color.hdr-workflow.en
 depth: deep
 deep_minutes: 8
-test_context: "Review setup: Windows 11 + Chrome; checked against public films, scripts and platform pages; not frame-by-frame testing."
-known_failures: "Known failures: public case data is incomplete; platform specs and length limits change; re-verify per project."
+test_context: 'Review setup: Windows 11 + Chrome; checked against public films, scripts
+  and platform pages; not frame-by-frame testing.'
+known_failures: 'Known failures: public case data is incomplete; platform specs and
+  length limits change; re-verify per project.'
 verified: 2026-11-22
+source_kind: sourced
 ---
 
-<p>Look beyond the face: teeth, ears, blinks, background text, and light direction.</p>
+<p>Deepfakes usually fail on physics, not features: mismatched shadow direction, wrong glasses reflection, changing tooth count, hair passing through a shoulder, a neck that does not move with speech. Frame-by-frame relationships are more reliable than “does it look like them.”</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/deepfake.svg" alt="Deepfake Detection: Look Beyond the Face three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/deepfake.svg" alt="Structure diagram for Deepfake Detection: Look Beyond the Face.">
+  <figcaption>Watch “Step through five seconds: are teeth a single” and “Check background text, signs, and reflections in glasses”; judge what old problem it replaced and what new limit it added.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Check teeth, ears, blinks, background text, and light direction. Watch five seconds frame by frame for anomalies.</p>
-<h2>Do this</h2>
-<p>Deepfakes are not only about the face. Check teeth, ears, blinking, background text, and light direction.</p><ol><li>Step through five seconds: are teeth a single row, ears symmetric, blinks natural?</li><li>Check background text, signs, and reflections in glasses for continuity.</li><li>Find the original source, a response from the person, or a second angle; if all three fail, treat it as high risk.</li></ol>
-<h2>Avoid</h2>
-<p>Do not conclude “it looks fake”; name the specific mismatches.</p>
-<h2>Check</h2>
-<ul><li>Five seconds were stepped through for teeth, ears, and blinking.</li><li>Background text, signs, and glasses reflections were checked for continuity.</li><li>Original source, a response from the person, and a second angle all fail.</li></ul>
+<section><h2 id="section-1">Check physics before the face</h2><p>Then check provenance: where is the original, who shot it, is there an uncompressed copy? Without a source chain, the eye alone cannot conclude.</p><h2 id="section-2">Limits</h2><p>Do not treat an AI artifact as proof of a fake. Compression, beauty filters and low light create similar flaws. State probability and evidence, not “obviously fake.”</p></section><section><h2 id="section-3">On set</h2><p>Check teeth, ears, blinks, background text, and light direction. Watch five seconds frame by frame for anomalies.</p></section><section><h2 id="section-4">Do this</h2><p>Deepfakes are not only about the face. Check teeth, ears, blinking, background text, and light direction.</p><ol><li>Step through five seconds: are teeth a single row, ears symmetric, blinks natural?</li><li>Check background text, signs, and reflections in glasses for continuity.</li><li>Find the original source, a response from the person, or a second angle; if all three fail, treat it as high risk.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not conclude “it looks fake”; name the specific mismatches.</p></section><aside class="regional-note"><p><strong>Regional note for US / UK / EU readers</strong></p><p>This English page keeps mainland-China examples where they are part of the method. Read platform names as examples, not as the only market: Douyin ↔ TikTok/Reels, Bilibili ↔ YouTube, Xiaohongshu ↔ Instagram/Pinterest; RMB figures are not converted here. Film-history examples are kept in their original market context; distribution and rights clearance still follow your local law.</p></aside><section><h2>Use it today</h2><p>Put the history back into a job: archive, restoration, teaching or a short film. Ask what it solved, then what it still cannot do.</p><ul><li>Find one contemporary work and mark one old limit it inherited.</li><li>Find one condition it no longer needs and say why.</li><li>Write one thing it still cannot do today.</li></ul></section><section><h2>Source boundary</h2><p>This is interpretation, not a primary archive. Check years, people and statutes against the original links in <a href="../../about/">SOURCES.md</a>. A secondhand summary is a lead, not evidence.</p></section>
+<h2>Check</h2><ul><li>Five seconds were stepped through for teeth, ears, and blinking.</li><li>Background text, signs, and glasses reflections were checked for continuity.</li><li>Original source, a response from the person, and a second angle all fail.</li></ul>
 
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: editorial statute comparison and project reviews; tested: no lab measurement; references: the laws, platform rules and institutional texts below.</p>
-<ul><li><span class="mono">[S01]</span> UNESCO: Media and Information Literacy</li><li><span class="mono">[S03]</span> China's Personal Information Protection Law (PIPL)</li><li><span class="mono">[S22]</span> China's Civil Code</li><li><span class="mono">[S39]</span> W3C WCAG</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
-<!-- SOURCES_END -->
-
-<!-- DEEP_DIVE_START -->
-## Deep dive
-<p><strong>About 8 minutes.</strong> A deepfake is not “looks fake.” It is a mismatch across source, time, place, and body detail.</p>
-### Source first, pixels second
-<p>Find the original account, original stream, full version. An “exclusive” with no source is unknown. A fake fears the source; it does not fear your zoom.</p><p>Ask who is motivated to make it, when it was released, and what it wants you to share. Three questions arrive before any detection tool.</p>
-### Where bodies break
-<p>Check teeth for a single row, ears for left-right symmetry, fingers for extra joints, blink rate for sudden changes, neck and collar shadows for consistency. AI fails at edges and contact points.</p><p>Check lip sync on plosives and pauses, then background lettering, signs, reflections in glasses. The tell is usually in the corner you ignore.</p>
-### What to do after detection
-<p>Detection gives probability, not a verdict. Do not publicly accuse someone on a “97% fake” score. Find the original source, the person's response, and a second independent angle.</p><p>If you cannot confirm, report that the video is of unknown origin and unverified. Do not spread the details or turn the person into a joke. The victim is not material.</p>
-### Five-minute drill: four checks on one video
-<p>Take one suspicious video. Check source, time, place, body detail. Write one line each: present, absent, uncertain. Do not write “feels fake.”</p><p>Show the four lines to someone and let them judge independently. If you disagree, recheck the weakest item; do not argue.</p>
-### When you can conclude
-<p>You can say “highly likely fake” when at least three of four hold: no original source, time or place mismatch, hard body-detail failures, denial by the person or an authoritative party.</p><p>One item: write “questionable.” None: say nothing. A public accusation always costs more than ten more minutes of checking.</p>
-### Ten deepfake checks
-<ul><li>Find original account and stream</li><li>Check release time and motive</li><li>Teeth in one row</li><li>Ears symmetric</li><li>Finger joints normal</li><li>Blink rate not sudden</li><li>Neck and collar shadows consistent</li><li>Lip sync on plosives</li><li>Background text and glasses reflections</li><li>Three items before “highly likely”</li></ul><p>Detecting a fake does not end at “I can tell.” It ends at “I can name the four mismatches.”</p>
-<!-- DEEP_DIVE_END -->

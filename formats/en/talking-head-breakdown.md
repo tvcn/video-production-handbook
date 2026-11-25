@@ -5,23 +5,29 @@ type: article
 lang: en
 translation_key: formats.talking-head.talking-head-breakdown
 translation_status: reviewed
-title: "Talking Head Breakdown: Hold Attention for Sixty Seconds"
-summary: "An eight-beat breakdown of a sixty-second talking head: claim, reason, example one, example two, counter, proof, application, question."
+title: 'Talking Head Breakdown: Hold Attention for Sixty Seconds'
+summary: 'An eight-beat breakdown of a sixty-second talking head: claim, reason, example one, example two, counter, proof, application, question.'
 slug: talking-head-breakdown
-aliases: [talking-head-breakdown]
+aliases:
+- talking-head-breakdown
 canonical_site: formats
-canonical_path: /en/talking-head/talking-head-breakdown/
+canonical_path: /en/article/talking-head-breakdown/
 status: published
 diagram: /images/diagrams/en/talking-head-breakdown.svg
-diagram_alt: "Talking Head Breakdown: Hold Attention for Sixty Seconds: timecode, structure, and budget worksheet"
-diagram_caption: "The diagram is an entry point: watch the timecodes, then use the checks at the end."
+diagram_alt: 'Talking Head Breakdown: Hold Attention for Sixty Seconds: timecode, structure, and budget worksheet'
+diagram_caption: 'The diagram is an entry point: watch the timecodes, then use the checks at the end.'
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN Formats Desk
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [formats.tutorial.tutorial-breakdown, formats.interview.interview-breakdown, main.path.path-distribution]
+related:
+- formats.interview.interview-breakdown.en
+- formats.short-drama.short-drama-breakdown.en
+- formats.tutorial.tutorial-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

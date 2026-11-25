@@ -5,26 +5,35 @@ type: article
 lang: en
 translation_key: context.law.ai-label-law
 translation_status: reviewed
-title: "AI Content Labels: Explicit, Implicit, and Platform Duties"
-summary: "AI content is not compliant with a single “AI” tag. China mainland rules distinguish explicit and implicit labels, with duties for platforms, tool providers, and publishers; ads and news are stricter."
+title: 'AI Content Labels: Explicit, Implicit, and Platform Duties'
+summary: AI content is not compliant with a single “AI” tag. China mainland rules distinguish explicit and implicit labels, with duties for platforms, tool providers, and publishers; ads and news are stricter.
 slug: ai-label-law
-aliases: [ai-label-law]
+aliases:
+- ai-label-law
 canonical_site: context
 canonical_path: /en/article/ai-label-law/
 status: published
 diagram: /images/diagrams/en/ai-label-law.svg
-diagram_alt: "AI content labeling diagram"
-diagram_caption: "Diagram: generation tool, editing, and publishing each carry labeling duties."
+diagram_alt: AI content labeling diagram
+diagram_caption: 'Diagram: generation tool, editing, and publishing each carry labeling duties.'
 difficulty: intermediate
 stage: handbook
 format: law
-authors: ["TVCN Research Desk"]
+authors:
+- TVCN Research Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S04, S05]
-test_context: "Review setup: current China mainland statutes, platform rules and public cases; not legal advice."
-known_failures: "Known failures: platform rules and local enforcement change; counsel must confirm applicability."
+sources:
+- S04
+- S05
+test_context: 'Review setup: current China mainland statutes, platform rules and public cases; not legal advice.'
+known_failures: 'Known failures: platform rules and local enforcement change; counsel must confirm applicability.'
 verified: 2026-11-22
+related:
+- context.history.camera-obscura.en
+- formats.food.food-video-template.en
+- post.color.color-management.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +48,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: editorial statute comparison and project reviews; tested: no lab measurement; references: the laws, platform rules and institutional texts below.</p>
 <ul><li><span class="mono">[S04]</span> China's Interim Measures for Generative AI Services</li><li><span class="mono">[S05]</span> EU AI Act policy page</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

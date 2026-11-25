@@ -5,43 +5,46 @@ type: article
 lang: en
 translation_key: story.story.theme-through-action
 translation_status: reviewed
-title: "Theme Through Action, Not Speeches"
-summary: "Do not let a character speak the theme; make them choose under pressure and reveal it."
+title: Theme Through Action, Not Speeches
+summary: Do not let a character speak the theme; make them choose under pressure and
+  reveal it.
 slug: theme-through-action
-aliases: [theme-through-action]
+aliases:
+- theme-through-action
 canonical_site: story
-canonical_path: /en/story/theme-through-action/
+canonical_path: /en/article/theme-through-action/
 status: published
 diagram: /images/diagrams/en/theme-through-action.svg
-diagram_alt: "Theme Through Action, Not Speeches three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: Structure diagram for Theme Through Action, Not Speeches.
+diagram_caption: 'Watch “Write one theme sentence the character will never” and “Design
+  a choice: they give up B for”; judge whether the want can be said with one visible
+  action.'
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Story Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- story.story.ending-choice.en
+- story.story.want-stakes.en
+- story.story.scene-sequence.en
 depth: deep
 deep_minutes: 6
+source_kind: experience
 ---
 
-<p>Do not let a character speak the theme; make them choose under pressure and reveal it.</p>
+<p>Theme is not a voiceover line; it is an action that recurs with a different meaning each time. Someone wipes the table when nervous: first a habit, then a cover, then a goodbye. The audience reads the theme from the change.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/theme-through-action.svg" alt="Theme Through Action, Not Speeches three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/theme-through-action.svg" alt="Structure diagram for Theme Through Action, Not Speeches.">
+  <figcaption>Watch “Write one theme sentence the character will never” and “Design a choice: they give up B for”; judge whether the want can be said with one visible action.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Write one theme sentence no character will say, then design a choice: they give up B for A. The camera only shows the hand reaching and stopping.</p>
-<h2>Do this</h2>
-<p>Do not let the character state the theme; make them choose under pressure and expose their values.</p><ol><li>Write one theme sentence the character will never say.</li><li>Design a choice: they give up B for A.</li><li>Shoot the reach and the stop; let the audience read the theme.</li></ol>
-<h2>Avoid</h2>
-<p>Do not summarize the theme in dialogue; let the choice expose the stance.</p>
-<h2>Check</h2>
-<ul><li>Nobody speaks the theme sentence; the choice carries it.</li><li>The choice has a clear A and B so the audience knows what was given up.</li><li>The last action is a reach or a stop, not an explanatory line.</li></ul>
+<section><h2 id="section-1">Theme lands on a repeated action</h2><p>After writing the theme sentence, ask which action proves it. If no action exists, it is still a concept.</p><h2 id="section-2">Limits</h2><p>Do not let a character announce the theme. They can be wrong, contradict it, or fail to say it; the structure proves the theme, not a line.</p></section><section><h2 id="section-3">On set</h2><p>Write one theme sentence no character will say, then design a choice: they give up B for A. The camera only shows the hand reaching and stopping.</p></section><section><h2 id="section-4">Do this</h2><p>Do not let the character state the theme; make them choose under pressure and expose their values.</p><ol><li>Write one theme sentence the character will never say.</li><li>Design a choice: they give up B for A.</li><li>Shoot the reach and the stop; let the audience read the theme.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not summarize the theme in dialogue; let the choice expose the stance.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the want is visible in one action</li><li>the obstacle escalates inside the same scene</li><li>delete one expository line and the conflict still holds</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>the want is unclear and the scene is only mood</li><li>the obstacle is solved by coincidence, not a decision</li><li>dialogue repeats what the image already says</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Write one 30-second scene with only “Write one theme sentence the character will never” and “Design a choice: they give up B for”. Cut every explanation and ask one person to retell what the character wants.</p></section>
+<h2>Check</h2><ul><li>Nobody speaks the theme sentence; the choice carries it.</li><li>The choice has a clear A and B so the audience knows what was given up.</li><li>The last action is a reach or a stop, not an explanatory line.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

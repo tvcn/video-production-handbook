@@ -5,43 +5,43 @@ type: article
 lang: zh
 translation_key: story.screenplay.script-format
 translation_status: source
-title: "剧本格式：让全组读得懂"
-summary: "剧本格式不是给文学奖看的，它要让摄影、录音和剪辑一眼找到信息。"
+title: 剧本格式：让全组读得懂
+summary: 剧本格式不是给文学奖看的，它要让摄影、录音和剪辑一眼找到信息。
 slug: script-format
-aliases: [script-format]
+aliases:
+- script-format
 canonical_site: story
-canonical_path: /screenplay/script-format/
+canonical_path: /article/script-format/
 status: published
 diagram: /images/diagrams/zh/script-format.svg
-diagram_alt: "剧本格式：让全组读得懂 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 剧本格式：让全组读得懂的结构示意图。
+diagram_caption: 看“每场开头写清内外景、地点、时间”和“动作段落不超过四行，第一次出现的人物…”两处，判断人物想要的東西能不能用一个动作说出来。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 故事组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- story.screenplay.scene-description.en
+- story.storyboard.shot-sheet.en
+- story.directing.rehearsal.en
 depth: deep
 deep_minutes: 6
+source_kind: experience
 ---
 
-<p>剧本格式不是给文学奖看的，它要让摄影、录音和剪辑一眼找到信息。</p>
+<p>剧本格式的目的，是让导演、摄影、录音、剪辑在同一页上找到场景、动作、对白和时间。场景头写地点与时间，动作段只写镜头能拍到的东西，对白上面标角色名。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/script-format.svg" alt="剧本格式：让全组读得懂 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/script-format.svg" alt="剧本格式：让全组读得懂的结构示意图。">
+  <figcaption>看“每场开头写清内外景、地点、时间”和“动作段落不超过四行，第一次出现的人物…”两处，判断人物想要的東西能不能用一个动作说出来。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>剧本每场开头写清内外景、地点、时间；动作段落不超过四行；第一次出现的人物名全大写。让录音知道什么时候开门。</p>
-<h2>怎么做</h2>
-<p>剧本格式不是给文学奖看的，它要让摄影、录音和剪辑一眼找到信息。</p><ol><li>每场开头写清内外景、地点、时间。</li><li>动作段落不超过四行，第一次出现的人物名全大写。</li><li>把开门、电话、脚步等声音提示写进行动里，让录音知道收什么。</li></ol>
-<h2>别踩</h2>
-<p>别把剧本写成小说；全组找不到场号和声音提示，现场就会漏。</p>
-<h2>验收</h2>
-<ul><li>每场都有内外景、地点和时间，场号连续。</li><li>动作段落不超过四行，人物首次出现是大写。</li><li>录音能从剧本里标出至少三个该收的声音。</li></ul>
+<section><h2 id="section-1">剧本是工作文件，不是文学作品</h2><p>不要在对白里塞无法拍摄的心理描写；把“她很犹豫”改写成“她拿起钥匙，又放回桌上”。</p><h2 id="section-2">边界</h2><p>短片剧本不必写每个镜头，但必须写清每场的变化。格式再漂亮，如果每场没有目标、阻碍和转折，现场仍然拍不出来。</p></section><section><h2 id="section-3">现场</h2><p>剧本每场开头写清内外景、地点、时间；动作段落不超过四行；第一次出现的人物名全大写。让录音知道什么时候开门。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>每场开头写清内外景、地点、时间。</li><li>动作段落不超过四行，第一次出现的人物名全大写。</li><li>把开门、电话、脚步等声音提示写进行动里，让录音知道收什么。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别把剧本写成小说；全组找不到场号和声音提示，现场就会漏。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>人物的目标能用一个动作说出来</li><li>障碍在同一场里升级，而不是换一个</li><li>删掉一句解释对白，冲突仍然成立</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>人物想要什么没写清，场面只剩情绪</li><li>障碍靠巧合解决，人物没有做决定</li><li>对白把画面已经说明的事再说一遍</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>写一页 30 秒的场景，只保留“每场开头写清内外景、地点、时间”和“动作段落不超过四行，第一次出现的人物…”，删掉所有解释；请一个人读一遍，问他能不能复述人物想要什么。</p></section>
+<h2>验收</h2><ul><li>每场都有内外景、地点和时间，场号连续。</li><li>动作段落不超过四行，人物首次出现是大写。</li><li>录音能从剧本里标出至少三个该收的声音。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读

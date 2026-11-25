@@ -5,43 +5,46 @@ type: article
 lang: zh
 translation_key: tools.tutorial.backup-3-2-1
 translation_status: source
-title: "3-2-1 备份：当天做完"
-summary: "3-2-1 备份当天做完：三份、两种介质、一份异地；拖到明天，素材就可能没了。"
+title: 3-2-1 备份：当天做完
+summary: 3-2-1 备份当天做完：三份、两种介质、一份异地；拖到明天，素材就可能没了。
 slug: backup-3-2-1
-aliases: [backup-3-2-1]
+aliases:
+- backup-3-2-1
 canonical_site: tools
-canonical_path: /tutorial/backup-3-2-1/
+canonical_path: /article/backup-3-2-1/
 status: published
 diagram: /images/diagrams/zh/backup-3-2-1.svg
-diagram_alt: "3-2-1 备份：当天做完 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 3-2-1 备份：当天做完的结构示意图。
+diagram_caption: 看“当天拷卡到 SSD”和“再拷到另一块硬盘”两处，判断这个参数能不能对应到一个具体的拍摄问题。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 工具组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- tools.tutorial.restore-test.en
+- tools.tutorial.set-mediabay.en
+- tools.workflow.storage.en
 depth: deep
 deep_minutes: 5
+sources:
+- S31
+- S23
+source_kind: sourced
 ---
 
-<p>3-2-1 备份当天做完：三份、两种介质、一份异地；拖到明天，素材就可能没了。</p>
+<p>3-2-1 不是“上传云就完事”。拍摄当天至少做三份：卡/机身一份、现场硬盘一份、另一块可离线硬盘或云一份；其中一份不在同一栋楼。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/backup-3-2-1.svg" alt="3-2-1 备份：当天做完 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/backup-3-2-1.svg" alt="3-2-1 备份：当天做完的结构示意图。">
+  <figcaption>看“当天拷卡到 SSD”和“再拷到另一块硬盘”两处，判断这个参数能不能对应到一个具体的拍摄问题。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>当天拷卡到 SSD，再拷到另一块硬盘，最后传 NAS 或云；三份完成再格式化卡。</p>
-<h2>怎么做</h2>
-<p>3-2-1 备份当天做完：三份、两种介质、一份异地；拖到明天，素材就可能没了。</p><ol><li>当天拷卡到 SSD。</li><li>再拷到另一块硬盘。</li><li>最后传 NAS 或云，三份完成再格式化卡。</li></ol>
-<h2>别踩</h2>
-<p>别把“明天再备份”当计划；卡一丢，三份都来不及。</p>
-<h2>验收</h2>
-<ul><li>当天完成三份拷贝，文件数一致。</li><li>使用两种介质，其中一份在异地或云端。</li><li>卡格式化发生在三份确认之后。</li></ul>
+<section><h2 id="section-1">三份、两种介质、一份异地，当天做完</h2><p>每份都要能读：随机抽一个文件回放，核对文件名和时长；只看到“拷贝完成”不算备份。</p><h2 id="section-2">边界</h2><p>RAID 不是备份，同步盘也不是备份。误删会同步删除，勒索软件会加密整组。至少保留一份离线、只读或版本化的副本。</p></section><section><h2 id="section-3">现场</h2><p>当天拷卡到 SSD，再拷到另一块硬盘，最后传 NAS 或云；三份完成再格式化卡。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>当天拷卡到 SSD。</li><li>再拷到另一块硬盘。</li><li>最后传 NAS 或云，三份完成再格式化卡。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别把“明天再备份”当计划；卡一丢，三份都来不及。</p></section><figure class="article-audio"><audio controls preload="none" src="../../assets/audio/zh/tool-backup-3-2-1.zh.mp3"></audio><figcaption>20 秒语音演示：一个检查点和最常见的失败。文字稿与步骤在正文里。</figcaption></figure><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>每一项参数都能对应一个具体的拍摄问题</li><li>重量、供电和接口在真实机位上成立</li><li>60 秒测试能留下一个可比较的数字</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>只看参数，不看接口、供电和重量</li><li>买回来才发现电池、存储或机身不匹配</li><li>没有 60 秒测试，问题被带到正式拍摄</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用现有器材做 60 秒测试，只测“当天拷卡到 SSD”；记下两个数字：一个是你需要的，一个是器材实际给出的。</p></section>
+<h2>验收</h2><ul><li>当天完成三份拷贝，文件数一致。</li><li>使用两种介质，其中一份在异地或云端。</li><li>卡格式化发生在三份确认之后。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读
@@ -57,3 +60,12 @@ deep_minutes: 5
 ### 每次拷卡，照着这十步做
 <ul><li>先确认卡上素材能正常回放</li><li>拷到第一块工作盘</li><li>用校验工具比对文件数量和解码</li><li>改名为日期_项目_机位_卡号</li><li>拷到第二块备份盘</li><li>让其中一份离开这台机器</li><li>随机打开三个文件确认能播</li><li>确认两份都在，再格式化卡</li><li>把恢复步骤写在项目盘根目录</li><li>每月抽一个项目做一次恢复演练</li></ul><p>备份不是把文件拖过去，是确保明天还能打开、还能导出、还能交片。格式化卡之前，把两份备份各打开一次；能打开、能播放、能导出，才算备份完成。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S31] ARRI Cine Systems；见 SOURCES.md 的原始链接与用途。
+- [S23] SMPTE 标准入口；见 SOURCES.md 的原始链接与用途。
+
+完整链接与用途见 [`SOURCES.md`](../../about/)。
+<!-- SOURCES_END -->

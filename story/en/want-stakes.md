@@ -5,43 +5,45 @@ type: article
 lang: en
 translation_key: story.story.want-stakes
 translation_status: reviewed
-title: "Want and Stakes: What Does Losing Cost?"
-summary: "What a character wants matters less than what losing it costs."
+title: 'Want and Stakes: What Does Losing Cost?'
+summary: What a character wants matters less than what losing it costs.
 slug: want-stakes
-aliases: [want-stakes]
+aliases:
+- want-stakes
 canonical_site: story
-canonical_path: /en/story/want-stakes/
+canonical_path: /en/article/want-stakes/
 status: published
 diagram: /images/diagrams/en/want-stakes.svg
-diagram_alt: "Want and Stakes: What Does Losing Cost? three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Want and Stakes: What Does Losing Cost?.'
+diagram_caption: 'Watch “Write the specific thing they want in this” and “Write the
+  specific cost of losing it: no”; judge whether the want can be said with one visible
+  action.'
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Story Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- story.story.theme-through-action.en
+- story.story.scene-sequence.en
+- story.story.midpoint-turn.en
 depth: deep
 deep_minutes: 6
+source_kind: experience
 ---
 
-<p>What a character wants matters less than what losing it costs.</p>
+<p>“Wants recognition” is abstract; “needs that signature by Friday” is playable. Loss must also be concrete: the job, the apartment, someone&#x27;s trust. Abstract desire cannot drive action; specific loss can.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/want-stakes.svg" alt="Want and Stakes: What Does Losing Cost? three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/want-stakes.svg" alt="Structure diagram for Want and Stakes: What Does Losing Cost?.">
+  <figcaption>Watch “Write the specific thing they want in this” and “Write the specific cost of losing it: no”; judge whether the want can be said with one visible action.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Before writing a scene, fill two boxes: the concrete thing they want, a key or a signature, and the concrete cost of losing it, no bed tonight or a lost job. Both must be nouns and actions, not dignity or security.</p>
-<h2>Do this</h2>
-<p>What the character wants matters less than what losing it costs. Write a concrete object, then a concrete cost.</p><ol><li>Write the specific thing they want in this scene: a key, a signature, one sentence.</li><li>Write the specific cost of losing it: no bed tonight, a lost job, a missed person.</li><li>Keep both boxes to nouns and actions, not dignity or security.</li></ol>
-<h2>Avoid</h2>
-<p>Do not replace the scene with a character biography; the audience sees only now.</p>
-<h2>Check</h2>
-<ul><li>Both boxes hold filmable nouns and actions, not abstractions like dignity or security.</li><li>The want and the cost happen in the same scene without voice-over.</li><li>Another reader can name exactly what the character fears losing.</li></ul>
+<section><h2 id="section-1">Make the want concrete and the loss visible</h2><p>“Wants recognition” is abstract; “needs that signature by Friday” is playable. Loss must also be concrete: the job, the apartment, someone's trust. Abstract desire cannot drive action; specific loss can.</p><p>Write three columns: what they want, what they lose if they fail, what they will pay. All three must be playable in the same scene.</p><h2 id="section-2">Limits</h2><p>Bigger stakes are not better. An ordinary person losing a job holds the audience more than a superhero losing Earth; scale must match the character.</p></section><section><h2 id="section-3">On set</h2><p>Before writing a scene, fill two boxes: the concrete thing they want, a key or a signature, and the concrete cost of losing it, no bed tonight or a lost job. Both must be nouns and actions, not dignity or security.</p></section><section><h2 id="section-4">Do this</h2><p>What the character wants matters less than what losing it costs. Write a concrete object, then a concrete cost.</p><ol><li>Write the specific thing they want in this scene: a key, a signature, one sentence.</li><li>Write the specific cost of losing it: no bed tonight, a lost job, a missed person.</li><li>Keep both boxes to nouns and actions, not dignity or security.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not replace the scene with a character biography; the audience sees only now.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the want is visible in one action</li><li>the obstacle escalates inside the same scene</li><li>delete one expository line and the conflict still holds</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>the want is unclear and the scene is only mood</li><li>the obstacle is solved by coincidence, not a decision</li><li>dialogue repeats what the image already says</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Write one 30-second scene with only “Write the specific thing they want in this” and “Write the specific cost of losing it: no”. Cut every explanation and ask one person to retell what the character wants.</p></section>
+<h2>Check</h2><ul><li>Both boxes hold filmable nouns and actions, not abstractions like dignity or security.</li><li>The want and the cost happen in the same scene without voice-over.</li><li>Another reader can name exactly what the character fears losing.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

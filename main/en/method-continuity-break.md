@@ -5,38 +5,46 @@ type: template
 lang: en
 translation_key: main.method.method-continuity-break
 translation_status: reviewed
-title: "Continuity Broke"
-summary: "Photograph the set and match props, wardrobe, hands, and table; continuity is records, not memory."
+title: Continuity Broke
+summary: Photograph the set and match props, wardrobe, hands, and table; continuity
+  is records, not memory.
 slug: method-continuity-break
-aliases: [method-continuity-break]
+aliases:
+- method-continuity-break
 canonical_site: main
-canonical_path: /en/method/method-continuity-break/
+canonical_path: /en/article/method-continuity-break/
 status: published
 diagram: /images/diagrams/en/method-continuity-break.svg
-diagram_alt: "Continuity Broke three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: Structure diagram for Continuity Broke.
+diagram_caption: Watch “Every time you change the camera or wardrobe,” and “Assign
+  one person to track props, collar, watch,”; judge whether the symptom can be restated
+  as one observable sentence.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Editorial
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- main.method.method-crew-conflict.en
+- main.method.method-ai-consistency.en
+- main.method.method-platform-reject.en
+source_kind: experience
 ---
 
-<p>Photograph the set and match props, wardrobe, hands, and table; continuity is records, not memory.</p>
+<p>Before each camera move, have the script supervisor take three frames: wide, prop detail, hands. Compare them with the last frame of the previous setup before deciding whether to reshoot.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/method-continuity-break.svg" alt="Continuity Broke three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/method-continuity-break.svg" alt="Structure diagram for Continuity Broke.">
+  <figcaption>Watch “Every time you change the camera or wardrobe,” and “Assign one person to track props, collar, watch,”; judge whether the symptom can be restated as one observable sentence.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Photograph the table, hands, and wardrobe before rolling. Compare before wrap.</p>
-<h2>Do this</h2>
-<p>A continuity break: take a set photo, then check props, wardrobe, hands, and table. Continuity lives in records, not memory.</p><ol><li>Every time you change the camera or wardrobe, shoot a wide and a detail photo.</li><li>Assign one person to track props, collar, watch, and how much drink is left.</li><li>Check photos by scene before the edit; fix breaks with pickups or inserts.</li></ol>
-<h2>Avoid</h2>
-<p>Do not match from memory; memory keeps the big shape, not the details.</p>
-<h2>Check</h2>
-<ul><li>Every camera or wardrobe change has a wide and detail photo.</li><li>One person tracks props, collar, watch, and drink level.</li><li>Photos are checked by scene before the edit; breaks are fixed with pickups or inserts.</li></ul>
+<section><h2 id="section-1">Check four continuity classes</h2>
+<ul><li><strong>Props:</strong> cup position, cigarette length, phone screen. Photograph the prop before and after every shot.</li><li><strong>Wardrobe:</strong> collar, cuffs, sweat, buttons. Keep the actor in the same garment; do not fix it in post.</li><li><strong>Blocking:</strong> a character exits left and enters right in the next shot. Mark positions and use landmarks.</li><li><strong>Light:</strong> the window turns from day to night, shadows change direction. Shoot coverage before close-ups.</li></ul>
+<h2 id="section-2">A one-minute check</h2>
+
+<h2 id="section-3">When not to reshoot</h2>
+<p>If the break sits at the edge of frame and carries no story information, use an insert or sound to move attention; do not reshoot a whole scene for a cup. A break on the hero's face must be reshot.</p></section><section><h2 id="section-4">On set</h2><p>Photograph the table, hands, and wardrobe before rolling. Compare before wrap.</p></section><section><h2 id="section-5">Do this</h2><p>A continuity break: take a set photo, then check props, wardrobe, hands, and table. Continuity lives in records, not memory.</p><ol><li>Every time you change the camera or wardrobe, shoot a wide and a detail photo.</li><li>Assign one person to track props, collar, watch, and how much drink is left.</li><li>Check photos by scene before the edit; fix breaks with pickups or inserts.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not match from memory; memory keeps the big shape, not the details.</p></section><section><h2>Boundary</h2><p>It does not guarantee a story. The template only orders structure; the person, obstacle and cost still need writing.</p></section><section><h2>Alternative</h2><p>If “Every time you change the camera or wardrobe,” is not the main problem, start with the basic move behind “Assign one person to track props, collar, watch,”. Upgrade only after both hold.</p></section><section><h2>60-second test</h2><p>Run a 60-second test with the gear you own, focused on “Every time you change the camera or wardrobe,”, and record one number. If the number does not change, do not add budget.</p></section><section><h2>When not to use</h2><p>Do not use the template when “Every time you change the camera or wardrobe,” is still unclear or “Assign one person to track props, collar, watch,” is only filler. Go back to the person and the problem.</p></section><section><h2>Three failures</h2><ul><li>Every beat exists, but no one makes a decision.</li><li>The middle changes location, not information.</li><li>The ending is narrated, with no visible change.</li></ul></section>
+<h2>Check</h2><ul><li>Every camera or wardrobe change has a wide and detail photo.</li><li>One person tracks props, collar, watch, and drink level.</li><li>Photos are checked by scene before the edit; breaks are fixed with pickups or inserts.</li></ul>

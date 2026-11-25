@@ -5,43 +5,45 @@ type: article
 lang: en
 translation_key: story.story.ending-choice
 translation_status: reviewed
-title: "Ending: Stop After the Choice"
-summary: "End after the choice. The sentence the audience supplies is stronger than a closing explanation."
+title: 'Ending: Stop After the Choice'
+summary: End after the choice. The sentence the audience supplies is stronger than
+  a closing explanation.
 slug: ending-choice
-aliases: [ending-choice]
+aliases:
+- ending-choice
 canonical_site: story
-canonical_path: /en/story/ending-choice/
+canonical_path: /en/article/ending-choice/
 status: published
 diagram: /images/diagrams/en/ending-choice.svg
-diagram_alt: "Ending: Stop After the Choice three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Ending: Stop After the Choice.'
+diagram_caption: Watch “Make the last shot an action after the” and “Do not add voice-over
+  explaining why.”; judge whether the want can be said with one visible action.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Story Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- story.story.theme-through-action.en
+- story.story.scene-sequence.en
+- story.story.midpoint-turn.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>End after the choice. The sentence the audience supplies is stronger than a closing explanation.</p>
+<p>The ending does not explain the choice; it shows the first consequence. If she stays, show her setting down the bag. If she leaves, show the door closing behind her. Stop after the action and let the audience supply the sentence.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/ending-choice.svg" alt="Ending: Stop After the Choice three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/ending-choice.svg" alt="Structure diagram for Ending: Stop After the Choice.">
+  <figcaption>Watch “Make the last shot an action after the” and “Do not add voice-over explaining why.”; judge whether the want can be said with one visible action.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>The last shot is the action after the choice: put down the key, close the door, walk away. Do not add narration explaining why.</p>
-<h2>Do this</h2>
-<p>End after the choice. Do not add an explanation; the line the audience supplies is stronger.</p><ol><li>Make the last shot an action after the choice: keys down, door closed, walking away.</li><li>Do not add voice-over explaining why.</li><li>Cut two endings, one stopping on the action and one with ten extra seconds, and compare.</li></ol>
-<h2>Avoid</h2>
-<p>Do not explain the ending; too much explanation kills the aftertaste.</p>
-<h2>Check</h2>
-<ul><li>The final shot is an action after the choice with no explanatory voice-over.</li><li>The audience can name what was chosen and what was given up.</li><li>The ten-second explanation version is weaker and the final cut stops on action.</li></ul>
+<section><h2 id="section-1">Stop after the choice</h2><p>In the last fifteen seconds, keep one action and one reaction shot. No narration summary, no second twist.</p><h2 id="section-2">Limits</h2><p>An open ending is not a missing ending. The audience must be able to name what she chose; they just are not told what happens next.</p></section><section><h2 id="section-3">On set</h2><p>The last shot is the action after the choice: put down the key, close the door, walk away. Do not add narration explaining why.</p></section><section><h2 id="section-4">Do this</h2><p>End after the choice. Do not add an explanation; the line the audience supplies is stronger.</p><ol><li>Make the last shot an action after the choice: keys down, door closed, walking away.</li><li>Do not add voice-over explaining why.</li><li>Cut two endings, one stopping on the action and one with ten extra seconds, and compare.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not explain the ending; too much explanation kills the aftertaste.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the want is visible in one action</li><li>the obstacle escalates inside the same scene</li><li>delete one expository line and the conflict still holds</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>the want is unclear and the scene is only mood</li><li>the obstacle is solved by coincidence, not a decision</li><li>dialogue repeats what the image already says</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Write one 30-second scene with only “Make the last shot an action after the” and “Do not add voice-over explaining why.”. Cut every explanation and ask one person to retell what the character wants.</p></section>
+<h2>Check</h2><ul><li>The final shot is an action after the choice with no explanatory voice-over.</li><li>The audience can name what was chosen and what was given up.</li><li>The ten-second explanation version is weaker and the final cut stops on action.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

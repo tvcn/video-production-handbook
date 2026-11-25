@@ -5,23 +5,29 @@ type: article
 lang: zh
 translation_key: formats.brand-film.brand-film-breakdown
 translation_status: source
-title: "品牌片拉片：90 秒怎么建立世界"
-summary: "按 90 秒品牌片的通用结构，拆 9 个时间码：世界、人物、欲望、阻碍、转向、行动、落点、一句话、停留。"
+title: 品牌片拉片：90 秒怎么建立世界
+summary: 按 90 秒品牌片的通用结构，拆 9 个时间码：世界、人物、欲望、阻碍、转向、行动、落点、一句话、停留。
 slug: brand-film-breakdown
-aliases: [brand-film-breakdown]
+aliases:
+- brand-film-breakdown
 canonical_site: formats
-canonical_path: /brand-film/brand-film-breakdown/
+canonical_path: /article/brand-film-breakdown/
 status: published
 diagram: /images/diagrams/zh/brand-film-breakdown.svg
-diagram_alt: "品牌片拉片：90 秒怎么建立世界：时间码、结构与预算拉片工作纸"
-diagram_caption: "图解是入口：先看时间码，再用文末验收表检查。"
+diagram_alt: 品牌片拉片：90 秒怎么建立世界：时间码、结构与预算拉片工作纸
+diagram_caption: 图解是入口：先看时间码，再用文末验收表检查。
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN 片型组
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [formats.product-ad.product-ad-breakdown, formats.documentary.documentary-breakdown, main.path.path-story]
+related:
+- formats.documentary.documentary-breakdown.en
+- formats.short-drama.short-drama-breakdown.en
+- formats.music-video.music-video-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

@@ -5,43 +5,46 @@ type: article
 lang: zh
 translation_key: post.sound.foley
 translation_status: source
-title: "Foley：脚步、衣服、门把手"
-summary: "Foley 不是配背景音，它把画面里的动作重新做成声音：脚步、衣服、门把手。"
+title: Foley：脚步、衣服、门把手
+summary: Foley 不是配背景音，它把画面里的动作重新做成声音：脚步、衣服、门把手。
 slug: foley
-aliases: [foley]
+aliases:
+- foley
 canonical_site: post
-canonical_path: /sound/foley/
+canonical_path: /article/foley/
 status: published
 diagram: /images/diagrams/zh/foley.svg
-diagram_alt: "Foley：脚步、衣服、门把手 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: Foley：脚步、衣服、门把手的结构示意图。
+diagram_caption: 看“拍完先录脚步、衣服摩擦、门把手三样”和“静音对画面，确认每一下都落在动作上”两处，判断剪掉一个镜头后，节奏是更快还是更乱。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 后期组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- post.sound.music-editing.en
+- post.color.scopes.en
+- post.vfx.keying.en
 depth: deep
 deep_minutes: 6
+source_kind: experience
 ---
 
-<p>Foley 不是配背景音，它把画面里的动作重新做成声音：脚步、衣服、门把手。</p>
+<p>Foley 的第一关是同步：脚步落地的帧、衣服摩擦的帧、杯子放下的帧。先把动作对上，再加重量和材质；不同步的 Foley 比没有更假。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/foley.svg" alt="Foley：脚步、衣服、门把手 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/foley.svg" alt="Foley：脚步、衣服、门把手的结构示意图。">
+  <figcaption>看“拍完先录脚步、衣服摩擦、门把手三样”和“静音对画面，确认每一下都落在动作上”两处，判断剪掉一个镜头后，节奏是更快还是更乱。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>拍完先录脚步、衣服摩擦、门把手三样；静音下对画面，再混进环境声，别盖对白。</p>
-<h2>怎么做</h2>
-<p>Foley 不是配背景音，它把画面里的动作重新做成声音：脚步、衣服、门把手。</p><ol><li>拍完先录脚步、衣服摩擦、门把手三样。</li><li>静音对画面，确认每一下都落在动作上。</li><li>混进环境声和对白，Foley 不能盖住字。</li></ol>
-<h2>别踩</h2>
-<p>别用 Foley 填满安静段；动作有声音，安静也有重量。</p>
-<h2>验收</h2>
-<ul><li>脚步、衣服、门把手三类声音都能对上具体动作。</li><li>静音看画面时，每一下都有声，且没有早半帧。</li><li>混进对白后，字仍然清楚，Foley 没有抢中频。</li></ul>
+<section><h2 id="section-1">先对动作，再谈创意</h2><p>分层做：接触声、运动声、环境声分开录，剪辑时分别调；不要一条音轨包办。</p><h2 id="section-2">边界</h2><p>Foley 不是“加声音就丰富”。画面没有的动作，不要硬加；观众会感到声画分离。</p><h2>Foley 三件套：脚、衣、物</h2>
+<p>Foley 不是“加音效”，是把画面里的动作做出可听的重量。先做脚步，再做衣服摩擦，最后做道具接触；三者分开录，后期才能调。</p>
+<ol><li>脚步按地面材质分：木、水泥、地毯；每只脚单独录，不要两只一起。</li><li>衣服摩擦只在动作明显时加，不要全程铺；音量比对白低 12–18dB。</li><li>门把手、杯子、纸张用近场话筒，录干声；不要加混响，混响留给混音。</li></ol>
+<p>验收：关掉音乐，只听 Foley 和对白，能判断人物体重和空间材质；听不出，先补脚步。</p></section><section><h2 id="section-3">现场</h2><p>拍完先录脚步、衣服摩擦、门把手三样；静音下对画面，再混进环境声，别盖对白。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>拍完先录脚步、衣服摩擦、门把手三样。</li><li>静音对画面，确认每一下都落在动作上。</li><li>混进环境声和对白，Foley 不能盖住字。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别用 Foley 填满安静段；动作有声音，安静也有重量。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>剪掉一个镜头，节奏更快而不是更乱</li><li>示波器上肤色、高光和黑位都在范围内</li><li>响度、字幕和文件规格能过一次交付检查</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>剪辑点跟着音乐，不跟动作</li><li>先定风格再统一，镜头之间跳色</li><li>交付前没查响度和字幕，最后一遍才发现</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>拿一段 30 秒素材做 A/B，只改“拍完先录脚步、衣服摩擦、门把手三样”；记下一个时间码和一处差异，再决定是否保留。</p></section>
+<h2>验收</h2><ul><li>脚步、衣服、门把手三类声音都能对上具体动作。</li><li>静音看画面时，每一下都有声，且没有早半帧。</li><li>混进对白后，字仍然清楚，Foley 没有抢中频。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读

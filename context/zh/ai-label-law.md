@@ -5,26 +5,35 @@ type: article
 lang: zh
 translation_key: context.law.ai-label-law
 translation_status: source
-title: "AI 内容标识：显式、隐式与平台责任"
-summary: "AI 生成内容不是“标注一下”就合规。中国大陆的标识规则区分显式标识与隐式标识，平台、工具提供者、发布者各有义务；广告与新闻场景更严。"
+title: AI 内容标识：显式、隐式与平台责任
+summary: AI 生成内容不是“标注一下”就合规。中国大陆的标识规则区分显式标识与隐式标识，平台、工具提供者、发布者各有义务；广告与新闻场景更严。
 slug: ai-label-law
-aliases: [ai-label-law]
+aliases:
+- ai-label-law
 canonical_site: context
 canonical_path: /article/ai-label-law/
 status: published
 diagram: /images/diagrams/zh/ai-label-law.svg
-diagram_alt: "AI 内容标识专题图解"
-diagram_caption: "示意：生成工具、编辑流程、发布平台，三段分别有标识义务。"
+diagram_alt: AI 内容标识专题图解
+diagram_caption: 示意：生成工具、编辑流程、发布平台，三段分别有标识义务。
 difficulty: intermediate
 stage: handbook
 format: law
-authors: ["TVCN 研究组"]
+authors:
+- TVCN 研究组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S04, S05]
-test_context: "复核环境：现行中国大陆法律条文、平台规则与公开案例；不是法律意见。"
-known_failures: "已知失败：平台规则与地方执法口径变化；条文适用需律师确认。"
+sources:
+- S04
+- S05
+test_context: 复核环境：现行中国大陆法律条文、平台规则与公开案例；不是法律意见。
+known_failures: 已知失败：平台规则与地方执法口径变化；条文适用需律师确认。
 verified: 2026-11-22
+related:
+- context.history.camera-obscura.en
+- formats.food.food-video-template.en
+- post.color.color-management.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +48,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：编辑部的条文对照与项目复盘；实测来源：无实验室实测；参考来源：以下法律、平台与机构文本。</p>
 <ul><li><span class="mono">[S04]</span> 《生成式人工智能服务管理暂行办法》</li><li><span class="mono">[S05]</span> 欧盟 AI Act 政策页</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

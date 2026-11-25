@@ -5,47 +5,54 @@ type: article
 lang: zh
 translation_key: post.editing.proxy-workflow
 translation_status: source
-title: "代理流程：先能剪，再谈画质"
-summary: "代理不是降低成片质量，是让剪辑先跑起来；原始素材永远留在旁边。"
+title: 代理流程：先能剪，再谈画质
+summary: 代理不是降低成片质量，是让剪辑先跑起来；原始素材永远留在旁边。
 slug: proxy-workflow
-aliases: [proxy-workflow]
+aliases:
+- proxy-workflow
 canonical_site: post
-canonical_path: /editing/proxy-workflow/
+canonical_path: /article/proxy-workflow/
 status: published
 diagram: /images/diagrams/zh/proxy-workflow.svg
-diagram_alt: "代理流程：先能剪，再谈画质 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 代理流程：先能剪，再谈画质的结构示意图。
+diagram_caption: 看“用 ProRes Proxy 或四分…”和“把原始素材设为只读，剪辑只碰代理”两处，判断剪掉一个镜头后，节奏是更快还是更乱。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: ["TVCN 后期组"]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 后期组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- post.editing.rough-cut.en
+- shoot.lighting.ratio.en
+- story.screenplay.three-act.en
 depth: deep
 deep_minutes: 5
-sources: [S24, S27, S28, S30, S34, S35]
-test_context: "复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere Pro 2025 复跑；不声称每台机器结果一致。"
-known_failures: "已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。"
+sources:
+- S24
+- S27
+- S28
+- S30
+- S34
+- S35
+test_context: 复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere
+  Pro 2025 复跑；不声称每台机器结果一致。
+known_failures: 已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。
 verified: 2026-11-22
+source_kind: sourced
 ---
 
-<p>代理不是降低成片质量，是让剪辑先跑起来；原始素材永远留在旁边。</p>
+<p>代理解决的是“机器剪不动原素材”，不是“画质可以降”。生成代理时保留原文件名、时间码和卷名，剪辑完成后回批原素材，再输出母版。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/proxy-workflow.svg" alt="代理流程：先能剪，再谈画质 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/proxy-workflow.svg" alt="代理流程：先能剪，再谈画质的结构示意图。">
+  <figcaption>看“用 ProRes Proxy 或四分…”和“把原始素材设为只读，剪辑只碰代理”两处，判断剪掉一个镜头后，节奏是更快还是更乱。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>代理用 ProRes Proxy 或四分之一分辨率，放独立 SSD；原始素材设只读，剪辑只碰代理，交付前回套。</p>
-<h2>怎么做</h2>
-<p>代理不是降低成片质量，是让剪辑先跑起来；原始素材永远留在旁边。</p><ol><li>用 ProRes Proxy 或四分之一分辨率生成代理，放在独立 SSD。</li><li>把原始素材设为只读，剪辑只碰代理。</li><li>交付前回套原始，逐条确认没有误用代理。</li></ol>
-<h2>别踩</h2>
-<p>别把代理当母版；回套前交付，画质会露馅。</p>
-<h2>验收</h2>
-<ul><li>代理和原始分盘存放，原始文件夹是只读的。</li><li>时间线只引用代理，文件名和路径能一一对应。</li><li>回套原始后随机抽三个镜头，分辨率和细节回到原档。</li></ul>
+<section><h2 id="section-1">代理是剪辑副本，不是交付文件</h2><p>代理分辨率按时间线需求选，不要一律最小；多机位项目先测一台机器同时播放几条，再决定码率。</p><h2 id="section-2">边界</h2><p>代理和原素材必须能一一对应。改名、丢时间码或混放不同帧率，会让回批变成手工找文件。交付前检查母版链接的是原素材，不是代理。</p></section><section><h2 id="section-3">现场</h2><p>代理用 ProRes Proxy 或四分之一分辨率，放独立 SSD；原始素材设只读，剪辑只碰代理，交付前回套。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>用 ProRes Proxy 或四分之一分辨率生成代理，放在独立 SSD。</li><li>把原始素材设为只读，剪辑只碰代理。</li><li>交付前回套原始，逐条确认没有误用代理。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别把代理当母版；回套前交付，画质会露馅。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>剪掉一个镜头，节奏更快而不是更乱</li><li>示波器上肤色、高光和黑位都在范围内</li><li>响度、字幕和文件规格能过一次交付检查</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>剪辑点跟着音乐，不跟动作</li><li>先定风格再统一，镜头之间跳色</li><li>交付前没查响度和字幕，最后一遍才发现</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>拿一段 30 秒素材做 A/B，只改“用 ProRes Proxy 或四分…”；记下一个时间码和一处差异，再决定是否保留。</p></section>
+<h2>验收</h2><ul><li>代理和原始分盘存放，原始文件夹是只读的。</li><li>时间线只引用代理，文件名和路径能一一对应。</li><li>回套原始后随机抽三个镜头，分辨率和细节回到原档。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读
@@ -66,8 +73,3 @@ verified: 2026-11-22
 <ul><li>只在高分辨率或多机位做</li><li>代理文件名与原素材一致</li><li>代理放独立文件夹</li><li>生成后抽查三条</li><li>锁定剪辑再回套</li><li>交付用原素材</li></ul><p>代理让剪辑先跑起来，原素材让片子最后站得住。代理坏了可以重做，原素材丢了没有第二次。</p>
 <!-- DEEP_DIVE_END -->
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
-<ul><li><span class="mono">[S24]</span> ACES 色彩管理</li><li><span class="mono">[S27]</span> EBU R128 响度</li><li><span class="mono">[S28]</span> Netflix 制作与交付帮助</li><li><span class="mono">[S30]</span> DaVinci Resolve 产品与文档</li><li><span class="mono">[S34]</span> Adobe Premiere Pro 用户指南</li><li><span class="mono">[S35]</span> Avid 资源中心</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
-<!-- SOURCES_END -->

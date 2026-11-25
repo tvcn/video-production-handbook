@@ -5,47 +5,53 @@ type: article
 lang: en
 translation_key: formats.news.news-structure
 translation_status: reviewed
-title: "News Structure: Scene First, Verification Second"
-summary: "Scene first, verification second. Background first loses the viewer."
+title: 'News Structure: Scene First, Verification Second'
+summary: Scene first, verification second. Background first loses the viewer.
 slug: news-structure
-aliases: [news-structure]
+aliases:
+- news-structure
 canonical_site: formats
-canonical_path: /en/news/news-structure/
+canonical_path: /en/article/news-structure/
 status: published
 diagram: /images/diagrams/en/news-structure.svg
-diagram_alt: "News Structure: Scene First, Verification Second three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for News Structure: Scene First, Verification Second.'
+diagram_caption: 'Watch “0–5 seconds: the scene.” and “5–15 seconds: verification.”;
+  judge whether the reason given in the first three seconds still holds at the end.'
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: ["TVCN Formats Desk"]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Formats Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- formats.ad.product-ad.en
+- post.color.hdr-workflow.en
+- shoot.lighting.lighting-style.en
 depth: deep
 deep_minutes: 6
-sources: [S14, S15, S16]
-test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
-known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
+sources:
+- S14
+- S15
+- S16
+test_context: 'Review setup: composite samples and public cases; previewed on MacBook
+  Pro M1 / iPhone 13; not one real client project.'
+known_failures: 'Known failures: composite samples are not client proof; platform
+  length/spec changes expire templates.'
 verified: 2026-11-22
+source_kind: sourced
 ---
 
-<p>Scene first, verification second. Background first loses the viewer.</p>
+<p>A news open shows what happened, then verification: who confirmed it, when, and what is still unknown. End with impact and next step. Keep only background needed to explain this event; do not start with a history lecture.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/news-structure.svg" alt="News Structure: Scene First, Verification Second three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/news-structure.svg" alt="Structure diagram for News Structure: Scene First, Verification Second.">
+  <figcaption>Watch “0–5 seconds: the scene.” and “5–15 seconds: verification.”; judge whether the reason given in the first three seconds still holds at the end.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Scene at 0 to 5, verification at 5 to 15, context and impact at 15 to 30. Label sources on screen.</p>
-<h2>Do this</h2>
-<p>News structure gives the scene first, verification second; background first loses the audience.</p><ol><li>0–5 seconds: the scene.</li><li>5–15 seconds: verification.</li><li>15–30 seconds: context and impact with source captions.</li></ol>
-<h2>Avoid</h2>
-<p>Do not pass secondhand footage off as scene; it destroys credibility.</p>
-<h2>Check</h2>
-<ul><li>The first five seconds are scene footage or sound, not an anchor talking.</li><li>Verification names a source, time, and checkable record.</li><li>Secondhand footage is corner-labeled so viewers can tell.</li></ul>
+<section><h2 id="section-1">Scene, verification, impact: one question per section</h2><p>Each section answers one audience question. Separate “why it happened” from “what happens next” so the middle does not lose them.</p><h2 id="section-2">Limits</h2><p>Unverified information does not get a confident tone. Put “alleged” and “being verified” on screen or in the voice; do not edit uncertainty into certainty.</p></section><section><h2 id="section-3">On set</h2><p>Scene at 0 to 5, verification at 5 to 15, context and impact at 15 to 30. Label sources on screen.</p></section><section><h2 id="section-4">Do this</h2><p>News structure gives the scene first, verification second; background first loses the audience.</p><ol><li>0–5 seconds: the scene.</li><li>5–15 seconds: verification.</li><li>15–30 seconds: context and impact with source captions.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not pass secondhand footage off as scene; it destroys credibility.</p></section><figure class="article-audio"><audio controls preload="none" src="../../../assets/audio/en/fmt-news.en.mp3"></audio><figcaption>20-second audio demo: one check point and the most common failure. Transcript and steps are in the article.</figcaption></figure><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the first three seconds give a believable reason</li><li>the middle adds information or resistance, not just mood</li><li>the ending shows a visible change instead of narrating it</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>the template is filled but the person and problem are not</li><li>no reason in the first three seconds, only title and music</li><li>no visible change at the end, only voice-over</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Break down one 30-second reference, mark the timecodes for “0–5 seconds: the scene.” and “5–15 seconds: verification.”, then answer: if one disappeared, would the film still hold?</p></section>
+<h2>Check</h2><ul><li>The first five seconds are scene footage or sound, not an anchor talking.</li><li>Verification names a source, time, and checkable record.</li><li>Secondhand footage is corner-labeled so viewers can tell.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive
@@ -64,8 +70,3 @@ verified: 2026-11-22
 <ul><li>Time, place, people within ten seconds</li><li>One verifiable detail</li><li>First-hand material first</li><li>Second-hand images labeled</li><li>Screenshots keep publish time</li><li>At least two independent sources</li><li>Anonymous source explained</li><li>Fact separated from judgment</li><li>No sentimental music judging</li><li>Correction path before publishing</li></ul><p>News is not about who shoots harder; it is about who puts what they can verify first.</p>
 <!-- DEEP_DIVE_END -->
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
-<!-- SOURCES_END -->

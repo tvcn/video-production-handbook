@@ -10,13 +10,13 @@ summary: "场地不是“看起来合适”就能拍。谁有权答应、邻居�
 slug: location-scout
 aliases: [location-scout, 场地, 看景, location]
 canonical_site: tools
-canonical_path: /producing/location-scout/
+canonical_path: /article/location-scout/
 status: published
 difficulty: intermediate
 stage: producing
 format: workflow
 tools: [budget, rights]
-authors: [editor]
+authors: ["TVCN 工具组"]
 reviewers: [technical-reviewer]
 cover: /images/tools/location-scout.webp
 diagram: /images/diagrams/zh/location-scout.png
@@ -25,7 +25,7 @@ diagram_caption: "授权、电力、声音、邻居与许可、损坏与保险�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [tools.workflow.first-shoot-day, tools.producing.budget-contingency]
+related: [tools.producing.budget-contingency.en, tools.workflow.first-shoot-day.en, tools.producing.call-sheet.en]
 ---
 
 <!-- DIAGRAM_START -->

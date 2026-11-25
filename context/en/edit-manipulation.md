@@ -5,47 +5,51 @@ type: literacy
 lang: en
 translation_key: context.literacy.edit-manipulation
 translation_status: reviewed
-title: "Edit Manipulation: Which Sentence Was Cut?"
-summary: "Editing manipulation often removes one sentence; cut the premise and the conclusion changes."
+title: 'Edit Manipulation: Which Sentence Was Cut?'
+summary: Editing manipulation often removes one sentence; cut the premise and the
+  conclusion changes.
 slug: edit-manipulation
-aliases: [edit-manipulation]
+aliases:
+- edit-manipulation
 canonical_site: context
-canonical_path: /en/literacy/edit-manipulation/
+canonical_path: /en/article/edit-manipulation/
 status: published
 diagram: /images/diagrams/en/edit-manipulation.svg
-diagram_alt: "Edit Manipulation: Which Sentence Was Cut? three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Edit Manipulation: Which Sentence Was Cut?.'
+diagram_caption: Watch “Find the unedited footage or full interview and” and “Mark
+  the removed premise, the opposing view, and”; judge what old problem it replaced
+  and what new limit it added.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-sources: [S01]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Research Desk
+sources:
+- S01
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- context.literacy.algorithm-feed.en
+- context.literacy.clickbait.en
+- context.literacy.sponsorship-disclosure.en
+source_kind: sourced
 ---
 
-<p>Editing manipulation often removes one sentence; cut the premise and the conclusion changes.</p>
+<p>Look for three cuts first: picture jump, sound break, lip mismatch. Watch two seconds before and after each and ask what is missing.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/edit-manipulation.svg" alt="Edit Manipulation: Which Sentence Was Cut? three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/edit-manipulation.svg" alt="Structure diagram for Edit Manipulation: Which Sentence Was Cut?.">
+  <figcaption>Watch “Find the unedited footage or full interview and” and “Mark the removed premise, the opposing view, and”; judge what old problem it replaced and what new limit it added.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Find the missing premise: watch ten seconds before and after the same interview and ask which cut changes the conclusion.</p>
-<h2>Do this</h2>
-<p>Editing manipulation often removes one sentence: take away the premise and the conclusion changes.</p><ol><li>Find the unedited footage or full interview and watch ten seconds on each side.</li><li>Mark the removed premise, the opposing view, and the time gap.</li><li>Ask whether the conclusion changes without that line; if it does, it is manipulation.</li></ol>
-<h2>Avoid</h2>
-<p>Do not just say “it was edited”; name what was removed and how the meaning changed.</p>
-<h2>Check</h2>
-<ul><li>The unedited footage or full interview was found and ten seconds on each side watched.</li><li>The removed premise, opposing view, and time gap are marked.</li><li>You can say whether the conclusion changes without that line.</li></ul>
+<section><h2 id="section-1">Find the cuts, then ask what was removed</h2><p>Then check speed: stretched audio waveform, unnatural motion, looping ambience. Editing can create cause and remove it.</p><h2 id="section-2">Limits</h2><p>A cut is not automatically deception. Normal editing removes time; the test is whether the removal changes meaning, not whether it was cut.</p></section><section><h2 id="section-3">On set</h2><p>Find the missing premise: watch ten seconds before and after the same interview and ask which cut changes the conclusion.</p></section><section><h2 id="section-4">Do this</h2><p>Editing manipulation often removes one sentence: take away the premise and the conclusion changes.</p><ol><li>Find the unedited footage or full interview and watch ten seconds on each side.</li><li>Mark the removed premise, the opposing view, and the time gap.</li><li>Ask whether the conclusion changes without that line; if it does, it is manipulation.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not just say “it was edited”; name what was removed and how the meaning changed.</p></section><section><h2>Use it today</h2><p>Put the history back into a job: archive, restoration, teaching or a short film. Ask what it solved, then what it still cannot do.</p><ul><li>Find one contemporary work and mark one old limit it inherited.</li><li>Find one condition it no longer needs and say why.</li><li>Write one thing it still cannot do today.</li></ul></section><section><h2>Source boundary</h2><p>This is interpretation, not a primary archive. Check years, people and statutes against the original links in <a href="../../about/">SOURCES.md</a>. A secondhand summary is a lead, not evidence.</p></section>
+<h2>Check</h2><ul><li>The unedited footage or full interview was found and ten seconds on each side watched.</li><li>The removed premise, opposing view, and time gap are marked.</li><li>You can say whether the conclusion changes without that line.</li></ul>
 
 <!-- SOURCES_START -->
 ## References
 
 - [S01] UNESCO: Media and Information Literacy
 
-Full links and notes: [`SOURCES.md`](../../SOURCES.md).
+Full links and notes: [`SOURCES.md`](../../about/).
 <!-- SOURCES_END -->

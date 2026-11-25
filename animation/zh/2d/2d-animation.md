@@ -10,7 +10,7 @@ summary: "2D 不是一张张画得漂亮，而是用关键帧和 breakdown 控�
 slug: 2d-animation
 aliases: [2d-animation]
 canonical_site: animation
-canonical_path: /2d/2d-animation/
+canonical_path: /article/2d-animation/
 status: published
 difficulty: beginner
 stage: animate
@@ -25,7 +25,7 @@ diagram_caption: "2D 不是一张张画得漂亮，而是用关键帧和 breakdo
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: []
+related: [animation.3d.3d-pipeline.en, context.law.insurance-equipment.en, formats.experimental.experimental-structure.en]
 depth: deep
 deep_minutes: 7
 sources: [S12, S28, S34]
@@ -89,5 +89,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
 <ul><li><span class="mono">[S12]</span> Britannica：动画</li><li><span class="mono">[S28]</span> Netflix 制作与交付帮助</li><li><span class="mono">[S34]</span> Adobe Premiere Pro 用户指南</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

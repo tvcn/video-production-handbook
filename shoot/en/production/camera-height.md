@@ -11,13 +11,13 @@ summary: "The same face at one inch lower reads as a different person. Height se
 slug: camera-height
 aliases: [camera height, low angle, high angle]
 canonical_site: shoot
-canonical_path: /en/production/camera-height/
+canonical_path: /en/article/camera-height/
 status: published
 difficulty: beginner
 stage: shoot
 format: dialogue
 tools: [camera, monitor]
-authors: [editor]
+authors: ["TVCN Shoot Desk"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/camera-height.webp
 diagram: /images/diagrams/en/camera-height.png
@@ -26,7 +26,7 @@ diagram_caption: "Same face: the lower the camera, the larger the person; the hi
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [shoot.camera.composition, shoot.camera.axis-line]
+related: [shoot.camera.lens-distance.en, shoot.camera.shot-size.en, shoot.camera.axis-line.en]
 ---
 
 <!-- DIAGRAM_START -->

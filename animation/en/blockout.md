@@ -5,43 +5,49 @@ type: article
 lang: en
 translation_key: animation.3d.blockout
 translation_status: reviewed
-title: "Blockout: Proportions and Camera First"
-summary: "Blockout sets scale, camera, and timing before detail. Get it wrong and everything is redone."
+title: 'Blockout: Proportions and Camera First'
+summary: Blockout sets scale, camera, and timing before detail. Get it wrong and everything
+  is redone.
 slug: blockout
-aliases: [blockout]
+aliases:
+- blockout
 canonical_site: animation
-canonical_path: /en/3d/blockout/
+canonical_path: /en/article/blockout/
 status: published
 diagram: /images/diagrams/en/blockout.svg
-diagram_alt: "Blockout: Proportions and Camera First three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Blockout: Proportions and Camera First.'
+diagram_caption: Watch “Use box figures to set head, chest, and” and “Lock the camera
+  and a ten-second duration.”; judge whether the speed split between foreground, midground
+  and background reads in one move.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Animation Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- animation.3d.modeling.en
+- animation.2d.2d-camera.en
+- animation.pipeline.animatic-pipeline.en
 depth: deep
 deep_minutes: 6
+source_kind: experience
 ---
 
-<p>Blockout sets scale, camera, and timing before detail. Get it wrong and everything is redone.</p>
+<p>A blockout solves three things: character-to-set scale, camera placement and how long the action takes. Use spheres, boxes and simple props; do not add detail yet.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/blockout.svg" alt="Blockout: Proportions and Camera First three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/blockout.svg" alt="Structure diagram for Blockout: Proportions and Camera First.">
+  <figcaption>Watch “Use box figures to set head, chest, and” and “Lock the camera and a ten-second duration.”; judge whether the speed split between foreground, midground and background reads in one move.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Block the figure with three boxes: head, chest, pelvis. Lock the camera and a ten-second duration before modeling.</p>
-<h2>Do this</h2>
-<p>Blockout fixes proportion, camera, and duration before detail; a wrong blockout reworks everything.</p><ol><li>Use box figures to set head, chest, and pelvis proportions.</li><li>Lock the camera and a ten-second duration.</li><li>Only model after proportion and camera are approved.</li></ol>
-<h2>Avoid</h2>
-<p>Do not animate performance before the camera is locked; it will be reworked.</p>
-<h2>Check</h2>
-<ul><li>The box figure reads head, chest, and pelvis proportions.</li><li>Camera and ten-second duration are locked with screenshots and settings.</li><li>The final shot matches the blockout camera without a composition change.</li></ul>
+<section><h2 id="section-1">Lock scale, camera and timing first</h2><p>Make a playblast with no materials or lights and check silhouette and composition. If it does not read now, detail will not make it read later.</p><h2 id="section-2">Limits</h2><p>Blockout is not a low-poly final. Do not fight over faces and cloth here; scale, weight and camera must already work.</p><h2 id="section-3">Blockout watches only three things</h2>
+<p>Blockout is not a low-poly preview; it decides scale, camera and shot order. Use gray boxes or mannequins with no materials or lights. Get these three wrong and everything downstream redoes.</p>
+<ol><li>Scale: compare character and set height with a known measurement; do not eyeball it.</li><li>Camera: lock lens and height before motion; one shot solves one spatial relationship.</li><li>Order: cut by edit point, not by production convenience; build the version that tells the story.</li></ol>
+<p>Acceptance: play the blockout with all materials off. You should still understand who is where and what they are doing. If not, fix the camera before animation.</p></section><section><h2 id="section-4">On set</h2><p>Block the figure with three boxes: head, chest, pelvis. Lock the camera and a ten-second duration before modeling.</p></section><section><h2 id="section-5">Do this</h2><p>Blockout fixes proportion, camera, and duration before detail; a wrong blockout reworks everything.</p><ol><li>Use box figures to set head, chest, and pelvis proportions.</li><li>Lock the camera and a ten-second duration.</li><li>Only model after proportion and camera are approved.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not animate performance before the camera is locked; it will be reworked.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the speed split between foreground, midground and background reads in one pan</li><li>a 0.5-second action still carries weight or anticipation</li><li>turn off any layer and the space still holds</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>more layers, same speed: the space stays flat</li><li>anticipation without follow-through: the weight is only half done</li><li>rendering before assets are locked: rework starts at the compositor</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Draw three keys at 24 fps, change only “Lock the camera and a ten-second duration.”, and export two seconds. If the weight still does not read, add anticipation before adding blur.</p></section>
+<h2>Check</h2><ul><li>The box figure reads head, chest, and pelvis proportions.</li><li>Camera and ten-second duration are locked with screenshots and settings.</li><li>The final shot matches the blockout camera without a composition change.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

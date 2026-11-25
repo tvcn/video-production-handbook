@@ -11,13 +11,13 @@ summary: Dialogue stalls when the writer says everything the character is thinki
 slug: dialogue
 aliases: [dialogue, subtext, lines]
 canonical_site: story
-canonical_path: /en/screenplay/dialogue/
+canonical_path: /en/article/dialogue/
 status: published
 difficulty: intermediate
 stage: script
 format: short-film
 tools: [script]
-authors: [editor]
+authors: ["TVCN Story Desk"]
 reviewers: [technical-reviewer]
 cover: /images/story/dialogue-table.webp
 diagram: /images/diagrams/en/dialogue.png
@@ -26,7 +26,7 @@ diagram_caption: "The spoken line handles the surface; the action handles the re
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [story.screenplay.logline, story.directing.directing-nonactors]
+related: [story.interview.interview-questions.en, story.screenplay.conflict.en, story.screenplay.voice-over.en]
 ---
 
 <!-- DIAGRAM_START -->

@@ -5,26 +5,38 @@ type: article
 lang: zh
 translation_key: tools.guide.buy-lens-zoom
 translation_status: source
-title: "购买变焦：齐焦、呼吸与伺服"
-summary: "变焦的价值是“不换镜”，不是“什么都能拍”。先确认它在推拉时能保住焦点、呼吸不明显、伺服不吵；否则你买的是一支会变焦的定焦。"
+title: 购买变焦：齐焦、呼吸与伺服
+summary: 变焦的价值是“不换镜”，不是“什么都能拍”。先确认它在推拉时能保住焦点、呼吸不明显、伺服不吵；否则你买的是一支会变焦的定焦。
 slug: buy-lens-zoom
-aliases: [buy-lens-zoom]
+aliases:
+- buy-lens-zoom
 canonical_site: tools
 canonical_path: /article/buy-lens-zoom/
 status: published
 diagram: /images/diagrams/zh/buy-lens-zoom.svg
-diagram_alt: "购买变焦镜头专题图解"
-diagram_caption: "示意：齐焦、呼吸、伺服、重量、滤镜，五项决定它能否在真实拍摄中省时间。"
+diagram_alt: 购买变焦镜头专题图解
+diagram_caption: 示意：齐焦、呼吸、伺服、重量、滤镜，五项决定它能否在真实拍摄中省时间。
 difficulty: intermediate
 stage: handbook
 format: guide
-authors: ["TVCN 工具组"]
+authors:
+- TVCN 工具组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S23, S25, S26, S29, S38]
-test_context: "复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。"
-known_failures: "已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。"
+sources:
+- S23
+- S25
+- S26
+- S29
+- S38
+test_context: 复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。
+known_failures: 已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。
 verified: 2026-11-22
+related:
+- tools.guide.buy-light-kit.en
+- ai.ethics.model-comparison.en
+- animation.motion-graphics.mg-typography.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +51,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：编辑部现场手册与购买检查表；实测来源：短测与公开规格核对，不是实验室跑分；参考来源：以下厂商与标准链接。</p>
 <ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube 上传规格</li><li><span class="mono">[S38]</span> 国家税务总局</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

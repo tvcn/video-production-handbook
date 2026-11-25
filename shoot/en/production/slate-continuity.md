@@ -11,13 +11,13 @@ summary: "Continuity is not timecode. It is what the audience will notice: a cup
 slug: slate-continuity
 aliases: [continuity, script supervisor, slate]
 canonical_site: shoot
-canonical_path: /en/production/slate-continuity/
+canonical_path: /en/article/slate-continuity/
 status: published
 difficulty: intermediate
 stage: shoot
 format: workflow
 tools: [camera, edit]
-authors: [editor]
+authors: ["TVCN Shoot Desk"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/slate-continuity.webp
 diagram: /images/diagrams/en/slate-continuity.png
@@ -26,7 +26,7 @@ diagram_caption: "Lock wardrobe, props, and light; give every take handles; name
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [shoot.camera.axis-line, post.editing.cutting-points]
+related: [shoot.camera.axis-line.en, shoot.production.scene-space.en, shoot.production.shot-list.en]
 ---
 
 <!-- DIAGRAM_START -->

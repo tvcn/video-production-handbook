@@ -11,13 +11,13 @@ summary: "A call sheet is not paperwork. It decides who arrives when, where, wit
 slug: call-sheet
 aliases: [call sheet, production notice, shooting schedule]
 canonical_site: tools
-canonical_path: /en/producing/call-sheet/
+canonical_path: /en/article/call-sheet/
 status: published
 difficulty: beginner
 stage: producing
 format: workflow
 tools: [budget]
-authors: [editor]
+authors: ["TVCN Tools Desk"]
 reviewers: [technical-reviewer]
 cover: /images/tools/call-sheet.webp
 diagram: /images/diagrams/en/call-sheet.png
@@ -26,7 +26,7 @@ diagram_caption: "A navigable first line, an hourly schedule, and changes back o
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [tools.producing.location-scout, tools.workflow.first-shoot-day]
+related: [tools.workflow.first-shoot-day.en, tools.guide.crew-management.en, tools.producing.location-scout.en]
 depth: deep
 deep_minutes: 7
 ---

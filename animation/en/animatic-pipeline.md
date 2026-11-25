@@ -5,43 +5,49 @@ type: article
 lang: en
 translation_key: animation.pipeline.animatic-pipeline
 translation_status: reviewed
-title: "Animatic Pipeline: Voice, Timing, Board"
-summary: "Lay temp voice, set duration, then revise the board. Without sound, timing is fiction."
+title: 'Animatic Pipeline: Voice, Timing, Board'
+summary: Lay temp voice, set duration, then revise the board. Without sound, timing
+  is fiction.
 slug: animatic-pipeline
-aliases: [animatic-pipeline]
+aliases:
+- animatic-pipeline
 canonical_site: animation
-canonical_path: /en/pipeline/animatic-pipeline/
+canonical_path: /en/article/animatic-pipeline/
 status: published
 diagram: /images/diagrams/en/animatic-pipeline.svg
-diagram_alt: "Animatic Pipeline: Voice, Timing, Board three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Animatic Pipeline: Voice, Timing, Board.'
+diagram_caption: Watch “Record voice and time it at real speaking” and “Write seconds
+  per shot and keep total within”; judge whether the speed split between foreground,
+  midground and background reads in one move.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Animation Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- animation.motion-graphics.mg-rhythm.en
+- animation.pipeline.asset-handoff.en
+- animation.3d.blockout.en
 depth: deep
 deep_minutes: 6
+source_kind: experience
 ---
 
-<p>Lay temp voice, set duration, then revise the board. Without sound, timing is fiction.</p>
+<p>An animatic uses temporary voice, simple drawings and exact durations to test whether shots connect and pacing works. Mark seconds per shot and record voice first; do not wait for finished animation.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/animatic-pipeline.svg" alt="Animatic Pipeline: Voice, Timing, Board three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/animatic-pipeline.svg" alt="Structure diagram for Animatic Pipeline: Voice, Timing, Board.">
+  <figcaption>Watch “Record voice and time it at real speaking” and “Write seconds per shot and keep total within”; judge whether the speed split between foreground, midground and background reads in one move.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Record the voice first and time it at real speed. Write each shot's seconds and keep the total under 110 percent of target, then draw.</p>
-<h2>Do this</h2>
-<p>Animatic starts with voice, then timing, then boards; without sound, timing is fake.</p><ol><li>Record voice and time it at real speaking speed.</li><li>Write seconds per shot and keep total within 110 percent of target.</li><li>Draw after timing is locked.</li></ol>
-<h2>Avoid</h2>
-<p>Do not draw everything before voice; a pace change re-times every shot.</p>
-<h2>Check</h2>
-<ul><li>Voice is recorded at real speed and every shot duration comes from it.</li><li>Total stays within 110 percent of target and timing is locked first.</li><li>Eyes closed, audio tells the story; muted, the picture does.</li></ul>
+<section><h2 id="section-1">Timing before detail</h2><p>Treat the animatic as a version allowed to fail. If the story is unclear here, more drawings and effects will not rescue it.</p><h2 id="section-2">Limits</h2><p>An animatic is not a beauty preview. Do not chase image quality here, but shot length and action direction must already be locked.</p><h2 id="section-3">Lock three things in the animatic before animation</h2>
+<p>The animatic is not for beauty; it locks duration, voice and shot order. If those are not locked, animation will be revised forever.</p>
+<ol><li>Voice: record a scratch track at real speaking pace, not read-aloud rhythm. Line length sets shot length.</li><li>Timing: lay out at 24fps or the project rate, with in/out points per shot. “About three seconds” is not a timing.</li><li>Music: temp only, with marked pauses. Temp music cannot be delivered.</li></ol>
+<p>Acceptance: show the animatic to someone outside the edit and ask where they want to fast-forward. Cut those places before layout.</p></section><section><h2 id="section-4">On set</h2><p>Record the voice first and time it at real speed. Write each shot's seconds and keep the total under 110 percent of target, then draw.</p></section><section><h2 id="section-5">Do this</h2><p>Animatic starts with voice, then timing, then boards; without sound, timing is fake.</p><ol><li>Record voice and time it at real speaking speed.</li><li>Write seconds per shot and keep total within 110 percent of target.</li><li>Draw after timing is locked.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not draw everything before voice; a pace change re-times every shot.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the speed split between foreground, midground and background reads in one pan</li><li>a 0.5-second action still carries weight or anticipation</li><li>turn off any layer and the space still holds</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>more layers, same speed: the space stays flat</li><li>anticipation without follow-through: the weight is only half done</li><li>rendering before assets are locked: rework starts at the compositor</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Draw three keys at 24 fps, change only “Write seconds per shot and keep total within”, and export two seconds. If the weight still does not read, add anticipation before adding blur.</p></section>
+<h2>Check</h2><ul><li>Voice is recorded at real speed and every shot duration comes from it.</li><li>Total stays within 110 percent of target and timing is locked first.</li><li>Eyes closed, audio tells the story; muted, the picture does.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive

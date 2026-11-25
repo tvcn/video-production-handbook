@@ -5,26 +5,36 @@ type: article
 lang: zh
 translation_key: post.color.hdr-workflow
 translation_status: source
-title: "HDR 全流程：从监看到交付，不要只在最后加亮"
-summary: "HDR 不是把 SDR 拉亮，而是从拍摄、监看、调色到平台交付都保留同一套亮度关系。任何一个环节按 SDR 猜，最后都会得到“亮但平”的画面。"
+title: HDR 全流程：从监看到交付，不要只在最后加亮
+summary: HDR 不是把 SDR 拉亮，而是从拍摄、监看、调色到平台交付都保留同一套亮度关系。任何一个环节按 SDR 猜，最后都会得到“亮但平”的画面。
 slug: hdr-workflow
-aliases: [hdr-workflow]
+aliases:
+- hdr-workflow
 canonical_site: post
 canonical_path: /article/hdr-workflow/
 status: published
 diagram: /images/diagrams/zh/hdr-workflow.svg
-diagram_alt: "HDR 全流程专题图解"
-diagram_caption: "示意：HDR 的每一段都要有亮度锚点；只在最后把母版拉亮，会把高光和肤色一起毁掉。"
+diagram_alt: HDR 全流程专题图解
+diagram_caption: 示意：HDR 的每一段都要有亮度锚点；只在最后把母版拉亮，会把高光和肤色一起毁掉。
 difficulty: intermediate
 stage: handbook
 format: workflow
-authors: ["TVCN 后期组"]
+authors:
+- TVCN 后期组
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S24, S26, S28]
-test_context: "复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere Pro 2025 复跑；不声称每台机器结果一致。"
-known_failures: "已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。"
+sources:
+- S24
+- S26
+- S28
+test_context: 复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere Pro 2025 复跑；不声称每台机器结果一致。
+known_failures: 已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。
 verified: 2026-11-22
+related:
+- post.sound.loudness.en
+- shoot.camera.exposure.en
+- story.storyboard.storyboard.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +49,5 @@ verified: 2026-11-22
 <h2>参考与延伸阅读</h2>
 <p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
 <ul><li><span class="mono">[S24]</span> ACES 色彩管理</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S28]</span> Netflix 制作与交付帮助</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
+<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
 <!-- SOURCES_END -->

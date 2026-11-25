@@ -11,13 +11,13 @@ summary: "Delivery is not hitting export. Ask what the platform needs: ratio, re
 slug: delivery-specs
 aliases: [delivery, export settings, deliverables, specs]
 canonical_site: tools
-canonical_path: /en/delivery/delivery-specs/
+canonical_path: /en/article/delivery-specs/
 status: published
 difficulty: beginner
 stage: deliver
 format: workflow
 tools: [edit, output]
-authors: [editor]
+authors: ["TVCN Tools Desk"]
 reviewers: [technical-reviewer]
 cover: /images/tools/delivery-specs.webp
 diagram: /images/diagrams/en/delivery-specs.png
@@ -26,7 +26,7 @@ diagram_caption: "Write the spec into a sheet and check it line by line. The las
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [tools.delivery.publish-checklist, post.color.color, tools.workflow.storage]
+related: [tools.delivery.publish-checklist.en, tools.workflow.storage.en, tools.tutorial.backup-3-2-1.en]
 depth: deep
 deep_minutes: 7
 ---

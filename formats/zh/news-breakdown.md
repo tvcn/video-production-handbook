@@ -5,23 +5,29 @@ type: article
 lang: zh
 translation_key: formats.news.news-breakdown
 translation_status: source
-title: "新闻拉片：90 秒怎么把未知留在片里"
-summary: "按 90 秒新闻短片的通用结构，拆 8 个时间码：已核实事实、现场、目击者、资料、背景、已知/未知、未解、下一步。"
+title: 新闻拉片：90 秒怎么把未知留在片里
+summary: 按 90 秒新闻短片的通用结构，拆 8 个时间码：已核实事实、现场、目击者、资料、背景、已知/未知、未解、下一步。
 slug: news-breakdown
-aliases: [news-breakdown]
+aliases:
+- news-breakdown
 canonical_site: formats
-canonical_path: /news/news-breakdown/
+canonical_path: /article/news-breakdown/
 status: published
 diagram: /images/diagrams/zh/news-breakdown.svg
-diagram_alt: "新闻拉片：90 秒怎么把未知留在片里：时间码、结构与预算拉片工作纸"
-diagram_caption: "图解是入口：先看时间码，再用文末验收表检查。"
+diagram_alt: 新闻拉片：90 秒怎么把未知留在片里：时间码、结构与预算拉片工作纸
+diagram_caption: 图解是入口：先看时间码，再用文末验收表检查。
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN 片型组
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [main.case.case-news, main.path.path-literacy, formats.documentary.documentary-breakdown]
+related:
+- formats.event.event-breakdown.en
+- formats.vlog.vlog-breakdown.en
+- formats.interview.interview-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

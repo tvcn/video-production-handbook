@@ -5,47 +5,50 @@ type: article
 lang: zh
 translation_key: animation.principles.animation-principles
 translation_status: source
-title: "十二原则：别一次全用"
-summary: "十二原则不是十二个滤镜；一个动作先用一个原则解释，观众才看得懂。"
+title: 十二原则：别一次全用
+summary: 十二原则不是十二个滤镜；一个动作先用一个原则解释，观众才看得懂。
 slug: animation-principles
-aliases: [animation-principles]
+aliases:
+- animation-principles
 canonical_site: animation
-canonical_path: /principles/animation-principles/
+canonical_path: /article/animation-principles/
 status: published
 diagram: /images/diagrams/zh/animation-principles.svg
-diagram_alt: "十二原则：别一次全用 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 十二原则：别一次全用的结构示意图。
+diagram_caption: 看“选一个动作：角色伸手拿杯”和“只用预备和缓入缓出，画 5 帧预备、…”两处，判断前景、中景、背景的速度差能不能在一次移动里看出来。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: ["TVCN 动画组"]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 动画组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- animation.motion-graphics.mg-typography.en
+- context.history.montage.en
+- formats.fashion.fashion-beauty-video-structure.en
 depth: deep
 deep_minutes: 6
-sources: [S12, S28, S34]
-test_context: "复核环境：Windows 11；Blender 4.x / After Effects 2025 公开流程；不声称所有版本一致。"
-known_failures: "已知失败：插件/版本差异导致绑定或渲染失败；字体授权与素材版权需单独核对。"
+sources:
+- S12
+- S28
+- S34
+test_context: 复核环境：Windows 11；Blender 4.x / After Effects 2025 公开流程；不声称所有版本一致。
+known_failures: 已知失败：插件/版本差异导致绑定或渲染失败；字体授权与素材版权需单独核对。
 verified: 2026-11-22
+source_kind: sourced
 ---
 
-<p>十二原则不是十二个滤镜；一个动作先用一个原则解释，观众才看得懂。</p>
+<p>十二原则是诊断工具，不是检查清单。一个动作先看重心、弧线和时间，再决定要不要加挤压伸展；全用会把动作变成橡皮玩具。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/animation-principles.svg" alt="十二原则：别一次全用 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/animation-principles.svg" alt="十二原则：别一次全用的结构示意图。">
+  <figcaption>看“选一个动作：角色伸手拿杯”和“只用预备和缓入缓出，画 5 帧预备、…”两处，判断前景、中景、背景的速度差能不能在一次移动里看出来。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>选一个动作：角色伸手拿杯；只用预备和缓入缓出，画 5 帧预备、3 帧动作、4 帧缓冲；不要同时加挤压拉伸。</p>
-<h2>怎么做</h2>
-<p>十二原则不是十二个滤镜；一个动作先用一个原则解释，观众才看得懂。</p><ol><li>选一个动作：角色伸手拿杯。</li><li>只用预备和缓入缓出，画 5 帧预备、3 帧动作、4 帧缓冲。</li><li>不要同时加挤压拉伸；一次只验证一个原则。</li></ol>
-<h2>别踩</h2>
-<p>别一次套十二原则；动作会变成抽筋。</p>
-<h2>验收</h2>
-<ul><li>一个动作只用了一个主要原则，能说出它解决什么。</li><li>预备、动作、缓冲三段的帧数是写下来的，不是随手画。</li><li>删掉这个原则后，动作明显更难读，说明它真的有用。</li></ul>
+<section><h2 id="section-1">一次只用两三条原则</h2><p>先把关键姿势画对，再谈跟随和重叠。姿势错了，再加原则也只是把错误动得更顺。</p><h2 id="section-2">边界</h2><p>写实动画不需要夸张的挤压。原则服务重量和意图，不服务“看起来像动画”。</p></section><section><h2 id="section-3">现场</h2><p>选一个动作：角色伸手拿杯；只用预备和缓入缓出，画 5 帧预备、3 帧动作、4 帧缓冲；不要同时加挤压拉伸。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>选一个动作：角色伸手拿杯。</li><li>只用预备和缓入缓出，画 5 帧预备、3 帧动作、4 帧缓冲。</li><li>不要同时加挤压拉伸；一次只验证一个原则。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别一次套十二原则；动作会变成抽筋。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>前景、中景、背景的速度差能在一次 pan 里看出来</li><li>动作在 0.5 秒内能读出重量或预备</li><li>关掉任意一层，空间感仍然成立</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>层数堆上去了，但每层速度一样，空间还是扁的</li><li>动作有预备却没有跟随，重量只做了一半</li><li>资产没锁就进渲染，返工从合成端一路补</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用 24 fps 画 3 个关键帧，只改“只用预备和缓入缓出，画 5 帧预备、…”，导出 2 秒；如果重量仍读不出来，先加预备帧，不要加模糊。</p></section>
+<h2>验收</h2><ul><li>一个动作只用了一个主要原则，能说出它解决什么。</li><li>预备、动作、缓冲三段的帧数是写下来的，不是随手画。</li><li>删掉这个原则后，动作明显更难读，说明它真的有用。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读
@@ -66,8 +69,3 @@ verified: 2026-11-22
 <ul><li>一个镜头只挑三条</li><li>挤压拉伸说明材质</li><li>预备说明意图</li><li>跟随说明惯性</li><li>跳前蹲打前收</li><li>落地后头发衣服继续</li><li>预备两到四帧试</li><li>先画正常比例</li><li>只夸张一处</li><li>删一条看还成不成立</li></ul><p>原则用对，观众看到的是角色在想什么；原则用多，观众看到的是你在炫技。</p>
 <!-- DEEP_DIVE_END -->
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
-<ul><li><span class="mono">[S12]</span> Britannica：动画</li><li><span class="mono">[S28]</span> Netflix 制作与交付帮助</li><li><span class="mono">[S34]</span> Adobe Premiere Pro 用户指南</li></ul>
-<p><a href="../../SOURCES.md">完整链接与用途见 SOURCES.md</a></p>
-<!-- SOURCES_END -->

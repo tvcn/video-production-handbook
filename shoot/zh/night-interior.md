@@ -5,43 +5,43 @@ type: article
 lang: zh
 translation_key: shoot.lighting.night-interior
 translation_status: source
-title: "夜景内景：一盏 practical 怎么撑"
-summary: "夜景内景先找画面里能信的实用光，再用一盏小灯补人脸，别把整间房打平。"
+title: 夜景内景：一盏 practical 怎么撑
+summary: 夜景内景先找画面里能信的实用光，再用一盏小灯补人脸，别把整间房打平。
 slug: night-interior
-aliases: [night-interior]
+aliases:
+- night-interior
 canonical_site: shoot
-canonical_path: /lighting/night-interior/
+canonical_path: /article/night-interior/
 status: published
 diagram: /images/diagrams/zh/night-interior.svg
-diagram_alt: "夜景内景：一盏 practical 怎么撑 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 夜景内景：一盏 practical 怎么撑的结构示意图。
+diagram_caption: 看“让画面里的一盏实际灯或壁灯当动机光…”和“人脸 45 度补一盏小灯，只给眼神光…”两处，判断高光、肤色和声音有没有被同时保住。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 拍摄组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- shoot.lighting.mixed-light.en
+- shoot.lighting.practical-light.en
+- shoot.exposure.waveform.en
 depth: deep
 deep_minutes: 6
+source_kind: experience
 ---
 
-<p>夜景内景先找画面里能信的实用光，再用一盏小灯补人脸，别把整间房打平。</p>
+<p>画面里至少要有一盏可信的实景光源：台灯、窗、电视、走廊灯。人物补光从这盏灯的方向来，不要从摄影机方向打平。曝光保灯罩和窗外，暗部留一点细节。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/night-interior.svg" alt="夜景内景：一盏 practical 怎么撑 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/night-interior.svg" alt="夜景内景：一盏 practical 怎么撑的结构示意图。">
+  <figcaption>看“让画面里的一盏实际灯或壁灯当动机光…”和“人脸 45 度补一盏小灯，只给眼神光…”两处，判断高光、肤色和声音有没有被同时保住。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>让画面里的一盏实际灯或壁灯当动机光。人脸 45 度补一盏小灯，背景保持暗，不要开顶灯。</p>
-<h2>怎么做</h2>
-<p>夜景内景先找画面里能信的实用光，再用一盏小灯补人脸，别把整间房打平。</p><ol><li>让画面里的一盏实际灯或壁灯当动机光，真的亮着。</li><li>人脸 45 度补一盏小灯，只给眼神光和鼻侧形状。</li><li>背景保持暗，不开顶灯，让亮区和暗区分开。</li></ol>
-<h2>别踩</h2>
-<p>别开顶灯把房间打平；夜景不是把白天调暗。</p>
-<h2>验收</h2>
-<ul><li>画面里的实际灯真的亮着，能解释人物为什么被照到。</li><li>人脸有鼻侧影和眼神光，不是正面一片平光。</li><li>背景比人脸暗一档以上，房间仍有暗部层次。</li></ul>
+<section><h2 id="section-1">室内夜景先定“哪盏灯是真的”</h2><p>拍前关掉所有非画面光源，避免混合色温和频闪；需要时用暗色窗帘压窗。</p><h2 id="section-2">边界</h2><p>夜景不是蓝月亮。室内夜戏可以有暖灯、冷窗、混合色；统一成单一蓝色，反而假。</p></section><section><h2 id="section-3">现场</h2><p>让画面里的一盏实际灯或壁灯当动机光。人脸 45 度补一盏小灯，背景保持暗，不要开顶灯。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>让画面里的一盏实际灯或壁灯当动机光，真的亮着。</li><li>人脸 45 度补一盏小灯，只给眼神光和鼻侧形状。</li><li>背景保持暗，不开顶灯，让亮区和暗区分开。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别开顶灯把房间打平；夜景不是把白天调暗。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>高光没有死白，暗部仍保留可恢复的细节</li><li>同一条片子里肤色一致，切机位不跳</li><li>声音有独立音轨，不靠机头麦兜底</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>曝光对了，但光没有方向，脸和背景粘在一起</li><li>声音只靠机头麦，现场一吵就废</li><li>机位越轴，观众失去空间方向</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用同一扇窗拍三条 10 秒，只改“让画面里的一盏实际灯或壁灯当动机光…”；比较高光、肤色和背景，选一条能直接剪的。</p></section>
+<h2>验收</h2><ul><li>画面里的实际灯真的亮着，能解释人物为什么被照到。</li><li>人脸有鼻侧影和眼神光，不是正面一片平光。</li><li>背景比人脸暗一档以上，房间仍有暗部层次。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读

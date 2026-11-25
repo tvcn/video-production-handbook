@@ -5,38 +5,38 @@ type: article
 lang: zh
 translation_key: story.story.obstacle-escalation
 translation_status: source
-title: "障碍升级：同一堵墙越收越紧"
-summary: "同一个障碍连撞三次，每次代价更高，观众才会觉得人物真的被逼到墙角。"
+title: 障碍升级：同一堵墙越收越紧
+summary: 同一个障碍连撞三次，每次代价更高，观众才会觉得人物真的被逼到墙角。
 slug: obstacle-escalation
-aliases: [obstacle-escalation]
+aliases:
+- obstacle-escalation
 canonical_site: story
-canonical_path: /story/obstacle-escalation/
+canonical_path: /article/obstacle-escalation/
 status: published
 diagram: /images/diagrams/zh/obstacle-escalation.svg
-diagram_alt: "障碍升级：同一堵墙越收越紧 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 障碍升级：同一堵墙越收越紧的结构示意图。
+diagram_caption: 看“第一次用一句话挡回，代价最小”和“第二次要付出时间，比如白等一天”两处，判断人物想要的東西能不能用一个动作说出来。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 故事组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- story.storyboard.sequence-board.en
+- story.story.subplot.en
+- story.story.short-film-economy.en
+source_kind: experience
 ---
 
-<p>同一个障碍连撞三次，每次代价更高，观众才会觉得人物真的被逼到墙角。</p>
+<p>障碍升级不是给主角多塞几件倒霉事，而是让同一个目标每次都要付出更高的代价：先丢面子，再丢时间，最后丢关系。观众留在画面里，是因为下一次选择比上一次更难。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/obstacle-escalation.svg" alt="障碍升级：同一堵墙越收越紧 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/obstacle-escalation.svg" alt="障碍升级：同一堵墙越收越紧的结构示意图。">
+  <figcaption>看“第一次用一句话挡回，代价最小”和“第二次要付出时间，比如白等一天”两处，判断人物想要的東西能不能用一个动作说出来。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>同一场设三次阻力：第一次一句话挡回，第二次要付出时间，第三次要牺牲一个人。每次都比上次多失去一点。</p>
-<h2>怎么做</h2>
-<p>同一个障碍连撞三次，每次代价更高，观众才会觉得人物真的被逼到墙角。</p><ol><li>第一次用一句话挡回，代价最小。</li><li>第二次要付出时间，比如白等一天。</li><li>第三次要牺牲一个人或一个关系，逼出选择。</li></ol>
-<h2>别踩</h2>
-<p>别每次都换新障碍；不升级，压力就不会累积。</p>
-<h2>验收</h2>
-<ul><li>三次阻力来自同一个障碍，不是三个新麻烦。</li><li>每次代价都比上一次高：一句话、一天、一个人。</li><li>第三次之后人物必须做选择，不能原路返回。</li></ul>
+<section><h2 id="section-1">升级的是代价，不是倒霉事</h2><p>写升级表时只填三列：目标、这次挡路的东西、如果失败会失去什么。三列里任何一列没有变化，这场戏就还是在原地。</p><h2 id="section-2">边界</h2><p>短片只有 60–90 秒时，两次升级足够；第三次通常会把结尾挤掉。不要用“更惨”代替“更难选”。</p></section><section><h2 id="section-3">现场</h2><p>同一场设三次阻力：第一次一句话挡回，第二次要付出时间，第三次要牺牲一个人。每次都比上次多失去一点。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>第一次用一句话挡回，代价最小。</li><li>第二次要付出时间，比如白等一天。</li><li>第三次要牺牲一个人或一个关系，逼出选择。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别每次都换新障碍；不升级，压力就不会累积。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>人物的目标能用一个动作说出来</li><li>障碍在同一场里升级，而不是换一个</li><li>删掉一句解释对白，冲突仍然成立</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>人物想要什么没写清，场面只剩情绪</li><li>障碍靠巧合解决，人物没有做决定</li><li>对白把画面已经说明的事再说一遍</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>写一页 30 秒的场景，只保留“第一次用一句话挡回，代价最小”和“第二次要付出时间，比如白等一天”，删掉所有解释；请一个人读一遍，问他能不能复述人物想要什么。</p></section>
+<h2>验收</h2><ul><li>三次阻力来自同一个障碍，不是三个新麻烦。</li><li>每次代价都比上一次高：一句话、一天、一个人。</li><li>第三次之后人物必须做选择，不能原路返回。</li></ul>

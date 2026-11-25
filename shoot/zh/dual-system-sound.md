@@ -5,43 +5,46 @@ type: article
 lang: zh
 translation_key: shoot.sound.dual-system-sound
 translation_status: source
-title: "双系统录音：合板不靠猜"
-summary: "双系统录音要么拍手合板，要么时间码同步；两样都没有，后期只能猜。"
+title: 双系统录音：合板不靠猜
+summary: 双系统录音要么拍手合板，要么时间码同步；两样都没有，后期只能猜。
 slug: dual-system-sound
-aliases: [dual-system-sound]
+aliases:
+- dual-system-sound
 canonical_site: shoot
-canonical_path: /sound/dual-system-sound/
+canonical_path: /article/dual-system-sound/
 status: published
 diagram: /images/diagrams/zh/dual-system-sound.svg
-diagram_alt: "双系统录音：合板不靠猜 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 双系统录音：合板不靠猜的结构示意图。
+diagram_caption: 看“开机时拍三次手，让摄影机和录音机都收…”和“让录音机对时间码，或每条结尾报一次场…”两处，判断高光、肤色和声音有没有被同时保住。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 拍摄组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- shoot.sound.boom-operator.en
+- shoot.sound.wireless-lav.en
+- shoot.movement.handheld.en
 depth: deep
 deep_minutes: 6
+sources:
+- S31
+- S32
+source_kind: sourced
 ---
 
-<p>双系统录音要么拍手合板，要么时间码同步；两样都没有，后期只能猜。</p>
+<p>相机自带麦克风只做参考，外接录音机录干净对白。开机前拍手或报镜号，让两条文件有共同同步点；不要只靠相机声对齐。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/dual-system-sound.svg" alt="双系统录音：合板不靠猜 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/dual-system-sound.svg" alt="双系统录音：合板不靠猜的结构示意图。">
+  <figcaption>看“开机时拍三次手，让摄影机和录音机都收…”和“让录音机对时间码，或每条结尾报一次场…”两处，判断高光、肤色和声音有没有被同时保住。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>开机时拍三次手，或让录音机对时码。每条结尾报一次场号，后期就不用猜。</p>
-<h2>怎么做</h2>
-<p>双系统录音要么拍手合板，要么时间码同步；两样都没有，后期只能猜。开机和收工都要留同步标记。</p><ol><li>开机时拍三次手，让摄影机和录音机都收到。</li><li>让录音机对时间码，或每条结尾报一次场号和镜号。</li><li>后期先对拍手帧或时码，再逐条检查声画偏移。</li></ol>
-<h2>别踩</h2>
-<p>别指望后期靠波形自动对齐；没有拍手或时码，漂移会越修越大。</p>
-<h2>验收</h2>
-<ul><li>每条素材的开头有三次拍手，画面和声音都能看到。</li><li>时间码或场号记录完整，后期能按场次找到对应音频。</li><li>对齐后整条播放，唇音没有越走越偏。</li></ul>
+<section><h2 id="section-1">双系统先录“参考声”，再录“干净声”</h2><p>录音机设置 48kHz/24bit，保留原始 WAV；现场不要降噪、不要压缩，后期再做。</p><h2 id="section-2">边界</h2><p>双系统不是“有两份声音”。如果外接麦没戴好、增益不对，干净声也会废；现场必须监听。</p></section><section><h2 id="section-3">现场</h2><p>开机时拍三次手，或让录音机对时码。每条结尾报一次场号，后期就不用猜。</p></section><section><h2 id="section-4">怎么做</h2><p>开机和收工都要留同步标记。</p><ol><li>开机时拍三次手，让摄影机和录音机都收到。</li><li>让录音机对时间码，或每条结尾报一次场号和镜号。</li><li>后期先对拍手帧或时码，再逐条检查声画偏移。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别指望后期靠波形自动对齐；没有拍手或时码，漂移会越修越大。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>高光没有死白，暗部仍保留可恢复的细节</li><li>同一条片子里肤色一致，切机位不跳</li><li>声音有独立音轨，不靠机头麦兜底</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>曝光对了，但光没有方向，脸和背景粘在一起</li><li>声音只靠机头麦，现场一吵就废</li><li>机位越轴，观众失去空间方向</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用同一扇窗拍三条 10 秒，只改“开机时拍三次手，让摄影机和录音机都收…”；比较高光、肤色和背景，选一条能直接剪的。</p></section>
+<h2>验收</h2><ul><li>每条素材的开头有三次拍手，画面和声音都能看到。</li><li>时间码或场号记录完整，后期能按场次找到对应音频。</li><li>对齐后整条播放，唇音没有越走越偏。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读
@@ -57,3 +60,12 @@ deep_minutes: 6
 ### 双系统开机前，十项确认
 <ul><li>换场先拍手，手要清楚、脆、离麦近</li><li>再拍板，板上的字要能读</li><li>再拍摄影机上的时间码</li><li>场记板写场次、镜号、条数</li><li>相机机头麦一定开着</li><li>录音机增益留足余量</li><li>多机位先对主收音</li><li>合板先看波形尖峰</li><li>再听爆破音，最后看嘴型</li><li>长镜头每十分钟检查一次漂移</li></ul><p>合板错了，最好的表演也会变成配音片。现场十秒，后期十小时。合板后随机抽三个转场，各听前后五秒，确认声音没有提前或延后，再继续剪。先听再剪，别一边合板一边剪。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S31] ARRI Cine Systems；见 SOURCES.md 的原始链接与用途。
+- [S32] Sony 专业影像支持；见 SOURCES.md 的原始链接与用途。
+
+完整链接与用途见 [`SOURCES.md`](../../about/)。
+<!-- SOURCES_END -->

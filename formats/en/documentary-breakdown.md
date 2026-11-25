@@ -5,23 +5,29 @@ type: article
 lang: en
 translation_key: formats.documentary.documentary-breakdown
 translation_status: reviewed
-title: "Documentary Breakdown: One Person, One Event, One Change"
-summary: "An eight-beat breakdown of a three-minute documentary: action, person, want, obstacle, attempt, cost, change, after."
+title: 'Documentary Breakdown: One Person, One Event, One Change'
+summary: 'An eight-beat breakdown of a three-minute documentary: action, person, want, obstacle, attempt, cost, change, after.'
 slug: documentary-breakdown
-aliases: [documentary-breakdown]
+aliases:
+- documentary-breakdown
 canonical_site: formats
-canonical_path: /en/documentary/documentary-breakdown/
+canonical_path: /en/article/documentary-breakdown/
 status: published
 diagram: /images/diagrams/en/documentary-breakdown.svg
-diagram_alt: "Documentary Breakdown: One Person, One Event, One Change: timecode, structure, and budget worksheet"
-diagram_caption: "The diagram is an entry point: watch the timecodes, then use the checks at the end."
+diagram_alt: 'Documentary Breakdown: One Person, One Event, One Change: timecode, structure, and budget worksheet'
+diagram_caption: 'The diagram is an entry point: watch the timecodes, then use the checks at the end.'
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN Formats Desk
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [formats.brand-film.brand-film-breakdown, formats.event.event-breakdown, main.path.path-live-film]
+related:
+- formats.brand-film.brand-film-breakdown.en
+- formats.interview.interview-breakdown.en
+- formats.vlog.vlog-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->

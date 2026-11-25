@@ -11,13 +11,13 @@ summary: "Move the camera to the other side of a conversation and the audience t
 slug: axis-line
 aliases: [axis-line]
 canonical_site: shoot
-canonical_path: /en/camera/axis-line/
+canonical_path: /en/article/axis-line/
 status: published
 difficulty: beginner
 stage: shoot
 format: short-film
 tools: [camera, support]
-authors: [editor]
+authors: ["TVCN Shoot Desk"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/axis-line.webp
 diagram: /images/diagrams/en/axis-line.png
@@ -26,7 +26,7 @@ diagram_caption: "Keep the master and the reverse on the same side, and the audi
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [composition, storyboard]
+related: [shoot.production.shot-list.en, shoot.production.camera-height.en, shoot.lighting.window-light.en]
 ---
 
 <!-- DIAGRAM_START -->

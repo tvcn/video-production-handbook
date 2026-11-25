@@ -5,49 +5,57 @@ type: history
 lang: en
 translation_key: context.history.montage
 translation_status: reviewed
-title: "Montage: Shots Learned to Mean"
-summary: "Montage cut unrelated shots together and let the audience build the cause."
+title: 'Montage: Shots Learned to Mean'
+summary: Montage cut unrelated shots together and let the audience build the cause.
 slug: montage
-aliases: [montage]
+aliases:
+- montage
 canonical_site: context
-canonical_path: /en/history/montage/
+canonical_path: /en/article/montage/
 status: published
 diagram: /images/diagrams/en/montage.svg
-diagram_alt: "Montage: Shots Learned to Mean three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Montage: Shots Learned to Mean.'
+diagram_caption: Watch “Take the Odessa Steps sequence and log each” and “Pair opposite
+  directions and see whether causality reads.”; judge what old problem it replaced
+  and what new limit it added.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: ["TVCN Research Desk"]
-sources: [S01, S03, S22, S39]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
-test_context: "Review setup: Windows 11 + Chrome; checked against public films, scripts and platform pages; not frame-by-frame testing."
-known_failures: "Known failures: public case data is incomplete; platform specs and length limits change; re-verify per project."
+authors:
+- TVCN Research Desk
+sources:
+- S01
+- S03
+- S22
+- S39
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- context.law.music-license.en
+- formats.news.news-structure.en
+- post.color.primary-correction.en
+test_context: 'Review setup: Windows 11 + Chrome; checked against public films, scripts
+  and platform pages; not frame-by-frame testing.'
+known_failures: 'Known failures: public case data is incomplete; platform specs and
+  length limits change; re-verify per project.'
 verified: 2026-11-22
+source_kind: sourced
 ---
 
-<p>Montage cut unrelated shots together and let the audience build the cause.</p>
+<p>Montage made two shots produce a third meaning: the viewer is not passively receiving images but building cause and effect across the cut. It moved cinema from recording toward argument and emotional construction.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/montage.svg" alt="Montage: Shots Learned to Mean three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/montage.svg" alt="Structure diagram for Montage: Shots Learned to Mean.">
+  <figcaption>Watch “Take the Odessa Steps sequence and log each” and “Pair opposite directions and see whether causality reads.”; judge what old problem it replaced and what new limit it added.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>The Odessa Steps creates cause and effect with shots in different directions. Count durations and directions, not blood.</p>
-<h2>Do this</h2>
-<p>Montage cuts two unrelated shots together and the audience constructs causality.</p><ol><li>Take the Odessa Steps sequence and log each shot's duration and direction.</li><li>Pair opposite directions and see whether causality reads.</li><li>Do not watch only the violence; watch how editing organizes it.</li></ol>
-<h2>Avoid</h2>
-<p>Do not count cuts alone; opposing directions are where causality comes from.</p>
-<h2>Check</h2>
-<ul><li>Each shot's duration and direction are logged, not just the total count.</li><li>A pair of opposing directions is identified and causality explained.</li><li>Analysis focuses on edit organization, not just violence.</li></ul>
+<section><h2 id="section-1">What changed</h2><h2 id="section-2">How to use it now</h2><ul><li>When cutting a passage, write what each shot should make the viewer conclude before choosing order.</li><li>Run a Kuleshov-style test: the same face followed by food, a body, a child; does the meaning change?</li><li>For trailers and ads, build the claim through shot relationships, not just the fastest images.</li></ul><h2 id="section-3">Do not misread</h2><p>Do not treat montage as “fast cutting.” Switches without cause and point of view are just noise.</p><h2 id="section-4">Montage is not fast cutting; it is a third meaning born between two shots</h2>
+<p>The Kuleshov experiment: the same face, different following shots, different emotions read by viewers. Meaning is not inside one shot; it is between shots. Reducing montage to fast cutting turns it into a rhythm trick.</p>
+<h3>Common misreading</h3>
+<p>“Montage equals association” is incomplete. It also covers narrative ellipsis, parallel action, cross-cutting and conflict. Another misreading treats Soviet montage as the only origin; Griffith and others developed editing grammar in parallel.</p>
+<h3>One use today</h3>
+<p>When a scene feels wrong, do not add music first. Change one reaction shot or swap two shots; the meaning may change.</p></section><section><h2 id="section-5">On set</h2><p>The Odessa Steps creates cause and effect with shots in different directions. Count durations and directions, not blood.</p></section><section><h2 id="section-6">Do this</h2><p>Montage cuts two unrelated shots together and the audience constructs causality.</p><ol><li>Take the Odessa Steps sequence and log each shot's duration and direction.</li><li>Pair opposite directions and see whether causality reads.</li><li>Do not watch only the violence; watch how editing organizes it.</li></ol></section><section><h2 id="section-7">Avoid</h2><p>Do not count cuts alone; opposing directions are where causality comes from.</p></section><aside class="regional-note"><p><strong>Regional note for US / UK / EU readers</strong></p><p>This English page keeps mainland-China examples where they are part of the method. Read platform names as examples, not as the only market: Douyin ↔ TikTok/Reels, Bilibili ↔ YouTube, Xiaohongshu ↔ Instagram/Pinterest; RMB figures are not converted here. Film-history examples are kept in their original market context; distribution and rights clearance still follow your local law.</p></aside><section><p><strong>Use it today</strong></p><p>Put the history back into a job: archive, restoration, teaching or a short film. Ask what it solved, then what it still cannot do.</p><ul><li>Find one contemporary work and mark one old limit it inherited.</li><li>Find one condition it no longer needs and say why.</li><li>Write one thing it still cannot do today.</li></ul></section><section><h2>Source boundary</h2><p>This is interpretation, not a primary archive. Check years, people and statutes against the original links in <a href="../../about/">SOURCES.md</a>. A secondhand summary is a lead, not evidence.</p></section>
+<h2>Check</h2><ul><li>Each shot's duration and direction are logged, not just the total count.</li><li>A pair of opposing directions is identified and causality explained.</li><li>Analysis focuses on edit organization, not just violence.</li></ul>
 
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: editorial statute comparison and project reviews; tested: no lab measurement; references: the laws, platform rules and institutional texts below.</p>
-<ul><li><span class="mono">[S01]</span> UNESCO: Media and Information Literacy</li><li><span class="mono">[S03]</span> China's Personal Information Protection Law (PIPL)</li><li><span class="mono">[S22]</span> China's Civil Code</li><li><span class="mono">[S39]</span> W3C WCAG</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
-<!-- SOURCES_END -->

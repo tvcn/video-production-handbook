@@ -5,47 +5,55 @@ type: article
 lang: en
 translation_key: formats.music-video.music-video-structure
 translation_status: reviewed
-title: "Music Video Structure: The Song Is the Timeline"
-summary: "Follow the song: verses give space, chorus gives a memory image, bridge gives the turn."
+title: 'Music Video Structure: The Song Is the Timeline'
+summary: 'Follow the song: verses give space, chorus gives a memory image, bridge
+  gives the turn.'
 slug: music-video-structure
-aliases: [music-video-structure]
+aliases:
+- music-video-structure
 canonical_site: formats
-canonical_path: /en/music-video/music-video-structure/
+canonical_path: /en/article/music-video-structure/
 status: published
 diagram: /images/diagrams/en/music-video-structure.svg
-diagram_alt: "Music Video Structure: The Song Is the Timeline three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Music Video Structure: The Song Is the Timeline.'
+diagram_caption: Watch “Mark verse, chorus, and bridge times.” and “Use long takes
+  in the verse to establish”; judge whether the reason given in the first three seconds
+  still holds at the end.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: ["TVCN Formats Desk"]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Formats Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- formats.news.news-structure.en
+- post.assets.dit-data-handoff.en
+- shoot.virtual-production.led-virtual-production.en
 depth: deep
 deep_minutes: 7
-sources: [S14, S15, S16]
-test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
-known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
+sources:
+- S14
+- S15
+- S16
+test_context: 'Review setup: composite samples and public cases; previewed on MacBook
+  Pro M1 / iPhone 13; not one real client project.'
+known_failures: 'Known failures: composite samples are not client proof; platform
+  length/spec changes expire templates.'
 verified: 2026-11-22
+source_kind: sourced
 ---
 
-<p>Follow the song: verses give space, chorus gives a memory image, bridge gives the turn.</p>
+<p>Music-video structure starts from lyrics and sections: verse establishes space, chorus gives a repeatable motif, bridge changes relationship or location. Each section carries one job; do not tell the story and show off in the same section.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/music-video-structure.svg" alt="Music Video Structure: The Song Is the Timeline three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/music-video-structure.svg" alt="Structure diagram for Music Video Structure: The Song Is the Timeline.">
+  <figcaption>Watch “Mark verse, chorus, and bridge times.” and “Use long takes in the verse to establish”; judge whether the reason given in the first three seconds still holds at the end.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Mark verse, chorus, and bridge times. Use long takes in the verse to build space; in the chorus cut a remembered action every four beats.</p>
-<h2>Do this</h2>
-<p>An MV follows the song: verse gives space, chorus gives a memory hook, bridge turns.</p><ol><li>Mark verse, chorus, and bridge times.</li><li>Use long takes in the verse to establish space.</li><li>Cut to a memory action every four beats in the chorus.</li></ol>
-<h2>Avoid</h2>
-<p>Do not illustrate every lyric; that is a slideshow, not an MV.</p>
-<h2>Check</h2>
-<ul><li>Verse, chorus, and bridge times are marked on the timeline.</li><li>Verse shots run longer and chorus cuts denser.</li><li>The chorus has a repeatable memory action, not lyric subtitles.</li></ul>
+<section><h2 id="section-1">Cut action to the beat, not cuts to the beat</h2><p>Import the track, mark section boundaries, then place shots. Shot length comes from the action, not “cut every two seconds.”</p><h2 id="section-2">Limits</h2><p>The image should not explain the lyric. “Leaving” does not require a door; a ticket in a hand may be more specific.</p></section><section><h2 id="section-3">On set</h2><p>Mark verse, chorus, and bridge times. Use long takes in the verse to build space; in the chorus cut a remembered action every four beats.</p></section><section><h2 id="section-4">Do this</h2><p>An MV follows the song: verse gives space, chorus gives a memory hook, bridge turns.</p><ol><li>Mark verse, chorus, and bridge times.</li><li>Use long takes in the verse to establish space.</li><li>Cut to a memory action every four beats in the chorus.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not illustrate every lyric; that is a slideshow, not an MV.</p></section><figure class="article-audio"><audio controls preload="none" src="../../../assets/audio/en/fmt-music-video.en.mp3"></audio><figcaption>20-second audio demo: one check point and the most common failure. Transcript and steps are in the article.</figcaption></figure><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the first three seconds give a believable reason</li><li>the middle adds information or resistance, not just mood</li><li>the ending shows a visible change instead of narrating it</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>the template is filled but the person and problem are not</li><li>no reason in the first three seconds, only title and music</li><li>no visible change at the end, only voice-over</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Break down one 30-second reference, mark the timecodes for “Mark verse, chorus, and bridge times.” and “Use long takes in the verse to establish”, then answer: if one disappeared, would the film still hold?</p></section>
+<h2>Check</h2><ul><li>Verse, chorus, and bridge times are marked on the timeline.</li><li>Verse shots run longer and chorus cuts denser.</li><li>The chorus has a repeatable memory action, not lyric subtitles.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive
@@ -64,8 +72,3 @@ verified: 2026-11-22
 <ul><li>Track split into clear sections</li><li>One emotional job per section</li><li>One memory point</li><li>Three visual motifs</li><li>Chorus lifts the same motif</li><li>Verse and chorus differ in scale</li><li>Bridge allowed to go quiet</li><li>Lip-sync line by line</li><li>Inserts stand alone</li><li>Lyrics not illustrated line by line</li></ul><p>The memory point is not the most expensive shot; it is the action the viewer recalls when the chorus hits.</p>
 <!-- DEEP_DIVE_END -->
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
-<!-- SOURCES_END -->

@@ -5,43 +5,43 @@ type: article
 lang: zh
 translation_key: post.editing.versioning
 translation_status: source
-title: "版本管理：别用“final 真的 final”"
-summary: "版本管理用日期、平台、时长和改动原因命名，别用“final 真的 final”。"
+title: 版本管理：别用“final 真的 final”
+summary: 版本管理用日期、平台、时长和改动原因命名，别用“final 真的 final”。
 slug: versioning
-aliases: [versioning]
+aliases:
+- versioning
 canonical_site: post
-canonical_path: /editing/versioning/
+canonical_path: /article/versioning/
 status: published
 diagram: /images/diagrams/zh/versioning.svg
-diagram_alt: "版本管理：别用“final 真的 final” 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 版本管理：别用“final 真的 final”的结构示意图。
+diagram_caption: 看“文件名用日期_平台_时长_v3，例如…”和“改动写进版本表：改了什么、为什么、谁…”两处，判断剪掉一个镜头后，节奏是更快还是更乱。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 后期组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- post.editing.parallel-editing.en
+- post.assets.project-structure.en
+- post.delivery.archive.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>版本管理用日期、平台、时长和改动原因命名，别用“final 真的 final”。</p>
+<p>文件名用 v001、v002，不用“最终”“最终2”。每次输出写一行变更：改了哪一场、哪个镜头、为什么。没有变更说明，版本号只是数字。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/versioning.svg" alt="版本管理：别用“final 真的 final” 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/versioning.svg" alt="版本管理：别用“final 真的 final”的结构示意图。">
+  <figcaption>看“文件名用日期_平台_时长_v3，例如…”和“改动写进版本表：改了什么、为什么、谁…”两处，判断剪掉一个镜头后，节奏是更快还是更乱。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>文件名用日期_平台_时长_v3，改动写进版本表：改了什么、为什么、谁批准。</p>
-<h2>怎么做</h2>
-<p>版本管理用日期、平台、时长和改动原因命名，别用“final 真的 final”。</p><ol><li>文件名用日期_平台_时长_v3，例如 20261122_web_60s_v3。</li><li>改动写进版本表：改了什么、为什么、谁批准。</li><li>只保留一个当前交付版，旧版进归档，别靠记忆。</li></ol>
-<h2>别踩</h2>
-<p>别用“最新版”当文件名；三个月后没人知道它最新在哪。</p>
-<h2>验收</h2>
-<ul><li>文件名包含日期、平台、时长和版本号，能直接排序。</li><li>版本表能查出每次改动的原因和批准人。</li><li>随机拿一个旧版，能说出它和当前版的差别。</li></ul>
+<section><h2 id="section-1">版本号只增不减，说明写“改了什么”</h2><p>只保留当前版和上一版在工作目录，旧版归档；交付时明确哪一版是母版，避免客户打开错文件。</p><h2 id="section-2">边界</h2><p>版本不是越多越好。每次改一个目的，改完立刻命名；一天出十个版本，等于没有版本。</p></section><section><h2 id="section-3">现场</h2><p>文件名用日期_平台_时长_v3，改动写进版本表：改了什么、为什么、谁批准。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>文件名用日期_平台_时长_v3，例如 20261122_web_60s_v3。</li><li>改动写进版本表：改了什么、为什么、谁批准。</li><li>只保留一个当前交付版，旧版进归档，别靠记忆。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别用“最新版”当文件名；三个月后没人知道它最新在哪。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>剪掉一个镜头，节奏更快而不是更乱</li><li>示波器上肤色、高光和黑位都在范围内</li><li>响度、字幕和文件规格能过一次交付检查</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>剪辑点跟着音乐，不跟动作</li><li>先定风格再统一，镜头之间跳色</li><li>交付前没查响度和字幕，最后一遍才发现</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>拿一段 30 秒素材做 A/B，只改“文件名用日期_平台_时长_v3，例如…”；记下一个时间码和一处差异，再决定是否保留。</p></section>
+<h2>验收</h2><ul><li>文件名包含日期、平台、时长和版本号，能直接排序。</li><li>版本表能查出每次改动的原因和批准人。</li><li>随机拿一个旧版，能说出它和当前版的差别。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读

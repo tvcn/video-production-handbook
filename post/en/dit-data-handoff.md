@@ -5,26 +5,35 @@ type: article
 lang: en
 translation_key: post.assets.dit-data-handoff
 translation_status: reviewed
-title: "DIT and Data Handoff: The First Handoff from Set to Post"
-summary: "DIT is not card copying. It guarantees checksums, three copies, filenames that trace to the log, and proxies that match source."
+title: 'DIT and Data Handoff: The First Handoff from Set to Post'
+summary: DIT is not card copying. It guarantees checksums, three copies, filenames that trace to the log, and proxies that match source.
 slug: dit-data-handoff
-aliases: [dit-data-handoff]
+aliases:
+- dit-data-handoff
 canonical_site: post
 canonical_path: /en/article/dit-data-handoff/
 status: published
 diagram: /images/diagrams/en/dit-data-handoff.svg
-diagram_alt: "DIT data handoff diagram"
-diagram_caption: "Diagram: checksum, backup locations, proxy paths, and script notes belong in one handoff report."
+diagram_alt: DIT data handoff diagram
+diagram_caption: 'Diagram: checksum, backup locations, proxy paths, and script notes belong in one handoff report.'
 difficulty: intermediate
 stage: handbook
 format: workflow
-authors: ["TVCN Post Desk"]
+authors:
+- TVCN Post Desk
 last_verified: 2026-11-22
 review_due: 2027-11-22
-sources: [S23, S28]
-test_context: "Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine."
-known_failures: "Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking."
+sources:
+- S23
+- S28
+test_context: 'Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine.'
+known_failures: 'Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking.'
 verified: 2026-11-22
+related:
+- post.color.hdr-workflow.en
+- shoot.coverage.coverage.en
+- story.screenplay.logline.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
@@ -39,5 +48,5 @@ verified: 2026-11-22
 <h2>Sources</h2>
 <p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
 <ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S28]</span> Netflix Partner Help</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

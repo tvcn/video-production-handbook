@@ -5,47 +5,58 @@ type: article
 lang: en
 translation_key: post.editing.proxy-workflow
 translation_status: reviewed
-title: "Proxy Workflow: Cut First, Quality Later"
-summary: "Proxies do not lower the final quality; they let the edit move. Keep the originals untouched."
+title: 'Proxy Workflow: Cut First, Quality Later'
+summary: Proxies do not lower the final quality; they let the edit move. Keep the
+  originals untouched.
 slug: proxy-workflow
-aliases: [proxy-workflow]
+aliases:
+- proxy-workflow
 canonical_site: post
-canonical_path: /en/editing/proxy-workflow/
+canonical_path: /en/article/proxy-workflow/
 status: published
 diagram: /images/diagrams/en/proxy-workflow.svg
-diagram_alt: "Proxy Workflow: Cut First, Quality Later three-step diagram"
-diagram_caption: "Do the three steps in order, then look again at the image or file."
+diagram_alt: 'Structure diagram for Proxy Workflow: Cut First, Quality Later.'
+diagram_caption: Watch “Generate ProRes Proxy or quarter-resolution files on a” and
+  “Set the originals to read-only and edit only”; judge whether removing one shot
+  makes the scene faster rather than muddier.
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: ["TVCN Post Desk"]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN Post Desk
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- post.editing.rough-cut.en
+- shoot.lighting.ratio.en
+- story.screenplay.three-act.en
 depth: deep
 deep_minutes: 5
-sources: [S24, S27, S28, S30, S34, S35]
-test_context: "Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine."
-known_failures: "Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking."
+sources:
+- S24
+- S27
+- S28
+- S30
+- S34
+- S35
+test_context: 'Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci
+  Resolve 20 and Premiere Pro 2025; results vary by machine.'
+known_failures: 'Known failures: older-version timelines break; camera Logs need remapping;
+  lost proxies require relinking.'
 verified: 2026-11-22
+source_kind: sourced
 ---
 
-<p>Proxies do not lower the final quality; they let the edit move. Keep the originals untouched.</p>
+<p>Proxies solve “the machine cannot cut the originals,” not “quality can drop.” Keep the original filename, timecode and reel name, finish the cut, relink to the originals, then export the master.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
-  <img src="/images/diagrams/en/proxy-workflow.svg" alt="Proxy Workflow: Cut First, Quality Later three-step diagram">
-  <figcaption>Do the three steps in order, then look again at the image or file.</figcaption>
+  <img src="/images/diagrams/en/proxy-workflow.svg" alt="Structure diagram for Proxy Workflow: Cut First, Quality Later.">
+  <figcaption>Watch “Generate ProRes Proxy or quarter-resolution files on a” and “Set the originals to read-only and edit only”; judge whether removing one shot makes the scene faster rather than muddier.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>On set</h2>
-<p>Use ProRes Proxy or quarter-resolution proxies on a separate SSD. Lock the originals as read-only, edit only proxies, and relink before delivery.</p>
-<h2>Do this</h2>
-<p>Proxies do not lower delivery quality; they let the edit run. Originals stay untouched beside them.</p><ol><li>Generate ProRes Proxy or quarter-resolution files on a separate SSD.</li><li>Set the originals to read-only and edit only against proxies.</li><li>Relink to originals before delivery and confirm no proxy slipped into the master.</li></ol>
-<h2>Avoid</h2>
-<p>Do not treat proxies as masters; deliver before relinking and the quality shows.</p>
-<h2>Check</h2>
-<ul><li>Proxies and originals live on separate drives and the originals are read-only.</li><li>The timeline references proxies only, with one-to-one names and paths.</li><li>After relinking, three random shots return to original resolution and detail.</li></ul>
+<section><h2 id="section-1">A proxy is an editing copy, not a delivery file</h2><p>Choose proxy resolution from timeline needs, not always the smallest. On multicam, test how many streams one machine can play before choosing a bitrate.</p><h2 id="section-2">Limits</h2><p>Every proxy must map to one original. Renaming, dropping timecode or mixing frame rates turns relinking into manual file hunting. Before delivery, confirm the master points at originals, not proxies.</p></section><section><h2 id="section-3">On set</h2><p>Use ProRes Proxy or quarter-resolution proxies on a separate SSD. Lock the originals as read-only, edit only proxies, and relink before delivery.</p></section><section><h2 id="section-4">Do this</h2><p>Proxies do not lower delivery quality; they let the edit run. Originals stay untouched beside them.</p><ol><li>Generate ProRes Proxy or quarter-resolution files on a separate SSD.</li><li>Set the originals to read-only and edit only against proxies.</li><li>Relink to originals before delivery and confirm no proxy slipped into the master.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not treat proxies as masters; deliver before relinking and the quality shows.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>removing one shot makes the scene faster, not muddier</li><li>skin, highlights and blacks sit inside scope limits</li><li>loudness, subtitles and file specs pass one delivery check</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>cuts follow the music, not the action</li><li>style before unity: shots jump in color</li><li>loudness and subtitles are checked at the very end</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Take 30 seconds of footage and make an A/B, changing only “Generate ProRes Proxy or quarter-resolution files on a”. Note one timecode and one difference before keeping it.</p></section>
+<h2>Check</h2><ul><li>Proxies and originals live on separate drives and the originals are read-only.</li><li>The timeline references proxies only, with one-to-one names and paths.</li><li>After relinking, three random shots return to original resolution and detail.</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## Deep dive
@@ -66,8 +77,3 @@ verified: 2026-11-22
 <ul><li>Only for high resolution or multicam</li><li>Proxy names match originals</li><li>Keep proxies in a separate folder</li><li>Spot-check three shots</li><li>Lock before relinking</li><li>Export from originals</li></ul><p>Proxies let the edit run; originals let the film stand at the end. A broken proxy can be rebuilt; a lost original has no second take.</p>
 <!-- DEEP_DIVE_END -->
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S24]</span> ACES Color Management</li><li><span class="mono">[S27]</span> EBU R128 Loudness</li><li><span class="mono">[S28]</span> Netflix Partner Help</li><li><span class="mono">[S30]</span> DaVinci Resolve</li><li><span class="mono">[S34]</span> Adobe Premiere Pro Guide</li><li><span class="mono">[S35]</span> Avid Resource Center</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
-<!-- SOURCES_END -->

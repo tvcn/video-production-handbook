@@ -11,7 +11,7 @@ summary: "Write what you shoot, where, for whom, and how much you can carry befo
 slug: camera-choice
 aliases: [camera-choice]
 canonical_site: tools
-canonical_path: /en/camera/camera-choice/
+canonical_path: /en/article/camera-choice/
 status: published
 difficulty: beginner
 stage: gear
@@ -26,7 +26,7 @@ diagram_caption: "A spec sheet cannot decide for you. Write down what, where, fo
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: []
+related: [tools.guide.crew-management.en, ai.generation.text-to-video.en, animation.3d.rigging.en]
 depth: deep
 deep_minutes: 7
 sources: [S23, S25, S26, S29, S38]
@@ -92,5 +92,5 @@ Before buying, confirm batteries are available, cards can be read, and service e
 <h2>Sources</h2>
 <p class="source-types">Experience: field notes and buying checklists; tested: short tests against public specs, not lab scores; references: manufacturer and standards links below.</p>
 <ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube Upload Specs</li><li><span class="mono">[S38]</span> State Taxation Administration</li></ul>
-<p><a href="../../SOURCES.md">Full links and notes in SOURCES.md</a></p>
+<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
 <!-- SOURCES_END -->

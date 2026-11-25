@@ -11,13 +11,13 @@ summary: "Fix white balance, exposure, and shot matching before LUTs and looks. 
 slug: color
 aliases: [color, grading, color grade]
 canonical_site: post
-canonical_path: /en/color/color/
+canonical_path: /en/article/color/
 status: published
 difficulty: intermediate
 stage: post
 format: short-film
 tools: [color, edit]
-authors: [editor]
+authors: ["TVCN Post Desk"]
 reviewers: [technical-reviewer]
 cover: /images/post/color.webp
 diagram: /images/diagrams/en/color.png
@@ -26,7 +26,7 @@ diagram_caption: "Fix white balance, exposure, and shot matching before LUTs and
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [post.editing.rough-cut, post.sound.sound]
+related: [post.color.lut.en, post.color.secondary-correction.en, post.sound.sound-post.en]
 ---
 
 <!-- DIAGRAM_START -->

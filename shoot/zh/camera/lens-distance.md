@@ -10,13 +10,13 @@ summary: "广角不是装得下，长焦不是拍得远。焦距先决定观众�
 slug: lens-distance
 aliases: [lens-distance, 焦距, 广角, 长焦]
 canonical_site: shoot
-canonical_path: /camera/lens-distance/
+canonical_path: /article/lens-distance/
 status: published
 difficulty: intermediate
 stage: shoot
 format: dialogue
 tools: [camera]
-authors: [editor]
+authors: ["TVCN 拍摄组"]
 reviewers: [technical-reviewer]
 cover: /images/shoot/lens-distance.webp
 diagram: /images/diagrams/zh/lens-distance.png
@@ -25,7 +25,7 @@ diagram_caption: "广角把前后景拉开，长焦把人和背景压成一层�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [shoot.camera.composition, shoot.production.camera-height]
+related: [shoot.camera.shot-size.en, shoot.production.camera-height.en, shoot.camera.camera-move.en]
 ---
 
 <!-- DIAGRAM_START -->

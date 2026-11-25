@@ -10,13 +10,13 @@ summary: 对白写不动，常常是因为把人物想说的话都写了出来�
 slug: dialogue
 aliases: [dialogue, 对白, 台词]
 canonical_site: story
-canonical_path: /screenplay/dialogue/
+canonical_path: /article/dialogue/
 status: published
 difficulty: intermediate
 stage: script
 format: short-film
 tools: [script]
-authors: [editor]
+authors: ["TVCN 故事组"]
 reviewers: [technical-reviewer]
 cover: /images/story/dialogue-table.webp
 diagram: /images/diagrams/zh/dialogue.png
@@ -25,7 +25,7 @@ diagram_caption: "说出口的话负责表面，动作负责真正的争抢。�
 last_verified: 2026-11-20
 review_due: 2027-05-20
 source_kind: experience
-related: [story.screenplay.logline, story.directing.directing-nonactors]
+related: [story.interview.interview-questions.en, story.screenplay.conflict.en, story.screenplay.voice-over.en]
 ---
 
 <!-- DIAGRAM_START -->

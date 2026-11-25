@@ -5,43 +5,43 @@ type: article
 lang: zh
 translation_key: shoot.camera.frame-rate
 translation_status: source
-title: "帧率：动作与慢动作"
-summary: "帧率决定动作的时间感；升格不是慢，是让观众看清一个瞬间。"
+title: 帧率：动作与慢动作
+summary: 帧率决定动作的时间感；升格不是慢，是让观众看清一个瞬间。
 slug: frame-rate
-aliases: [frame-rate]
+aliases:
+- frame-rate
 canonical_site: shoot
-canonical_path: /camera/frame-rate/
+canonical_path: /article/frame-rate/
 status: published
 diagram: /images/diagrams/zh/frame-rate.svg
-diagram_alt: "帧率：动作与慢动作 三步图解"
-diagram_caption: "把三步按顺序做完，再回看画面或文件。"
+diagram_alt: 帧率：动作与慢动作的结构示意图。
+diagram_caption: 看“25p 项目就用 25p 拍，时间线…”和“要做两倍慢动作，用 50p、1/10…”两处，判断高光、肤色和声音有没有被同时保住。
 difficulty: beginner
 stage: field-note
 format: handbook
-authors: [editor]
-last_verified: 2026-11-20
-review_due: 2027-05-20
-related: [main.paths.first-film]
+authors:
+- TVCN 拍摄组
+last_verified: '2026-11-25'
+review_due: '2027-05-25'
+related:
+- shoot.camera.shutter-angle.en
+- shoot.camera.nd-filter.en
+- shoot.exposure.waveform.en
 depth: deep
 deep_minutes: 5
+source_kind: experience
 ---
 
-<p>帧率决定动作的时间感；升格不是慢，是让观众看清一个瞬间。</p>
+<p>项目帧率决定声音、字幕和平台兼容；慢动作只是拍摄帧率。24/25/30 是叙事基准，60/120 用于后期放慢。不要在同一个项目里混用多个基准帧率。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
-  <img src="/images/diagrams/zh/frame-rate.svg" alt="帧率：动作与慢动作 三步图解">
-  <figcaption>把三步按顺序做完，再回看画面或文件。</figcaption>
+  <img src="/images/diagrams/zh/frame-rate.svg" alt="帧率：动作与慢动作的结构示意图。">
+  <figcaption>看“25p 项目就用 25p 拍，时间线…”和“要做两倍慢动作，用 50p、1/10…”两处，判断高光、肤色和声音有没有被同时保住。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<h2>现场</h2>
-<p>25p 项目就用 25p 拍。要做两倍慢动作，用 50p、1/100 快门拍，回放检查有没有频闪。</p>
-<h2>怎么做</h2>
-<p>帧率决定动作的时间感；升格不是慢，是让观众看清一个瞬间。拍之前先决定成片时间线和慢动作倍数。</p><ol><li>25p 项目就用 25p 拍，时间线和素材保持一致。</li><li>要做两倍慢动作，用 50p、1/100 快门拍。</li><li>回放检查有没有频闪，再确认慢动作段落要放在哪一秒。</li></ol>
-<h2>别踩</h2>
-<p>别把升格当慢放；拍的时候就要决定，后期硬慢会掉帧。</p>
-<h2>验收</h2>
-<ul><li>时间线和素材帧率一致，没有把 50p 当 25p 直接铺。</li><li>慢动作镜头用 50p、1/100 快门拍，回放没有频闪。</li><li>慢动作只用在需要看清的瞬间，成片没有为慢而慢。</li></ul>
+<section><h2 id="section-1">先定项目帧率，再谈慢动作</h2><p>慢动作要按“想放慢多少”算拍摄帧率：想放慢 2 倍，拍 48/50/60；想放慢 4 倍，拍 96/100/120。</p><h2 id="section-2">边界</h2><p>高帧率不是更“电影感”。它会让动作太顺、失去重量；叙事片通常用 24/25，慢动作只用在需要的镜头。</p></section><section><h2 id="section-3">现场</h2><p>25p 项目就用 25p 拍。要做两倍慢动作，用 50p、1/100 快门拍，回放检查有没有频闪。</p></section><section><h2 id="section-4">怎么做</h2><p>拍之前先决定成片时间线和慢动作倍数。</p><ol><li>25p 项目就用 25p 拍，时间线和素材保持一致。</li><li>要做两倍慢动作，用 50p、1/100 快门拍。</li><li>回放检查有没有频闪，再确认慢动作段落要放在哪一秒。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别把升格当慢放；拍的时候就要决定，后期硬慢会掉帧。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>高光没有死白，暗部仍保留可恢复的细节</li><li>同一条片子里肤色一致，切机位不跳</li><li>声音有独立音轨，不靠机头麦兜底</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>曝光对了，但光没有方向，脸和背景粘在一起</li><li>声音只靠机头麦，现场一吵就废</li><li>机位越轴，观众失去空间方向</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用同一扇窗拍三条 10 秒，只改“25p 项目就用 25p 拍，时间线…”；比较高光、肤色和背景，选一条能直接剪的。</p></section>
+<h2>验收</h2><ul><li>时间线和素材帧率一致，没有把 50p 当 25p 直接铺。</li><li>慢动作镜头用 50p、1/100 快门拍，回放没有频闪。</li><li>慢动作只用在需要看清的瞬间，成片没有为慢而慢。</li></ul>
 
 <!-- DEEP_DIVE_START -->
 ## 深读

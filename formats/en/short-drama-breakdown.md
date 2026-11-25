@@ -5,23 +5,29 @@ type: article
 lang: en
 translation_key: formats.short-drama.short-drama-breakdown
 translation_status: reviewed
-title: "Short Drama Breakdown: One Turn in Thirty Seconds"
-summary: "An eight-beat breakdown of a thirty-second short drama: image hook, claim, setup, escalation, false answer, clue, turn, reaction."
+title: 'Short Drama Breakdown: One Turn in Thirty Seconds'
+summary: 'An eight-beat breakdown of a thirty-second short drama: image hook, claim, setup, escalation, false answer, clue, turn, reaction.'
 slug: short-drama-breakdown
-aliases: [short-drama-breakdown]
+aliases:
+- short-drama-breakdown
 canonical_site: formats
-canonical_path: /en/short-drama/short-drama-breakdown/
+canonical_path: /en/article/short-drama-breakdown/
 status: published
 diagram: /images/diagrams/en/short-drama-breakdown.svg
-diagram_alt: "Short Drama Breakdown: One Turn in Thirty Seconds: timecode, structure, and budget worksheet"
-diagram_caption: "The diagram is an entry point: watch the timecodes, then use the checks at the end."
+diagram_alt: 'Short Drama Breakdown: One Turn in Thirty Seconds: timecode, structure, and budget worksheet'
+diagram_caption: 'The diagram is an entry point: watch the timecodes, then use the checks at the end.'
 difficulty: intermediate
 stage: field-note
 format: handbook
-authors: [editor]
+authors:
+- TVCN Formats Desk
 last_verified: 2026-11-22
 review_due: 2027-05-20
-related: [formats.product-ad.product-ad-breakdown, main.path.path-story, formats.talking-head.talking-head-breakdown]
+related:
+- formats.vlog.vlog-breakdown.en
+- formats.talking-head.talking-head-breakdown.en
+- formats.music-video.music-video-breakdown.en
+source_kind: experience
 ---
 
 <!-- DIAGRAM_START -->
