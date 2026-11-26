@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN 动画组
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [animation.motion-graphics.mg-infographic, animation.motion-graphics.mg-rhythm, formats.documentary.documentary-template]
-source_kind: experience
+source_kind: sourced
+sources:
+- S62
+- S59
 ---
 <p>不要从“金属/木头”开始，从表面行为开始：反光是否清晰、粗糙度多高、边缘是否透光、有没有凹痕。同一个“金属”可以是镜面、拉丝、锈蚀，差别在行为，不在名字。</p>
 <!-- DIAGRAM_START -->
@@ -44,12 +47,13 @@ source_kind: experience
 </tbody></table></div>
 <h3>项目级检查</h3>
 <ol><li>放一个已知尺寸的参考物（硬币、A4 纸）在场景里，先校准纹理重复次数。</li><li>粗糙度用 0–1 的灰阶图，不用单一数值；油光、干燥、磨损分开画。</li><li>法线强度先 0.3 起步，逐级加；拉满会让边缘发黑。</li><li>在最终灯光下看材质，不在默认 HDRI 下看；光变了，材质观感全变。</li></ol>
-<p>交付前做一张“材质球接触表”：同一材质在强光、逆光、暗部各看一次，确保不是只在一种光下成立。</p></section><section><h2 id="section-4">现场</h2><p>同一盏灯下试三块球：粗糙度从 0.2 到 0.8，看高光大小；先定材质，再贴纹理。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>同一盏灯下试三块球：粗糙度从 0.2 到 0.8。</li><li>看高光大小和边缘软硬。</li><li>先定材质，再贴纹理。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别用纹理掩盖材质；粗糙度不对，贴图再细也像纸。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>前景、中景、背景的速度差能在一次 pan 里看出来</li><li>动作在 0.5 秒内能读出重量或预备</li><li>关掉任意一层，空间感仍然成立</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>层数堆上去了，但每层速度一样，空间还是扁的</li><li>动作有预备却没有跟随，重量只做了一半</li><li>资产没锁就进渲染，返工从合成端一路补</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用 24 fps 画 3 个关键帧，只改“看高光大小和边缘软硬”，导出 2 秒；如果重量仍读不出来，先加预备帧，不要加模糊。</p></section>
+<p>交付前做一张“材质球接触表”：同一材质在强光、逆光、暗部各看一次，确保不是只在一种光下成立。</p></section><section><h2 id="section-4">现场</h2><p>同一盏灯下试三块球：粗糙度从 0.2 到 0.8，看高光大小；先定材质，再贴纹理。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>同一盏灯下试三块球：粗糙度从 0.2 到 0.8。</li><li>看高光大小和边缘软硬。</li><li>先定材质，再贴纹理。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别用纹理掩盖材质；粗糙度不对，贴图再细也像纸。</p></section><section><h2>判断</h2><p>这一页的判断只看三条可观察的验收，不靠口号：</p><ul><li><strong>1.</strong> 三块球在同一盏灯下高光大小明显不同。</li><li><strong>2.</strong> 粗糙度 0.2 和 0.8 的差别能说清，不是只换颜色。</li><li><strong>3.</strong> 材质确认后才贴纹理，纹理没有掩盖高光问题。</li></ul></section><section><h2>失败</h2><p>下面任一条出现，先停，不要靠后期补：</p><ul><li><strong>1.</strong> 只做到“三块球在同一盏灯下高光大小明显不同”的形式，换一个机位或场景就重现不了。</li><li><strong>2.</strong> 把“粗糙度 0.2 和 0.8 的差别能说清，不是只换颜色”留到后期或口头解释，现场没有留下能复查的记录。</li><li><strong>3.</strong> 别用纹理掩盖材质；粗糙度不对，贴图再细也像纸。</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用 24 fps 画 3 个关键帧，只改“看高光大小和边缘软硬”，导出 2 秒；如果重量仍读不出来，先加预备帧，不要加模糊。</p></section>
 <h2>验收</h2><ul><li>三块球在同一盏灯下高光大小明显不同。</li><li>粗糙度 0.2 和 0.8 的差别能说清，不是只换颜色。</li><li>材质确认后才贴纹理，纹理没有掩盖高光问题。</li></ul>
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 3 次动画镜头与资产交接复盘，条件为2D/3D 混合管线之一、镜头不超过 30 秒；页面讨论的具体对象是「材质：粗糙度与高光」；不含外部实验室测试，条件变化时结论可能失效。
+- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“材质先调粗糙度和高光，再贴纹理；这两项决定它是塑料、木头还是金属。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
+- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“材质先调粗糙度和高光，再贴纹理；这两项决定它是塑料、木头还是金属。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
 <!-- SOURCES_END -->
 

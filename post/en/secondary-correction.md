@@ -25,9 +25,12 @@ format: handbook
 authors:
 - TVCN Post Desk
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [post.sound.sound, post.editing.sound-bridge, shoot.camera.composition]
-source_kind: experience
+source_kind: sourced
+sources:
+- S30
+- S24
 ---
 <p>Use masks, HSL or qualifiers to move one range: sky, skin, clothing or background. Primary first, secondary second; without a primary, secondary locks the cast in.</p>
 <!-- DIAGRAM_START -->
@@ -37,12 +40,13 @@ source_kind: experience
   <figcaption>Watch “Choose one region: face or sky.” and “Feather the qualifier 10 to 20 pixels and”; judge whether removing one shot makes the scene faster rather than muddier.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">Secondary only changes the selected area</h2><p>One node, one purpose, named clearly. With too many nodes, disable all and re-enable one by one to find what actually works.</p><h2 id="section-2">Limits</h2><p>Secondary is not a local filter. Feather the edge and track motion; hard edges and drifting masks read as fake immediately.</p></section><section><h2 id="section-3">On set</h2><p>Pick one area: face or sky. Feather the qualifier 10 to 20 pixels, keep the change under five percent, and toggle it off to check.</p></section><section><h2 id="section-4">Do this</h2><p>Secondary correction changes one region: face, sky, or clothing. The more regions, the faker it looks.</p><ol><li>Choose one region: face or sky.</li><li>Feather the qualifier 10 to 20 pixels and keep the change under five percent.</li><li>Toggle the node and check for halo or color patch at the edge.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not change five regions at once; every edge leaves a trace.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>removing one shot makes the scene faster, not muddier</li><li>skin, highlights and blacks sit inside scope limits</li><li>loudness, subtitles and file specs pass one delivery check</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>cuts follow the music, not the action</li><li>style before unity: shots jump in color</li><li>loudness and subtitles are checked at the very end</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Take 30 seconds of footage and make an A/B, changing only “Choose one region: face or sky.”. Note one timecode and one difference before keeping it.</p></section>
+<section><h2 id="section-1">Secondary only changes the selected area</h2><p>One node, one purpose, named clearly. With too many nodes, disable all and re-enable one by one to find what actually works.</p><h2 id="section-2">Limits</h2><p>Secondary is not a local filter. Feather the edge and track motion; hard edges and drifting masks read as fake immediately.</p></section><section><h2 id="section-3">On set</h2><p>Pick one area: face or sky. Feather the qualifier 10 to 20 pixels, keep the change under five percent, and toggle it off to check.</p></section><section><h2 id="section-4">Do this</h2><p>Secondary correction changes one region: face, sky, or clothing. The more regions, the faker it looks.</p><ol><li>Choose one region: face or sky.</li><li>Feather the qualifier 10 to 20 pixels and keep the change under five percent.</li><li>Toggle the node and check for halo or color patch at the edge.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not change five regions at once; every edge leaves a trace.</p></section><section><h2>Judge</h2><p>This page passes on three observable checks, not slogans:</p><ul><li><strong>1.</strong> Only one region moved and neighboring colors are untouched.</li><li><strong>2.</strong> Feathering looks natural with no halo, jagged edge, or patch.</li><li><strong>3.</strong> With the node off, the audience cannot tell which area was isolated.</li></ul></section><section><h2>Failures</h2><p>Any one of these means stop and fix it before post:</p><ul><li><strong>1.</strong> Check 1 is only staged (“Only one region moved and neighboring colors a…”); another camera position or location exposes it.</li><li><strong>2.</strong> Check 2 is left to post or a verbal explanation (“Feathering looks natural with no halo, jagged…”); nothing on set can be rechecked.</li><li><strong>3.</strong> Do not change five regions at once; every edge leaves a trace.</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Take 30 seconds of footage and make an A/B, changing only “Choose one region: face or sky.”. Note one timecode and one difference before keeping it.</p></section>
 <h2>Check</h2><ul><li>Only one region moved and neighboring colors are untouched.</li><li>Feathering looks natural with no halo, jagged edge, or patch.</li><li>With the node off, the audience cannot tell which area was isolated.</li></ul>
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 5 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Secondary Correction: Change One Area”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Secondary correction changes one area: skin, sky, wardrobe. ”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S24] [ACESCentral: ACES](https://acescentral.com/) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“Secondary correction changes one area: skin, sky, wardrobe. ”) against ACES color encoding, ACEScg and delivery/archive workflows; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

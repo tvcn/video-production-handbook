@@ -60,7 +60,7 @@ source_kind: sourced
 - [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — 2026-11-26 访问。用于核对首段“后期效率不是软件快，而是项目结构、代理和版本让每个人都知道最新文件在哪。”中的术语与公开背景（通讯社对独立、准确与不带偏见的公开承诺）；不替代现场测试。
 - [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“后期效率不是软件快，而是项目结构、代理和版本让每个人都知道最新文件在哪。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
 - [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“后期效率不是软件快，而是项目结构、代理和版本让每个人都知道最新文件在哪。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
-- [S27] [EBU R128 响度](https://tech.ebu.ch/publications/r128) — 2026-11-26 访问。用于核对首段“后期效率不是软件快，而是项目结构、代理和版本让每个人都知道最新文件在哪。”中的术语与公开背景（广播响度目标、真峰值与测量方法）；不替代现场测试。
+- [S27] [ITU-R：BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-27 访问。用于核对首段“后期效率不是软件快，而是项目结构、代理和版本让每个人都知道最新文件在哪。”中的术语与公开背景（响度测量、真峰值与 EBU R128 所依据的 ITU 算法标准）；不替代现场测试。
 - [S35] [Avid 资源中心](https://www.avid.com/resource-center) — 2026-11-26 访问。用于核对首段“后期效率不是软件快，而是项目结构、代理和版本让每个人都知道最新文件在哪。”中的术语与公开背景（Media Composer、协作与交付的资源入口）；不替代现场测试。
 <!-- SOURCES_END -->
 

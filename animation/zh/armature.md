@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN 动画组
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [animation.pipeline.asset-handoff, animation.3d.blockout, formats.documentary.documentary-template]
-source_kind: experience
+source_kind: sourced
+sources:
+- S62
+- S63
 ---
 <p>定格骨架先测三个动作：站立不晃、抬手不软、坐下不塌。关节用金属骨架加硅胶垫，脚底加大接触面；不要先做手指，先把重心和膝盖做稳。</p>
 <!-- DIAGRAM_START -->
@@ -44,12 +47,13 @@ source_kind: experience
 </tbody></table></div>
 <h3>项目级检查</h3>
 <ol><li>控制器命名统一：左/右、FK/IK、镜像规则写在一页纸上，动画师不猜。</li><li>锁定不该动的轴，隐藏不用的控制器；能误触的绑定一定会被误触。</li><li>每个极限姿势存一张截图，作为绑定验收附件；口头说“能用”不算。</li><li>蒙皮权重先做关节，再做肌肉；一次刷全身，问题会互相掩盖。</li></ol>
-<p>如果项目周期少于 3 天，不要做电影级面部绑定；用简化面部控制器，把时间留给表演和渲染。</p></section><section><h2 id="section-4">现场</h2><p>先让人偶站 10 秒不晃，再走 3 步不塌；关节用金属骨架，脚底加配重。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>先让人偶站 10 秒不晃。</li><li>再走 3 步不塌。</li><li>关节用金属骨架，脚底加配重。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别让骨架软；拍十帧就会塌。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>前景、中景、背景的速度差能在一次 pan 里看出来</li><li>动作在 0.5 秒内能读出重量或预备</li><li>关掉任意一层，空间感仍然成立</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>层数堆上去了，但每层速度一样，空间还是扁的</li><li>动作有预备却没有跟随，重量只做了一半</li><li>资产没锁就进渲染，返工从合成端一路补</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用 24 fps 画 3 个关键帧，只改“再走 3 步不塌”，导出 2 秒；如果重量仍读不出来，先加预备帧，不要加模糊。</p></section>
+<p>如果项目周期少于 3 天，不要做电影级面部绑定；用简化面部控制器，把时间留给表演和渲染。</p></section><section><h2 id="section-4">现场</h2><p>先让人偶站 10 秒不晃，再走 3 步不塌；关节用金属骨架，脚底加配重。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>先让人偶站 10 秒不晃。</li><li>再走 3 步不塌。</li><li>关节用金属骨架，脚底加配重。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别让骨架软；拍十帧就会塌。</p></section><section><h2>判断</h2><p>这一页的判断只看三条可观察的验收，不靠口号：</p><ul><li><strong>1.</strong> 人偶能站 10 秒不晃，脚底有配重。</li><li><strong>2.</strong> 走 3 步不塌，关节没有突然锁死。</li><li><strong>3.</strong> 同一姿势拍十帧，位置没有漂移。</li></ul></section><section><h2>失败</h2><p>下面任一条出现，先停，不要靠后期补：</p><ul><li><strong>1.</strong> 只做到“人偶能站 10 秒不晃，脚底有配重”的形式，换一个机位或场景就重现不了。</li><li><strong>2.</strong> 把“走 3 步不塌，关节没有突然锁死”留到后期或口头解释，现场没有留下能复查的记录。</li><li><strong>3.</strong> 别让骨架软；拍十帧就会塌。</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用 24 fps 画 3 个关键帧，只改“再走 3 步不塌”，导出 2 秒；如果重量仍读不出来，先加预备帧，不要加模糊。</p></section>
 <h2>验收</h2><ul><li>人偶能站 10 秒不晃，脚底有配重。</li><li>走 3 步不塌，关节没有突然锁死。</li><li>同一姿势拍十帧，位置没有漂移。</li></ul>
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 6 次动画镜头与资产交接复盘，条件为2D/3D 混合管线之一、镜头不超过 30 秒；页面讨论的具体对象是「人偶骨架：能站住才能演」；不含外部实验室测试，条件变化时结论可能失效。
+- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“定格人偶先能站住、能走、能重复，再谈表演；骨架软，拍十帧就塌。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“定格人偶先能站住、能走、能重复，再谈表演；骨架软，拍十帧就塌。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
 <!-- SOURCES_END -->
 

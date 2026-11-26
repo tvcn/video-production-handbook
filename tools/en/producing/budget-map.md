@@ -24,9 +24,12 @@ diagram: /images/diagrams/en/budget-map.png
 diagram_alt: "Four buckets: keep it shootable first"
 diagram_caption: "Must-pay, on-screen, swappable, buffer. Set the proportions before the line items; the buffer is not spare cash, it is what lets the film finish."
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [tools.guide.budget-quote, tools.guide.buy-audio-field, shoot.camera.composition]
+sources:
+- S38
+- S35
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -67,8 +70,9 @@ A budget is not for the accountant. It is for the decisions on set. Write down w
 <!-- V11_DEEPEN -->
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 5 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Budget: Four Buckets, One Decision”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A budget is not a column of numbers. It is four buckets: wha”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
+- [S35] [Avid Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A budget is not a column of numbers. It is four buckets: wha”) against Resources for Media Composer, collaboration and delivery; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

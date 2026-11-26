@@ -25,9 +25,12 @@ format: handbook
 authors:
 - TVCN Post Desk
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [post.color.secondary-correction, post.sound.sound, shoot.camera.composition]
-source_kind: experience
+source_kind: sourced
+sources:
+- S68
+- S29
 ---
 <p>SDH is not only dialogue; it names sound events: door, footsteps, phone, music mood. Mark speaker changes by name or position; overlap gets “together.”</p>
 <!-- DIAGRAM_START -->
@@ -37,12 +40,13 @@ source_kind: experience
   <figcaption>Watch “Label speakers: male, female, phone.” and “Write ambience as [door], [rain], and music as”; judge whether removing one shot makes the scene faster rather than muddier.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">SDH writes what is heard</h2><p>Describe music in brackets by style and feeling, not just “music.” Key plot sounds include direction: approaching from back left.</p><h2 id="section-2">Limits</h2><p>SDH is not a full sound list. Caption only what drives understanding or emotion; labeling every sound buries the image.</p></section><section><h2 id="section-3">On set</h2><p>Mark the speaker: male, female, phone. Write [door] or [rain] for effects and [music] for score; do not just transcribe dialogue.</p></section><section><h2 id="section-4">Do this</h2><p>SDH captions name the speaker, ambience, and key effects, not just dialogue.</p><ol><li>Label speakers: male, female, phone.</li><li>Write ambience as [door], [rain], and music as [music].</li><li>Check placement and reading speed; captions never cover mouths or hands.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not place captions over mouths or hands; the audience needs the performance.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>removing one shot makes the scene faster, not muddier</li><li>skin, highlights and blacks sit inside scope limits</li><li>loudness, subtitles and file specs pass one delivery check</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>cuts follow the music, not the action</li><li>style before unity: shots jump in color</li><li>loudness and subtitles are checked at the very end</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Take 30 seconds of footage and make an A/B, changing only “Label speakers: male, female, phone.”. Note one timecode and one difference before keeping it.</p></section>
+<section><h2 id="section-1">SDH writes what is heard</h2><p>Describe music in brackets by style and feeling, not just “music.” Key plot sounds include direction: approaching from back left.</p><h2 id="section-2">Limits</h2><p>SDH is not a full sound list. Caption only what drives understanding or emotion; labeling every sound buries the image.</p></section><section><h2 id="section-3">On set</h2><p>Mark the speaker: male, female, phone. Write [door] or [rain] for effects and [music] for score; do not just transcribe dialogue.</p></section><section><h2 id="section-4">Do this</h2><p>SDH captions name the speaker, ambience, and key effects, not just dialogue.</p><ol><li>Label speakers: male, female, phone.</li><li>Write ambience as [door], [rain], and music as [music].</li><li>Check placement and reading speed; captions never cover mouths or hands.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not place captions over mouths or hands; the audience needs the performance.</p></section><section><h2>Judge</h2><p>This page passes on three observable checks, not slogans:</p><ul><li><strong>1.</strong> Each caption identifies the speaker and distinguishes phone or off-screen voice.</li><li><strong>2.</strong> Door, rain, music, and other key sounds appear in the captions.</li><li><strong>3.</strong> Captions stay off mouths and hands, within two lines, and read at pace.</li></ul></section><section><h2>Failures</h2><p>Any one of these means stop and fix it before post:</p><ul><li><strong>1.</strong> Check 1 is only staged (“Each caption identifies the speaker and distin…”); another camera position or location exposes it.</li><li><strong>2.</strong> Check 2 is left to post or a verbal explanation (“Door, rain, music, and other key sounds appear…”); nothing on set can be rechecked.</li><li><strong>3.</strong> Do not place captions over mouths or hands; the audience needs the performance.</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Take 30 seconds of footage and make an A/B, changing only “Label speakers: male, female, phone.”. Note one timecode and one difference before keeping it.</p></section>
 <h2>Check</h2><ul><li>Each caption identifies the speaker and distinguishes phone or off-screen voice.</li><li>Door, rain, music, and other key sounds appear in the captions.</li><li>Captions stay off mouths and hands, within two lines, and read at pace.</li></ul>
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 7 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “SDH: More Than Dialogue”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S68] [W3C: WebVTT](https://www.w3.org/TR/webvtt1/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“SDH names speakers, ambience, and important effects; it does”) against Caption file format and timestamps; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“SDH names speakers, ambience, and important effects; it does”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

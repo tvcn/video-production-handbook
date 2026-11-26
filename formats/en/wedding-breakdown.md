@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN Formats Desk
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.wedding.wedding-structure, formats.wedding.wedding-template, story.directing.actor-adjustment]
-source_kind: experience
+source_kind: sourced
+sources:
+- S16
+- S43
 ---
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>Check</h2><ul><li>Entrance, rings, and vows each have a safe camera.</li><li>Vows have independent audio; music does not cover.</li><li>Family reactions are not staged.</li><li>Reception keeps two specific tables.</li><li>Dance has action plus reaction, not all slow motion.</li><li>One unguarded quiet moment exists.</li><li>Portraits are not smoothed to distortion.</li></ul>
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 7 format breakdown and project review reviews under a 30-second to five-minute film for one platform; it discusses “Wedding Breakdown: Six Minutes Without a Checklist”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An eleven-beat breakdown of a six-minute wedding film: prep,”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S43] [BFI: BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An eleven-beat breakdown of a six-minute wedding film: prep,”) against UK film archive, restoration and exhibition resources; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

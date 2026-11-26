@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN 片型组
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.event.event-structure, formats.event.event-template, story.directing.actor-adjustment]
-source_kind: experience
+source_kind: sourced
+sources:
+- S83
+- S43
 ---
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>验收</h2><ul><li>前 5 秒有到场动作，不是航拍。</li><li>15 秒内能看出规模/主题。</li><li>有一个完整的关键瞬间。</li><li>至少三个可触摸的细节。</li><li>有一张真实反应的脸，不是摆拍。</li><li>高潮处现场声先到峰值。</li><li>结尾有空场/之后，不直接切 logo。</li></ul>
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 3 次同类型片型拆解与项目复盘，条件为30 秒–5 分钟成片、单平台交付；页面讨论的具体对象是「活动片拉片：90 秒怎么讲清现场」；不含外部实验室测试，条件变化时结论可能失效。
+- [S83] [AP：新闻价值观与原则](https://www.ap.org/about/news-values-and-principles/) — 2026-11-26 访问。用于核对首段“按 90 秒活动片的通用结构，拆 8 个时间码：到场、规模、关键瞬间、细节、人、高潮、之后、落版。”中的术语与公开背景（通讯社准确、公正与来源标准）；不替代现场测试。
+- [S43] [BFI：BFI 国家电影档案](https://www.bfi.org.uk/bfi-national-archive) — 2026-11-26 访问。用于核对首段“按 90 秒活动片的通用结构，拆 8 个时间码：到场、规模、关键瞬间、细节、人、高潮、之后、落版。”中的术语与公开背景（英国电影档案、修复与放映资料）；不替代现场测试。
 <!-- SOURCES_END -->
 

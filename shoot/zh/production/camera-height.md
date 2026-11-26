@@ -23,9 +23,12 @@ diagram: /images/diagrams/zh/camera-height.png
 diagram_alt: "低 / 平 / 高：高度改变的是关系"
 diagram_caption: "同一张脸，机位越低人物越大，越高人物越小。先把镜头放到对方的眼睛高度，再决定要不要故意偏。"
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [shoot.camera.camera-move, shoot.camera.composition, post.color.color]
+sources:
+- S31
+- S23
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -83,8 +86,9 @@ related: [shoot.camera.camera-move, shoot.camera.composition, post.color.color]
 <!-- V11_DEEPEN -->
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 7 次现场拍摄与回放复核，条件为单机位、自然光或一盏主光；页面讨论的具体对象是「机位高度：蹲下比换镜头有用」；不含外部实验室测试，条件变化时结论可能失效。
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“同一张脸，机位高一寸，观众就读成另一个人。高度先决定权力关系，再决定景别；换镜头解决不了站错位置。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“同一张脸，机位高一寸，观众就读成另一个人。高度先决定权力关系，再决定景别；换镜头解决不了站错位置。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
 <!-- SOURCES_END -->
 

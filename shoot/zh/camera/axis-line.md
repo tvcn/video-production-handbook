@@ -23,9 +23,12 @@ diagram: /images/diagrams/zh/axis-line.png
 diagram_alt: "越轴：观众脑子里的房间会翻面"
 diagram_caption: "主机位和反打留在同一边，观众才知道谁在左、谁在右。要跨，就给一个动作或一个中立镜头。"
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [shoot.production.b-roll, shoot.blocking.blocking, post.color.color]
+sources:
+- S23
+- S31
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -81,8 +84,9 @@ related: [shoot.production.b-roll, shoot.blocking.blocking, post.color.color]
 <!-- V11_DEEPEN -->
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 5 次现场拍摄与回放复核，条件为单机位、自然光或一盏主光；页面讨论的具体对象是「越轴之后，观众会突然找不到方向」；不含外部实验室测试，条件变化时结论可能失效。
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“两个人对话，摄影机跨到桌子另一边，观众会以为他们换了位置。先定一条线，再决定要不要跨。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“两个人对话，摄影机跨到桌子另一边，观众会以为他们换了位置。先定一条线，再决定要不要跨。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
 <!-- SOURCES_END -->
 

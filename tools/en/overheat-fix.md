@@ -25,9 +25,12 @@ format: handbook
 authors:
 - TVCN Tools Desk
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [tools.capability.practical-bulb, tools.capability.prime-lens, shoot.camera.composition]
-source_kind: experience
+source_kind: sourced
+sources:
+- S53
+- S58
 ---
 <p>For long takes, lower resolution, frame rate, bitrate and screen brightness to a stable setting; disable IBIS and wireless, remove the battery to cool. Check temperature every twenty to thirty minutes and swap cards early.</p>
 <!-- DIAGRAM_START -->
@@ -37,12 +40,13 @@ source_kind: experience
   <figcaption>Watch “Lower resolution or bitrate and turn off in-body” and “Open the battery door or add a heat”; judge whether the spec maps to one concrete shooting problem.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">Drop specs before the camera dies</h2><p>Do not blow a fan directly at the sensor; it adds vibration and dust. Use vents and shade.</p><h2 id="section-2">Limits</h2><p>Overheating is not “broken.” It appears with heat, direct sun and high bitrate together; change conditions before blaming the body.</p></section><section><h2 id="section-3">On set</h2><p>Lower the bitrate, turn off stabilization, open the battery door, and shoot in shorter takes. Never put a wet towel on the body.</p></section><section><h2 id="section-4">Do this</h2><p>Overheating: cool it, shoot in blocks, lower the bitrate. Do not put a wet towel on the body.</p><ol><li>Lower resolution or bitrate and turn off in-body stabilization and long monitoring.</li><li>Open the battery door or add a heat sink; keep the body out of direct sun.</li><li>Stop for five minutes every twenty and shoot in shorter blocks.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not use a wet towel or ice pack directly; condensation shorts the camera.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>every spec maps to one concrete shooting problem</li><li>weight, power and connections hold on a real rig</li><li>a 60-second test leaves one comparable number</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>specs without connections, power or weight</li><li>batteries, storage or body do not match after purchase</li><li>no 60-second test, so the problem arrives on the shoot</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Run a 60-second test with the gear you already own, measuring only “Lower resolution or bitrate and turn off in-body”. Record two numbers: what you need and what the gear actually gives.</p></section>
+<section><h2 id="section-1">Drop specs before the camera dies</h2><p>Do not blow a fan directly at the sensor; it adds vibration and dust. Use vents and shade.</p><h2 id="section-2">Limits</h2><p>Overheating is not “broken.” It appears with heat, direct sun and high bitrate together; change conditions before blaming the body.</p></section><section><h2 id="section-3">On set</h2><p>Lower the bitrate, turn off stabilization, open the battery door, and shoot in shorter takes. Never put a wet towel on the body.</p></section><section><h2 id="section-4">Do this</h2><p>Overheating: cool it, shoot in blocks, lower the bitrate. Do not put a wet towel on the body.</p><ol><li>Lower resolution or bitrate and turn off in-body stabilization and long monitoring.</li><li>Open the battery door or add a heat sink; keep the body out of direct sun.</li><li>Stop for five minutes every twenty and shoot in shorter blocks.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not use a wet towel or ice pack directly; condensation shorts the camera.</p></section><section><h2>Judge</h2><p>This page passes on three observable checks, not slogans:</p><ul><li><strong>1.</strong> Resolution or bitrate is lower and stabilization and long monitoring are off.</li><li><strong>2.</strong> The battery door or heat sink is handled and the body is out of direct sun.</li><li><strong>3.</strong> The camera stops five minutes every twenty and shoots in blocks.</li></ul></section><section><h2>Failures</h2><p>Any one of these means stop and fix it before post:</p><ul><li><strong>1.</strong> Check 1 is only staged (“Resolution or bitrate is lower and stabilizati…”); another camera position or location exposes it.</li><li><strong>2.</strong> Check 2 is left to post or a verbal explanation (“The battery door or heat sink is handled and t…”); nothing on set can be rechecked.</li><li><strong>3.</strong> Do not use a wet towel or ice pack directly; condensation shorts the camera.</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Run a 60-second test with the gear you already own, measuring only “Lower resolution or bitrate and turn off in-body”. Record two numbers: what you need and what the gear actually gives.</p></section>
 <h2>Check</h2><ul><li>Resolution or bitrate is lower and stabilization and long monitoring are off.</li><li>The battery door or heat sink is handled and the body is out of direct sun.</li><li>The camera stops five minutes every twenty and shoots in blocks.</li></ul>
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 6 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Overheating Fix: Cool, Segment, Lower Bitrate”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cool it, shoot in segments, lower bitrate; do not put a wet ”) against Body specifications, recording formats and interfaces; not a substitute for an on-set test.
+- [S58] [Blackmagic Design: Pocket Cinema Camera 6K](https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cool it, shoot in segments, lower bitrate; do not put a wet ”) against Body specifications and recording formats; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

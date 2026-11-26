@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN 工具组
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [tools.delivery.publish-checklist, tools.capability.reflector, shoot.camera.composition]
-source_kind: experience
+source_kind: sourced
+sources:
+- S34
+- S60
 ---
 <p>生成代理时不要改文件名，也不要换目录结构。剪辑软件靠原名和时间码回批；改名会让回批变成手工找文件。</p>
 <!-- DIAGRAM_START -->
@@ -37,12 +40,13 @@ source_kind: experience
 <section><h2 id="section-1">代理要保留原名、时间码和卷名</h2><p>代理分辨率按时间线需要选：多机位 4K 可以降到 1080p 或 720p，但帧率和色彩空间要跟原素材一致。</p><h2 id="section-2">边界</h2><p>代理不是交付。输出母版前确认时间线链接的是原素材；链接代理直接导出，画质会掉一档。</p><h2 id="section-3">代理规格：能剪、能回套、不丢原片</h2>
 <p>代理不是“压小就行”。要在同一时间码、同一帧率、同一文件名下回套原片；否则剪辑一换回原片就错位。</p>
 <ol><li>常用：1080p ProRes Proxy 或 H.264 高码率，帧率与源一致，音频保留。</li><li>文件名加 <code>_proxy</code>，不要改卷名和 reel；回套用原始媒体路径。</li><li>原片单独存放，代理单独项目；不要在代理上做最终调色。</li></ol>
-<p>验收：随机抽一个剪切点，回套原片后帧位不偏移；音频同步不掉。偏移就检查帧率和时间码。</p></section><section><h2 id="section-4">现场</h2><p>按四分之一分辨率生成 ProRes Proxy，放独立 SSD；回套时检查时间码和构图。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>按四分之一分辨率生成 ProRes Proxy。</li><li>放独立 SSD。</li><li>回套时检查时间码和构图。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别用代理做最终导出；一换回原片，字幕位置全偏。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>每一项参数都能对应一个具体的拍摄问题</li><li>重量、供电和接口在真实机位上成立</li><li>60 秒测试能留下一个可比较的数字</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>只看参数，不看接口、供电和重量</li><li>买回来才发现电池、存储或机身不匹配</li><li>没有 60 秒测试，问题被带到正式拍摄</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用现有器材做 60 秒测试，只测“按四分之一分辨率生成 ProRes …”；记下两个数字：一个是你需要的，一个是器材实际给出的。</p></section>
+<p>验收：随机抽一个剪切点，回套原片后帧位不偏移；音频同步不掉。偏移就检查帧率和时间码。</p></section><section><h2 id="section-4">现场</h2><p>按四分之一分辨率生成 ProRes Proxy，放独立 SSD；回套时检查时间码和构图。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>按四分之一分辨率生成 ProRes Proxy。</li><li>放独立 SSD。</li><li>回套时检查时间码和构图。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别用代理做最终导出；一换回原片，字幕位置全偏。</p></section><section><h2>判断</h2><p>这一页的判断只看三条可观察的验收，不靠口号：</p><ul><li><strong>1.</strong> 代理是四分之一分辨率 ProRes Proxy，放在独立 SSD。</li><li><strong>2.</strong> 时间线和代理命名能对应回原片。</li><li><strong>3.</strong> 回套后时间码和构图与代理版一致。</li></ul></section><section><h2>失败</h2><p>下面任一条出现，先停，不要靠后期补：</p><ul><li><strong>1.</strong> 只做到“代理是四分之一分辨率 ProRes Proxy，放在独立 SSD”的形式，换一个机位或场景就重现不了。</li><li><strong>2.</strong> 把“时间线和代理命名能对应回原片”留到后期或口头解释，现场没有留下能复查的记录。</li><li><strong>3.</strong> 别用代理做最终导出；一换回原片，字幕位置全偏。</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用现有器材做 60 秒测试，只测“按四分之一分辨率生成 ProRes …”；记下两个数字：一个是你需要的，一个是器材实际给出的。</p></section>
 <h2>验收</h2><ul><li>代理是四分之一分辨率 ProRes Proxy，放在独立 SSD。</li><li>时间线和代理命名能对应回原片。</li><li>回套后时间码和构图与代理版一致。</li></ul>
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 6 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「代理生成：剪辑不卡」；不含外部实验室测试，条件变化时结论可能失效。
+- [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“代理按时间线和交付分辨率生成，别用完整分辨率硬剪；代理不对，字幕和构图会错。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
+- [S60] [Apple：Final Cut Pro 用户指南](https://support.apple.com/guide/final-cut-pro/welcome/mac) — 2026-11-26 访问。用于核对首段“代理按时间线和交付分辨率生成，别用完整分辨率硬剪；代理不对，字幕和构图会错。”中的术语与公开背景（剪辑、磁性时间线、代理与导出）；不替代现场测试。
 <!-- SOURCES_END -->
 

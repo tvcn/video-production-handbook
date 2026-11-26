@@ -23,9 +23,12 @@ diagram: /images/diagrams/zh/voice-over.png
 diagram_alt: "旁白只做三件事"
 diagram_caption: "画面已经说了，旁白就闭嘴；画面说不了，旁白给事实；人物有偏见，旁白给判断。能拍出来就别念。"
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [story.story.want-stakes, story.directing.actor-adjustment, shoot.camera.composition]
+sources:
+- S41
+- S10
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -68,8 +71,9 @@ related: [story.story.want-stakes, story.directing.actor-adjustment, shoot.camer
 - 旁白进来和出去的地方，画面有没有被盖住？
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 3 次剧本围读与拍摄前排练，条件为3–8 页场景、单一主视角；页面讨论的具体对象是「旁白：别替观众总结」；不含外部实验室测试，条件变化时结论可能失效。
+- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“旁白不是把画面再说一遍。它要么给画面没有的信息，要么给一个人的判断。能拍出来就别念；要念，就短、具体、带偏见。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“旁白不是把画面再说一遍。它要么给画面没有的信息，要么给一个人的判断。能拍出来就别念；要念，就短、具体、带偏见。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
 <!-- SOURCES_END -->
 

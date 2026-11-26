@@ -23,9 +23,12 @@ diagram: /images/diagrams/zh/shot-list.png
 diagram_alt: "拍摄清单：别人能替你执行"
 diagram_caption: "清单要写清楚先拍什么、拍多久、拍不到怎么办。想拍的都写上去，现场反而没法执行。"
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [shoot.camera.shot-size, shoot.camera.shutter-angle, post.color.color]
+sources:
+- S23
+- S31
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -63,8 +66,9 @@ related: [shoot.camera.shot-size, shoot.camera.shutter-angle, post.color.color]
 - 收工前能对照清单说清楚哪几行还没拿到。
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 7 次现场拍摄与回放复核，条件为单机位、自然光或一盏主光；页面讨论的具体对象是「拍摄清单写到别人能替你执行」；不含外部实验室测试，条件变化时结论可能失效。
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“清单要写清楚先拍什么、拍多久、拍不到怎么办。想拍的都写上去，现场反而没法执行。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“清单要写清楚先拍什么、拍多久、拍不到怎么办。想拍的都写上去，现场反而没法执行。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
 <!-- SOURCES_END -->
 

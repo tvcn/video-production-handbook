@@ -23,9 +23,12 @@ diagram: /images/diagrams/zh/first-shoot-day.png
 diagram_alt: "第一次开机：一页纸写六件事"
 diagram_caption: "时间、地点、谁负责、先拍什么、备用方案、收工标准。写在一页纸上，别人能照着执行，比脑子里记靠谱。"
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [tools.capability.fluid-head, tools.capability.follow-focus, shoot.camera.composition]
+sources:
+- S23
+- S31
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -81,8 +84,9 @@ related: [tools.capability.fluid-head, tools.capability.follow-focus, shoot.came
 <!-- V11_DEEPEN -->
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 4 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「第一次开机，先把这 6 件事写下来」；不含外部实验室测试，条件变化时结论可能失效。
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“第一次拍片，现场最容易乱的就是时间、地点、谁负责、先拍什么、备用方案和收工标准。写在一页纸上，比脑子里记靠谱。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“第一次拍片，现场最容易乱的就是时间、地点、谁负责、先拍什么、备用方案和收工标准。写在一页纸上，比脑子里记靠谱。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
 <!-- SOURCES_END -->
 

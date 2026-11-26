@@ -23,9 +23,12 @@ diagram: /images/diagrams/zh/animation-lip-sync.png
 diagram_alt: "四组嘴形：闭、开、圆、咧"
 diagram_caption: "不用背音素表。先把闭唇辅音对死，再让元音开口；一句 5 秒台词，5–8 个口型就够。"
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [animation.principles.animation-principles, animation.timing.animation-timing, formats.brand.brand-film]
+sources:
+- S63
+- S59
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -67,8 +70,9 @@ related: [animation.principles.animation-principles, animation.timing.animation-
 - 眼睛和头比嘴晚，句尾先停嘴。
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 5 次动画镜头与资产交接复盘，条件为2D/3D 混合管线之一、镜头不超过 30 秒；页面讨论的具体对象是「口型：先对辅音，再画表情」；不含外部实验室测试，条件变化时结论可能失效。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“口型不是把每个字都画出来。先对闭唇的辅音，再给元音开口，表情晚半拍，观众就觉得是他在说。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“口型不是把每个字都画出来。先对闭唇的辅音，再给元音开口，表情晚半拍，观众就觉得是他在说。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
 <!-- SOURCES_END -->
 

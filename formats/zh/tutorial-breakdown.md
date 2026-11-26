@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN 片型组
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.tutorial.tutorial-structure, formats.tutorial.tutorial-template, story.directing.actor-adjustment]
-source_kind: experience
+source_kind: sourced
+sources:
+- S29
+- S42
 ---
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>验收</h2><ul><li>前 10 秒给完成结果。</li><li>材料一屏能看完。</li><li>三步各有完整动作，不切碎。</li><li>最难的步骤有停顿/特写。</li><li>三个检查点可见。</li><li>有一个真实失败示范。</li><li>结尾有一个 1 分钟行动。</li></ul>
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 4 次同类型片型拆解与项目复盘，条件为30 秒–5 分钟成片、单平台交付；页面讨论的具体对象是「教程拉片：5 分钟怎么让人学会」；不含外部实验室测试，条件变化时结论可能失效。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“按 5 分钟教程的通用结构，拆 10 个时间码：结果、材料、三步、检查、失败、复盘、下一步、行动。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S42] [Khan Academy：Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对首段“按 5 分钟教程的通用结构，拆 10 个时间码：结果、材料、三步、检查、失败、复盘、下一步、行动。”中的术语与公开背景（故事结构、角色与视觉叙事教学）；不替代现场测试。
 <!-- SOURCES_END -->
 

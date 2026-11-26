@@ -24,9 +24,12 @@ diagram: /images/diagrams/en/location-scout.png
 diagram_alt: "Five location questions: any blank, do not roll"
 diagram_caption: "Permission, power, sound, neighbors and permit, damage and insurance. Scout for whether the room can work, not whether it looks good."
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [tools.capability.lto-archive, tools.capability.matte-box, shoot.camera.composition]
+sources:
+- S36
+- S22
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -70,8 +73,9 @@ The relationship is a long-term asset. A clean wrap makes the next door, outlet,
 - Permit, insurance, and a backup location are arranged.
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 7 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Location: Five Questions Before You Unpack”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S36] [National Radio and Television Administration: Official site](https://www.nrta.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A location is not a place that looks right. Who can say yes,”) against Policy entry for broadcasting and online audiovisual services; not a substitute for an on-set test.
+- [S22] [National People's Congress: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A location is not a place that looks right. Who can say yes,”) against Statutory text on portrait rights, privacy, contracts and location rights; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

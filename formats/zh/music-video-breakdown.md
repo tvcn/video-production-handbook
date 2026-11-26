@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN 片型组
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.music-video.music-video-structure, formats.music-video.music-video-template, story.directing.actor-adjustment]
-source_kind: experience
+source_kind: sourced
+sources:
+- S14
+- S42
 ---
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>验收</h2><ul><li>前 10 秒有一个可重复的母题。</li><li>主歌给空间，不是每句换地点。</li><li>预副歌用景别/空间收窄。</li><li>第一次副歌有动作升级。</li><li>桥段有一个长镜头/静止。</li><li>最终副歌三个母题同框。</li><li>尾奏回到第一个母题，变一点。</li></ul>
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 6 次同类型片型拆解与项目复盘，条件为30 秒–5 分钟成片、单平台交付；页面讨论的具体对象是「MV 拉片：歌的结构怎么变成画面」；不含外部实验室测试，条件变化时结论可能失效。
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“按 3 分半 MV 的通用结构，拆 9 个时间码：前奏母题、主歌、预副歌、副歌、主歌二、桥段、副歌二、尾奏、停留。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S42] [Khan Academy：Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对首段“按 3 分半 MV 的通用结构，拆 9 个时间码：前奏母题、主歌、预副歌、副歌、主歌二、桥段、副歌二、尾奏、停留。”中的术语与公开背景（故事结构、角色与视觉叙事教学）；不替代现场测试。
 <!-- SOURCES_END -->
 

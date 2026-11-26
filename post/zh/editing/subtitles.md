@@ -23,9 +23,12 @@ diagram: /images/diagrams/zh/subtitles.png
 diagram_alt: "字幕的三条线：字数、行数、停留时间"
 diagram_caption: "字幕不是逐字记录。中文一行 12–16 字，英文 32–42 字符，最多两行；读不完就删，不要加速。"
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [post.titles.title-design, post.vfx.tracking, shoot.camera.composition]
+sources:
+- S68
+- S29
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -69,8 +72,9 @@ related: [post.titles.title-design, post.vfx.tracking, shoot.camera.composition]
 - 字幕不挡嘴和手，竖屏留在底部安全区。
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 5 次后期项目复盘，条件为4K 以内素材、常规平台交付；页面讨论的具体对象是「字幕：让观众读完，不是逐字抄」；不含外部实验室测试，条件变化时结论可能失效。
+- [S68] [W3C：WebVTT](https://www.w3.org/TR/webvtt1/) — 2026-11-26 访问。用于核对首段“字幕不是台词的复制件。它要在观众还来不及读的时候，把意思送进去：一行别太长，一句话别断在错的地方，数字和名字要能一眼认出”中的术语与公开背景（字幕格式与时间戳）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“字幕不是台词的复制件。它要在观众还来不及读的时候，把意思送进去：一行别太长，一句话别断在错的地方，数字和名字要能一眼认出”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
 <!-- SOURCES_END -->
 

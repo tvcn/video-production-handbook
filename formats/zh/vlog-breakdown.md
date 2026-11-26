@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN 片型组
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.vlog.vlog-structure, formats.vlog.vlog-template, story.directing.actor-adjustment]
-source_kind: experience
+source_kind: sourced
+sources:
+- S14
+- S29
 ---
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>验收</h2><ul><li>前 3 秒有动作，不是航拍。</li><li>10 秒内知道在哪、和谁、做什么。</li><li>每个地点只做一件事。</li><li>有一个真实阻碍。</li><li>保留一次失败（至少 5 秒）。</li><li>有一个具体发现。</li><li>结尾是离开/安静，不是总结旁白。</li></ul>
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 6 次同类型片型拆解与项目复盘，条件为30 秒–5 分钟成片、单平台交付；页面讨论的具体对象是「Vlog 拉片：90 秒一个发现」；不含外部实验室测试，条件变化时结论可能失效。
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“按 90 秒旅拍 Vlog 的通用结构，拆 8 个时间码：动作、地点、任务、阻碍、失败、发现、安静、离开。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“按 90 秒旅拍 Vlog 的通用结构，拆 8 个时间码：动作、地点、任务、阻碍、失败、发现、安静、离开。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
 <!-- SOURCES_END -->
 

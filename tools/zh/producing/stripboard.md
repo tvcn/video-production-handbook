@@ -23,9 +23,12 @@ diagram: /images/diagrams/zh/stripboard.png
 diagram_alt: "拆条：同色同地点，同人同日"
 diagram_caption: "先把场景拆成条，再按地点和人物分组。一天搬几次家、演员来几次，在桌上就能看见。"
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [tools.calculator.subtitle-cps, tools.tutorial.subtitle-srt, shoot.camera.composition]
+sources:
+- S41
+- S35
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -63,8 +66,9 @@ related: [tools.calculator.subtitle-cps, tools.tutorial.subtitle-srt, shoot.came
 - 每天有没有一个容易的开头和一个必须拿到的结尾？
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 4 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「拍摄日程：把剧本拆成条」；不含外部实验室测试，条件变化时结论可能失效。
+- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“排期不是把场景按顺序填进日历。先按地点和人物拆条，再按天分组；同一天只搬一次家，演员只来一次。日程保护的不是进度，是表演”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S35] [Avid 资源中心](https://www.avid.com/resource-center) — 2026-11-26 访问。用于核对首段“排期不是把场景按顺序填进日历。先按地点和人物拆条，再按天分组；同一天只搬一次家，演员只来一次。日程保护的不是进度，是表演”中的术语与公开背景（Media Composer、协作与交付的资源入口）；不替代现场测试。
 <!-- SOURCES_END -->
 

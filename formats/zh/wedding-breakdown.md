@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN 片型组
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.wedding.wedding-structure, formats.wedding.wedding-template, story.directing.actor-adjustment]
-source_kind: experience
+source_kind: sourced
+sources:
+- S16
+- S43
 ---
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>验收</h2><ul><li>入场/戒指/誓言三件都有保底机位。</li><li>誓言有独立录音，音乐没有盖住。</li><li>家人反应不是摆拍。</li><li>宴会只留两桌具体反应。</li><li>舞会有动作+反应，不是全程慢动作。</li><li>有一个没人看镜头的安静瞬间。</li><li>肖像没有磨皮到失真。</li></ul>
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 7 次同类型片型拆解与项目复盘，条件为30 秒–5 分钟成片、单平台交付；页面讨论的具体对象是「婚礼拉片：6 分钟怎么不拍成流程」；不含外部实验室测试，条件变化时结论可能失效。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“按 6 分钟婚礼片的通用结构，拆 11 个时间码：准备、到场、仪式、誓言、戒指、家人、宴会、舞会、安静、肖像、离开。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S43] [BFI：BFI 国家电影档案](https://www.bfi.org.uk/bfi-national-archive) — 2026-11-26 访问。用于核对首段“按 6 分钟婚礼片的通用结构，拆 11 个时间码：准备、到场、仪式、誓言、戒指、家人、宴会、舞会、安静、肖像、离开。”中的术语与公开背景（英国电影档案、修复与放映资料）；不替代现场测试。
 <!-- SOURCES_END -->
 

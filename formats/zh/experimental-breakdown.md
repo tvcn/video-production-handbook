@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN 片型组
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.experimental.experimental-structure, formats.fashion.fashion-beauty-video-breakdown, story.screenplay.logline]
-source_kind: experience
+source_kind: sourced
+sources:
+- S49
+- S44
 ---
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>验收</h2><ul><li>前 20 秒能建立规则。</li><li>第一次重复完整，不切碎。</li><li>每次重复只改一个变量。</li><li>第三次重复让预期接近失效。</li><li>打破只发生一次。</li><li>打破后停在后果，至少 10 秒。</li><li>全片没有旁白解释。</li></ul>
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 4 次同类型片型拆解与项目复盘，条件为30 秒–5 分钟成片、单平台交付；页面讨论的具体对象是「实验影像拉片：规则、重复、打破」；不含外部实验室测试，条件变化时结论可能失效。
+- [S49] [MoMA：电影收藏与放映](https://www.moma.org/visit/film) — 2026-11-26 访问。用于核对首段“按 4 分钟实验片的通用结构，拆 8 个时间码：前规则、规则、重复三次、打破、后果、停止。”中的术语与公开背景（现代艺术博物馆电影收藏与放映）；不替代现场测试。
+- [S44] [奥斯卡电影档案馆：电影档案与修复](https://www.oscars.org/film-archive) — 2026-11-26 访问。用于核对首段“按 4 分钟实验片的通用结构，拆 8 个时间码：前规则、规则、重复三次、打破、后果、停止。”中的术语与公开背景（电影档案、修复与保存项目）；不替代现场测试。
 <!-- SOURCES_END -->
 

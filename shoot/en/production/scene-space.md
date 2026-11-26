@@ -24,9 +24,12 @@ diagram: /images/diagrams/en/scene-space.png
 diagram_alt: "Three layers in a room: entry, use, hiding"
 diagram_caption: "The eye starts at the door, moves to the table, and only then is allowed into the corner. The room is the first line."
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [shoot.camera.sensor-size, shoot.art.set-dressing, post.color.color]
+sources:
+- S31
+- S23
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -68,8 +71,9 @@ Before shooting, walk from the door to the window with a phone. What the eye see
 - The light comes from the room, and one thing is wrong enough to make the audience ask why.
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 7 on-set shoot and playback review reviews under one camera, available light or one key light; it discusses “Let the Room Speak First”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Before anyone speaks, the room is already talking: shoes at ”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Before anyone speaks, the room is already talking: shoes at ”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

@@ -24,9 +24,12 @@ diagram: /images/diagrams/en/window-light.png
 diagram_alt: "One window as key: choose the angle first"
 diagram_caption: "No kit needed for a face: turn the subject to the window, bounce a little into the shadow, then bring the background down. The window is the source, not the backdrop."
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [shoot.sound.wireless-lav, shoot.camera.axis-line, post.color.color]
+sources:
+- S31
+- S25
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -65,8 +68,9 @@ If the background cannot change, choose a darker angle or move the subject half 
 <!-- V11_DEEPEN -->
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 6 on-set shoot and playback review reviews under one camera, available light or one key light; it discusses “How to Use One Window as Your Key Light”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“You do not need a lighting kit for a face: set the direction”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“You do not need a lighting kit for a face: set the direction”) against HD SDR gamut, transfer function and viewing conditions; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

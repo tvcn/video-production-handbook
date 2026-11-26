@@ -47,7 +47,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S24] [ACES Color Management](https://www.oscars.org/science-technology/aces) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“HDR is not brightening SDR. It preserves one luminance relat”) against Official ACES color pipeline documentation; not a substitute for an on-set test.
+- [S24] [ACESCentral: ACES](https://acescentral.com/) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“HDR is not brightening SDR. It preserves one luminance relat”) against ACES color encoding, ACEScg and delivery/archive workflows; not a substitute for an on-set test.
 - [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“HDR is not brightening SDR. It preserves one luminance relat”) against Wide-gamut and parameter definitions for UHD/HDR; not a substitute for an on-set test.
 - [S28] [Netflix Partner Help](https://partnerhelp.netflixstudios.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“HDR is not brightening SDR. It preserves one luminance relat”) against Public entry for delivery specs, HDR/SDR and QC; not a substitute for an on-set test.
 - [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“HDR is not brightening SDR. It preserves one luminance relat”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.

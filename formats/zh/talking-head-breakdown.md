@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN 片型组
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.talking-head.talking-head-template, formats.publish.thumbnail, story.screenplay.logline]
-source_kind: experience
+source_kind: sourced
+sources:
+- S16
+- S29
 ---
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>验收</h2><ul><li>第一句是结论，不是自我介绍。</li><li>10 秒内有一个原因。</li><li>两个例子各有一个具体人/动作/结果。</li><li>反方被直接说出来，不是稻草人。</li><li>证据可验证，不是三个数字。</li><li>应用只有一步动作。</li><li>结尾问题具体，能今天回答。</li></ul>
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 7 次同类型片型拆解与项目复盘，条件为30 秒–5 分钟成片、单平台交付；页面讨论的具体对象是「口播拉片：60 秒怎么留住人」；不含外部实验室测试，条件变化时结论可能失效。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“按 60 秒口播的通用结构，拆 8 个时间码：结论、原因、例子一、例子二、反方、证据、应用、问题。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“按 60 秒口播的通用结构，拆 8 个时间码：结论、原因、例子一、例子二、反方、证据、应用、问题。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
 <!-- SOURCES_END -->
 

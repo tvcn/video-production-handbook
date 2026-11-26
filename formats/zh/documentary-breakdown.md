@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN 片型组
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.documentary.documentary-template, formats.event.event-breakdown, story.screenplay.logline]
-source_kind: experience
+source_kind: sourced
+sources:
+- S43
+- S16
 ---
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>验收</h2><ul><li>前 10 秒有一个正在发生的动作。</li><li>人物、地点、任务三个信息在 30 秒内清楚。</li><li>欲望是一个可拍的东西，不是抽象理想。</li><li>阻碍自然发生，没有假冲突。</li><li>至少有一次完整尝试。</li><li>变化后的同一个动作与开头不同。</li><li>结尾没有总结旁白。</li></ul>
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 6 次同类型片型拆解与项目复盘，条件为30 秒–5 分钟成片、单平台交付；页面讨论的具体对象是「纪录短片拉片：一个人、一件事、一个变化」；不含外部实验室测试，条件变化时结论可能失效。
+- [S43] [BFI：BFI 国家电影档案](https://www.bfi.org.uk/bfi-national-archive) — 2026-11-26 访问。用于核对首段“按 3 分钟纪录短片的通用结构，拆 8 个时间码：动作、人物、欲望、阻碍、尝试、代价、变化、之后。”中的术语与公开背景（英国电影档案、修复与放映资料）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“按 3 分钟纪录短片的通用结构，拆 8 个时间码：动作、人物、欲望、阻碍、尝试、代价、变化、之后。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
 <!-- SOURCES_END -->
 

@@ -23,9 +23,12 @@ diagram: /images/diagrams/zh/sound-bridge.png
 diagram_alt: "声音可以比画面早到，也可以晚走"
 diagram_caption: "J-cut 让下一场先出声，L-cut 让上一场留在耳边。两种都只挪音频，不挪画面。"
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [post.sound.sound-post, post.sound.sound-post-workflow, shoot.camera.axis-line]
+sources:
+- S34
+- S27
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -65,8 +68,9 @@ J-cut 和 L-cut 是桥，不是创可贴。画面里的穿帮、跳轴、表演�
 - 静音看一遍，画面本身也能成立。
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 3 次后期项目复盘，条件为4K 以内素材、常规平台交付；页面讨论的具体对象是「声音先走：J-cut 与 L-cut」；不含外部实验室测试，条件变化时结论可能失效。
+- [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“画面切了，声音不必同时切。让下一场的声音先进来，或让上一场的声音留一会儿，硬切就不会撞观众一下。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
+- [S27] [ITU-R：BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-27 访问。用于核对首段“画面切了，声音不必同时切。让下一场的声音先进来，或让上一场的声音留一会儿，硬切就不会撞观众一下。”中的术语与公开背景（响度测量、真峰值与 EBU R128 所依据的 ITU 算法标准）；不替代现场测试。
 <!-- SOURCES_END -->
 

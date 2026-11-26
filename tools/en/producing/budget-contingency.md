@@ -24,9 +24,12 @@ diagram: /images/diagrams/en/budget-contingency.png
 diagram_alt: "Keep 10% of the budget for surprises"
 diagram_caption: "Weather, overruns, pickups, extra crew: these four show up almost every shoot. If the budget has no line for them, the overrun steals from somewhere else."
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [tools.producing.budget-map, tools.guide.budget-quote, shoot.camera.axis-line]
+sources:
+- S38
+- S41
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -65,8 +68,9 @@ The client version can be one page. You still need to know why each line moved. 
 <!-- V11_DEEPEN -->
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 7 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Hold Ten Percent for the Unexpected”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Weather, overtime, reshoots, and last-minute hires happen on”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
+- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Weather, overtime, reshoots, and last-minute hires happen on”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

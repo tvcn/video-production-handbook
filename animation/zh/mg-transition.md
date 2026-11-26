@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN 动画组
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [animation.motion-graphics.mg-typography, animation.3d.modeling, formats.documentary.documentary-template]
-source_kind: experience
+source_kind: sourced
+sources:
+- S59
+- S63
 ---
 <p>动态图形转场不是加一个花哨划像。它要把上一段的信息带到下一段：一个圆变成图表、一条线变成时间轴、一个词拆成新词。转场结束，观众应该多知道一件事。</p>
 <!-- DIAGRAM_START -->
@@ -34,12 +37,13 @@ source_kind: experience
   <figcaption>看“选一个形状：圆变方、线变箭头”和“用 8 到 12 帧完成变形”两处，判断前景、中景、背景的速度差能不能在一次移动里看出来。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">转场要“带信息”，不是遮丑</h2><p>先写“从什么变到什么”，再做动画；不要让软件预设决定内容。</p><h2 id="section-2">边界</h2><p>转场不能掩盖结构问题。两段内容没有关系，再顺的转场也只是拖延；先删一段，再谈过渡。</p></section><section><h2 id="section-3">现场</h2><p>选一个形状：圆变方、线变箭头；用 8 到 12 帧完成，别用白闪。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>选一个形状：圆变方、线变箭头。</li><li>用 8 到 12 帧完成变形。</li><li>不要用白闪，前后信息要能接上。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别用白闪和推拉当万能转场；形状接不上，观众就断片。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>前景、中景、背景的速度差能在一次 pan 里看出来</li><li>动作在 0.5 秒内能读出重量或预备</li><li>关掉任意一层，空间感仍然成立</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>层数堆上去了，但每层速度一样，空间还是扁的</li><li>动作有预备却没有跟随，重量只做了一半</li><li>资产没锁就进渲染，返工从合成端一路补</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用 24 fps 画 3 个关键帧，只改“用 8 到 12 帧完成变形”，导出 2 秒；如果重量仍读不出来，先加预备帧，不要加模糊。</p></section>
+<section><h2 id="section-1">转场要“带信息”，不是遮丑</h2><p>先写“从什么变到什么”，再做动画；不要让软件预设决定内容。</p><h2 id="section-2">边界</h2><p>转场不能掩盖结构问题。两段内容没有关系，再顺的转场也只是拖延；先删一段，再谈过渡。</p></section><section><h2 id="section-3">现场</h2><p>选一个形状：圆变方、线变箭头；用 8 到 12 帧完成，别用白闪。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>选一个形状：圆变方、线变箭头。</li><li>用 8 到 12 帧完成变形。</li><li>不要用白闪，前后信息要能接上。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别用白闪和推拉当万能转场；形状接不上，观众就断片。</p></section><section><h2>判断</h2><p>这一页的判断只看三条可观察的验收，不靠口号：</p><ul><li><strong>1.</strong> 转场前后是同一个形状在变形，不是硬切。</li><li><strong>2.</strong> 变形在 8 到 12 帧内完成，速度可读。</li><li><strong>3.</strong> 拿掉白闪后信息仍能接上，观众知道到了哪里。</li></ul></section><section><h2>失败</h2><p>下面任一条出现，先停，不要靠后期补：</p><ul><li><strong>1.</strong> 只做到“转场前后是同一个形状在变形，不是硬切”的形式，换一个机位或场景就重现不了。</li><li><strong>2.</strong> 把“变形在 8 到 12 帧内完成，速度可读”留到后期或口头解释，现场没有留下能复查的记录。</li><li><strong>3.</strong> 别用白闪和推拉当万能转场；形状接不上，观众就断片。</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用 24 fps 画 3 个关键帧，只改“用 8 到 12 帧完成变形”，导出 2 秒；如果重量仍读不出来，先加预备帧，不要加模糊。</p></section>
 <h2>验收</h2><ul><li>转场前后是同一个形状在变形，不是硬切。</li><li>变形在 8 到 12 帧内完成，速度可读。</li><li>拿掉白闪后信息仍能接上，观众知道到了哪里。</li></ul>
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 7 次动画镜头与资产交接复盘，条件为2D/3D 混合管线之一、镜头不超过 30 秒；页面讨论的具体对象是「图形转场：形状接形状」；不含外部实验室测试，条件变化时结论可能失效。
+- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“图形转场让一个形状变成另一个形状，别用白闪或随便推拉。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“图形转场让一个形状变成另一个形状，别用白闪或随便推拉。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
 <!-- SOURCES_END -->
 

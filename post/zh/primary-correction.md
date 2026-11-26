@@ -46,7 +46,7 @@ source_kind: sourced
   <figcaption>看“先拍灰卡或色卡，黑位压到 0 到 5…”和“同场镜头逐条对齐曝光和白平衡，再看肤…”两处，判断剪掉一个镜头后，节奏是更快还是更乱。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">先把所有镜头拉回同一条起跑线</h2><p>顺序：曝光归一 → 白平衡归一 → 对比度归一 → 镜头之间跳切检查。任何一步没统一，二级校正只会把偏色锁死。</p><h2 id="section-2">边界</h2><p>一级校正不是“每个镜头都调成一样亮”。不同景别、不同光位允许有差异；统一的是基准，不是画面情绪。</p></section><section><h2 id="section-3">现场</h2><p>先拍一张灰卡或色卡：黑位压到 0 到 5，白位不超过 100；同场镜头逐条对齐，再看肤色线。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>先拍灰卡或色卡，黑位压到 0 到 5，白位不超过 100。</li><li>同场镜头逐条对齐曝光和白平衡，再看肤色线。</li><li>技术问题清零后，才加对比和风格。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别用 LUT 掩盖技术问题；它会把问题染得更好看。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>剪掉一个镜头，节奏更快而不是更乱</li><li>示波器上肤色、高光和黑位都在范围内</li><li>响度、字幕和文件规格能过一次交付检查</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>剪辑点跟着音乐，不跟动作</li><li>先定风格再统一，镜头之间跳色</li><li>交付前没查响度和字幕，最后一遍才发现</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>拿一段 30 秒素材做 A/B，只改“先拍灰卡或色卡，黑位压到 0 到 5…”；记下一个时间码和一处差异，再决定是否保留。</p></section>
+<section><h2 id="section-1">先把所有镜头拉回同一条起跑线</h2><p>顺序：曝光归一 → 白平衡归一 → 对比度归一 → 镜头之间跳切检查。任何一步没统一，二级校正只会把偏色锁死。</p><h2 id="section-2">边界</h2><p>一级校正不是“每个镜头都调成一样亮”。不同景别、不同光位允许有差异；统一的是基准，不是画面情绪。</p></section><section><h2 id="section-3">现场</h2><p>先拍一张灰卡或色卡：黑位压到 0 到 5，白位不超过 100；同场镜头逐条对齐，再看肤色线。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>先拍灰卡或色卡，黑位压到 0 到 5，白位不超过 100。</li><li>同场镜头逐条对齐曝光和白平衡，再看肤色线。</li><li>技术问题清零后，才加对比和风格。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别用 LUT 掩盖技术问题；它会把问题染得更好看。</p></section><section><h2>判断</h2><p>这一页的判断只看三条可观察的验收，不靠口号：</p><ul><li><strong>1.</strong> 同场镜头的黑位和白位对齐，切点不跳。</li><li><strong>2.</strong> 肤色线落在同一区域，没有一条偏绿一条偏红。</li><li><strong>3.</strong> 关掉风格 LUT 后，画面技术仍然成立。</li></ul></section><section><h2>失败</h2><p>下面任一条出现，先停，不要靠后期补：</p><ul><li><strong>1.</strong> 只做到“同场镜头的黑位和白位对齐，切点不跳”的形式，换一个机位或场景就重现不了。</li><li><strong>2.</strong> 把“肤色线落在同一区域，没有一条偏绿一条偏红”留到后期或口头解释，现场没有留下能复查的记录。</li><li><strong>3.</strong> 别用 LUT 掩盖技术问题；它会把问题染得更好看。</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>拿一段 30 秒素材做 A/B，只改“先拍灰卡或色卡，黑位压到 0 到 5…”；记下一个时间码和一处差异，再决定是否保留。</p></section>
 <h2>验收</h2><ul><li>同场镜头的黑位和白位对齐，切点不跳。</li><li>肤色线落在同一区域，没有一条偏绿一条偏红。</li><li>关掉风格 LUT 后，画面技术仍然成立。</li></ul>
 
 <!-- DEEP_DIVE_START -->
@@ -71,8 +71,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S24] [ACES 色彩管理](https://www.oscars.org/science-technology/aces) — 2026-11-26 访问。用于核对首段“一级校正先解决曝光和白平衡，别用风格掩盖技术问题。”中的术语与公开背景（ACES 色彩管线的官方说明与规范）；不替代现场测试。
-- [S27] [EBU R128 响度](https://tech.ebu.ch/publications/r128) — 2026-11-26 访问。用于核对首段“一级校正先解决曝光和白平衡，别用风格掩盖技术问题。”中的术语与公开背景（广播响度目标、真峰值与测量方法）；不替代现场测试。
+- [S24] [ACESCentral：ACES：Academy Color Encoding System](https://acescentral.com/) — 2026-11-27 访问。用于核对首段“一级校正先解决曝光和白平衡，别用风格掩盖技术问题。”中的术语与公开背景（ACES 色彩编码、ACEScg 与交付/归档工作流）；不替代现场测试。
+- [S27] [ITU-R：BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-27 访问。用于核对首段“一级校正先解决曝光和白平衡，别用风格掩盖技术问题。”中的术语与公开背景（响度测量、真峰值与 EBU R128 所依据的 ITU 算法标准）；不替代现场测试。
 - [S28] [Netflix 制作与交付帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对首段“一级校正先解决曝光和白平衡，别用风格掩盖技术问题。”中的术语与公开背景（平台交付规格、HDR/SDR 与 QC 要求的公开入口）；不替代现场测试。
 - [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“一级校正先解决曝光和白平衡，别用风格掩盖技术问题。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
 - [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“一级校正先解决曝光和白平衡，别用风格掩盖技术问题。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。

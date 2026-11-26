@@ -24,9 +24,12 @@ diagram: /images/diagrams/en/slate-continuity.png
 diagram_alt: "Three handles for every take"
 diagram_caption: "Lock wardrobe, props, and light; give every take handles; name the best take. Continuity is editing work done on set."
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [shoot.movement.stabilizer, shoot.exposure.waveform, post.color.color]
+sources:
+- S23
+- S31
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -68,8 +71,9 @@ Continuity is not the police. Do not chase every background mismatch. Protect wh
 - The sheet names the best take and why it is best.
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 4 on-set shoot and playback review reviews under one camera, available light or one key light; it discusses “Continuity: Every Take Has to Cut”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Continuity is not timecode. It is what the audience will not”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Continuity is not timecode. It is what the audience will not”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

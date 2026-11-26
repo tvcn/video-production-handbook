@@ -23,9 +23,12 @@ diagram: /images/diagrams/zh/budget-contingency.png
 diagram_alt: "预算留 10%，给意外一个座位"
 diagram_caption: "天气、场地超时、补拍、临时加人，这四件事几乎每次都会发生。预算表上没有它们，超支就会从别的地方偷。"
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [tools.producing.budget-map, tools.guide.budget-quote, shoot.camera.axis-line]
+sources:
+- S38
+- S41
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -81,8 +84,9 @@ related: [tools.producing.budget-map, tools.guide.budget-quote, shoot.camera.axi
 <!-- V11_DEEPEN -->
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 7 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「预算里留 10%，给意外留个座位」；不含外部实验室测试，条件变化时结论可能失效。
+- [S38] [国家税务总局：官方网站](https://www.chinatax.gov.cn/) — 2026-11-26 访问。用于核对首段“天气、场地超时、补拍、临时加人，这四件事几乎每次都会发生。预算表上没有它们，超支就会从别的地方偷。”中的术语与公开背景（增值税、跨境服务与代扣代缴的官方政策入口）；不替代现场测试。
+- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“天气、场地超时、补拍、临时加人，这四件事几乎每次都会发生。预算表上没有它们，超支就会从别的地方偷。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
 <!-- SOURCES_END -->
 

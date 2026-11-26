@@ -46,7 +46,7 @@ source_kind: sourced
   <figcaption>看“用 ProRes Proxy 或四分…”和“把原始素材设为只读，剪辑只碰代理”两处，判断剪掉一个镜头后，节奏是更快还是更乱。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">代理是剪辑副本，不是交付文件</h2><p>代理分辨率按时间线需求选，不要一律最小；多机位项目先测一台机器同时播放几条，再决定码率。</p><h2 id="section-2">边界</h2><p>代理和原素材必须能一一对应。改名、丢时间码或混放不同帧率，会让回批变成手工找文件。交付前检查母版链接的是原素材，不是代理。</p></section><section><h2 id="section-3">现场</h2><p>代理用 ProRes Proxy 或四分之一分辨率，放独立 SSD；原始素材设只读，剪辑只碰代理，交付前回套。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>用 ProRes Proxy 或四分之一分辨率生成代理，放在独立 SSD。</li><li>把原始素材设为只读，剪辑只碰代理。</li><li>交付前回套原始，逐条确认没有误用代理。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别把代理当母版；回套前交付，画质会露馅。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>剪掉一个镜头，节奏更快而不是更乱</li><li>示波器上肤色、高光和黑位都在范围内</li><li>响度、字幕和文件规格能过一次交付检查</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>剪辑点跟着音乐，不跟动作</li><li>先定风格再统一，镜头之间跳色</li><li>交付前没查响度和字幕，最后一遍才发现</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>拿一段 30 秒素材做 A/B，只改“用 ProRes Proxy 或四分…”；记下一个时间码和一处差异，再决定是否保留。</p></section>
+<section><h2 id="section-1">代理是剪辑副本，不是交付文件</h2><p>代理分辨率按时间线需求选，不要一律最小；多机位项目先测一台机器同时播放几条，再决定码率。</p><h2 id="section-2">边界</h2><p>代理和原素材必须能一一对应。改名、丢时间码或混放不同帧率，会让回批变成手工找文件。交付前检查母版链接的是原素材，不是代理。</p></section><section><h2 id="section-3">现场</h2><p>代理用 ProRes Proxy 或四分之一分辨率，放独立 SSD；原始素材设只读，剪辑只碰代理，交付前回套。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>用 ProRes Proxy 或四分之一分辨率生成代理，放在独立 SSD。</li><li>把原始素材设为只读，剪辑只碰代理。</li><li>交付前回套原始，逐条确认没有误用代理。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别把代理当母版；回套前交付，画质会露馅。</p></section><section><h2>判断</h2><p>这一页的判断只看三条可观察的验收，不靠口号：</p><ul><li><strong>1.</strong> 代理和原始分盘存放，原始文件夹是只读的。</li><li><strong>2.</strong> 时间线只引用代理，文件名和路径能一一对应。</li><li><strong>3.</strong> 回套原始后随机抽三个镜头，分辨率和细节回到原档。</li></ul></section><section><h2>失败</h2><p>下面任一条出现，先停，不要靠后期补：</p><ul><li><strong>1.</strong> 只做到“代理和原始分盘存放，原始文件夹是只读的”的形式，换一个机位或场景就重现不了。</li><li><strong>2.</strong> 把“时间线只引用代理，文件名和路径能一一对应”留到后期或口头解释，现场没有留下能复查的记录。</li><li><strong>3.</strong> 别把代理当母版；回套前交付，画质会露馅。</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>拿一段 30 秒素材做 A/B，只改“用 ProRes Proxy 或四分…”；记下一个时间码和一处差异，再决定是否保留。</p></section>
 <h2>验收</h2><ul><li>代理和原始分盘存放，原始文件夹是只读的。</li><li>时间线只引用代理，文件名和路径能一一对应。</li><li>回套原始后随机抽三个镜头，分辨率和细节回到原档。</li></ul>
 
 <!-- DEEP_DIVE_START -->
@@ -71,8 +71,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S24] [ACES 色彩管理](https://www.oscars.org/science-technology/aces) — 2026-11-26 访问。用于核对首段“代理不是降低成片质量，是让剪辑先跑起来；原始素材永远留在旁边。”中的术语与公开背景（ACES 色彩管线的官方说明与规范）；不替代现场测试。
-- [S27] [EBU R128 响度](https://tech.ebu.ch/publications/r128) — 2026-11-26 访问。用于核对首段“代理不是降低成片质量，是让剪辑先跑起来；原始素材永远留在旁边。”中的术语与公开背景（广播响度目标、真峰值与测量方法）；不替代现场测试。
+- [S24] [ACESCentral：ACES：Academy Color Encoding System](https://acescentral.com/) — 2026-11-27 访问。用于核对首段“代理不是降低成片质量，是让剪辑先跑起来；原始素材永远留在旁边。”中的术语与公开背景（ACES 色彩编码、ACEScg 与交付/归档工作流）；不替代现场测试。
+- [S27] [ITU-R：BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-27 访问。用于核对首段“代理不是降低成片质量，是让剪辑先跑起来；原始素材永远留在旁边。”中的术语与公开背景（响度测量、真峰值与 EBU R128 所依据的 ITU 算法标准）；不替代现场测试。
 - [S28] [Netflix 制作与交付帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对首段“代理不是降低成片质量，是让剪辑先跑起来；原始素材永远留在旁边。”中的术语与公开背景（平台交付规格、HDR/SDR 与 QC 要求的公开入口）；不替代现场测试。
 - [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“代理不是降低成片质量，是让剪辑先跑起来；原始素材永远留在旁边。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
 - [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“代理不是降低成片质量，是让剪辑先跑起来；原始素材永远留在旁边。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。

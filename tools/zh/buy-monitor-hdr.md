@@ -47,7 +47,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S24] [ACES 色彩管理](https://www.oscars.org/science-technology/aces) — 2026-11-26 访问。用于核对首段“HDR 监看要看峰值、黑位、色域、色调映射和校准。只看“1000 nit”会买到一台高亮但高光全糊的屏。”中的术语与公开背景（ACES 色彩管线的官方说明与规范）；不替代现场测试。
+- [S24] [ACESCentral：ACES：Academy Color Encoding System](https://acescentral.com/) — 2026-11-27 访问。用于核对首段“HDR 监看要看峰值、黑位、色域、色调映射和校准。只看“1000 nit”会买到一台高亮但高光全糊的屏。”中的术语与公开背景（ACES 色彩编码、ACEScg 与交付/归档工作流）；不替代现场测试。
 - [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — 2026-11-26 访问。用于核对首段“HDR 监看要看峰值、黑位、色域、色调映射和校准。只看“1000 nit”会买到一台高亮但高光全糊的屏。”中的术语与公开背景（UHD/HDR 的宽色域与参数定义）；不替代现场测试。
 - [S28] [Netflix 制作与交付帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对首段“HDR 监看要看峰值、黑位、色域、色调映射和校准。只看“1000 nit”会买到一台高亮但高光全糊的屏。”中的术语与公开背景（平台交付规格、HDR/SDR 与 QC 要求的公开入口）；不替代现场测试。
 - [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“HDR 监看要看峰值、黑位、色域、色调映射和校准。只看“1000 nit”会买到一台高亮但高光全糊的屏。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。

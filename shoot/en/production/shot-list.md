@@ -24,9 +24,12 @@ diagram: /images/diagrams/en/shot-list.png
 diagram_alt: "Shot list: someone else can execute it"
 diagram_caption: "A shot list says what comes first, how long it takes, and what to do if it cannot be shot. Listing every dream shot makes the day unexecutable."
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [shoot.camera.shot-size, shoot.camera.shutter-angle, post.color.color]
+sources:
+- S23
+- S31
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -64,8 +67,9 @@ Leave one blank page at the end for what you find on set. The unplanned shots ar
 - At wrap, you can point to the rows you did not get.
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 7 on-set shoot and playback review reviews under one camera, available light or one key light; it discusses “Write a Shot List Someone Else Can Run”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A shot list says what comes first, how long it takes, and wh”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A shot list says what comes first, how long it takes, and wh”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

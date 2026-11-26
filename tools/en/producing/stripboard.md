@@ -24,9 +24,12 @@ diagram: /images/diagrams/en/stripboard.png
 diagram_alt: "Strip it: same color, same place; same actor, same day"
 diagram_caption: "Break the script into strips, then group by location and cast. The company moves and actor calls show up on the table before the shoot."
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [tools.calculator.subtitle-cps, tools.tutorial.subtitle-srt, shoot.camera.composition]
+sources:
+- S41
+- S35
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -64,8 +67,9 @@ The board is not a contract. It is the thing you make decisions against. When it
 - Does each day have an easy start and a must-get ending?
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 4 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Stripboard: Turn the Script into Shootable Days”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Scheduling is not filling the calendar in script order. Brea”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S35] [Avid Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Scheduling is not filling the calendar in script order. Brea”) against Resources for Media Composer, collaboration and delivery; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

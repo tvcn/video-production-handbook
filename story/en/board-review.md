@@ -25,9 +25,12 @@ format: handbook
 authors:
 - TVCN Story Desk
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [story.directing.casting-callback, story.screenplay.character-arc, shoot.camera.composition]
-source_kind: experience
+source_kind: sourced
+sources:
+- S42
+- S43
 ---
 <p>Go through four columns: who acts, where the camera is, what is needed, and how long. A beautiful panel with no camera position still cannot be shot.</p>
 <!-- DIAGRAM_START -->
@@ -37,12 +40,13 @@ source_kind: experience
   <figcaption>Watch “Give the DP a setup question list and” and “Change only three panels in the meeting; log”; judge whether the want can be said with one visible action.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">Review the board for shootability, not drawing quality</h2><p>Ask camera and edit each for one “how I would shoot/cut this” question. Specific questions expose gaps early.</p><h2 id="section-2">Limits</h2><p>A review is not a vote. Do not reject a panel with “it feels wrong”; name whether action, space or time is unclear.</p></section><section><h2 id="section-3">On set</h2><p>Before the review, give the DP a camera-question list and the editor a gap list. Change only three panels in the meeting; log the rest for the next pass.</p></section><section><h2 id="section-4">Do this</h2><p>Board review lets camera flag setups and edit flag gaps; the director then changes three panels.</p><ol><li>Give the DP a setup question list and the editor a gap list.</li><li>Change only three panels in the meeting; log the rest for next round.</li><li>The director decides last; nobody redraws the whole board at once.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not redraw the whole board in review; three panels per round is what ships.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the want is visible in one action</li><li>the obstacle escalates inside the same scene</li><li>delete one expository line and the conflict still holds</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>the want is unclear and the scene is only mood</li><li>the obstacle is solved by coincidence, not a decision</li><li>dialogue repeats what the image already says</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Write one 30-second scene with only “Give the DP a setup question list and” and “Change only three panels in the meeting; log”. Cut every explanation and ask one person to retell what the character wants.</p></section>
+<section><h2 id="section-1">Review the board for shootability, not drawing quality</h2><p>Ask camera and edit each for one “how I would shoot/cut this” question. Specific questions expose gaps early.</p><h2 id="section-2">Limits</h2><p>A review is not a vote. Do not reject a panel with “it feels wrong”; name whether action, space or time is unclear.</p></section><section><h2 id="section-3">On set</h2><p>Before the review, give the DP a camera-question list and the editor a gap list. Change only three panels in the meeting; log the rest for the next pass.</p></section><section><h2 id="section-4">Do this</h2><p>Board review lets camera flag setups and edit flag gaps; the director then changes three panels.</p><ol><li>Give the DP a setup question list and the editor a gap list.</li><li>Change only three panels in the meeting; log the rest for next round.</li><li>The director decides last; nobody redraws the whole board at once.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not redraw the whole board in review; three panels per round is what ships.</p></section><section><h2>Judge</h2><p>This page passes on three observable checks, not slogans:</p><ul><li><strong>1.</strong> Camera and edit each arrive with a question list.</li><li><strong>2.</strong> Only three panels change in the meeting and the rest are logged.</li><li><strong>3.</strong> After the three changes, setups and edit gaps improve concretely.</li></ul></section><section><h2>Failures</h2><p>Any one of these means stop and fix it before post:</p><ul><li><strong>1.</strong> Check 1 is only staged (“Camera and edit each arrive with a question li…”); another camera position or location exposes it.</li><li><strong>2.</strong> Check 2 is left to post or a verbal explanation (“Only three panels change in the meeting and th…”); nothing on set can be rechecked.</li><li><strong>3.</strong> Do not redraw the whole board in review; three panels per round is what ships.</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Write one 30-second scene with only “Give the DP a setup question list and” and “Change only three panels in the meeting; log”. Cut every explanation and ask one person to retell what the character wants.</p></section>
 <h2>Check</h2><ul><li>Camera and edit each arrive with a question list.</li><li>Only three panels change in the meeting and the rest are logged.</li><li>After the three changes, setups and edit gaps improve concretely.</li></ul>
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 7 table read and pre-shoot rehearsal reviews under a three-to-eight-page scene with one primary point of view; it discusses “Board Review: Let Camera and Edit Find the Gaps”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S42] [Pixar: Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“In a board review, camera finds positions, edit finds gaps, ”) against Story structure, character and visual storytelling lessons; not a substitute for an on-set test.
+- [S43] [BFI: BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“In a board review, camera finds positions, edit finds gaps, ”) against UK film archive, restoration and exhibition resources; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

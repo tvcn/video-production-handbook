@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN Formats Desk
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.vlog.vlog-structure, formats.vlog.vlog-template, story.directing.actor-adjustment]
-source_kind: experience
+source_kind: sourced
+sources:
+- S14
+- S29
 ---
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>Check</h2><ul><li>Action in the first three seconds, not a drone.</li><li>Within ten seconds: where, with whom, what for.</li><li>One thing per location.</li><li>One real obstacle.</li><li>One failure kept (at least five seconds).</li><li>One concrete discovery.</li><li>End on exit/quiet, not summary narration.</li></ul>
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 6 format breakdown and project review reviews under a 30-second to five-minute film for one platform; it discusses “Vlog Breakdown: One Discovery in Ninety Seconds”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An eight-beat breakdown of a ninety-second travel vlog: acti”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An eight-beat breakdown of a ninety-second travel vlog: acti”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

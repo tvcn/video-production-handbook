@@ -99,8 +99,8 @@ verified: 2026-11-22
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S24] [ACES 色彩管理](https://www.oscars.org/science-technology/aces) — 2026-11-26 访问。用于核对首段“粗剪只做一件事：让陌生人看懂谁想要什么、被什么挡住。节奏、调色、配乐都往后放。”中的术语与公开背景（ACES 色彩管线的官方说明与规范）；不替代现场测试。
-- [S27] [EBU R128 响度](https://tech.ebu.ch/publications/r128) — 2026-11-26 访问。用于核对首段“粗剪只做一件事：让陌生人看懂谁想要什么、被什么挡住。节奏、调色、配乐都往后放。”中的术语与公开背景（广播响度目标、真峰值与测量方法）；不替代现场测试。
+- [S24] [ACESCentral：ACES：Academy Color Encoding System](https://acescentral.com/) — 2026-11-27 访问。用于核对首段“粗剪只做一件事：让陌生人看懂谁想要什么、被什么挡住。节奏、调色、配乐都往后放。”中的术语与公开背景（ACES 色彩编码、ACEScg 与交付/归档工作流）；不替代现场测试。
+- [S27] [ITU-R：BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-27 访问。用于核对首段“粗剪只做一件事：让陌生人看懂谁想要什么、被什么挡住。节奏、调色、配乐都往后放。”中的术语与公开背景（响度测量、真峰值与 EBU R128 所依据的 ITU 算法标准）；不替代现场测试。
 - [S28] [Netflix 制作与交付帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对首段“粗剪只做一件事：让陌生人看懂谁想要什么、被什么挡住。节奏、调色、配乐都往后放。”中的术语与公开背景（平台交付规格、HDR/SDR 与 QC 要求的公开入口）；不替代现场测试。
 - [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“粗剪只做一件事：让陌生人看懂谁想要什么、被什么挡住。节奏、调色、配乐都往后放。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
 - [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“粗剪只做一件事：让陌生人看懂谁想要什么、被什么挡住。节奏、调色、配乐都往后放。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。

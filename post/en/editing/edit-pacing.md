@@ -87,7 +87,7 @@ If a scene feels long no matter what, check whether it delivers new information.
 ## References and further reading
 
 - [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Fast cuts do not make a film good. Cut the explanation, land”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
-- [S27] [EBU R128 Loudness](https://tech.ebu.ch/publications/r128) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Fast cuts do not make a film good. Cut the explanation, land”) against Broadcast loudness targets, true peak and measurement; not a substitute for an on-set test.
+- [S27] [ITU-R: BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“Fast cuts do not make a film good. Cut the explanation, land”) against ITU algorithms for loudness measurement and true peak, the basis referenced by EBU R128; not a substitute for an on-set test.
 - [S67] [IETF: RFC 8216: HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Fast cuts do not make a film good. Cut the explanation, land”) against HLS segments, playlists and playback; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

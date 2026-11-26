@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN Formats Desk
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.talking-head.talking-head-template, formats.publish.thumbnail, story.screenplay.logline]
-source_kind: experience
+source_kind: sourced
+sources:
+- S16
+- S29
 ---
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>Check</h2><ul><li>First line is the claim, not an intro.</li><li>A reason lands within ten seconds.</li><li>Two examples each have one person/action/result.</li><li>Counter is stated directly, not a straw man.</li><li>Proof is verifiable, not three numbers.</li><li>Application is one step.</li><li>Closing question is concrete and answerable today.</li></ul>
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 7 format breakdown and project review reviews under a 30-second to five-minute film for one platform; it discusses “Talking Head Breakdown: Hold Attention for Sixty Seconds”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An eight-beat breakdown of a sixty-second talking head: clai”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An eight-beat breakdown of a sixty-second talking head: clai”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

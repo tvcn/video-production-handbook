@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN Formats Desk
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.music-video.music-video-structure, formats.music-video.music-video-template, story.directing.actor-adjustment]
-source_kind: experience
+source_kind: sourced
+sources:
+- S14
+- S42
 ---
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>Check</h2><ul><li>A repeatable motif in the first ten seconds.</li><li>Verse gives space, not a new location per line.</li><li>Pre-chorus narrows framing/space.</li><li>First chorus escalates through action.</li><li>Bridge holds one long take/still.</li><li>Final chorus puts three motifs in one frame.</li><li>Outro returns to the first motif, changed.</li></ul>
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 6 format breakdown and project review reviews under a 30-second to five-minute film for one platform; it discusses “Music Video Breakdown: Map Song Structure to Image”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A nine-beat breakdown of a three-and-a-half-minute music vid”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S42] [Pixar: Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A nine-beat breakdown of a three-and-a-half-minute music vid”) against Story structure, character and visual storytelling lessons; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

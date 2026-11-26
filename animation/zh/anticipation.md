@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN 动画组
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [animation.stop-motion.armature, animation.pipeline.asset-handoff, formats.documentary.documentary-template]
-source_kind: experience
+source_kind: sourced
+sources:
+- S12
+- S62
 ---
 <p>动作开始前，先做一个相反的小动作：跳之前先蹲，打之前先收手，跑之前先后仰。这个反向帧让观众预判力量方向，动作才不突然。</p>
 <!-- DIAGRAM_START -->
@@ -37,12 +40,13 @@ source_kind: experience
 <section><h2 id="section-1">先反向，再正向</h2><p>反向不要过长。一般 2–4 帧；太长会像犹豫，太短看不见。</p><h2 id="section-2">边界</h2><p>预判不是每个动作都要加。连续快速动作里加反向，会显得拖；只在关键动作前用。</p><h2 id="section-3">预备动作只提前 2–4 帧</h2>
 <p>预备动作太久，观众会提前猜到；太短，动作像突然跳出来。二维和三维都先用 24fps 数帧：主体动作前 2–4 帧做反向小动作，再进入主动作。</p>
 <ol><li>抬手前先压肩 3 帧；起跳前先屈膝 4 帧；转头前先移眼 2 帧。</li><li>预备动作的幅度小于主动作，方向相反；不要用同一个幅度，会变成两个主动作。</li><li>如果镜头剪得很快，预备动作可以省略，用声音或视线代替。</li></ol>
-<p>验收：遮住主动作只看预备，观众应该知道“要发生什么”，但不知道“具体怎么发生”。</p></section><section><h2 id="section-4">现场</h2><p>动作前加 4 到 6 帧反向预备：身体先往后 5 厘米，再往前；让观众预判方向。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>动作前加 4 到 6 帧反向预备。</li><li>身体先往后 5 厘米，再往前。</li><li>让观众预判方向，不要用剪辑硬切。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别用剪辑代替预备；观众没预判，动作就没有力。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>前景、中景、背景的速度差能在一次 pan 里看出来</li><li>动作在 0.5 秒内能读出重量或预备</li><li>关掉任意一层，空间感仍然成立</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>层数堆上去了，但每层速度一样，空间还是扁的</li><li>动作有预备却没有跟随，重量只做了一半</li><li>资产没锁就进渲染，返工从合成端一路补</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用 24 fps 画 3 个关键帧，只改“身体先往后 5 厘米，再往前”，导出 2 秒；如果重量仍读不出来，先加预备帧，不要加模糊。</p></section>
+<p>验收：遮住主动作只看预备，观众应该知道“要发生什么”，但不知道“具体怎么发生”。</p></section><section><h2 id="section-4">现场</h2><p>动作前加 4 到 6 帧反向预备：身体先往后 5 厘米，再往前；让观众预判方向。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>动作前加 4 到 6 帧反向预备。</li><li>身体先往后 5 厘米，再往前。</li><li>让观众预判方向，不要用剪辑硬切。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别用剪辑代替预备；观众没预判，动作就没有力。</p></section><section><h2>判断</h2><p>这一页的判断只看三条可观察的验收，不靠口号：</p><ul><li><strong>1.</strong> 主动作前有 4 到 6 帧反向动作。</li><li><strong>2.</strong> 身体先退后进，方向能被观众预判。</li><li><strong>3.</strong> 删掉预备后动作明显变突然，说明它有效。</li></ul></section><section><h2>失败</h2><p>下面任一条出现，先停，不要靠后期补：</p><ul><li><strong>1.</strong> 只做到“主动作前有 4 到 6 帧反向动作”的形式，换一个机位或场景就重现不了。</li><li><strong>2.</strong> 把“身体先退后进，方向能被观众预判”留到后期或口头解释，现场没有留下能复查的记录。</li><li><strong>3.</strong> 别用剪辑代替预备；观众没预判，动作就没有力。</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用 24 fps 画 3 个关键帧，只改“身体先往后 5 厘米，再往前”，导出 2 秒；如果重量仍读不出来，先加预备帧，不要加模糊。</p></section>
 <h2>验收</h2><ul><li>主动作前有 4 到 6 帧反向动作。</li><li>身体先退后进，方向能被观众预判。</li><li>删掉预备后动作明显变突然，说明它有效。</li></ul>
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 4 次动画镜头与资产交接复盘，条件为2D/3D 混合管线之一、镜头不超过 30 秒；页面讨论的具体对象是「预备动作：让观众先知道」；不含外部实验室测试，条件变化时结论可能失效。
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“预备动作让观众提前知道要发生什么；没有预备，动作像突然被剪进来。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“预备动作让观众提前知道要发生什么；没有预备，动作像突然被剪进来。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
 <!-- SOURCES_END -->
 

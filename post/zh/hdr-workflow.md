@@ -47,7 +47,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S24] [ACES 色彩管理](https://www.oscars.org/science-technology/aces) — 2026-11-26 访问。用于核对首段“HDR 不是把 SDR 拉亮，而是从拍摄、监看、调色到平台交付都保留同一套亮度关系。任何一个环节按 SDR 猜，最后都会”中的术语与公开背景（ACES 色彩管线的官方说明与规范）；不替代现场测试。
+- [S24] [ACESCentral：ACES：Academy Color Encoding System](https://acescentral.com/) — 2026-11-27 访问。用于核对首段“HDR 不是把 SDR 拉亮，而是从拍摄、监看、调色到平台交付都保留同一套亮度关系。任何一个环节按 SDR 猜，最后都会”中的术语与公开背景（ACES 色彩编码、ACEScg 与交付/归档工作流）；不替代现场测试。
 - [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — 2026-11-26 访问。用于核对首段“HDR 不是把 SDR 拉亮，而是从拍摄、监看、调色到平台交付都保留同一套亮度关系。任何一个环节按 SDR 猜，最后都会”中的术语与公开背景（UHD/HDR 的宽色域与参数定义）；不替代现场测试。
 - [S28] [Netflix 制作与交付帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对首段“HDR 不是把 SDR 拉亮，而是从拍摄、监看、调色到平台交付都保留同一套亮度关系。任何一个环节按 SDR 猜，最后都会”中的术语与公开背景（平台交付规格、HDR/SDR 与 QC 要求的公开入口）；不替代现场测试。
 - [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“HDR 不是把 SDR 拉亮，而是从拍摄、监看、调色到平台交付都保留同一套亮度关系。任何一个环节按 SDR 猜，最后都会”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。

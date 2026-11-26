@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN 动画组
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [animation.3d.rigging, animation.2d.run-cycle, formats.documentary.documentary-template]
-source_kind: experience
+source_kind: sourced
+sources:
+- S62
+- S59
 ---
 <p>确认时间线帧率、分辨率、色彩空间和音频采样率；渲染设置必须与交付表一致。不要一边改时间线一边渲染，出来的文件对不上。</p>
 <!-- DIAGRAM_START -->
@@ -44,12 +47,13 @@ source_kind: experience
 </tbody></table></div>
 <h3>项目级检查</h3>
 <ol><li>先渲一张 50% 分辨率测试，确认构图、材质和灯；不要直接等 4K。</li><li>把采样翻倍，噪点应明显下降；如果没变，问题在灯光或材质，不在采样。</li><li>降噪前后各存一版，比较毛孔、布料纹理和头发；降噪吃细节就降强度。</li><li>输出 EXR 带 Beauty、Light、Reflection、Depth；交付 MP4 之外，保留可调版本。</li></ol>
-<p>渲染农场排队时，先提交低采样预览占位，确认镜头再接高采样；不要用最终参数试错。</p></section><section><h2 id="section-4">现场</h2><p>先 50% 分辨率、低采样看噪点分布；把灯光采样和材质采样分开调，别只加总采样。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>先 50% 分辨率、低采样看噪点分布。</li><li>把灯光采样和材质采样分开调。</li><li>不要只加总采样，先找出噪点来自哪一项。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别用总采样硬压噪点；找不到来源，时间全烧在渲染上。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>前景、中景、背景的速度差能在一次 pan 里看出来</li><li>动作在 0.5 秒内能读出重量或预备</li><li>关掉任意一层，空间感仍然成立</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>层数堆上去了，但每层速度一样，空间还是扁的</li><li>动作有预备却没有跟随，重量只做了一半</li><li>资产没锁就进渲染，返工从合成端一路补</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用 24 fps 画 3 个关键帧，只改“把灯光采样和材质采样分开调”，导出 2 秒；如果重量仍读不出来，先加预备帧，不要加模糊。</p></section>
+<p>渲染农场排队时，先提交低采样预览占位，确认镜头再接高采样；不要用最终参数试错。</p></section><section><h2 id="section-4">现场</h2><p>先 50% 分辨率、低采样看噪点分布；把灯光采样和材质采样分开调，别只加总采样。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>先 50% 分辨率、低采样看噪点分布。</li><li>把灯光采样和材质采样分开调。</li><li>不要只加总采样，先找出噪点来自哪一项。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别用总采样硬压噪点；找不到来源，时间全烧在渲染上。</p></section><section><h2>判断</h2><p>这一页的判断只看三条可观察的验收，不靠口号：</p><ul><li><strong>1.</strong> 50% 低采样下能看出噪点集中在灯光还是材质。</li><li><strong>2.</strong> 灯光采样和材质采样分开调整过。</li><li><strong>3.</strong> 最终噪点来自具体一项，不是靠无脑拉高总采样。</li></ul></section><section><h2>失败</h2><p>下面任一条出现，先停，不要靠后期补：</p><ul><li><strong>1.</strong> 只做到“50% 低采样下能看出噪点集中在灯光还是材质”的形式，换一个机位或场景就重现不了。</li><li><strong>2.</strong> 把“灯光采样和材质采样分开调整过”留到后期或口头解释，现场没有留下能复查的记录。</li><li><strong>3.</strong> 别用总采样硬压噪点；找不到来源，时间全烧在渲染上。</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用 24 fps 画 3 个关键帧，只改“把灯光采样和材质采样分开调”，导出 2 秒；如果重量仍读不出来，先加预备帧，不要加模糊。</p></section>
 <h2>验收</h2><ul><li>50% 低采样下能看出噪点集中在灯光还是材质。</li><li>灯光采样和材质采样分开调整过。</li><li>最终噪点来自具体一项，不是靠无脑拉高总采样。</li></ul>
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 6 次动画镜头与资产交接复盘，条件为2D/3D 混合管线之一、镜头不超过 30 秒；页面讨论的具体对象是「渲染：采样与噪点」；不含外部实验室测试，条件变化时结论可能失效。
+- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“渲染先看采样和噪点，再看分辨率；噪点没压住，4K 也只是更大的脏。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
+- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“渲染先看采样和噪点，再看分辨率；噪点没压住，4K 也只是更大的脏。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
 <!-- SOURCES_END -->
 

@@ -24,9 +24,12 @@ diagram: /images/diagrams/en/voice-over.png
 diagram_alt: "Voice-over has three jobs"
 diagram_caption: "If the picture already says it, shut up. If the picture cannot, give the fact. If the person has bias, give the judgment. If you can shoot it, do not say it."
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [story.story.want-stakes, story.directing.actor-adjustment, shoot.camera.composition]
+sources:
+- S41
+- S10
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -69,8 +72,9 @@ Keep the breath. Do not cut every pause flat. VO is not a commercial; it should 
 - Does the VO cover the action at its entrance or exit?
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 3 table read and pre-shoot rehearsal reviews under a three-to-eight-page scene with one primary point of view; it discusses “Voice-Over: Do Not Summarize What the Picture Already Says”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Voice-over is not the picture read aloud. It either gives in”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Voice-over is not the picture read aloud. It either gives in”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

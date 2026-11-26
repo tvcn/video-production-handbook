@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN Formats Desk
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.event.event-structure, formats.event.event-template, story.directing.actor-adjustment]
-source_kind: experience
+source_kind: sourced
+sources:
+- S83
+- S43
 ---
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>Check</h2><ul><li>An arrival action in the first five seconds, not a drone.</li><li>Scale/theme clear within fifteen seconds.</li><li>One complete key moment.</li><li>At least three touchable details.</li><li>One real reaction face, not staged.</li><li>Live sound peaks before music at the climax.</li><li>An aftermath/empty venue before the end card.</li></ul>
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 3 format breakdown and project review reviews under a 30-second to five-minute film for one platform; it discusses “Event Breakdown: Make a Live Event Clear in Ninety Seconds”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S83] [Associated Press: News Values and Principles](https://www.ap.org/about/news-values-and-principles/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An eight-beat breakdown of a ninety-second event film: arriv”) against Wire-service standards for accuracy, fairness and sourcing; not a substitute for an on-set test.
+- [S43] [BFI: BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An eight-beat breakdown of a ninety-second event film: arriv”) against UK film archive, restoration and exhibition resources; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

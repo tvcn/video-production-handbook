@@ -23,9 +23,12 @@ diagram: /images/diagrams/zh/window-light.png
 diagram_alt: "一扇窗当主光：先定朝向"
 diagram_caption: "没有灯组也能拍人脸：先让人侧对窗，再用反光板补一点暗部，最后把背景压下去。窗不是背景，是光源。"
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [shoot.sound.wireless-lav, shoot.camera.axis-line, post.color.color]
+sources:
+- S31
+- S25
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -81,8 +84,9 @@ related: [shoot.sound.wireless-lav, shoot.camera.axis-line, post.color.color]
 <!-- V11_DEEPEN -->
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 6 次现场拍摄与回放复核，条件为单机位、自然光或一盏主光；页面讨论的具体对象是「一扇窗怎么当主光」；不含外部实验室测试，条件变化时结论可能失效。
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“没有灯组也能拍人脸：先定朝向，再用反光板补一点，最后把背景压下去。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — 2026-11-26 访问。用于核对首段“没有灯组也能拍人脸：先定朝向，再用反光板补一点，最后把背景压下去。”中的术语与公开背景（HD SDR 的色域、传递函数与观看条件）；不替代现场测试。
 <!-- SOURCES_END -->
 

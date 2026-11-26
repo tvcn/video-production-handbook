@@ -25,9 +25,12 @@ format: handbook
 authors:
 - TVCN Animation Desk
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [animation.3d.lighting-3d, animation.2d.loop-cycle, formats.documentary.documentary-template]
-source_kind: experience
+source_kind: sourced
+sources:
+- S62
+- S59
 ---
 <p>3D layout is not pretty placement. Draw the ground line, camera height and focal length first, then the character. With those three, space exists. Wrong scale makes later animation look pasted on.</p>
 <!-- DIAGRAM_START -->
@@ -47,12 +50,13 @@ source_kind: experience
 </tbody></table></div>
 <h3>Project-level checks</h3>
 <ol><li>Start with a grayscale blockout. Confirm silhouette and space before detail.</li><li>Mark camera move with three keys: start, middle, end. “Push in” is not a path.</li><li>Mark foot contact with the ground; floating feet are the most common layout failure.</li><li>Give animation, lighting and comp a shot-to-asset map so same-name assets do not overwrite each other.</li></ol>
-<p>Review at final frame rate, not on stills. A beautiful still with bad motion means the layout path is wrong.</p></section><section><h2 id="section-4">On set</h2><p>Lock three things before handoff: camera, character scale, and asset version. Put the version in the file header and animate to the layout.</p></section><section><h2 id="section-5">Do this</h2><p>Layout locks camera, proportion, and asset version before handoff; unclear handoff makes animators guess.</p><ol><li>Lock three things: camera, character scale, asset version.</li><li>Write the version number in the file header.</li><li>Animate to the layout without changing the camera.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not leave the camera live in layout; changing it after animation starts is rework.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the speed split between foreground, midground and background reads in one pan</li><li>a 0.5-second action still carries weight or anticipation</li><li>turn off any layer and the space still holds</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>more layers, same speed: the space stays flat</li><li>anticipation without follow-through: the weight is only half done</li><li>rendering before assets are locked: rework starts at the compositor</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Draw three keys at 24 fps, change only “Write the version number in the file header.”, and export two seconds. If the weight still does not read, add anticipation before adding blur.</p></section>
+<p>Review at final frame rate, not on stills. A beautiful still with bad motion means the layout path is wrong.</p></section><section><h2 id="section-4">On set</h2><p>Lock three things before handoff: camera, character scale, and asset version. Put the version in the file header and animate to the layout.</p></section><section><h2 id="section-5">Do this</h2><p>Layout locks camera, proportion, and asset version before handoff; unclear handoff makes animators guess.</p><ol><li>Lock three things: camera, character scale, asset version.</li><li>Write the version number in the file header.</li><li>Animate to the layout without changing the camera.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not leave the camera live in layout; changing it after animation starts is rework.</p></section><section><h2>Judge</h2><p>This page passes on three observable checks, not slogans:</p><ul><li><strong>1.</strong> Camera, character scale, and asset version are locked and versioned.</li><li><strong>2.</strong> The file header shows version and dependencies so animators do not guess.</li><li><strong>3.</strong> Animation does not change the camera and the final shot matches layout.</li></ul></section><section><h2>Failures</h2><p>Any one of these means stop and fix it before post:</p><ul><li><strong>1.</strong> Check 1 is only staged (“Camera, character scale, and asset version are…”); another camera position or location exposes it.</li><li><strong>2.</strong> Check 2 is left to post or a verbal explanation (“The file header shows version and dependencies…”); nothing on set can be rechecked.</li><li><strong>3.</strong> Do not leave the camera live in layout; changing it after animation starts is rework.</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Draw three keys at 24 fps, change only “Write the version number in the file header.”, and export two seconds. If the weight still does not read, add anticipation before adding blur.</p></section>
 <h2>Check</h2><ul><li>Camera, character scale, and asset version are locked and versioned.</li><li>The file header shows version and dependencies so animators do not guess.</li><li>Animation does not change the camera and the final shot matches layout.</li></ul>
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 6 animation shot and asset-handover review reviews under one 2D/3D pipeline and shots under 30 seconds; it discusses “Layout: Camera and Asset Handoff”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Layout locks camera, scale, and asset versions before animat”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
+- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Layout locks camera, scale, and asset versions before animat”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

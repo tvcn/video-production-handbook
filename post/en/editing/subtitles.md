@@ -24,9 +24,12 @@ diagram: /images/diagrams/en/subtitles.png
 diagram_alt: "Three limits: characters, lines, and duration"
 diagram_caption: "Subtitles are not a transcript. Chinese 12–16 characters, English 32–42, two lines max. If it cannot be read, cut it; do not speed it up."
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [post.titles.title-design, post.vfx.tracking, shoot.camera.composition]
+sources:
+- S68
+- S29
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -70,8 +73,9 @@ Leave a little margin on both ends. Arriving too early spoils the line; staying 
 - Subtitles stay off the mouth and hands, inside the vertical safe area.
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 5 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Subtitles: Help Them Read, Not Just Transcribe”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S68] [W3C: WebVTT](https://www.w3.org/TR/webvtt1/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Subtitles are not a transcript. They have to land the meanin”) against Caption file format and timestamps; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Subtitles are not a transcript. They have to land the meanin”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

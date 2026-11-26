@@ -61,6 +61,6 @@ source_kind: sourced
 - [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“交付不是导出一个文件；母版、QC 和平台规格要一次对齐，否则上线后还要返工。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
 - [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“交付不是导出一个文件；母版、QC 和平台规格要一次对齐，否则上线后还要返工。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
 - [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“交付不是导出一个文件；母版、QC 和平台规格要一次对齐，否则上线后还要返工。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
-- [S27] [EBU R128 响度](https://tech.ebu.ch/publications/r128) — 2026-11-26 访问。用于核对首段“交付不是导出一个文件；母版、QC 和平台规格要一次对齐，否则上线后还要返工。”中的术语与公开背景（广播响度目标、真峰值与测量方法）；不替代现场测试。
+- [S27] [ITU-R：BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-27 访问。用于核对首段“交付不是导出一个文件；母版、QC 和平台规格要一次对齐，否则上线后还要返工。”中的术语与公开背景（响度测量、真峰值与 EBU R128 所依据的 ITU 算法标准）；不替代现场测试。
 <!-- SOURCES_END -->
 

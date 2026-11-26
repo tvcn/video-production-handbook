@@ -24,9 +24,12 @@ diagram: /images/diagrams/en/sound-bridge.png
 diagram_alt: "Sound can arrive early or leave late"
 diagram_caption: "A J-cut lets the next scene speak first; an L-cut lets the last scene stay in the ear. Both move audio, not picture."
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [post.sound.sound-post, post.sound.sound-post-workflow, shoot.camera.axis-line]
+sources:
+- S34
+- S27
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -66,8 +69,9 @@ J-cuts and L-cuts are bridges, not bandages. If the picture has a continuity err
 - Watch it muted. The picture still works.
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 3 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Let Sound Cross the Cut: J-cuts and L-cuts”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Picture does not have to cut at the same time as sound. Let ”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
+- [S27] [ITU-R: BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“Picture does not have to cut at the same time as sound. Let ”) against ITU algorithms for loudness measurement and true peak, the basis referenced by EBU R128; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

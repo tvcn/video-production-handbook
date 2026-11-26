@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN 后期组
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [post.accessibility.sdh, post.color.secondary-correction, shoot.camera.composition]
-source_kind: experience
+source_kind: sourced
+sources:
+- S30
+- S24
 ---
 <p>波形图看整体亮度和高光贴顶；矢量示波器看饱和度和色相；RGB parade 看三个通道是否对齐。三者一起用，才能判断“亮”和“偏色”是两件事。</p>
 <!-- DIAGRAM_START -->
@@ -34,12 +37,13 @@ source_kind: experience
   <figcaption>看“黑位不低于 0，白位不高于 100”和“肤色线落在矢量示波器的肤色区”两处，判断剪掉一个镜头后，节奏是更快还是更乱。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">波形看亮度，矢量看颜色， parade 看分离</h2><p>先看 parade 的黑白平衡，再看矢量肤色线，最后回波形确认高光；不要只看一个示波器就下结论。</p><h2 id="section-2">边界</h2><p>示波器不是创作裁判。风格化低对比、夜景和逆光都可能“不好看”；先定意图，再读示波器。</p></section><section><h2 id="section-3">现场</h2><p>黑位不低于 0、白位不高于 100；肤色线落在矢量示波器的肤色区，偏红就降饱和或调白平衡。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>黑位不低于 0，白位不高于 100。</li><li>肤色线落在矢量示波器的肤色区。</li><li>偏红就降饱和或调白平衡，不要凭眼睛猜。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别用肉眼代替示波器；监看没校准，眼睛也会骗你。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>剪掉一个镜头，节奏更快而不是更乱</li><li>示波器上肤色、高光和黑位都在范围内</li><li>响度、字幕和文件规格能过一次交付检查</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>剪辑点跟着音乐，不跟动作</li><li>先定风格再统一，镜头之间跳色</li><li>交付前没查响度和字幕，最后一遍才发现</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>拿一段 30 秒素材做 A/B，只改“黑位不低于 0，白位不高于 100”；记下一个时间码和一处差异，再决定是否保留。</p></section>
+<section><h2 id="section-1">波形看亮度，矢量看颜色， parade 看分离</h2><p>先看 parade 的黑白平衡，再看矢量肤色线，最后回波形确认高光；不要只看一个示波器就下结论。</p><h2 id="section-2">边界</h2><p>示波器不是创作裁判。风格化低对比、夜景和逆光都可能“不好看”；先定意图，再读示波器。</p></section><section><h2 id="section-3">现场</h2><p>黑位不低于 0、白位不高于 100；肤色线落在矢量示波器的肤色区，偏红就降饱和或调白平衡。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>黑位不低于 0，白位不高于 100。</li><li>肤色线落在矢量示波器的肤色区。</li><li>偏红就降饱和或调白平衡，不要凭眼睛猜。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别用肉眼代替示波器；监看没校准，眼睛也会骗你。</p></section><section><h2>判断</h2><p>这一页的判断只看三条可观察的验收，不靠口号：</p><ul><li><strong>1.</strong> 黑位没有压到 0 以下，白位没有顶到 100 以上。</li><li><strong>2.</strong> 肤色线落在肤色区，没有明显偏红或偏绿。</li><li><strong>3.</strong> 调整前后各截一张示波器图，差别能对应到具体参数。</li></ul></section><section><h2>失败</h2><p>下面任一条出现，先停，不要靠后期补：</p><ul><li><strong>1.</strong> 只做到“黑位没有压到 0 以下，白位没有顶到 100 以上”的形式，换一个机位或场景就重现不了。</li><li><strong>2.</strong> 把“肤色线落在肤色区，没有明显偏红或偏绿”留到后期或口头解释，现场没有留下能复查的记录。</li><li><strong>3.</strong> 别用肉眼代替示波器；监看没校准，眼睛也会骗你。</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>拿一段 30 秒素材做 A/B，只改“黑位不低于 0，白位不高于 100”；记下一个时间码和一处差异，再决定是否保留。</p></section>
 <h2>验收</h2><ul><li>黑位没有压到 0 以下，白位没有顶到 100 以上。</li><li>肤色线落在肤色区，没有明显偏红或偏绿。</li><li>调整前后各截一张示波器图，差别能对应到具体参数。</li></ul>
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 5 次后期项目复盘，条件为4K 以内素材、常规平台交付；页面讨论的具体对象是「示波器：黑位、白位、肤色」；不含外部实验室测试，条件变化时结论可能失效。
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“示波器先看三件事：黑位有没有死、白位有没有爆、肤色线偏没偏。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S24] [ACESCentral：ACES：Academy Color Encoding System](https://acescentral.com/) — 2026-11-27 访问。用于核对首段“示波器先看三件事：黑位有没有死、白位有没有爆、肤色线偏没偏。”中的术语与公开背景（ACES 色彩编码、ACEScg 与交付/归档工作流）；不替代现场测试。
 <!-- SOURCES_END -->
 

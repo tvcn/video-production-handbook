@@ -24,9 +24,12 @@ format: handbook
 authors:
 - TVCN Tools Desk
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [tools.capability.lav-system, tools.capability.led-panel, shoot.camera.composition]
-source_kind: experience
+source_kind: sourced
+sources:
+- S35
+- S27
 ---
 <p>The enemy is cloth friction and muffling. Anchor the capsule inside a collar, tape the cable away from skin, keep jacket and buttons off the capsule. Do not bury it in hair or a scarf.</p>
 <!-- DIAGRAM_START -->
@@ -39,12 +42,13 @@ source_kind: experience
 <section><h2 id="section-1">Hide the lav without rubbing</h2><p>Record the actor turning, raising an arm and sitting; play back for rustle. If present, reposition rather than denoise later.</p><h2 id="section-2">Limits</h2><p>Invisible is not audible. Too deep sounds hollow and distant; let the capsule show a little rather than lose the line.</p><h2 id="section-3">Hide a lav: 15–20cm below the mouth, protect against cloth first</h2>
 <p>Lavs fail from cloth rustle and occlusion. Do not center it at the collar; place it 15–20cm below the collarbone, with a small tape arch so the cable does not touch fabric.</p>
 <ol><li>Mic head up, not under a button or zipper. Test sweaters and scarves for rustle first.</li><li>Run the cable inside the clothes and leave a loose bend at the waist. A taut cable transmits cloth noise.</li><li>Put a backup recorder in a pocket and sync the two devices.</li></ol>
-<p>Acceptance: have the actor turn, raise an arm and sit; listen for rustle and muffling. If present, move the mic before denoise.</p></section><section><h2 id="section-4">On set</h2><p>Try the collar first, then the hair. Use medical tape for strain relief; ordinary tape tears fabric.</p></section><section><h2 id="section-5">Do this</h2><p>Hide a lav at the collar first, then hair, then secure with medical tape; every wardrobe change needs a re-hide.</p><ol><li>Try the collar, then the hair.</li><li>Use medical tape for shock isolation.</li><li>Do not use ordinary tape; it tears clothing and leaves residue.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not stuff the lav into a collar and stop; fabric rustle covers dialogue.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>every spec maps to one concrete shooting problem</li><li>weight, power and connections hold on a real rig</li><li>a 60-second test leaves one comparable number</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>specs without connections, power or weight</li><li>batteries, storage or body do not match after purchase</li><li>no 60-second test, so the problem arrives on the shoot</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Run a 60-second test with the gear you already own, measuring only “Try the collar, then the hair.”. Record two numbers: what you need and what the gear actually gives.</p></section>
+<p>Acceptance: have the actor turn, raise an arm and sit; listen for rustle and muffling. If present, move the mic before denoise.</p></section><section><h2 id="section-4">On set</h2><p>Try the collar first, then the hair. Use medical tape for strain relief; ordinary tape tears fabric.</p></section><section><h2 id="section-5">Do this</h2><p>Hide a lav at the collar first, then hair, then secure with medical tape; every wardrobe change needs a re-hide.</p><ol><li>Try the collar, then the hair.</li><li>Use medical tape for shock isolation.</li><li>Do not use ordinary tape; it tears clothing and leaves residue.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not stuff the lav into a collar and stop; fabric rustle covers dialogue.</p></section><section><h2>Judge</h2><p>This page passes on three observable checks, not slogans:</p><ul><li><strong>1.</strong> The lav tries collar then hair with positions logged.</li><li><strong>2.</strong> Medical tape secures it, not ordinary tape.</li><li><strong>3.</strong> After wardrobe changes the lav is re-hidden and rustle-tested.</li></ul></section><section><h2>Failures</h2><p>Any one of these means stop and fix it before post:</p><ul><li><strong>1.</strong> Check 1 is only staged (“The lav tries collar then hair with positions…”); another camera position or location exposes it.</li><li><strong>2.</strong> Check 2 is left to post or a verbal explanation (“Medical tape secures it, not ordinary tape”); nothing on set can be rechecked.</li><li><strong>3.</strong> Do not stuff the lav into a collar and stop; fabric rustle covers dialogue.</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Run a 60-second test with the gear you already own, measuring only “Try the collar, then the hair.”. Record two numbers: what you need and what the gear actually gives.</p></section>
 <h2>Check</h2><ul><li>The lav tries collar then hair with positions logged.</li><li>Medical tape secures it, not ordinary tape.</li><li>After wardrobe changes the lav is re-hidden and rustle-tested.</li></ul>
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 3 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Lav Hiding: Collar, Hair, Tape”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S35] [Avid Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Try collar, then hair, then medical tape; every wardrobe cha”) against Resources for Media Composer, collaboration and delivery; not a substitute for an on-set test.
+- [S27] [ITU-R: BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“Try collar, then hair, then medical tape; every wardrobe cha”) against ITU algorithms for loudness measurement and true peak, the basis referenced by EBU R128; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

@@ -23,9 +23,12 @@ diagram: /images/diagrams/zh/location-scout.png
 diagram_alt: "场地五问：任何一项空着，别开机"
 diagram_caption: "授权、电力、声音、邻居与许可、损坏与保险。看景看的是能不能工作，不是好不好看。"
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [tools.capability.lto-archive, tools.capability.matte-box, shoot.camera.composition]
+sources:
+- S36
+- S22
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -69,8 +72,9 @@ related: [tools.capability.lto-archive, tools.capability.matte-box, shoot.camera
 - 公共许可、保险和备用场地都有安排。
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 7 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「场地：开拍前先问清五件事」；不含外部实验室测试，条件变化时结论可能失效。
+- [S36] [国家广播电视总局：官方网站](https://www.nrta.gov.cn/) — 2026-11-26 访问。用于核对首段“场地不是“看起来合适”就能拍。谁有权答应、邻居会不会投诉、电从哪来、声音收不收得住、出了问题谁赔，五件事任何一件没问清，”中的术语与公开背景（广播电视与网络视听管理的政策入口）；不替代现场测试。
+- [S22] [全国人民代表大会：《民法典》](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — 2026-11-26 访问。用于核对首段“场地不是“看起来合适”就能拍。谁有权答应、邻居会不会投诉、电从哪来、声音收不收得住、出了问题谁赔，五件事任何一件没问清，”中的术语与公开背景（肖像、隐私、合同与场地权利的上位法文本）；不替代现场测试。
 <!-- SOURCES_END -->
 

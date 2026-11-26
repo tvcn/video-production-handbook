@@ -47,10 +47,10 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S24] [ACES Color Management](https://www.oscars.org/science-technology/aces) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Color management is not applying a cinematic LUT. It answers”) against Official ACES color pipeline documentation; not a substitute for an on-set test.
+- [S24] [ACESCentral: ACES](https://acescentral.com/) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“Color management is not applying a cinematic LUT. It answers”) against ACES color encoding, ACEScg and delivery/archive workflows; not a substitute for an on-set test.
 - [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Color management is not applying a cinematic LUT. It answers”) against HD SDR gamut, transfer function and viewing conditions; not a substitute for an on-set test.
 - [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Color management is not applying a cinematic LUT. It answers”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
 - [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Color management is not applying a cinematic LUT. It answers”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
-- [S27] [EBU R128 Loudness](https://tech.ebu.ch/publications/r128) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Color management is not applying a cinematic LUT. It answers”) against Broadcast loudness targets, true peak and measurement; not a substitute for an on-set test.
+- [S27] [ITU-R: BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“Color management is not applying a cinematic LUT. It answers”) against ITU algorithms for loudness measurement and true peak, the basis referenced by EBU R128; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

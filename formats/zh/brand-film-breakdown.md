@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN 片型组
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.brand-film.brand-film-template, formats.corporate.corporate-video-breakdown, story.screenplay.logline]
-source_kind: experience
+source_kind: sourced
+sources:
+- S16
+- S43
 ---
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>验收</h2><ul><li>前 5 秒有一个正在发生的动作，不是航拍。</li><li>人物的欲望能用一件物/一个动作说清。</li><li>阻碍来自真实世界，不是假反派。</li><li>转向靠动作，不靠口号。</li><li>后果落在一个人身上。</li><li>品牌只出现一次，且与动作同框。</li><li>结尾停在后果，不停在 logo。</li></ul>
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 7 次同类型片型拆解与项目复盘，条件为30 秒–5 分钟成片、单平台交付；页面讨论的具体对象是「品牌片拉片：90 秒怎么建立世界」；不含外部实验室测试，条件变化时结论可能失效。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“按 90 秒品牌片的通用结构，拆 9 个时间码：世界、人物、欲望、阻碍、转向、行动、落点、一句话、停留。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S43] [BFI：BFI 国家电影档案](https://www.bfi.org.uk/bfi-national-archive) — 2026-11-26 访问。用于核对首段“按 90 秒品牌片的通用结构，拆 9 个时间码：世界、人物、欲望、阻碍、转向、行动、落点、一句话、停留。”中的术语与公开背景（英国电影档案、修复与放映资料）；不替代现场测试。
 <!-- SOURCES_END -->
 

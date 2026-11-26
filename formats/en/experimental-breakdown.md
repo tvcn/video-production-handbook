@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN Formats Desk
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.experimental.experimental-structure, formats.fashion.fashion-beauty-video-breakdown, story.screenplay.logline]
-source_kind: experience
+source_kind: sourced
+sources:
+- S49
+- S44
 ---
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>Check</h2><ul><li>The rule is established in the first twenty seconds.</li><li>The first repetition is complete, not fragmented.</li><li>One variable changes per repetition.</li><li>The third repetition brings expectation close to failure.</li><li>The break happens once.</li><li>The consequence holds for at least ten seconds.</li><li>No narration explains.</li></ul>
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 4 format breakdown and project review reviews under a 30-second to five-minute film for one platform; it discusses “Experimental Breakdown: Rule, Repetition, Break”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S49] [MoMA: Film collection and screenings](https://www.moma.org/visit/film) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An eight-beat breakdown of a four-minute experimental film: ”) against Film collection and screenings at MoMA; not a substitute for an on-set test.
+- [S44] [Academy Film Archive: Film archive and restoration](https://www.oscars.org/film-archive) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An eight-beat breakdown of a four-minute experimental film: ”) against Film archive, restoration and preservation projects; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

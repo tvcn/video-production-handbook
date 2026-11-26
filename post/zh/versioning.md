@@ -36,7 +36,7 @@ source_kind: sourced
   <figcaption>看“文件名用日期_平台_时长_v3，例如…”和“改动写进版本表：改了什么、为什么、谁…”两处，判断剪掉一个镜头后，节奏是更快还是更乱。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">版本号只增不减，说明写“改了什么”</h2><p>只保留当前版和上一版在工作目录，旧版归档；交付时明确哪一版是母版，避免客户打开错文件。</p><h2 id="section-2">边界</h2><p>版本不是越多越好。每次改一个目的，改完立刻命名；一天出十个版本，等于没有版本。</p></section><section><h2 id="section-3">现场</h2><p>文件名用日期_平台_时长_v3，改动写进版本表：改了什么、为什么、谁批准。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>文件名用日期_平台_时长_v3，例如 20261122_web_60s_v3。</li><li>改动写进版本表：改了什么、为什么、谁批准。</li><li>只保留一个当前交付版，旧版进归档，别靠记忆。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别用“最新版”当文件名；三个月后没人知道它最新在哪。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>剪掉一个镜头，节奏更快而不是更乱</li><li>示波器上肤色、高光和黑位都在范围内</li><li>响度、字幕和文件规格能过一次交付检查</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>剪辑点跟着音乐，不跟动作</li><li>先定风格再统一，镜头之间跳色</li><li>交付前没查响度和字幕，最后一遍才发现</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>拿一段 30 秒素材做 A/B，只改“文件名用日期_平台_时长_v3，例如…”；记下一个时间码和一处差异，再决定是否保留。</p></section>
+<section><h2 id="section-1">版本号只增不减，说明写“改了什么”</h2><p>只保留当前版和上一版在工作目录，旧版归档；交付时明确哪一版是母版，避免客户打开错文件。</p><h2 id="section-2">边界</h2><p>版本不是越多越好。每次改一个目的，改完立刻命名；一天出十个版本，等于没有版本。</p></section><section><h2 id="section-3">现场</h2><p>文件名用日期_平台_时长_v3，改动写进版本表：改了什么、为什么、谁批准。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>文件名用日期_平台_时长_v3，例如 20261122_web_60s_v3。</li><li>改动写进版本表：改了什么、为什么、谁批准。</li><li>只保留一个当前交付版，旧版进归档，别靠记忆。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别用“最新版”当文件名；三个月后没人知道它最新在哪。</p></section><section><h2>判断</h2><p>这一页的判断只看三条可观察的验收，不靠口号：</p><ul><li><strong>1.</strong> 文件名包含日期、平台、时长和版本号，能直接排序。</li><li><strong>2.</strong> 版本表能查出每次改动的原因和批准人。</li><li><strong>3.</strong> 随机拿一个旧版，能说出它和当前版的差别。</li></ul></section><section><h2>失败</h2><p>下面任一条出现，先停，不要靠后期补：</p><ul><li><strong>1.</strong> 只做到“文件名包含日期、平台、时长和版本号，能直接排序”的形式，换一个机位或场景就重现不了。</li><li><strong>2.</strong> 把“版本表能查出每次改动的原因和批准人”留到后期或口头解释，现场没有留下能复查的记录。</li><li><strong>3.</strong> 别用“最新版”当文件名；三个月后没人知道它最新在哪。</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>拿一段 30 秒素材做 A/B，只改“文件名用日期_平台_时长_v3，例如…”；记下一个时间码和一处差异，再决定是否保留。</p></section>
 <h2>验收</h2><ul><li>文件名包含日期、平台、时长和版本号，能直接排序。</li><li>版本表能查出每次改动的原因和批准人。</li><li>随机拿一个旧版，能说出它和当前版的差别。</li></ul>
 
 <!-- DEEP_DIVE_START -->
@@ -62,7 +62,7 @@ source_kind: sourced
 ## 参考与延伸阅读
 
 - [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“版本管理用日期、平台、时长和改动原因命名，别用“final 真的 final”。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
-- [S27] [EBU R128 响度](https://tech.ebu.ch/publications/r128) — 2026-11-26 访问。用于核对首段“版本管理用日期、平台、时长和改动原因命名，别用“final 真的 final”。”中的术语与公开背景（广播响度目标、真峰值与测量方法）；不替代现场测试。
+- [S27] [ITU-R：BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-27 访问。用于核对首段“版本管理用日期、平台、时长和改动原因命名，别用“final 真的 final”中的术语与公开背景（响度测量、真峰值与 EBU R128 所依据的 ITU 算法标准）；不替代现场测试。
 - [S67] [IETF：RFC 8216：HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216) — 2026-11-26 访问。用于核对首段“版本管理用日期、平台、时长和改动原因命名，别用“final 真的 final”。”中的术语与公开背景（HLS 分片、清单与播放）；不替代现场测试。
 <!-- SOURCES_END -->
 

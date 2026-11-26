@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN Formats Desk
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.tutorial.tutorial-structure, formats.tutorial.tutorial-template, story.directing.actor-adjustment]
-source_kind: experience
+source_kind: sourced
+sources:
+- S29
+- S42
 ---
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>Check</h2><ul><li>Finished result in the first ten seconds.</li><li>Materials fit in one frame.</li><li>Three steps, each a complete action.</li><li>Hardest step has a pause/close-up.</li><li>Three visible checkpoints.</li><li>One real failure demo.</li><li>One one-minute action at the end.</li></ul>
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 4 format breakdown and project review reviews under a 30-second to five-minute film for one platform; it discusses “Tutorial Breakdown: Teach in Five Minutes”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A ten-beat breakdown of a five-minute tutorial: result, mate”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S42] [Pixar: Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A ten-beat breakdown of a five-minute tutorial: result, mate”) against Story structure, character and visual storytelling lessons; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

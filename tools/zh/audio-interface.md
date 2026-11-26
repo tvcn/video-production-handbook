@@ -42,6 +42,7 @@ source_kind: sourced
 <!-- DIAGRAM_END -->
 <section><h2 id="section-1">选型先看什么</h2><ul><li><strong>输入与增益：</strong>确认话放增益是否够推你的麦，底噪在最大增益下是否可接受。</li><li><strong>通道与监听：</strong>需要几路独立输入、是否有直接监听和耳机输出；直播还要看回传。</li><li><strong>连接与供电：</strong>USB 总线供电是否稳定，是否需要独立电源；长线会不会引入噪声。</li></ul><h2 id="section-2">什么时候不要用</h2></section><section><h2 id="section-3">现场</h2><p>接一支动圈麦，增益开到 70%，录 30 秒静音；听底噪，再看最大增益是否够。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>接一支动圈麦，增益开到 70%。</li><li>录 30 秒静音，听底噪。</li><li>再看最大增益是否够录小声对白。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别只看接口数量；增益不够，小声对白推上去全是底噪。</p></section>
 <h2>验收</h2><ul><li>动圈麦在 70% 增益下录了 30 秒静音。</li><li>底噪水平能被描述，不是只说“还行”。</li><li>最大增益能录清小声对白，且底噪可接受。</li></ul>
+<section><h2>失败</h2><p>三种常见失败，都是接口参数没有对上现场：</p><ul><li><strong>1.</strong> 只看“支持 24-bit / 192 kHz”，没测最大增益下的底噪；小声对白一推，全是嘶声。</li><li><strong>2.</strong> USB 总线供电带高功耗电容麦，录到一半掉线或出现周期性爆音。</li><li><strong>3.</strong> 把耳机直接监听当成录音监听，没看输入电平；回放才发现左声道已经削顶。</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>接一支动圈麦，增益从 30% 开始，每档录 30 秒静音并记下底噪；再把增益推到能录清 1 米外小声对白的位置。用同一副耳机回放，选出“底噪可接受且不削顶”的最高一档，写进录音备注。</p></section>
 
 
 > 意图分工：本页负责「音频接口：输入与增益」的可执行细节；同集群先读 <a href="https://tools.tvcn.org/article/lav-hidden/">领夹藏麦：衣领、头发、胶带</a> 建立总判断，再回到本页。

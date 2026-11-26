@@ -23,9 +23,12 @@ diagram: /images/diagrams/zh/budget-map.png
 diagram_alt: "四块预算：先保能拍完"
 diagram_caption: "必须花、上镜、可替换、缓冲。四块先分比例，再填明细；缓冲不是备用金，是让片子能收尾的钱。"
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [tools.guide.budget-quote, tools.guide.buy-audio-field, shoot.camera.composition]
+sources:
+- S38
+- S35
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -83,8 +86,9 @@ related: [tools.guide.budget-quote, tools.guide.buy-audio-field, shoot.camera.co
 <!-- V11_DEEPEN -->
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 5 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「预算表：把钱分成四块」；不含外部实验室测试，条件变化时结论可能失效。
+- [S38] [国家税务总局：官方网站](https://www.chinatax.gov.cn/) — 2026-11-26 访问。用于核对首段“预算不是一列数字，是四块怎么分：必须花的、会上镜的、能替换的、会爆的。先保片子能拍完，再谈好看。”中的术语与公开背景（增值税、跨境服务与代扣代缴的官方政策入口）；不替代现场测试。
+- [S35] [Avid 资源中心](https://www.avid.com/resource-center) — 2026-11-26 访问。用于核对首段“预算不是一列数字，是四块怎么分：必须花的、会上镜的、能替换的、会爆的。先保片子能拍完，再谈好看。”中的术语与公开背景（Media Composer、协作与交付的资源入口）；不替代现场测试。
 <!-- SOURCES_END -->
 

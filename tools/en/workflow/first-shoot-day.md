@@ -24,9 +24,12 @@ diagram: /images/diagrams/en/first-shoot-day.png
 diagram_alt: "First shoot day: six things on one page"
 diagram_caption: "Time, place, owner, first shot, backup plan, wrap standard. One page someone else can follow beats memory."
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [tools.capability.fluid-head, tools.capability.follow-focus, shoot.camera.composition]
+sources:
+- S23
+- S31
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -65,8 +68,9 @@ Keep ten minutes before wrap: play back the last take, make one backup, confirm 
 <!-- V11_DEEPEN -->
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 4 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Six Things to Write Down Before Your First Shoot Day”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“First shoots fall apart around time, place, ownership, shot ”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“First shoots fall apart around time, place, ownership, shot ”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

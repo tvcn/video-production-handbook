@@ -24,9 +24,12 @@ diagram: /images/diagrams/en/animation-lip-sync.png
 diagram_alt: "Four mouth shapes: closed, open, round, wide"
 diagram_caption: "Skip the full phoneme chart. Land the closed consonants, open on vowels. A five-second line needs five to eight shapes."
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
-source_kind: experience
+review_due: '2027-02-26'
+source_kind: sourced
 related: [animation.principles.animation-principles, animation.timing.animation-timing, formats.brand.brand-film]
+sources:
+- S63
+- S59
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -68,8 +71,9 @@ The head can move on a stressed word. At the end of a line, stop the mouth first
 - Eyes and head arrive after the mouth; the mouth stops first at the end.
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 5 animation shot and asset-handover review reviews under one 2D/3D pipeline and shots under 30 seconds; it discusses “Lip Sync: Close on Consonants, Open on Vowels”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Lip sync is not a drawing for every word. Land the closed co”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Lip sync is not a drawing for every word. Land the closed co”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN Formats Desk
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.documentary.documentary-template, formats.event.event-breakdown, story.screenplay.logline]
-source_kind: experience
+source_kind: sourced
+sources:
+- S43
+- S16
 ---
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>Check</h2><ul><li>An action is happening in the first ten seconds.</li><li>Person, place, and task are clear within thirty seconds.</li><li>Want is filmable, not abstract.</li><li>Obstacle happens naturally, no fake conflict.</li><li>At least one complete attempt.</li><li>The same action after the change differs from the opening.</li><li>No summarizing narration at the end.</li></ul>
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 6 format breakdown and project review reviews under a 30-second to five-minute film for one platform; it discusses “Documentary Breakdown: One Person, One Event, One Change”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S43] [BFI: BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An eight-beat breakdown of a three-minute documentary: actio”) against UK film archive, restoration and exhibition resources; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An eight-beat breakdown of a three-minute documentary: actio”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

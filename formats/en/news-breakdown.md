@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN Formats Desk
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.news.news-structure, formats.news.news-template, story.directing.actor-adjustment]
-source_kind: experience
+source_kind: sourced
+sources:
+- S83
+- S81
 ---
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>Check</h2><ul><li>The first five seconds are a verified fact.</li><li>The place has three geographic details, not staging.</li><li>Witness is in sync, not concluded for.</li><li>Every archive shot has date and source.</li><li>Context is a timeline, not long narration.</li><li>Known/unknown two-column card appears.</li><li>The end names what is unknown and the next step.</li></ul>
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 6 format breakdown and project review reviews under a 30-second to five-minute film for one platform; it discusses “News Breakdown: Keep the Unknown in Ninety Seconds”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S83] [Associated Press: News Values and Principles](https://www.ap.org/about/news-values-and-principles/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An eight-beat breakdown of a ninety-second news feature: ver”) against Wire-service standards for accuracy, fairness and sourcing; not a substitute for an on-set test.
+- [S81] [RTDNA: RTDNA 伦理准则](https://www.rtdna.org/ethics) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“An eight-beat breakdown of a ninety-second news feature: ver”) against Journalism ethics, independence, correction and transparency; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 

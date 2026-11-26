@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN 片型组
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.news.news-structure, formats.news.news-template, story.directing.actor-adjustment]
-source_kind: experience
+source_kind: sourced
+sources:
+- S83
+- S81
 ---
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>验收</h2><ul><li>前 5 秒是一个已核实事实。</li><li>地点有三个地理细节，不是摆拍。</li><li>目击者原声，没有替他们下结论。</li><li>每条资料有日期与来源。</li><li>背景用时间线，不用长旁白。</li><li>已知/未知两列图出现。</li><li>结尾明确说不知道什么/下一步。</li></ul>
 
 <!-- SOURCES_START -->
-## 经验说明
+## 参考与延伸阅读
 
-经验说明：本页来自 6 次同类型片型拆解与项目复盘，条件为30 秒–5 分钟成片、单平台交付；页面讨论的具体对象是「新闻拉片：90 秒怎么把未知留在片里」；不含外部实验室测试，条件变化时结论可能失效。
+- [S83] [AP：新闻价值观与原则](https://www.ap.org/about/news-values-and-principles/) — 2026-11-26 访问。用于核对首段“按 90 秒新闻短片的通用结构，拆 8 个时间码：已核实事实、现场、目击者、资料、背景、已知/未知、未解、下一步。”中的术语与公开背景（通讯社准确、公正与来源标准）；不替代现场测试。
+- [S81] [RTDNA：RTDNA 伦理准则](https://www.rtdna.org/ethics) — 2026-11-27 访问。用于核对首段“按 90 秒新闻短片的通用结构，拆 8 个时间码：已核实事实、现场、目击者、资料、背景、已知/未知、未解、下一步。”中的术语与公开背景（新闻伦理、独立性、更正与透明原则）；不替代现场测试。
 <!-- SOURCES_END -->
 

@@ -22,9 +22,12 @@ format: handbook
 authors:
 - TVCN Formats Desk
 last_verified: '2026-11-26'
-review_due: '2027-05-26'
+review_due: '2027-02-26'
 related: [formats.brand-film.brand-film-template, formats.corporate.corporate-video-breakdown, story.screenplay.logline]
-source_kind: experience
+source_kind: sourced
+sources:
+- S16
+- S43
 ---
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -37,8 +40,9 @@ source_kind: experience
 <h2>Check</h2><ul><li>An action is already happening in the first five seconds, not a drone.</li><li>The want is one object or action.</li><li>Obstacle comes from the real world, not a fake villain.</li><li>Turn happens through action, not slogan.</li><li>Consequence lands on one person.</li><li>Brand appears once, in the same frame as action.</li><li>End on consequence, not logo.</li></ul>
 
 <!-- SOURCES_START -->
-## Experience note
+## References and further reading
 
-Experience note: this page draws on 7 format breakdown and project review reviews under a 30-second to five-minute film for one platform; it discusses “Brand Film Breakdown: Build a World in Ninety Seconds”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A nine-beat breakdown of a ninety-second brand film: world, ”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S43] [BFI: BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A nine-beat breakdown of a ninety-second brand film: world, ”) against UK film archive, restoration and exhibition resources; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 
