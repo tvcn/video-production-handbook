@@ -27,11 +27,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [tools.deep.deep-post-workstation, tools.deep.deep-storage-chain, shoot.camera.axis-line]
 sources:
-- S16
-- S29
+- S31
 - S23
-- S30
-- S70
 source_kind: sourced
 ---
 <p>One light is enough only when soft area, bounce position and colour temperature agree. One page of &amp;quot;One-Light Portrait: Direction First&amp;quot; solves one local problem; joining &amp;quot;One-Light Portrait: Direction First&amp;quot;, &amp;quot;Softbox: Size Decides Softness&amp;quot; and &amp;quot;Reflector: Five Surfaces, One Job&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
@@ -57,10 +54,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One light is enough only when soft area, bounce position and”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One light is enough only when soft area, bounce position and”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One light is enough only when soft area, bounce position and”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One light is enough only when soft area, bounce position and”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
-- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One light is enough only when soft area, bounce position and”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Judgement” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

@@ -31,6 +31,7 @@ source_kind: sourced
 sources:
 - S42
 - S43
+- S43
 ---
 <p>Go through four columns: who acts, where the camera is, what is needed, and how long. A beautiful panel with no camera position still cannot be shot.</p>
 <!-- DIAGRAM_START -->
@@ -46,7 +47,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S42] [Pixar: Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“In a board review, camera finds positions, edit finds gaps, ”) against Story structure, character and visual storytelling lessons; not a substitute for an on-set test.
-- [S43] [BFI: BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“In a board review, camera finds positions, edit finds gaps, ”) against UK film archive, restoration and exhibition resources; not a substitute for an on-set test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Review the board for shootability, not drawing quality” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S43] [BFI: National Archive](https://www.bfi.org.uk/bfi-national-archive) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against BFI archive material, not distribution rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

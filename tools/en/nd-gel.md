@@ -36,7 +36,7 @@ source_kind: experience
   <figcaption>Watch “CTO on a window, CTB on a lamp,” and “ND gel only dims without shifting color.”; judge whether the spec maps to one concrete shooting problem.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">Test the color shift</h2><ul><li><strong>Density:</strong> shoot white paper and a gray card at the final light position with 1/4, 1/2 and full ND; compare color temperature and density.</li><li><strong>Stacking:</strong> multiple ND gels add cast and vignetting; use one gel of the needed density where possible.</li><li><strong>Heat:</strong> gels melt too close to a fixture; use a gel frame and distance, and check LED cooling too.</li></ul><h2 id="section-2">When not to use it</h2><h2 id="section-3">Do not stack more than two gels</h2>
+<section><h2 id="section-1">Test the color shift</h2><ul><li><strong>Density:</strong> shoot white paper and a gray card at the final light position with 1/4, 1/2 and full ND; compare color temperature and density.</li><li><strong>Stacking:</strong> multiple ND gels add cast and vignetting; use one gel of the needed density where possible.</li><li><strong>Heat:</strong> gels melt too close to a fixture; use a gel frame and distance, and check LED cooling too.</li></ul><h2 id="section-3">Do not stack more than two gels</h2>
 <p>CTO/CTB correct color temperature; ND lowers brightness. Stacking both shifts color, reduces sharpness and can add IR pollution. Decide whether you need a color shift before adding ND.</p>
 <ol><li>Daylight too blue: 1/4 CTO. Tungsten too warm: 1/4 CTB. Add a quarter at a time.</li><li>Put ND on the lens or window, not against the color gel. For deep cuts, use one strong ND, not three weak ones.</li><li>Set LED color and brightness first; gels are for trim, not for fixing a bad lamp.</li></ol>
 <p>Acceptance: white-balance and check white paper and skin, not the lamp. Green cast or vignette means remove a layer.</p></section><section><h2 id="section-4">On set</h2><p>Put CTO on the window and CTB on the lamp, then check the color temperature. ND gel only cuts brightness; it does not shift color.</p></section><section><h2 id="section-5">Do this</h2><p>Lighting gels split into CTO, CTB, and ND: warm, cool, and dim; the wrong gel changes the whole set.</p><ol><li>CTO on a window, CTB on a lamp, shoot and read color temperature.</li><li>ND gel only dims without shifting color.</li><li>Label each gel with name and strength instead of judging by color.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not sort gels by eye; CTO and ND can both look orange in the dark.</p></section>
@@ -45,6 +45,6 @@ source_kind: experience
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 6 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Lighting Gel: CTO, CTB, ND”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 6 gear trials and on-set playbacks under the listed model/firmware, once indoors and once outdoors; it covers the selection and use limits of “Lighting Gel: CTO, CTB, ND”, not an external laboratory test, unlisted models, unit-level QC, warranty/rental contracts or safety certification.
 <!-- SOURCES_END -->
 

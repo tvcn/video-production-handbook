@@ -28,6 +28,8 @@ review_due: '2027-02-26'
 related: [formats.wedding.wedding-breakdown, formats.wedding.wedding-structure, story.screenplay.logline]
 source_kind: sourced
 sources:
+- S14
+- S15
 - S29
 - S14
 ---
@@ -45,7 +47,8 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Go, meet, change. The change can be small, but it must happe”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Go, meet, change. The change can be small, but it must happe”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S14] [YouTube: Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “A usable 60-second segment table” section against YouTube community rules, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S15] [TikTok: Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Fill three lines before rolling” section against TikTok community rules, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S29] [YouTube: Upload Encoding Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “On set” section against YouTube upload encoding recommendations, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

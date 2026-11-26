@@ -27,7 +27,6 @@ related: [formats.product-ad.product-ad-template, formats.real-estate.real-estat
 sources:
 - S14
 - S15
-- S16
 - S29
 test_context: 复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。
 known_failures: 已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。
@@ -47,9 +46,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“按 60 秒产品广告的通用结构，拆 9 个时间码：问题、失败、产品、演示、证据、异议、第二证据、结果、行动。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
-- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“按 60 秒产品广告的通用结构，拆 9 个时间码：问题、失败、产品、演示、证据、异议、第二证据、结果、行动。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
-- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“按 60 秒产品广告的通用结构，拆 9 个时间码：问题、失败、产品、演示、证据、异议、第二证据、结果、行动。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
-- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“按 60 秒产品广告的通用结构，拆 9 个时间码：问题、失败、产品、演示、证据、异议、第二证据、结果、行动。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S14] [YouTube：社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对「拉片前先定三个变量」一节的术语/方法/规则（YouTube 社区准则，不是内容创意标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S15] [TikTok：社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对「时间码拆解：9 个节点」一节的术语/方法/规则（TikTok 社区准则，不是内容创意标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S29] [YouTube：上传编码建议](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对「结构判断」一节的术语/方法/规则（YouTube 上传编码建议，不是创作标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

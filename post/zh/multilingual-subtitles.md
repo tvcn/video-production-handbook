@@ -27,6 +27,7 @@ related: [post.sound.music-editing, post.editing.parallel-editing, shoot.camera.
 source_kind: sourced
 sources:
 - S68
+- S06
 - S65
 ---
 <p>多语言字幕分轨交付：每条轨只放一种语言，时间码对齐，样式分开。不要把中英叠在同一行；移动端会挤成一团，也无法单独关闭。</p>
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S68] [W3C：WebVTT](https://www.w3.org/TR/webvtt1/) — 2026-11-26 访问。用于核对首段“多语言字幕别一行塞两种语言；要么切换字幕轨，要么分版交付。”中的术语与公开背景（字幕格式与时间戳）；不替代现场测试。
-- [S65] [ITU：H.264](https://www.itu.int/rec/T-REC-H.264/en) — 2026-11-26 访问。用于核对首段“多语言字幕别一行塞两种语言；要么切换字幕轨，要么分版交付。”中的术语与公开背景（AVC 编码规范）；不替代现场测试。
+- [S68] [W3C：WebVTT](https://www.w3.org/TR/webvtt1/) — 2026-11-26 访问。用于核对「一种语言一条轨，不要混在一条里」一节的术语/方法/规则（WebVTT 字幕格式，不是平台审核规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S06] [W3C：字幕与说明指南](https://www.w3.org/WAI/media/av/captions/) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（W3C 字幕/说明指南，不是平台审核规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

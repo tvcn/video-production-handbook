@@ -68,9 +68,10 @@ Do not change focal length in a scene just to make it “rich.” Wide establish
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Focal Length: Decide How Close the Audience Stands”; it does not replace Lighting Style: Soft, Hard, Natural, Live Encoding: Bitrate, Uplink, Backup, Color: Match First, Style Second. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 6 on-set shoot and playback review reviews under one camera, available light or one key light; it discusses “Focal Length: Decide How Close the Audience Stands”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 6 on-set tests and shoot reviews under the listed camera/lens/audio gear and one location; it covers the on-set decisions for “Focal Length: Decide How Close the Audience Stands”, not an external laboratory test, unlisted gear, extreme weather, stunts or high-risk permitted sets.
 <!-- SOURCES_END -->
 

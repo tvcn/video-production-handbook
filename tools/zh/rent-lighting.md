@@ -27,6 +27,7 @@ related: [tools.tutorial.restore-test, tools.tutorial.room-tone-record, shoot.ca
 source_kind: sourced
 sources:
 - S31
+- S23
 - S32
 ---
 <p>先画光位：主光、补光、轮廓、背景。每个位置需要多大面积、可不可调色温、要不要柔光。再按位置租，不按“越多越好”租。</p>
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“灯光租赁先列清单、试亮、拍损坏；少一个灯罩，现场就得多等一小时。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
-- [S32] [Sony 专业影像支持](https://pro.sony/ue_US/support) — 2026-11-26 访问。用于核对首段“灯光租赁先列清单、试亮、拍损坏；少一个灯罩，现场就得多等一小时。”中的术语与公开背景（专业摄影机与镜头的支持、固件与文档）；不替代现场测试。
+- [S31] [ARRI：电影系统](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对「租灯先定“需要几种光”，不是“需要几盏灯”」一节的术语/方法/规则（ARRI 摄影机、镜头与灯光资料，不是通用拍摄教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S23] [SMPTE：标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（SMPTE 标准入口，不是具体机型参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -24,11 +24,8 @@ authors:
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 sources:
-- S23
-- S25
-- S26
-- S29
-- S38
+- S41
+- S22
 test_context: 'Review setup: Windows 11 workstation + iPhone 13, Chrome 131; bodies/lenses checked against public specs and short samples, not lab instruments.'
 known_failures: 'Known failures: grey-channel firmware/warranty vary; samples do not prove retail units; prices and stock expire.'
 verified: 2026-11-22
@@ -47,10 +44,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A budget is not a cost list; it protects the line that would”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A budget is not a cost list; it protects the line that would”) against HD SDR gamut, transfer function and viewing conditions; not a substitute for an on-set test.
-- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A budget is not a cost list; it protects the line that would”) against Wide-gamut and parameter definitions for UHD/HDR; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A budget is not a cost list; it protects the line that would”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A budget is not a cost list; it protects the line that would”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
+- [S41] [WGA: Contract and Credit Resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Find the stop-shoot line before the total” section against WGA contract and credit resources, not Chinese employment law; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S22] [NPC: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Five blocks: every block needs a cap” section against China's Civil Code, not industry custom; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

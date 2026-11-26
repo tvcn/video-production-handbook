@@ -27,11 +27,9 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [post.deep.deep-edit-rhythm, post.deep.deep-master-delivery, shoot.camera.axis-line]
 sources:
-- S19
+- S24
+- S25
 - S30
-- S34
-- S27
-- S35
 source_kind: sourced
 ---
 <p>Colour is not a LUT; wrong order of management, primary and LUT makes it dirtier. One page of &amp;quot;Color Management: Put the LUT in the Right Place&amp;quot; solves one local problem; joining &amp;quot;Color Management: Put the LUT in the Right Place&amp;quot;, &amp;quot;Primary Correction: Exposure and White Balance&amp;quot; and &amp;quot;LUT: A Starting Point, Not a Finish&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
@@ -57,10 +55,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S19] [Generative Adversarial Nets (2014)](https://arxiv.org/abs/1406.2661) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Colour is not a LUT; wrong order of management, primary and ”) against The original GAN paper: a generator and discriminator trained against each other; not a substitute for an on-set test.
-- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Colour is not a LUT; wrong order of management, primary and ”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
-- [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Colour is not a LUT; wrong order of management, primary and ”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
-- [S27] [ITU-R: BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“Colour is not a LUT; wrong order of management, primary and ”) against ITU algorithms for loudness measurement and true peak, the basis referenced by EBU R128; not a substitute for an on-set test.
-- [S35] [Avid Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Colour is not a LUT; wrong order of management, primary and ”) against Resources for Media Composer, collaboration and delivery; not a substitute for an on-set test.
+- [S24] [ACESCentral: ACES](https://acescentral.com/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against ACES color specification, not a grading tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Judgement” section against BT.709 HD television parameters, not on-set exposure advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S30] [DaVinci Resolve: Official Documentation](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Method” section against official Resolve product/documentation entry, not a third-party tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

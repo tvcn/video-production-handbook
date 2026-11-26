@@ -27,10 +27,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [formats.documentary.documentary, formats.documentary.documentary-breakdown, story.deep.deep-coverage-board]
 sources:
-- S12
-- S15
 - S14
-- S16
+- S15
 - S29
 source_kind: sourced
 ---
@@ -57,10 +55,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“短剧不是把长片剪短；模板、拆解和剧本要围绕一个 30 秒钩子重新排。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
-- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“短剧不是把长片剪短；模板、拆解和剧本要围绕一个 30 秒钩子重新排。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
-- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“短剧不是把长片剪短；模板、拆解和剧本要围绕一个 30 秒钩子重新排。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
-- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“短剧不是把长片剪短；模板、拆解和剧本要围绕一个 30 秒钩子重新排。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
-- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“短剧不是把长片剪短；模板、拆解和剧本要围绕一个 30 秒钩子重新排。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S14] [YouTube：社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对「问题」一节的术语/方法/规则（YouTube 社区准则，不是内容创意标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S15] [TikTok：社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对「判断」一节的术语/方法/规则（TikTok 社区准则，不是内容创意标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S29] [YouTube：上传编码建议](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对「做法」一节的术语/方法/规则（YouTube 上传编码建议，不是创作标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -28,6 +28,10 @@ source_kind: sourced
 related: [formats.tutorial.tutorial-breakdown, formats.tutorial.tutorial-structure, story.screenplay.logline]
 depth: deep
 deep_minutes: 5
+sources:
+- S16
+- S14
+
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -77,10 +81,11 @@ deep_minutes: 5
 <ul><li>缩到拇指大还认得出</li><li>有一张脸或一个动作</li><li>人脸至少占三分之一</li><li>标题不重复画面</li><li>背景干净</li><li>主体留 8% 边距</li><li>文字最多两行</li><li>16:9、1:1、9:16 都不裁掉主体</li><li>手机列表找五个人测试</li><li>封面承诺正片能给</li></ul><p>封面只负责让人停下来，正片才负责让人留下来。</p>
 <!-- DEEP_DIVE_END -->
 
+<section><h2>边界</h2><p>本页只解决「封面缩到 200 像素，还认得出吗」这一个问题；不替代 教程拉片：5 分钟怎么让人学会、教程结构：一个问题只教一件事、一句话故事：谁想要什么，被什么挡住。如果现场问题属于后者，先读对应页，不要在本页继续加参数。</p></section>
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“手机上的封面只有拇指大。先保证一张脸、一个动作、一个对比，再谈字。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
-- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“手机上的封面只有拇指大。先保证一张脸、一个动作、一个对比，再谈字。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S16] [BBC：编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对「先做黑白稿，缩到拇指大」一节的术语/方法/规则（BBC 编辑准则，不是平台流量规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S14] [YouTube：社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对「一张脸，一个动作，一个反差」一节的术语/方法/规则（YouTube 社区准则，不是内容创意标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

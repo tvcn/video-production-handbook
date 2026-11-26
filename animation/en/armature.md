@@ -29,7 +29,9 @@ review_due: '2027-02-26'
 related: [animation.pipeline.asset-handoff, animation.3d.blockout, formats.documentary.documentary-template]
 source_kind: sourced
 sources:
+- S50
 - S62
+- S12
 - S63
 ---
 <p>Test three moves: standing without wobble, raising an arm without sag, sitting without collapse. Use a metal armature with silicone pads and enlarge the feet; do not start with fingers before the center of gravity and knees are stable.</p>
@@ -56,7 +58,8 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A stop-motion puppet must stand, walk, and repeat before act”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
-- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A stop-motion puppet must stand, walk, and repeat before act”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S50] [Kodak: Motion Picture](https://www.kodak.com/en/motion/home) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “The armature must stand before it performs” section against Kodak film and motion-picture material, not digital settings; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S62] [Blender: Official Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Rigging: run extreme-pose tests before animation” section against Blender manual, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S12] [Britannica: Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against Britannica animation history, not software documentation; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

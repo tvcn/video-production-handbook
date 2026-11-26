@@ -26,7 +26,8 @@ review_due: '2027-02-26'
 related: [shoot.production.scene-space, shoot.camera.sensor-size, post.color.color]
 source_kind: sourced
 sources:
-- S23
+- S18
+- S36
 - S31
 ---
 <p>风险表不是列满所有可能，而是找出“一旦发生，今天拍不成”的三五项：天气、关键人缺席、设备故障、场地被拒、交通中断。每项写触发条件、备选方案、决定时间。</p>
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“风险评估一页纸：谁可能受伤、什么会掉、出了事谁负责、最近的医院在哪。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“风险评估一页纸：谁可能受伤、什么会掉、出了事谁负责、最近的医院在哪。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
+- [S18] [CMSI：危险纪录片手册](https://cmsimpact.org/wp-content/uploads/2015/12/dangerousdocs-feb2015.pdf) — 2026-11-26 访问。用于核对「先写“会停拍的那一项”」一节的术语/方法/规则（纪录片风险与伦理手册，不是法律意见）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S36] [国家广播电视总局：官网](https://www.nrta.gov.cn/) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（广电总局官网，不是具体许可代办）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

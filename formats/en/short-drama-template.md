@@ -44,9 +44,10 @@ source_kind: experience
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Short Drama Template: A Hook Every Thirty Seconds”; it does not replace Sports Film Breakdown: Six Beats in Practice, Sports Film Structure: Six Beats, Short Drama: A Hook Every Thirty Seconds. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 3 format breakdown and project review reviews under a 30-second to five-minute film for one platform; it discusses “Short Drama Template: A Hook Every Thirty Seconds”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 3 format breakdowns of finished films, 30 seconds to five minutes, delivered to one platform; it covers the structure and decision order of “Short Drama Template: A Hook Every Thirty Seconds”, not an external laboratory test, multi-camera live, cinema delivery or a long-form custom narrative.
 <!-- SOURCES_END -->
 

@@ -28,11 +28,9 @@ review_due: '2027-02-26'
 related: [context.deep.deep-media-literacy, context.literacy.deepfake, formats.deep.deep-brand-film]
 
 sources:
-- S12
-- S01
-- S02
-- S03
-- S16
+- S10
+- S11
+- S50
 source_kind: sourced
 ---
 <p>Image history is not a year list; 1839, 1895 and photography together show how recording became narrative. One page of &amp;quot;1839&amp;quot; solves one local problem; joining &amp;quot;1839&amp;quot;, &amp;quot;1895&amp;quot; and &amp;quot;photo-history&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
@@ -59,10 +57,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Image history is not a year list; 1839, 1895 and photography”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Image history is not a year list; 1839, 1895 and photography”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Image history is not a year list; 1839, 1895 and photography”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Image history is not a year list; 1839, 1895 and photography”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Image history is not a year list; 1839, 1895 and photography”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S10] [BFI: Film History and Moving Image Research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against BFI film history and archive, not gear reviews; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S11] [Britannica: Photography](https://www.britannica.com/technology/photography) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Judgement” section against Britannica photography entry, not a how-to manual; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S50] [Kodak: Motion Picture](https://www.kodak.com/en/motion/home) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Method” section against Kodak film and motion-picture material, not digital settings; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

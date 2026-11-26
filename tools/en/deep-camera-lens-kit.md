@@ -27,11 +27,9 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [tools.deep.deep-live-stream-chain, tools.deep.deep-location-sound-chain, shoot.camera.axis-line]
 sources:
-- S16
-- S29
-- S23
-- S30
-- S70
+- S31
+- S52
+- S53
 source_kind: sourced
 ---
 <p>The body sets the floor; lenses decide what you can capture. One body and three lenses finish more often. One page of &amp;quot;Mirrorless for Video: Heat, Rolling Shutter, Crop&amp;quot; solves one local problem; joining &amp;quot;Mirrorless for Video: Heat, Rolling Shutter, Crop&amp;quot;, &amp;quot;Prime Lens: Move Your Feet&amp;quot; and &amp;quot;Zoom Lens: Convenience Has a Cost&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
@@ -57,10 +55,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The body sets the floor; lenses decide what you can capture.”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The body sets the floor; lenses decide what you can capture.”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The body sets the floor; lenses decide what you can capture.”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The body sets the floor; lenses decide what you can capture.”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
-- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The body sets the floor; lenses decide what you can capture.”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Judgement” section against ALEXA 35 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Method” section against FX6 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

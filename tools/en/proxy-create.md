@@ -30,6 +30,7 @@ source_kind: sourced
 sources:
 - S34
 - S60
+- S60
 ---
 <p>Do not rename files or change folder structure when generating proxies. The editor relinks by original name and timecode; renaming turns relinking into manual hunting.</p>
 <!-- DIAGRAM_START -->
@@ -48,7 +49,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Generate proxies to match timeline and delivery; full-res ed”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
-- [S60] [Apple: Final Cut Pro User Guide](https://support.apple.com/guide/final-cut-pro/welcome/mac) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Generate proxies to match timeline and delivery; full-res ed”) against Editing, magnetic timeline, proxies and export; not a substitute for an on-set test.
+- [S34] [Adobe: Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Proxy specs: editable, relinkable, never the master” section against official Premiere Pro guide, not a verdict on workflow quality; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S60] [Apple: Final Cut Pro Guide](https://support.apple.com/guide/final-cut-pro/welcome/mac) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Proxies keep names, timecode and reel” section against official Final Cut Pro guide, not a verdict on workflow quality; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

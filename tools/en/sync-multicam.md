@@ -29,6 +29,7 @@ source_kind: sourced
 sources:
 - S23
 - S67
+- S67
 ---
 <p>Without timecode, use a clap, a line or a flash seen by every camera. Align by audio waveform in the edit; do not drag by “looks close.”</p>
 <!-- DIAGRAM_START -->
@@ -47,7 +48,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Sync timecode first, clap as backup; with both, the edit can”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S67] [IETF: RFC 8216: HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Sync timecode first, clap as backup; with both, the edit can”) against HLS segments, playlists and playback; not a substitute for an on-set test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Multi-camera sync: timecode first, clap as backup” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S67] [IETF: RFC 8216 (HLS)](https://datatracker.ietf.org/doc/html/rfc8216) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Give multicam one shared event” section against HLS protocol spec, not live-operations advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

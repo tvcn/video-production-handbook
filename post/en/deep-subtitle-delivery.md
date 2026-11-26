@@ -27,11 +27,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [post.assets.dit-data-handoff, post.editing.edit-pacing, shoot.deep.deep-camera-move]
 sources:
+- S68
 - S06
-- S20
-- S30
-- S34
-- S27
 source_kind: sourced
 ---
 <p>Subtitles are not typing; SDH, multilingual and audio description are three different audience tasks. One page of &amp;quot;SDH: More Than Dialogue&amp;quot; solves one local problem; joining &amp;quot;SDH: More Than Dialogue&amp;quot;, &amp;quot;Multilingual Subtitles: One Language at a Time&amp;quot; and &amp;quot;Audio Description: Say What Matters&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
@@ -57,10 +54,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S06] [Captions and subtitles](https://www.w3.org/WAI/media/av/captions/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Subtitles are not typing; SDH, multilingual and audio descri”) against 1.2.4。 / Accessibility requirements for prerecorded and live captions; WCAG 1.2.2 / 1.2.4; not a substitute for an on-set test.
-- [S20] [Denoising Diffusion Probabilistic Models (2020)](https://arxiv.org/abs/2006.11239) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Subtitles are not typing; SDH, multilingual and audio descri”) against Diffusion models: the noising-to-denoising generation path; not a substitute for an on-set test.
-- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Subtitles are not typing; SDH, multilingual and audio descri”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
-- [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Subtitles are not typing; SDH, multilingual and audio descri”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
-- [S27] [ITU-R: BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“Subtitles are not typing; SDH, multilingual and audio descri”) against ITU algorithms for loudness measurement and true peak, the basis referenced by EBU R128; not a substitute for an on-set test.
+- [S68] [W3C: WebVTT](https://www.w3.org/TR/webvtt1/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against WebVTT caption format, not platform review rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S06] [W3C: Captions and Subtitles](https://www.w3.org/WAI/media/av/captions/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Judgement” section against W3C caption guidance, not platform review rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

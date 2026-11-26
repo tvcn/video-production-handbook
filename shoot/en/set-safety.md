@@ -29,11 +29,8 @@ related: [shoot.production.shot-list, shoot.camera.shot-size, post.color.color]
 depth: deep
 deep_minutes: 5
 sources:
-- S23
-- S31
-- S32
-- S33
-- S52
+- S18
+- S36
 test_context: 'Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus
   and samples; lens claims follow page labels, not every lens tested.'
 known_failures: 'Known failures: menus and firmware differ; uncalibrated color temperature/monitors
@@ -72,10 +69,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cables, heights, traffic: check those three before anything ”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cables, heights, traffic: check those three before anything ”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
-- [S32] [Sony Pro Support](https://pro.sony/ue_US/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cables, heights, traffic: check those three before anything ”) against Support, firmware and documents for pro cameras and lenses; not a substitute for an on-set test.
-- [S33] [Canon Support](https://www.usa.canon.com/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cables, heights, traffic: check those three before anything ”) against Official support for cameras, lenses and firmware; not a substitute for an on-set test.
-- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cables, heights, traffic: check those three before anything ”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
+- [S18] [CMSI: Dangerous Documentaries](https://cmsimpact.org/wp-content/uploads/2015/12/dangerousdocs-feb2015.pdf) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “People before the shot” section against documentary risk and ethics handbook, not legal advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S36] [NRTA: Official Site](https://www.nrta.gov.cn/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against NRTA official site, not permit agency service; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

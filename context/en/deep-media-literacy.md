@@ -27,11 +27,9 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [context.literacy.deepfake, context.history.digital-cinema, formats.deep.deep-brand-film]
 sources:
-- S14
 - S01
-- S02
-- S03
 - S16
+- S17
 source_kind: sourced
 ---
 <p>Media literacy is not do not trust the internet; sources, algorithms and emotional triggers become checks. One page of &amp;quot;media-literacy&amp;quot; solves one local problem; joining &amp;quot;media-literacy&amp;quot;, &amp;quot;Source Check: Who Posted It First?&amp;quot; and &amp;quot;Algorithm Feed: Why the Same Thing Again?&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
@@ -57,10 +55,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Media literacy is not do not trust the internet; sources, al”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Media literacy is not do not trust the internet; sources, al”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Media literacy is not do not trust the internet; sources, al”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Media literacy is not do not trust the internet; sources, al”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Media literacy is not do not trust the internet; sources, al”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S01] [UNESCO: Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against media and information literacy framework, not platform-specific rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S16] [BBC: Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Judgement” section against BBC editorial guidelines, not platform growth rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S17] [Reuters: Trust Principles](https://reutersagency.com/about/our-trust-principles/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Method” section against Reuters trust principles, not general creative advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

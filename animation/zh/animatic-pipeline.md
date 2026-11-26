@@ -27,6 +27,11 @@ related: [animation.case.animation-case, animation.2d.animation-lip-sync, format
 depth: deep
 deep_minutes: 6
 source_kind: sourced
+sources:
+- S62
+- S63
+- S59
+
 ---
 <p>Animatic 用临时配音、简单画面和准确时长，检查镜头能不能接、节奏是否成立。每个镜头标秒数，配音先录，不要等动画完成再配。</p>
 <!-- DIAGRAM_START -->
@@ -64,7 +69,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“Animatic 先放配音、定每条时长、再改分镜；没有声音，时间感是假的。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
-- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“Animatic 先放配音、定每条时长、再改分镜；没有声音，时间感是假的。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「Animatic 先锁三样，再进动画」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对「先定时间，再定细节」一节的术语/方法/规则（Toon Boom 官方文档，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S59] [Adobe：After Effects 官方指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（After Effects 官方指南，不是合成美学结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -27,6 +27,11 @@ related: [post.vfx.vfx-composite, post.delivery.archive, shoot.camera.compositio
 depth: deep
 deep_minutes: 5
 source_kind: sourced
+sources:
+- S34
+- S60
+- S30
+
 ---
 <p>文件名用 v001、v002，不用“最终”“最终2”。每次输出写一行变更：改了哪一场、哪个镜头、为什么。没有变更说明，版本号只是数字。</p>
 <!-- DIAGRAM_START -->
@@ -61,8 +66,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“版本管理用日期、平台、时长和改动原因命名，别用“final 真的 final”。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
-- [S27] [ITU-R：BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-27 访问。用于核对首段“版本管理用日期、平台、时长和改动原因命名，别用“final 真的 final”中的术语与公开背景（响度测量、真峰值与 EBU R128 所依据的 ITU 算法标准）；不替代现场测试。
-- [S67] [IETF：RFC 8216：HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216) — 2026-11-26 访问。用于核对首段“版本管理用日期、平台、时长和改动原因命名，别用“final 真的 final”。”中的术语与公开背景（HLS 分片、清单与播放）；不替代现场测试。
+- [S34] [Adobe：Premiere Pro 官方指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对「版本号只增不减，说明写“改了什么”」一节的术语/方法/规则（Premiere Pro 官方指南，不是工作流优劣结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S60] [Apple：Final Cut Pro 官方指南](https://support.apple.com/guide/final-cut-pro/welcome/mac) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Final Cut Pro 官方指南，不是工作流优劣结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S30] [DaVinci Resolve：官方文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对「怎么做」一节的术语/方法/规则（Resolve 官方产品/文档入口，不是第三方教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

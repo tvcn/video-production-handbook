@@ -28,6 +28,7 @@ source_kind: sourced
 sources:
 - S62
 - S59
+- S59
 ---
 <p>三维灯光不是把场景照亮。先定一个主光方向，让影子说明空间；再用环境光和补光控制反差。材质再真，光位错了也会像贴图。</p>
 <!-- DIAGRAM_START -->
@@ -53,7 +54,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“三维灯光先用主光、补光、轮廓光定结构，再用 HDRI 补环境；顺序反了，空间会平。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
-- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“三维灯光先用主光、补光、轮廓光定结构，再用 HDRI 补环境；顺序反了，空间会平。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「3D 灯光先定“主光方向”，再谈材质」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S59] [Adobe：After Effects 官方指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对「三维灯光：先定主光，再谈氛围」一节的术语/方法/规则（After Effects 官方指南，不是合成美学结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

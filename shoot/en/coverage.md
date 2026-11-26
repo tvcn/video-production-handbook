@@ -30,11 +30,9 @@ related: [shoot.deep.deep-camera-move, shoot.deep.deep-hard-light, post.color.co
 depth: deep
 deep_minutes: 6
 sources:
-- S23
 - S31
-- S32
-- S33
 - S52
+- S53
 test_context: 'Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus
   and samples; lens claims follow page labels, not every lens tested.'
 known_failures: 'Known failures: menus and firmware differ; uncalibrated color temperature/monitors
@@ -73,10 +71,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Coverage is not more takes; it gives the edit different info”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Coverage is not more takes; it gives the edit different info”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
-- [S32] [Sony Pro Support](https://pro.sony/ue_US/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Coverage is not more takes; it gives the edit different info”) against Support, firmware and documents for pro cameras and lenses; not a substitute for an on-set test.
-- [S33] [Canon Support](https://www.usa.canon.com/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Coverage is not more takes; it gives the edit different info”) against Official support for cameras, lenses and firmware; not a substitute for an on-set test.
-- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Coverage is not more takes; it gives the edit different info”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Coverage gives the edit choices” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against ALEXA 35 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “On set” section against FX6 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

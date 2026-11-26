@@ -28,7 +28,8 @@ review_due: '2027-02-26'
 source_kind: sourced
 related: [tools.capability.lto-archive, tools.capability.matte-box, shoot.camera.composition]
 sources:
-- S36
+- S41
+- S22
 - S22
 ---
 <!-- DIAGRAM_START -->
@@ -75,7 +76,7 @@ The relationship is a long-term asset. A clean wrap makes the next door, outlet,
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S36] [National Radio and Television Administration: Official site](https://www.nrta.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A location is not a place that looks right. Who can say yes,”) against Policy entry for broadcasting and online audiovisual services; not a substitute for an on-set test.
-- [S22] [National People's Congress: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A location is not a place that looks right. Who can say yes,”) against Statutory text on portrait rights, privacy, contracts and location rights; not a substitute for an on-set test.
+- [S41] [WGA: Contract and Credit Resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Who can actually say yes” section against WGA contract and credit resources, not Chinese employment law; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S22] [NPC: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Can the room actually work” section against China's Civil Code, not industry custom; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

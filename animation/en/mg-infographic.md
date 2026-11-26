@@ -30,6 +30,7 @@ source_kind: sourced
 sources:
 - S59
 - S62
+- S62
 ---
 <p>An infographic is not big numbers plus arrows. Decide the relationship: comparison, trend, proportion, process; each maps to a chart form. Wrong relationship cannot be fixed by animation.</p>
 <!-- DIAGRAM_START -->
@@ -45,7 +46,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One line carries one claim. More lines mean less memory.”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
-- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One line carries one claim. More lines mean less memory.”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
+- [S59] [Adobe: After Effects Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Draw the relationship before decoration” section against official After Effects guide, not a verdict on compositing aesthetics; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S62] [Blender: Official Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against Blender manual, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

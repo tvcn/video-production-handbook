@@ -30,10 +30,6 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 sources:
 - S12
-- S01
-- S02
-- S03
-- S16
 related: [context.history.camera-obscura, context.literacy.clickbait, formats.documentary.documentary-template]
 source_kind: sourced
 ---
@@ -75,13 +71,10 @@ Do not chase realism. Audiences remember weight and rhythm, not polygon count. B
 
 <!-- V11_DEEPEN -->
 
+<section><h2>Boundary</h2><p>This page only covers “Animation History: From Cels to 3D”; it does not replace Camera Obscura: The Image Learned to Stand Upside Down, Clickbait: What the Title Promises, What the Body Gives, Documentary Template: One Person, One Thing, One Change. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Paper, cels, polygons: the tools changed. Animators still fa”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Paper, cels, polygons: the tools changed. Animators still fa”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Paper, cels, polygons: the tools changed. Animators still fa”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Paper, cels, polygons: the tools changed. Animators still fa”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Paper, cels, polygons: the tools changed. Animators still fa”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S12] [Britannica: Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Cel animation” section against Britannica animation history, not software documentation; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

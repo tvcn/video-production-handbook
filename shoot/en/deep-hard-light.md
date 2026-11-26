@@ -27,11 +27,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [shoot.deep.deep-log-exposure, shoot.deep.deep-multicam, post.delivery.archive]
 sources:
-- S16
-- S23
 - S31
-- S52
-- S53
+- S23
 source_kind: sourced
 ---
 <p>Hard light is not a defect; the question is whether hard, practical and colour are arranged on the same face. One page of &amp;quot;Hard Light: The Shadow Is the Shape&amp;quot; solves one local problem; joining &amp;quot;Hard Light: The Shadow Is the Shape&amp;quot;, &amp;quot;Mixed Light: Keep the Two Temperatures&amp;quot; and &amp;quot;Practical Light: Use the Lamp in the Frame&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
@@ -57,10 +54,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Hard light is not a defect; the question is whether hard, pr”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Hard light is not a defect; the question is whether hard, pr”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Hard light is not a defect; the question is whether hard, pr”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
-- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Hard light is not a defect; the question is whether hard, pr”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
-- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Hard light is not a defect; the question is whether hard, pr”) against Body specifications, recording formats and interfaces; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Judgement” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

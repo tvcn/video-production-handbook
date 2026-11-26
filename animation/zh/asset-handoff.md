@@ -28,6 +28,8 @@ source_kind: sourced
 sources:
 - S62
 - S63
+- S59
+- S63
 ---
 <p>交接包必须让别人在没有你的电脑上打开：贴图用相对路径、缓存写清版本、文件名带场景和日期。不要用“最终版 final final”当版本号。</p>
 <!-- DIAGRAM_START -->
@@ -43,7 +45,8 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“资产交接写清命名、版本、缓存和依赖；少一样，下一个人就要重做。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
-- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“资产交接写清命名、版本、缓存和依赖；少一样，下一个人就要重做。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「命名、版本、路径，三样都要能独立打开」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Toon Boom 官方文档，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S59] [Adobe：After Effects 官方指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对「怎么做」一节的术语/方法/规则（After Effects 官方指南，不是合成美学结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

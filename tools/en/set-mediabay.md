@@ -29,6 +29,7 @@ source_kind: sourced
 sources:
 - S57
 - S35
+- S35
 ---
 <p>Offloading is not dragging a folder. Use a checksum tool to compare source card and destination, and write a manifest. Keep three copies: camera, set drive, offline drive. “Copy completed” without a checksum is not a backup.</p>
 <!-- DIAGRAM_START -->
@@ -44,7 +45,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S57] [Blackmagic Design: URSA Mini Pro 12K](https://www.blackmagicdesign.com/products/blackmagicursaminipro/techspecs) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Offload, verify, name, and back up on set; organizing later ”) against 12K specifications, codecs and storage; not a substitute for an on-set test.
-- [S35] [Avid Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Offload, verify, name, and back up on set; organizing later ”) against Resources for Media Composer, collaboration and delivery; not a substitute for an on-set test.
+- [S57] [Blackmagic: URSA Mini Pro 12K Specs](https://www.blackmagicdesign.com/products/blackmagicursaminipro/techspecs) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Checksum first, then three copies” section against URSA Mini Pro 12K specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S35] [Avid: Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against Avid resource center, not an independent review; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

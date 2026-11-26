@@ -26,6 +26,8 @@ review_due: '2027-02-26'
 related: [tools.capability.practical-bulb, tools.capability.prime-lens, shoot.camera.composition]
 source_kind: sourced
 sources:
+- S58
+- S57
 - S53
 - S58
 ---
@@ -43,7 +45,8 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“相机过热先降温、分段拍、降码率；不要用湿毛巾直接敷机身。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
-- [S58] [Blackmagic Design：Pocket Cinema Camera 6K](https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs) — 2026-11-26 访问。用于核对首段“相机过热先降温、分段拍、降码率；不要用湿毛巾直接敷机身。”中的术语与公开背景（机身规格与录制格式）；不替代现场测试。
+- [S58] [Blackmagic：Pocket Cinema Camera 6K 规格](https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs) — 2026-11-26 访问。用于核对「过热先降规格，不要等死机」一节的术语/方法/规则（Pocket Cinema Camera 6K 官方规格，不是独立测试）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S57] [Blackmagic：URSA Mini Pro 12K 规格](https://www.blackmagicdesign.com/products/blackmagicursaminipro/techspecs) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（URSA Mini Pro 12K 官方规格，不是独立测试）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对「怎么做」一节的术语/方法/规则（FX6 官方规格，不是独立测试）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

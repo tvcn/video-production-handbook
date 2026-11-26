@@ -27,7 +27,8 @@ review_due: '2027-02-26'
 source_kind: sourced
 related: [post.sound.sound-post, post.sound.sound-post-workflow, shoot.camera.axis-line]
 sources:
-- S34
+- S27
+- S35
 - S27
 ---
 <!-- DIAGRAM_START -->
@@ -67,10 +68,11 @@ J-cut 和 L-cut 是桥，不是创可贴。画面里的穿帮、跳轴、表演�
 - 声音搭接不超过 2 秒，除非有明确的设计。
 - 静音看一遍，画面本身也能成立。
 
+<section><h2>边界</h2><p>本页只解决「声音先走：J-cut 与 L-cut」这一个问题；不替代 声音后期先修噪声，再谈氛围、声音后期：从对白到终混的顺序、越轴之后，观众会突然找不到方向。如果现场问题属于后者，先读对应页，不要在本页继续加参数。</p></section>
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“画面切了，声音不必同时切。让下一场的声音先进来，或让上一场的声音留一会儿，硬切就不会撞观众一下。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
-- [S27] [ITU-R：BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-27 访问。用于核对首段“画面切了，声音不必同时切。让下一场的声音先进来，或让上一场的声音留一会儿，硬切就不会撞观众一下。”中的术语与公开背景（响度测量、真峰值与 EBU R128 所依据的 ITU 算法标准）；不替代现场测试。
+- [S27] [ITU-R BS.1770：响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-26 访问。用于核对「先决定观众该听谁」一节的术语/方法/规则（BS.1770 响度测量方法，不是话筒选购）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S35] [Avid：资源中心](https://www.avid.com/resource-center) — 2026-11-26 访问。用于核对「J-cut：下一场先出声」一节的术语/方法/规则（Avid 资源中心，不是独立评测）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -27,6 +27,7 @@ related: [shoot.virtual-production.led-virtual-production, shoot.virtual-product
 source_kind: sourced
 sources:
 - S31
+- S23
 - S25
 ---
 <p>硬光的特征是影子边缘清楚、反差高。用小块光源、裸灯或远距离太阳光；想要硬但不想过曝，就降输出或加 ND，不要用大柔光箱。</p>
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“硬光不是“难看”，它用影子划分空间；问题通常出在影子落错地方。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
-- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — 2026-11-26 访问。用于核对首段“硬光不是“难看”，它用影子划分空间；问题通常出在影子落错地方。”中的术语与公开背景（HD SDR 的色域、传递函数与观看条件）；不替代现场测试。
+- [S31] [ARRI：电影系统](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对「硬光先看“影子边缘”」一节的术语/方法/规则（ARRI 摄影机、镜头与灯光资料，不是通用拍摄教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S23] [SMPTE：标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（SMPTE 标准入口，不是具体机型参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

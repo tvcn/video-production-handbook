@@ -26,10 +26,6 @@ review_due: '2027-02-26'
 related: [tools.guide.audio-noise-fix, tools.audio.audio-position, shoot.camera.axis-line]
 sources:
 - S23
-- S31
-- S29
-- S30
-- S70
 source_kind: sourced
 ---
 <p>只需一支领夹进相机时，接口盒是多余环节；先解决麦距和增益。不要用设备数量替代录音基本功。</p>
@@ -40,7 +36,7 @@ source_kind: sourced
   <figcaption>看“接一支动圈麦，增益开到 70%”和“录 30 秒静音，听底噪”两处，判断这个参数能不能对应到一个具体的拍摄问题。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">选型先看什么</h2><ul><li><strong>输入与增益：</strong>确认话放增益是否够推你的麦，底噪在最大增益下是否可接受。</li><li><strong>通道与监听：</strong>需要几路独立输入、是否有直接监听和耳机输出；直播还要看回传。</li><li><strong>连接与供电：</strong>USB 总线供电是否稳定，是否需要独立电源；长线会不会引入噪声。</li></ul><h2 id="section-2">什么时候不要用</h2></section><section><h2 id="section-3">现场</h2><p>接一支动圈麦，增益开到 70%，录 30 秒静音；听底噪，再看最大增益是否够。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>接一支动圈麦，增益开到 70%。</li><li>录 30 秒静音，听底噪。</li><li>再看最大增益是否够录小声对白。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别只看接口数量；增益不够，小声对白推上去全是底噪。</p></section>
+<section><h2 id="section-1">选型先看什么</h2><ul><li><strong>输入与增益：</strong>确认话放增益是否够推你的麦，底噪在最大增益下是否可接受。</li><li><strong>通道与监听：</strong>需要几路独立输入、是否有直接监听和耳机输出；直播还要看回传。</li><li><strong>连接与供电：</strong>USB 总线供电是否稳定，是否需要独立电源；长线会不会引入噪声。</li></ul></section><section><h2 id="section-3">现场</h2><p>接一支动圈麦，增益开到 70%，录 30 秒静音；听底噪，再看最大增益是否够。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>接一支动圈麦，增益开到 70%。</li><li>录 30 秒静音，听底噪。</li><li>再看最大增益是否够录小声对白。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别只看接口数量；增益不够，小声对白推上去全是底噪。</p></section>
 <h2>验收</h2><ul><li>动圈麦在 70% 增益下录了 30 秒静音。</li><li>底噪水平能被描述，不是只说“还行”。</li><li>最大增益能录清小声对白，且底噪可接受。</li></ul>
 <section><h2>失败</h2><p>三种常见失败，都是接口参数没有对上现场：</p><ul><li><strong>1.</strong> 只看“支持 24-bit / 192 kHz”，没测最大增益下的底噪；小声对白一推，全是嘶声。</li><li><strong>2.</strong> USB 总线供电带高功耗电容麦，录到一半掉线或出现周期性爆音。</li><li><strong>3.</strong> 把耳机直接监听当成录音监听，没看输入电平；回放才发现左声道已经削顶。</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>接一支动圈麦，增益从 30% 开始，每档录 30 秒静音并记下底噪；再把增益推到能录清 1 米外小声对白的位置。用同一副耳机回放，选出“底噪可接受且不削顶”的最高一档，写进录音备注。</p></section>
 
@@ -49,13 +45,10 @@ source_kind: sourced
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>不解决什么</h2><p>本页只比较「音频接口：输入与增益」的能力与关键参数，不解决具体型号的实时价格、保修、卡口/固件兼容和个体品控；这些要看官方规格页、租赁商实测和退货条款。若问题涉及拍摄方案、预算或现场故障，先回到对应方法页。</p></section>
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“音频接口先看输入数量、增益范围和底噪；接口再贵，增益不够也录不了小声。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“音频接口先看输入数量、增益范围和底噪；接口再贵，增益不够也录不了小声。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
-- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“音频接口先看输入数量、增益范围和底噪；接口再贵，增益不够也录不了小声。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
-- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“音频接口先看输入数量、增益范围和底噪；接口再贵，增益不够也录不了小声。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
-- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“音频接口先看输入数量、增益范围和底噪；接口再贵，增益不够也录不了小声。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
+- [S23] [SMPTE：标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对「选型先看什么」一节的术语/方法/规则（SMPTE 标准入口，不是具体机型参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

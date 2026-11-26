@@ -37,7 +37,7 @@ source_kind: experience
   <figcaption>Watch “Same position and lens, shoot with and without” and “Compare angle, exposure, and corner sharpness.”; judge whether the spec maps to one concrete shooting problem.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">What to compare first</h2><ul><li><strong>Format and ratio:</strong> confirm the full-frame to APS-C/M43 ratio and sensor coverage; the wrong ratio vignettes.</li><li><strong>Aperture and focus:</strong> the booster changes effective aperture and depth; test AF speed and compatibility.</li><li><strong>Mount and clearance:</strong> check the lens rear does not hit the element; some wide lenses cannot be used.</li></ul><h2 id="section-2">When not to use it</h2></section><section><h2 id="section-3">On set</h2><p>From the same position, shoot with and without the adapter. Compare angle, light gain, and corner sharpness; stop down if the edges soften.</p></section><section><h2 id="section-4">Do this</h2><p>A speed booster compresses a full-frame lens onto a smaller sensor, widening the angle and gaining about a stop, but edges may soften.</p><ol><li>Same position and lens, shoot with and without the adapter.</li><li>Compare angle, exposure, and corner sharpness.</li><li>If corners soften, stop down instead of forcing wide open.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not treat a speed booster as free aperture; soft corners and vignetting are the bill.</p></section>
+<section><h2 id="section-1">What to compare first</h2><ul><li><strong>Format and ratio:</strong> confirm the full-frame to APS-C/M43 ratio and sensor coverage; the wrong ratio vignettes.</li><li><strong>Aperture and focus:</strong> the booster changes effective aperture and depth; test AF speed and compatibility.</li><li><strong>Mount and clearance:</strong> check the lens rear does not hit the element; some wide lenses cannot be used.</li></ul></section><section><h2 id="section-3">On set</h2><p>From the same position, shoot with and without the adapter. Compare angle, light gain, and corner sharpness; stop down if the edges soften.</p></section><section><h2 id="section-4">Do this</h2><p>A speed booster compresses a full-frame lens onto a smaller sensor, widening the angle and gaining about a stop, but edges may soften.</p><ol><li>Same position and lens, shoot with and without the adapter.</li><li>Compare angle, exposure, and corner sharpness.</li><li>If corners soften, stop down instead of forcing wide open.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not treat a speed booster as free aperture; soft corners and vignetting are the bill.</p></section>
 <h2>Check</h2><ul><li>With and without the adapter are compared from the same position.</li><li>Wider angle and extra exposure are visible.</li><li>Corners are checked and a stopped-down comparison exists if soft.</li></ul>
 
 
@@ -45,9 +45,10 @@ source_kind: experience
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>What this page does not solve</h2><p>This page compares the capability and key parameters of “Speed Booster: Wider Angle, Faster Aperture”; it does not settle live pricing, warranty, mount/firmware compatibility or unit-to-unit sample variation for a specific model. Check the official spec sheet, a rental house test and the return terms. For shooting plans, budgets or on-set faults, use the matching method page first.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 4 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Speed Booster: Wider Angle, Faster Aperture”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 4 gear trials and on-set playbacks under the listed model/firmware, once indoors and once outdoors; it covers the selection and use limits of “Speed Booster: Wider Angle, Faster Aperture”, not an external laboratory test, unlisted models, unit-level QC, warranty/rental contracts or safety certification.
 <!-- SOURCES_END -->
 

@@ -27,11 +27,8 @@ related: [shoot.production.shot-list, shoot.camera.shot-size, post.color.color]
 depth: deep
 deep_minutes: 5
 sources:
-- S23
-- S31
-- S32
-- S33
-- S52
+- S18
+- S36
 test_context: 复核环境：Windows 11 工作站；Sony FX3 / Canon R5 公开菜单与样片对照；镜头以页面标注为准，不声称每支都实测。
 known_failures: 已知失败：不同机型菜单/固件差异；现场色温与监视器未校准会导致误判。
 verified: 2026-11-22
@@ -68,10 +65,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“现场安全先看三样：电线会不会绊人、高处有没有固定、道路有没有车。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“现场安全先看三样：电线会不会绊人、高处有没有固定、道路有没有车。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
-- [S32] [Sony 专业影像支持](https://pro.sony/ue_US/support) — 2026-11-26 访问。用于核对首段“现场安全先看三样：电线会不会绊人、高处有没有固定、道路有没有车。”中的术语与公开背景（专业摄影机与镜头的支持、固件与文档）；不替代现场测试。
-- [S33] [Canon 支持](https://www.usa.canon.com/support) — 2026-11-26 访问。用于核对首段“现场安全先看三样：电线会不会绊人、高处有没有固定、道路有没有车。”中的术语与公开背景（相机、镜头与固件的官方支持入口）；不替代现场测试。
-- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“现场安全先看三样：电线会不会绊人、高处有没有固定、道路有没有车。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
+- [S18] [CMSI：危险纪录片手册](https://cmsimpact.org/wp-content/uploads/2015/12/dangerousdocs-feb2015.pdf) — 2026-11-26 访问。用于核对「先保人，再保镜头」一节的术语/方法/规则（纪录片风险与伦理手册，不是法律意见）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S36] [国家广播电视总局：官网](https://www.nrta.gov.cn/) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（广电总局官网，不是具体许可代办）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

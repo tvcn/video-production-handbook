@@ -25,11 +25,9 @@ format: handbook
 authors:
 - TVCN Research Desk
 sources:
+- S01
 - S16
 - S17
-- S01
-- S02
-- S03
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [context.literacy.sponsorship-disclosure, context.literacy.statistics-video, formats.documentary.documentary-template]
@@ -50,10 +48,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find the first poster and the original file; a hundred thous”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
-- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find the first poster and the original file; a hundred thous”) against The agency's public commitment to independence, accuracy and freedom from bias; not a substitute for an on-set test.
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find the first poster and the original file; a hundred thous”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find the first poster and the original file; a hundred thous”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find the first poster and the original file; a hundred thous”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S01] [UNESCO: Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Find the first post, then a second independent source” section against media and information literacy framework, not platform-specific rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S16] [BBC: Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against BBC editorial guidelines, not platform growth rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S17] [Reuters: Trust Principles](https://reutersagency.com/about/our-trust-principles/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Source boundary” section against Reuters trust principles, not general creative advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

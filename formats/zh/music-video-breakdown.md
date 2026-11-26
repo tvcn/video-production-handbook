@@ -26,6 +26,7 @@ review_due: '2027-02-26'
 related: [formats.music-video.music-video-structure, formats.music-video.music-video-template, story.directing.actor-adjustment]
 source_kind: sourced
 sources:
+- S42
 - S14
 - S42
 ---
@@ -42,7 +43,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“按 3 分半 MV 的通用结构，拆 9 个时间码：前奏母题、主歌、预副歌、副歌、主歌二、桥段、副歌二、尾奏、停留。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
-- [S42] [Khan Academy：Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对首段“按 3 分半 MV 的通用结构，拆 9 个时间码：前奏母题、主歌、预副歌、副歌、主歌二、桥段、副歌二、尾奏、停留。”中的术语与公开背景（故事结构、角色与视觉叙事教学）；不替代现场测试。
+- [S42] [Pixar in a Box：叙事课程](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对「拉片前先定三个变量」一节的术语/方法/规则（Pixar 叙事课程，不是项目报价）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S14] [YouTube：社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对「时间码拆解：9 个节点」一节的术语/方法/规则（YouTube 社区准则，不是内容创意标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

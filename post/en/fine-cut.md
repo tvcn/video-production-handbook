@@ -27,6 +27,11 @@ related: [post.sound.foley, post.color.hdr, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
 source_kind: sourced
+sources:
+- S34
+- S60
+- S30
+
 ---
 <p>A fine cut does three things: remove the extra half second around each shot, align action cuts, and drop reactions the performance does not need. Structural problems go back to the rough cut; do not hide them with transitions here.</p>
 <!-- DIAGRAM_START -->
@@ -57,7 +62,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Fine cutting is not adding effects; it smooths every cut, br”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
-- [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Fine cutting is not adding effects; it smooths every cut, br”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
+- [S34] [Adobe: Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Fine cut trims edges, not structure” section against official Premiere Pro guide, not a verdict on workflow quality; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S60] [Apple: Final Cut Pro Guide](https://support.apple.com/guide/final-cut-pro/welcome/mac) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against official Final Cut Pro guide, not a verdict on workflow quality; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S30] [DaVinci Resolve: Official Documentation](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “On set” section against official Resolve product/documentation entry, not a third-party tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

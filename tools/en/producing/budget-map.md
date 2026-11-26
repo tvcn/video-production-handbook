@@ -28,7 +28,8 @@ review_due: '2027-02-26'
 source_kind: sourced
 related: [tools.guide.budget-quote, tools.guide.buy-audio-field, shoot.camera.composition]
 sources:
-- S38
+- S41
+- S22
 - S35
 ---
 <!-- DIAGRAM_START -->
@@ -72,7 +73,7 @@ A budget is not for the accountant. It is for the decisions on set. Write down w
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A budget is not a column of numbers. It is four buckets: wha”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
-- [S35] [Avid Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A budget is not a column of numbers. It is four buckets: wha”) against Resources for Media Composer, collaboration and delivery; not a substitute for an on-set test.
+- [S41] [WGA: Contract and Credit Resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Four buckets: must-pay, on-screen, swappable, buffer” section against WGA contract and credit resources, not Chinese employment law; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S22] [NPC: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Spend inside the frame and inside the ear” section against China's Civil Code, not industry custom; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

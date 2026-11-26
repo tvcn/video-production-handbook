@@ -69,9 +69,10 @@ Keep rolling for ten seconds after “cut.” People often say the most human li
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Directing Non-Actors: Give Them a Task, Not a Performance”; it does not replace Ending: Stop After the Choice, Ensemble Scene: Give Everyone a Task, Composition: Tell the Eye Where to Look. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 6 table read and pre-shoot rehearsal reviews under a three-to-eight-page scene with one primary point of view; it discusses “Directing Non-Actors: Give Them a Task, Not a Performance”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 6 table reads, rehearsals or on-set reviews with one lead and a two-to-three-person crew; it covers the decisions and actions for “Directing Non-Actors: Give Them a Task, Not a Performance”, not an external laboratory test, multi-camera, union crews, stunts or high-risk sets.
 <!-- SOURCES_END -->
 

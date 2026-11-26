@@ -25,10 +25,8 @@ authors:
 - TVCN Research Desk
 sources:
 - S10
-- S01
-- S02
-- S03
-- S16
+- S11
+- S50
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [context.history.sound-era, context.literacy.source-check, formats.documentary.documentary-template]
@@ -42,7 +40,7 @@ source_kind: sourced
   <figcaption>Watch “Shoot the same scene on a phone and” and “Watch HDR, stabilization, and night-mode algorithm traces.”; judge what old problem it replaced and what new limit it added.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">What changed</h2><h2 id="section-2">How to use it now</h2><ul><li>For vertical, compose around the subject's height; do not crop a horizontal frame into vertical.</li><li>For phone interviews, solve sound and exposure lock first; the image gap is usually smaller than the audio gap.</li><li>For social versions, design the first frame, captions and safe area separately; do not export the master as-is.</li></ul><h2 id="section-3">Do not misread</h2><p>Do not use “shot on phone” as an excuse for low cost. It still needs light, sound and blocking; only the device is smaller.</p><h2 id="section-4">Smartphone video is not a small camera; it is a production system wired to platforms and viewers</h2>
+<section><h2 id="section-2">How to use it now</h2><ul><li>For vertical, compose around the subject's height; do not crop a horizontal frame into vertical.</li><li>For phone interviews, solve sound and exposure lock first; the image gap is usually smaller than the audio gap.</li><li>For social versions, design the first frame, captions and safe area separately; do not export the master as-is.</li></ul><h2 id="section-3">Do not misread</h2><p>Do not use “shot on phone” as an excuse for low cost. It still needs light, sound and blocking; only the device is smaller.</p><h2 id="section-4">Smartphone video is not a small camera; it is a production system wired to platforms and viewers</h2>
 <p>The advantage is not only weight. You can shoot, edit, publish and get feedback in one loop. That forces aspect ratio, subtitles and safe area into the shoot from the start.</p>
 <h3>Common misreading</h3>
 <p>“Phone image quality is worse, so it does not matter” ignores viewing context. Most viewers are on phones and read subtitles before sound; composition and audio decide completion more than resolution. Another misreading says phones need no stabilization; light cameras shake more.</p>
@@ -53,10 +51,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Smartphone video made the camera wearable; shooting moved fr”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Smartphone video made the camera wearable; shooting moved fr”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Smartphone video made the camera wearable; shooting moved fr”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Smartphone video made the camera wearable; shooting moved fr”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Smartphone video made the camera wearable; shooting moved fr”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S10] [BFI: Film History and Moving Image Research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “How to use it now” section against BFI film history and archive, not gear reviews; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S11] [Britannica: Photography](https://www.britannica.com/technology/photography) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Do not misread” section against Britannica photography entry, not a how-to manual; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S50] [Kodak: Motion Picture](https://www.kodak.com/en/motion/home) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Smartphone video is not a small camera; it is a production system wired to platforms and viewers” section against Kodak film and motion-picture material, not digital settings; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

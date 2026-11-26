@@ -29,6 +29,7 @@ related: [shoot.art.prop-continuity, shoot.lighting.ratio, post.color.color]
 source_kind: sourced
 sources:
 - S31
+- S23
 - S25
 ---
 <p>Lamps, windows and neon can be in frame, but confirm color, output and flicker. Swap bulbs for adjustable temperature, add diffusion or dimmers; do not let a practical blow out the face.</p>
@@ -45,7 +46,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A lamp in frame must actually turn on, off, or flicker, but ”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
-- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A lamp in frame must actually turn on, off, or flicker, but ”) against HD SDR gamut, transfer function and viewing conditions; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Practicals must be believable and controllable” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

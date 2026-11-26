@@ -28,7 +28,8 @@ review_due: '2027-02-26'
 source_kind: sourced
 related: [tools.producing.budget-map, tools.guide.budget-quote, shoot.camera.axis-line]
 sources:
-- S38
+- S41
+- S22
 - S41
 ---
 <!-- DIAGRAM_START -->
@@ -67,10 +68,11 @@ The client version can be one page. You still need to know why each line moved. 
 
 <!-- V11_DEEPEN -->
 
+<section><h2>Boundary</h2><p>This page only covers “Hold Ten Percent for the Unexpected”; it does not replace Budget: Four Buckets, One Decision, Budget and Quote: Put Risk into the Number, Cross the Line and the Room Disappears. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Weather, overtime, reshoots, and last-minute hires happen on”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
-- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Weather, overtime, reshoots, and last-minute hires happen on”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S41] [WGA: Contract and Credit Resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “List the four likely surprises” section against WGA contract and credit resources, not Chinese employment law; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S22] [NPC: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Hold ten percent, with a rule” section against China's Civil Code, not industry custom; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

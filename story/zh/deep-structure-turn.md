@@ -27,11 +27,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [story.screenplay.dialogue, story.directing.directing-debut, shoot.deep.deep-camera-move]
 sources:
-- S12
-- S41
-- S10
 - S42
-- S16
+- S43
 source_kind: sourced
 ---
 <p>结构不是三幕模板，而是中点把方向翻一次、结尾把选择付一次代价。 单看《中点转向：换方法，不换目标》只能解决一个局部；把《中点转向：换方法，不换目标》《结尾：停在选择之后》《剧本格式：让全组读得懂》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
@@ -57,10 +54,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“结构不是三幕模板，而是中点把方向翻一次、结尾把选择付一次代价。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
-- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“结构不是三幕模板，而是中点把方向翻一次、结尾把选择付一次代价。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
-- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“结构不是三幕模板，而是中点把方向翻一次、结尾把选择付一次代价。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
-- [S42] [Khan Academy：Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对首段“结构不是三幕模板，而是中点把方向翻一次、结尾把选择付一次代价。”中的术语与公开背景（故事结构、角色与视觉叙事教学）；不替代现场测试。
-- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“结构不是三幕模板，而是中点把方向翻一次、结尾把选择付一次代价。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S42] [Pixar in a Box：叙事课程](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对「问题」一节的术语/方法/规则（Pixar 叙事课程，不是项目报价）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S43] [BFI：国家档案馆](https://www.bfi.org.uk/bfi-national-archive) — 2026-11-26 访问。用于核对「判断」一节的术语/方法/规则（BFI 档案资料，不是发行规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

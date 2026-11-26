@@ -26,11 +26,9 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [tools.calculators.fov, tools.capability.gimbal, shoot.camera.composition]
 sources:
-- S23
 - S31
-- S29
-- S30
-- S70
+- S52
+- S53
 source_kind: sourced
 ---
 <p>Start at a fixed distance: the subject walks a straight line while you only breathe and micro-adjust the wrist. Shoot ten seconds, play back and check whether focus stays on the eye, not whether the frame is steady.</p>
@@ -50,10 +48,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Three steps: mark the barrel, watch the chest, and keep brea”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Three steps: mark the barrel, watch the chest, and keep brea”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Three steps: mark the barrel, watch the chest, and keep brea”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Three steps: mark the barrel, watch the chest, and keep brea”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
-- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Three steps: mark the barrel, watch the chest, and keep brea”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Practice not losing focus before making it pretty” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against ALEXA 35 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Follow focus in three steps: marks, rehearsal, edges” section against FX6 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

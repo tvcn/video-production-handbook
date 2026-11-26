@@ -29,6 +29,10 @@ source_kind: sourced
 related: [tools.tutorial.camera-black-balance, tools.camera.camera-choice, shoot.camera.composition]
 depth: deep
 deep_minutes: 7
+sources:
+- S41
+- S22
+
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -93,7 +97,7 @@ The sheet does not need to be beautiful. It needs to be executable. One clear A4
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A call sheet is not paperwork. It decides who arrives when, ”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A call sheet is not paperwork. It decides who arrives when, ”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+- [S41] [WGA: Contract and Credit Resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “The first line is call time, not roll time” section against WGA contract and credit resources, not Chinese employment law; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S22] [NPC: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Schedule by the hour, not by department” section against China's Civil Code, not industry custom; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

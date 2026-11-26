@@ -30,6 +30,10 @@ related: [post.color.hdr, post.color.hdr-workflow, shoot.camera.composition]
 depth: deep
 deep_minutes: 6
 source_kind: sourced
+sources:
+- S27
+- S35
+
 ---
 <p>Foley passes first on sync: the frame the foot lands, cloth rubs, cup meets table. Match the action, then add weight and material; out-of-sync Foley is worse than none.</p>
 <!-- DIAGRAM_START -->
@@ -67,8 +71,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Foley does not add ambience; it rebuilds the sound of visibl”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
-- [S27] [ITU-R: BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“Foley does not add ambience; it rebuilds the sound of visibl”) against ITU algorithms for loudness measurement and true peak, the basis referenced by EBU R128; not a substitute for an on-set test.
-- [S67] [IETF: RFC 8216: HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Foley does not add ambience; it rebuilds the sound of visibl”) against HLS segments, playlists and playback; not a substitute for an on-set test.
+- [S27] [ITU-R BS.1770: Loudness and True Peak](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Sync to action before getting creative” section against BS.1770 loudness measurement, not microphone buying advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S35] [Avid: Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against Avid resource center, not an independent review; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

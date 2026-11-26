@@ -27,6 +27,7 @@ related: [shoot.art.prop-continuity, shoot.lighting.ratio, post.color.color]
 source_kind: sourced
 sources:
 - S31
+- S23
 - S25
 ---
 <p>台灯、窗、霓虹可以入画，但要确认色温、亮度和频闪。用可调色温灯泡替换原有灯泡，加柔光罩或调光器；不要让实景灯直接照脸过曝。</p>
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“画面里的灯要真的亮、真的灭、真的闪，但它照不亮整张脸，只能当动机。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
-- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — 2026-11-26 访问。用于核对首段“画面里的灯要真的亮、真的灭、真的闪，但它照不亮整张脸，只能当动机。”中的术语与公开背景（HD SDR 的色域、传递函数与观看条件）；不替代现场测试。
+- [S31] [ARRI：电影系统](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对「实景灯要“可信”，也要“可控”」一节的术语/方法/规则（ARRI 摄影机、镜头与灯光资料，不是通用拍摄教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S23] [SMPTE：标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（SMPTE 标准入口，不是具体机型参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

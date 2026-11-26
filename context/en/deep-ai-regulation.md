@@ -27,11 +27,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [context.deep.deep-copyright-chain, context.deep.deep-image-history, formats.brand.brand-film]
 sources:
-- S14
-- S01
-- S02
-- S03
-- S16
+- S04
+- S05
 source_kind: sourced
 ---
 <p>AI compliance is not one disclaimer; labelling, deepfakes and data provenance must pass together. One page of &amp;quot;AI Content Labels: Explicit, Implicit, and Platform Duties&amp;quot; solves one local problem; joining &amp;quot;AI Content Labels: Explicit, Implicit, and Platform Duties&amp;quot;, &amp;quot;Deepfake Detection: Look Beyond the Face&amp;quot; and &amp;quot;Data Security: Client Privacy and Leaks&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
@@ -57,10 +54,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“AI compliance is not one disclaimer; labelling, deepfakes an”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“AI compliance is not one disclaimer; labelling, deepfakes an”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“AI compliance is not one disclaimer; labelling, deepfakes an”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“AI compliance is not one disclaimer; labelling, deepfakes an”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“AI compliance is not one disclaimer; labelling, deepfakes an”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S04] [CAC: Interim Measures for Generative AI Services](https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Failure table” section against China's generative-AI service rules, not technical implementation; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S05] [European Commission: AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against EU AI Act policy page, not Chinese law; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

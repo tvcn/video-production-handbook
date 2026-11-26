@@ -26,7 +26,8 @@ review_due: '2027-02-26'
 related: [tools.capability.lav-system, tools.capability.led-panel, shoot.camera.composition]
 source_kind: sourced
 sources:
-- S35
+- S27
+- S23
 - S27
 ---
 <p>领夹麦最怕衣服摩擦和布料遮住。把麦头固定在衣领内侧，线与皮肤之间留一层胶带，外套和纽扣远离麦头；不要直接把麦塞进头发或围巾。</p>
@@ -46,7 +47,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S35] [Avid 资源中心](https://www.avid.com/resource-center) — 2026-11-26 访问。用于核对首段“领夹藏麦先试衣领，再试头发，最后用医用胶带固定；每换一件衣服都要重藏。”中的术语与公开背景（Media Composer、协作与交付的资源入口）；不替代现场测试。
-- [S27] [ITU-R：BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-27 访问。用于核对首段“领夹藏麦先试衣领，再试头发，最后用医用胶带固定；每换一件衣服都要重藏。”中的术语与公开背景（响度测量、真峰值与 EBU R128 所依据的 ITU 算法标准）；不替代现场测试。
+- [S27] [ITU-R BS.1770：响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-26 访问。用于核对「藏麦先保“不摩擦”，再保“看不见”」一节的术语/方法/规则（BS.1770 响度测量方法，不是话筒选购）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S23] [SMPTE：标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对「领夹藏麦：离嘴 15–20cm，先防衣服」一节的术语/方法/规则（SMPTE 标准入口，不是具体机型参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

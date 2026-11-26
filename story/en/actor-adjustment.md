@@ -29,6 +29,7 @@ related: [story.screenplay.adaptation, story.storyboard.animatic-boarding, shoot
 source_kind: sourced
 sources:
 - S42
+- S16
 - S41
 ---
 <p>“Be sadder” rarely works. Replace it with a playable action: push the cup to the edge, glance then look down, stop mid-sentence. Change the action and the feeling follows.</p>
@@ -45,7 +46,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S42] [Pixar: Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Give actors verbs: slower, hold the anger, do not touch her.”) against Story structure, character and visual storytelling lessons; not a substitute for an on-set test.
-- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Give actors verbs: slower, hold the anger, do not touch her.”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Give an action, not an emotion adjective” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S16] [BBC: Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against BBC editorial guidelines, not platform growth rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

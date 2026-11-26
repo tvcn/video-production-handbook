@@ -27,6 +27,7 @@ related: [animation.3d.render, animation.3d.rigging, formats.documentary.documen
 source_kind: sourced
 sources:
 - S62
+- S59
 - S63
 ---
 <p>先看剪影：把模型填成纯黑，还能认出角色吗？再看厚度：边缘有没有倒角、关节有没有体积。剪影不对，细节再多也认不出。</p>
@@ -53,7 +54,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“建模先看轮廓，再看面数；轮廓不对，细分再多也不像。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
-- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“建模先看轮廓，再看面数；轮廓不对，细分再多也不像。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「建模先保“剪影”和“厚度”」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S59] [Adobe：After Effects 官方指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对「建模：先剪影，再拓扑，最后 UV」一节的术语/方法/规则（After Effects 官方指南，不是合成美学结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

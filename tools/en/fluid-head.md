@@ -36,7 +36,7 @@ source_kind: experience
   <figcaption>Watch “Mount the full rig and set damping.” and “Do a three-second start, five-second pan, three-second stop.”; judge whether the spec maps to one concrete shooting problem.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">What to compare first</h2><ul><li><strong>Payload and center of gravity:</strong> choose by the full rig, not the bare body; a long lens moves the center forward and needs more tilt range.</li><li><strong>Counterbalance:</strong> let go at your working tilt angle; the head should hold or return slowly, not slam down.</li><li><strong>Drag and locks:</strong> pan and tilt drag adjust separately, locks do not drift, and the plate returns to a repeatable position.</li></ul><h2 id="section-2">When not to use it</h2></section><section><h2 id="section-3">On set</h2><p>Mount the full rig and set the drag. Do a three-second start, five-second pan, and three-second stop; check for a jerk.</p></section><section><h2 id="section-4">Do this</h2><p>A fluid head's value is damping: starts and stops must be smooth, not flying at a touch.</p><ol><li>Mount the full rig and set damping.</li><li>Do a three-second start, five-second pan, three-second stop.</li><li>Play back and check for jerks at start and stop.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not back damping all the way out; a touch sends it flying and ruins starts and stops.</p></section>
+<section><h2 id="section-1">What to compare first</h2><ul><li><strong>Payload and center of gravity:</strong> choose by the full rig, not the bare body; a long lens moves the center forward and needs more tilt range.</li><li><strong>Counterbalance:</strong> let go at your working tilt angle; the head should hold or return slowly, not slam down.</li><li><strong>Drag and locks:</strong> pan and tilt drag adjust separately, locks do not drift, and the plate returns to a repeatable position.</li></ul></section><section><h2 id="section-3">On set</h2><p>Mount the full rig and set the drag. Do a three-second start, five-second pan, and three-second stop; check for a jerk.</p></section><section><h2 id="section-4">Do this</h2><p>A fluid head's value is damping: starts and stops must be smooth, not flying at a touch.</p><ol><li>Mount the full rig and set damping.</li><li>Do a three-second start, five-second pan, three-second stop.</li><li>Play back and check for jerks at start and stop.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not back damping all the way out; a touch sends it flying and ruins starts and stops.</p></section>
 <h2>Check</h2><ul><li>A 3-5-3 second start-pan-stop runs with the full rig.</li><li>Playback shows no sudden jerk at start or stop.</li><li>Damping settings are logged and reproducible at a new position.</li></ul>
 
 
@@ -44,9 +44,10 @@ source_kind: experience
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>What this page does not solve</h2><p>This page compares the capability and key parameters of “Fluid Head: Pan and Tilt Need Drag”; it does not settle live pricing, warranty, mount/firmware compatibility or unit-to-unit sample variation for a specific model. Check the official spec sheet, a rental house test and the return terms. For shooting plans, budgets or on-set faults, use the matching method page first.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 3 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Fluid Head: Pan and Tilt Need Drag”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 3 gear trials and on-set playbacks under the listed model/firmware, once indoors and once outdoors; it covers the selection and use limits of “Fluid Head: Pan and Tilt Need Drag”, not an external laboratory test, unlisted models, unit-level QC, warranty/rental contracts or safety certification.
 <!-- SOURCES_END -->
 

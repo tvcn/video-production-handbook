@@ -28,6 +28,7 @@ source_kind: sourced
 sources:
 - S57
 - S35
+- S35
 ---
 <p>拷卡不是拖进文件夹就完。用校验和工具核对源卡与目标盘，生成一份清单；三份副本分别放在机身、现场盘和离线盘。没有校验和的“拷贝完成”不算备份。</p>
 <!-- DIAGRAM_START -->
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S57] [Blackmagic Design：URSA Mini Pro 12K](https://www.blackmagicdesign.com/products/blackmagicursaminipro/techspecs) — 2026-11-26 访问。用于核对首段“素材车现场拷卡、校验、命名、备份；回机房再整理，时间会翻倍。”中的术语与公开背景（12K 规格、编码与存储）；不替代现场测试。
-- [S35] [Avid 资源中心](https://www.avid.com/resource-center) — 2026-11-26 访问。用于核对首段“素材车现场拷卡、校验、命名、备份；回机房再整理，时间会翻倍。”中的术语与公开背景（Media Composer、协作与交付的资源入口）；不替代现场测试。
+- [S57] [Blackmagic：URSA Mini Pro 12K 规格](https://www.blackmagicdesign.com/products/blackmagicursaminipro/techspecs) — 2026-11-26 访问。用于核对「素材站先做“校验和”，再做“三份”」一节的术语/方法/规则（URSA Mini Pro 12K 官方规格，不是独立测试）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S35] [Avid：资源中心](https://www.avid.com/resource-center) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Avid 资源中心，不是独立评测）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -30,6 +30,7 @@ related: [post.assets.backup-recovery, post.vfx.cg-integration, shoot.camera.com
 source_kind: sourced
 sources:
 - S68
+- S06
 - S29
 ---
 <p>Audio description is not narrating every image. Write three kinds: who does what, spatial relations, on-screen text. Do not repeat what characters already say.</p>
@@ -49,7 +50,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S68] [W3C: WebVTT](https://www.w3.org/TR/webvtt1/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Audio description says what is invisible but necessary: who ”) against Caption file format and timestamps; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Audio description says what is invisible but necessary: who ”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S68] [W3C: WebVTT](https://www.w3.org/TR/webvtt1/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Describe what is unseen but necessary” section against WebVTT caption format, not platform review rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S06] [W3C: Captions and Subtitles](https://www.w3.org/WAI/media/av/captions/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against W3C caption guidance, not platform review rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

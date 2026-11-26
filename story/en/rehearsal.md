@@ -30,6 +30,10 @@ related: [story.screenplay.rewrite-pass, story.screenplay.scene-description, sho
 depth: deep
 deep_minutes: 5
 source_kind: sourced
+sources:
+- S42
+- S16
+
 ---
 <p>On-set rehearsal does three things: blocking, prop handoffs, cue points. Do not perform the scene start to finish and spend the emotion; save it for the take.</p>
 <!-- DIAGRAM_START -->
@@ -62,7 +66,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Block first, scripts in hand. Once the body is in the right ”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
-- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Block first, scripts in hand. Once the body is in the right ”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Rehearse blocking, not the whole performance” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S16] [BBC: Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against BBC editorial guidelines, not platform growth rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

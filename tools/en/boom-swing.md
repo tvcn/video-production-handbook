@@ -27,6 +27,7 @@ review_due: '2027-02-26'
 related: [tools.calculator.budget-calculator, tools.producing.budget-contingency, shoot.sound.boom-operator]
 source_kind: sourced
 sources:
+- S27
 - S23
 - S35
 ---
@@ -47,7 +48,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Follow the chest, not the mouth; the mouth turns, the chest ”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S35] [Avid Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Follow the chest, not the mouth; the mouth turns, the chest ”) against Resources for Media Composer, collaboration and delivery; not a substitute for an on-set test.
+- [S27] [ITU-R BS.1770: Loudness and True Peak](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “The boom follows action without crossing frame” section against BS.1770 loudness measurement, not microphone buying advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

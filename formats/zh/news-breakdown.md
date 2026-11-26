@@ -27,6 +27,7 @@ related: [formats.news.news-structure, formats.news.news-template, story.directi
 source_kind: sourced
 sources:
 - S83
+- S16
 - S81
 ---
 <!-- DIAGRAM_START -->
@@ -42,7 +43,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S83] [AP：新闻价值观与原则](https://www.ap.org/about/news-values-and-principles/) — 2026-11-26 访问。用于核对首段“按 90 秒新闻短片的通用结构，拆 8 个时间码：已核实事实、现场、目击者、资料、背景、已知/未知、未解、下一步。”中的术语与公开背景（通讯社准确、公正与来源标准）；不替代现场测试。
-- [S81] [RTDNA：RTDNA 伦理准则](https://www.rtdna.org/ethics) — 2026-11-27 访问。用于核对首段“按 90 秒新闻短片的通用结构，拆 8 个时间码：已核实事实、现场、目击者、资料、背景、已知/未知、未解、下一步。”中的术语与公开背景（新闻伦理、独立性、更正与透明原则）；不替代现场测试。
+- [S83] [美联社：新闻价值观与原则](https://www.ap.org/about/news-values-and-principles/) — 2026-11-26 访问。用于核对「拉片前先定三个变量」一节的术语/方法/规则（AP 新闻价值观，不是平台流量规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S16] [BBC：编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对「时间码拆解：8 个节点」一节的术语/方法/规则（BBC 编辑准则，不是平台流量规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

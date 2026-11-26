@@ -72,9 +72,10 @@ One last action is enough: sign the form, close the door, put the key on the tab
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Conflict: Both Sides Need a Point”; it does not replace Coverage board: shot sheet to animatic, Dialogue subtext: one person can play, Composition: Tell the Eye Where to Look. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 5 table read and pre-shoot rehearsal reviews under a three-to-eight-page scene with one primary point of view; it discusses “Conflict: Both Sides Need a Point”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 5 table reads, rehearsals or on-set reviews with one lead and a two-to-three-person crew; it covers the decisions and actions for “Conflict: Both Sides Need a Point”, not an external laboratory test, multi-camera, union crews, stunts or high-risk sets.
 <!-- SOURCES_END -->
 

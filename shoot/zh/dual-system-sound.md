@@ -27,11 +27,8 @@ related: [shoot.camera.exposure, shoot.exposure.false-color, post.color.color]
 depth: deep
 deep_minutes: 6
 sources:
-- S31
-- S32
+- S27
 - S23
-- S52
-- S53
 source_kind: sourced
 ---
 <p>相机自带麦克风只做参考，外接录音机录干净对白。开机前拍手或报镜号，让两条文件有共同同步点；不要只靠相机声对齐。</p>
@@ -63,10 +60,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“双系统录音要么拍手合板，要么时间码同步；两样都没有，后期只能猜。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
-- [S32] [Sony 专业影像支持](https://pro.sony/ue_US/support) — 2026-11-26 访问。用于核对首段“双系统录音要么拍手合板，要么时间码同步；两样都没有，后期只能猜。”中的术语与公开背景（专业摄影机与镜头的支持、固件与文档）；不替代现场测试。
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“双系统录音要么拍手合板，要么时间码同步；两样都没有，后期只能猜。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“双系统录音要么拍手合板，要么时间码同步；两样都没有，后期只能猜。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
-- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“双系统录音要么拍手合板，要么时间码同步；两样都没有，后期只能猜。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
+- [S27] [ITU-R BS.1770：响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-26 访问。用于核对「双系统先录“参考声”，再录“干净声”」一节的术语/方法/规则（BS.1770 响度测量方法，不是话筒选购）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S23] [SMPTE：标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（SMPTE 标准入口，不是具体机型参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

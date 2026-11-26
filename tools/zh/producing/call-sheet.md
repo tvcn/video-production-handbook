@@ -28,6 +28,10 @@ source_kind: sourced
 related: [tools.tutorial.camera-black-balance, tools.camera.camera-choice, shoot.camera.composition]
 depth: deep
 deep_minutes: 7
+sources:
+- S41
+- S22
+
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -92,7 +96,7 @@ deep_minutes: 7
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“通告单不是形式。它决定谁几点到、去哪、带什么、找谁。写不清，现场的电话就会比拍摄还忙。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
-- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“通告单不是形式。它决定谁几点到、去哪、带什么、找谁。写不清，现场的电话就会比拍摄还忙。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
+- [S41] [美国编剧工会：合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对「第一行写集合，不是开机」一节的术语/方法/规则（WGA 合同与署名资源，不是中国劳动法）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S22] [全国人大：《民法典》](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — 2026-11-26 访问。用于核对「按小时排，不按部门排」一节的术语/方法/规则（《民法典》条文，不是行业惯例）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -30,10 +30,8 @@ related: [formats.documentary.documentary-breakdown, formats.documentary.documen
 depth: deep
 deep_minutes: 7
 sources:
-- S14
-- S15
+- S43
 - S16
-- S29
 test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
 known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
 verified: 2026-11-22
@@ -93,9 +91,7 @@ Do not let narration explain everything. Let images and location sound carry hal
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find one person, then wait for one thing to happen. The film”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
-- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find one person, then wait for one thing to happen. The film”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find one person, then wait for one thing to happen. The film”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find one person, then wait for one thing to happen. The film”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S43] [BFI: National Archive](https://www.bfi.org.uk/bfi-national-archive) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Find a change” section against BFI archive material, not distribution rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S16] [BBC: Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Interview questions” section against BBC editorial guidelines, not platform growth rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

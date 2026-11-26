@@ -29,6 +29,8 @@ review_due: '2027-02-26'
 related: [animation.stop-motion.stop-motion-set, animation.principles.weight, formats.documentary.documentary-template]
 source_kind: sourced
 sources:
+- S50
+- S62
 - S12
 - S50
 ---
@@ -46,7 +48,8 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Stop-motion blur comes from double exposure or post composit”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
-- [S50] [Kodak: Motion Picture](https://www.kodak.com/en/motion/home) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Stop-motion blur comes from double exposure or post composit”) against Film stock specifications, exposure and scanning documentation; not a substitute for an on-set test.
+- [S50] [Kodak: Motion Picture](https://www.kodak.com/en/motion/home) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Stop-motion blur is decided per frame” section against Kodak film and motion-picture material, not digital settings; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S62] [Blender: Official Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against Blender manual, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S12] [Britannica: Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “On set” section against Britannica animation history, not software documentation; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

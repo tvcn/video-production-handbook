@@ -27,6 +27,11 @@ related: [shoot.movement.handheld, shoot.lighting.hard-light, post.color.color]
 depth: deep
 deep_minutes: 5
 source_kind: sourced
+sources:
+- S31
+- S52
+- S53
+
 ---
 <p>项目帧率决定声音、字幕和平台兼容；慢动作只是拍摄帧率。24/25/30 是叙事基准，60/120 用于后期放慢。不要在同一个项目里混用多个基准帧率。</p>
 <!-- DIAGRAM_START -->
@@ -61,8 +66,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“帧率决定动作的时间感；升格不是慢，是让观众看清一个瞬间。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“帧率决定动作的时间感；升格不是慢，是让观众看清一个瞬间。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
-- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“帧率决定动作的时间感；升格不是慢，是让观众看清一个瞬间。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
+- [S31] [ARRI：电影系统](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对「先定项目帧率，再谈慢动作」一节的术语/方法/规则（ARRI 摄影机、镜头与灯光资料，不是通用拍摄教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（ALEXA 35 官方规格，不是独立测试）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对「怎么做」一节的术语/方法/规则（FX6 官方规格，不是独立测试）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -30,11 +30,9 @@ related: [tools.producing.casting, tools.capability.cfexpress, shoot.production.
 depth: deep
 deep_minutes: 7
 sources:
-- S23
-- S25
-- S26
-- S29
-- S38
+- S31
+- S52
+- S53
 test_context: "Review setup: Windows 11 workstation + iPhone 13, Chrome 131; bodies/lenses checked against public specs and short samples, not lab instruments."
 known_failures: "Known failures: grey-channel firmware/warranty vary; samples do not prove retail units; prices and stock expire."
 verified: 2026-11-22
@@ -101,10 +99,8 @@ Before buying, confirm batteries are available, cards can be read, and service e
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Write what you shoot, where, for whom, and how much you can ”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Write what you shoot, where, for whom, and how much you can ”) against HD SDR gamut, transfer function and viewing conditions; not a substitute for an on-set test.
-- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Write what you shoot, where, for whom, and how much you can ”) against Wide-gamut and parameter definitions for UHD/HDR; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Write what you shoot, where, for whom, and how much you can ”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Write what you shoot, where, for whom, and how much you can ”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Write the constraints” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Three specs” section against ALEXA 35 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Rent and used” section against FX6 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

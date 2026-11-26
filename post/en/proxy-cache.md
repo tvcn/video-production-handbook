@@ -28,7 +28,9 @@ review_due: '2027-02-26'
 related: [post.editing.proxy-workflow, post.delivery.qc, shoot.camera.composition]
 source_kind: sourced
 sources:
-- S34
+- S70
+- S35
+- S29
 - S60
 ---
 <p>A proxy is a low-resolution copy for editing; a cache is a preview file generated for playback. Deleting cache does not lose media; deleting proxies takes the timeline offline. Keep them in separate folders.</p>
@@ -45,7 +47,8 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Keep proxies and cache on a separate drive; a full edit driv”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
-- [S60] [Apple: Final Cut Pro User Guide](https://support.apple.com/guide/final-cut-pro/welcome/mac) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Keep proxies and cache on a separate drive; a full edit driv”) against Editing, magnetic timeline, proxies and export; not a substitute for an on-set test.
+- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Proxies and cache are different things” section against FFmpeg codec/muxing documentation, not a delivery spec; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S35] [Avid: Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against Avid resource center, not an independent review; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S29] [YouTube: Upload Encoding Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “On set” section against YouTube upload encoding recommendations, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

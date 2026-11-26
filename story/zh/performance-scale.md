@@ -27,6 +27,7 @@ related: [story.directing.rehearsal, story.screenplay.rewrite-pass, shoot.camera
 source_kind: sourced
 sources:
 - S42
+- S16
 - S10
 ---
 <p>全景里的小动作观众看不见，近景里的夸张会显得假。先定景别，再定表演幅度：全景用身体和走位，近景用呼吸、眼神和手指。</p>
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S42] [Khan Academy：Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对首段“镜头越近，动作越小；远景里刚好的手势，近景里会像演戏。”中的术语与公开背景（故事结构、角色与视觉叙事教学）；不替代现场测试。
-- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“镜头越近，动作越小；远景里刚好的手势，近景里会像演戏。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S42] [Pixar in a Box：叙事课程](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对「景别决定表演大小」一节的术语/方法/规则（Pixar 叙事课程，不是项目报价）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S16] [BBC：编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（BBC 编辑准则，不是平台流量规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

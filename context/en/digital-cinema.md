@@ -26,10 +26,6 @@ authors:
 - TVCN Research Desk
 sources:
 - S13
-- S01
-- S02
-- S03
-- S16
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [context.law.documentary-ethics, context.history.dslr-video, formats.documentary.documentary-template]
@@ -43,7 +39,7 @@ source_kind: sourced
   <figcaption>Watch “Check whether the projector is DCI 2K or” and “Confirm P3 gamut and the server key&#x27;s validity”; judge what old problem it replaced and what new limit it added.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">What changed</h2><h2 id="section-2">How to use it now</h2><ul><li>Before delivery, confirm the cinema or platform's color space, luminance, audio channels and packaging. Do not ship a master that merely “looks right.”</li><li>Check DCP and streaming versions separately for black level, highlight, skin and subtitles; they are not the same deliverable.</li><li>When studying the film transition, look at exhibition standards and distribution cost, not a simple “digital is better” story.</li></ul><h2 id="section-3">Do not misread</h2><p>Do not hide a digital master's color-management error under a film-grain preset. Pass the standard chain first, then discuss style.</p><h2 id="section-4">Digital cinema is not “film replaced by a sensor”; delivery standards changed</h2>
+<section><h2 id="section-2">How to use it now</h2><ul><li>Before delivery, confirm the cinema or platform's color space, luminance, audio channels and packaging. Do not ship a master that merely “looks right.”</li><li>Check DCP and streaming versions separately for black level, highlight, skin and subtitles; they are not the same deliverable.</li><li>When studying the film transition, look at exhibition standards and distribution cost, not a simple “digital is better” story.</li></ul><h2 id="section-3">Do not misread</h2><p>Do not hide a digital master's color-management error under a film-grain preset. Pass the standard chain first, then discuss style.</p><h2 id="section-4">Digital cinema is not “film replaced by a sensor”; delivery standards changed</h2>
 <p>DCI packaged resolution, color, sound and encryption into an interoperable cinema delivery. It moved cinema from “each theater adjusts” to “one version worldwide.”</p>
 <h3>Common misreading</h3>
 <p>“Digital cinema means 4K” is inaccurate. 2K and 4K are both DCI; color space, luminance, frame rate and package format matter. Another misreading says digital has no cost; masters, encryption, keys and server maintenance all cost.</p>
@@ -54,10 +50,6 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S13] [Digital Cinema System Specification](https://www.dcimovies.com/dci-specification/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Digital cinema removed film from projection; theaters began ”) against Specification entry for digital-cinema resolution, colour, security and delivery; not a substitute for an on-set test.
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Digital cinema removed film from projection; theaters began ”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Digital cinema removed film from projection; theaters began ”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Digital cinema removed film from projection; theaters began ”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Digital cinema removed film from projection; theaters began ”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S13] [DCI: Digital Cinema System Specification](https://www.dcimovies.com/dci-specification/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Digital cinema is not “film replaced by a sensor”; delivery standards changed” section against DCI digital-cinema specification, not streaming upload rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

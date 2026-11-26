@@ -26,9 +26,6 @@ review_due: '2027-02-26'
 sources:
 - S24
 - S26
-- S28
-- S29
-- S23
 test_context: 'Review setup: Windows 11 workstation + iPhone 13, Chrome 131; bodies/lenses checked against public specs and short samples, not lab instruments.'
 known_failures: 'Known failures: grey-channel firmware/warranty vary; samples do not prove retail units; prices and stock expire.'
 verified: 2026-11-22
@@ -47,10 +44,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S24] [ACESCentral: ACES](https://acescentral.com/) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“HDR monitoring depends on peak, black level, gamut, tone map”) against ACES color encoding, ACEScg and delivery/archive workflows; not a substitute for an on-set test.
-- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“HDR monitoring depends on peak, black level, gamut, tone map”) against Wide-gamut and parameter definitions for UHD/HDR; not a substitute for an on-set test.
-- [S28] [Netflix Partner Help](https://partnerhelp.netflixstudios.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“HDR monitoring depends on peak, black level, gamut, tone map”) against Public entry for delivery specs, HDR/SDR and QC; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“HDR monitoring depends on peak, black level, gamut, tone map”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“HDR monitoring depends on peak, black level, gamut, tone map”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S24] [ACESCentral: ACES](https://acescentral.com/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “First decision: which link is missing” section against ACES color specification, not a grading tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Test protocol: reproducible, no invented scores” section against BT.2020 UHD parameters, not on-set exposure advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

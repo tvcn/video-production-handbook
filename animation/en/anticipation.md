@@ -31,6 +31,7 @@ source_kind: sourced
 sources:
 - S12
 - S62
+- S62
 ---
 <p>Before an action, play a small opposite move: crouch before a jump, pull the hand back before a punch, lean back before a run. The reverse frame lets the audience anticipate force.</p>
 <!-- DIAGRAM_START -->
@@ -49,7 +50,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Anticipation tells the audience what is coming; without it, ”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
-- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Anticipation tells the audience what is coming; without it, ”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
+- [S12] [Britannica: Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Go opposite before going forward” section against Britannica animation history, not software documentation; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S62] [Blender: Official Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against Blender manual, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

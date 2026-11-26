@@ -27,6 +27,7 @@ related: [formats.news.news-structure, formats.news.news-template, story.directi
 source_kind: sourced
 sources:
 - S83
+- S16
 - S81
 ---
 <!-- DIAGRAM_START -->
@@ -42,7 +43,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S83] [Associated Press: News Values and Principles](https://www.ap.org/about/news-values-and-principles/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An eight-beat breakdown of a ninety-second news feature: ver”) against Wire-service standards for accuracy, fairness and sourcing; not a substitute for an on-set test.
-- [S81] [RTDNA: RTDNA 伦理准则](https://www.rtdna.org/ethics) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“An eight-beat breakdown of a ninety-second news feature: ver”) against Journalism ethics, independence, correction and transparency; not a substitute for an on-set test.
+- [S83] [AP: News Values and Principles](https://www.ap.org/about/news-values-and-principles/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Fix Three Variables First” section against AP news values, not platform growth rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S16] [BBC: Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Timecode Breakdown: 8 Beats” section against BBC editorial guidelines, not platform growth rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

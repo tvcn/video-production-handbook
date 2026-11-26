@@ -50,6 +50,6 @@ source_kind: experience
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 5 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Restore Test: Pick One Random File”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 5 production reviews under the listed software/camera versions and delivery platform; it covers the operating order for “Restore Test: Pick One Random File”, not an external laboratory test, unlisted versions, cinema masters, broadcast safety certification or legal advice.
 <!-- SOURCES_END -->
 

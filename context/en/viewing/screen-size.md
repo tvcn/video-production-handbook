@@ -32,10 +32,7 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 sources:
 - S10
-- S01
-- S02
-- S03
-- S16
+- S11
 related: [context.history.smartphone-video, context.history.sound-era, formats.documentary.documentary-template]
 source_kind: sourced
 ---
@@ -76,13 +73,11 @@ Vertical is not a smaller movie. It has its own shot sizes, pace, and viewing di
 - The same scene has cinema, TV, and phone framing plans.
 - The phone version holds one face and one action per scene.
 
+<section><h2>Boundary</h2><p>This page only covers “Why Faces Got Closer: Cinema to Phone”; it does not replace Smartphone Video: Everyone Has a Camera, Sound Era: The Voice Arrived, Documentary Template: One Person, One Thing, One Change. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Faces did not get closer because directors fell in love with”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Faces did not get closer because directors fell in love with”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Faces did not get closer because directors fell in love with”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Faces did not get closer because directors fell in love with”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Faces did not get closer because directors fell in love with”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S10] [BFI: Film History and Moving Image Research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Cinema: the wide shot is the default” section against BFI film history and archive, not gear reviews; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S11] [Britannica: Photography](https://www.britannica.com/technology/photography) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “TV: the medium shot becomes living-room language” section against Britannica photography entry, not a how-to manual; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

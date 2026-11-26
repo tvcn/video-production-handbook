@@ -28,6 +28,11 @@ source_kind: sourced
 related: [post.editing.fine-cut, post.sound.foley, shoot.camera.composition]
 depth: deep
 deep_minutes: 6
+sources:
+- S34
+- S60
+- S30
+
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -82,11 +87,12 @@ deep_minutes: 6
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>边界</h2><p>本页只解决「节奏不是快，是观众什么时候想听下一句」这一个问题；不替代 细剪：把粗剪的毛边修掉、Foley：脚步、衣服、门把手、构图：先让观众知道看哪里。如果现场问题属于后者，先读对应页，不要在本页继续加参数。</p></section>
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“剪得快不等于好看。先删解释，再把切点放在动作上，最后决定哪里该留安静。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
-- [S27] [ITU-R：BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-27 访问。用于核对首段“剪得快不等于好看。先删解释，再把切点放在动作上，最后决定哪里该留安静。”中的术语与公开背景（响度测量、真峰值与 EBU R128 所依据的 ITU 算法标准）；不替代现场测试。
-- [S67] [IETF：RFC 8216：HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216) — 2026-11-26 访问。用于核对首段“剪得快不等于好看。先删解释，再把切点放在动作上，最后决定哪里该留安静。”中的术语与公开背景（HLS 分片、清单与播放）；不替代现场测试。
+- [S34] [Adobe：Premiere Pro 官方指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对「先删掉解释」一节的术语/方法/规则（Premiere Pro 官方指南，不是工作流优劣结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S60] [Apple：Final Cut Pro 官方指南](https://support.apple.com/guide/final-cut-pro/welcome/mac) — 2026-11-26 访问。用于核对「切在动作上，不要切在动作之后」一节的术语/方法/规则（Final Cut Pro 官方指南，不是工作流优劣结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S30] [DaVinci Resolve：官方文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对「安静也是节奏」一节的术语/方法/规则（Resolve 官方产品/文档入口，不是第三方教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

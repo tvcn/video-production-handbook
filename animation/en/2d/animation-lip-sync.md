@@ -29,6 +29,8 @@ source_kind: sourced
 related: [animation.principles.animation-principles, animation.timing.animation-timing, formats.brand.brand-film]
 sources:
 - S63
+- S62
+- S59
 - S59
 ---
 <!-- DIAGRAM_START -->
@@ -70,10 +72,12 @@ The head can move on a stressed word. At the end of a line, stop the mouth first
 - Every closed consonant actually closes for at least one frame.
 - Eyes and head arrive after the mouth; the mouth stops first at the end.
 
+<section><h2>Boundary</h2><p>This page only covers “Lip Sync: Close on Consonants, Open on Vowels”; it does not replace The Twelve Principles: Use One at a Time, Timing in Animation: The Weight Lives Between Two Keys, Brand Film: Make Them Believe One Sentence. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Lip sync is not a drawing for every word. Land the closed co”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
-- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Lip sync is not a drawing for every word. Land the closed co”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Sort the voice into four mouths” section against Toon Boom documentation, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S62] [Blender: Official Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “The closed frame matters more than the open one” section against Blender manual, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S59] [Adobe: After Effects Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Let the expression lag; stop nodding” section against official After Effects guide, not a verdict on compositing aesthetics; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

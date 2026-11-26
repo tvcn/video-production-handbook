@@ -44,9 +44,10 @@ source_kind: experience
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Interview Template: Person, Question, Scene”; it does not replace Live & Podcast Breakdown: Six Beats in Practice, Live & Podcast Structure: Six Beats, Stop Asking “How Did You Feel”: Ask for an Action. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 7 format breakdown and project review reviews under a 30-second to five-minute film for one platform; it discusses “Interview Template: Person, Question, Scene”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 7 format breakdowns of finished films, 30 seconds to five minutes, delivered to one platform; it covers the structure and decision order of “Interview Template: Person, Question, Scene”, not an external laboratory test, multi-camera live, cinema delivery or a long-form custom narrative.
 <!-- SOURCES_END -->
 

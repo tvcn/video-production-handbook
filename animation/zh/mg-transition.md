@@ -27,6 +27,7 @@ related: [animation.motion-graphics.mg-typography, animation.3d.modeling, format
 source_kind: sourced
 sources:
 - S59
+- S62
 - S63
 ---
 <p>动态图形转场不是加一个花哨划像。它要把上一段的信息带到下一段：一个圆变成图表、一条线变成时间轴、一个词拆成新词。转场结束，观众应该多知道一件事。</p>
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“图形转场让一个形状变成另一个形状，别用白闪或随便推拉。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
-- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“图形转场让一个形状变成另一个形状，别用白闪或随便推拉。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S59] [Adobe：After Effects 官方指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对「转场要“带信息”，不是遮丑」一节的术语/方法/规则（After Effects 官方指南，不是合成美学结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

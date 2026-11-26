@@ -29,6 +29,7 @@ related: [shoot.virtual-production.led-virtual-production, shoot.virtual-product
 source_kind: sourced
 sources:
 - S31
+- S23
 - S25
 ---
 <p>Hard light has a crisp shadow edge and high contrast. Use a small source, bare lamp or distant sun; to keep it hard without clipping, lower output or add ND, not a big softbox.</p>
@@ -45,7 +46,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Hard light is not ugly; shadows shape the space. The problem”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
-- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Hard light is not ugly; shadows shape the space. The problem”) against HD SDR gamut, transfer function and viewing conditions; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Hard light is read at the shadow edge” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

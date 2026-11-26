@@ -24,11 +24,9 @@ authors:
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 sources:
-- S23
-- S28
-- S29
-- S30
 - S70
+- S29
+- S57
 test_context: 复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。
 known_failures: 已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。
 verified: 2026-11-22
@@ -52,10 +50,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“NAS 不是“插上就安全”。RAID 不是备份；重建期间性能会掉，劵盘/静音/功耗都会影响工作室。先算吞吐和重建时间。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S28] [Netflix 制作与交付帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对首段“NAS 不是“插上就安全”。RAID 不是备份；重建期间性能会掉，劵盘/静音/功耗都会影响工作室。先算吞吐和重建时间。”中的术语与公开背景（平台交付规格、HDR/SDR 与 QC 要求的公开入口）；不替代现场测试。
-- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“NAS 不是“插上就安全”。RAID 不是备份；重建期间性能会掉，劵盘/静音/功耗都会影响工作室。先算吞吐和重建时间。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
-- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“NAS 不是“插上就安全”。RAID 不是备份；重建期间性能会掉，劵盘/静音/功耗都会影响工作室。先算吞吐和重建时间。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
-- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“NAS 不是“插上就安全”。RAID 不是备份；重建期间性能会掉，劵盘/静音/功耗都会影响工作室。先算吞吐和重建时间。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
+- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对「先判断：你缺的是哪一环」一节的术语/方法/规则（FFmpeg 编解码/封装文档，不是交付规范）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S29] [YouTube：上传编码建议](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对「测试口径：可复现，不写假跑分」一节的术语/方法/规则（YouTube 上传编码建议，不是创作标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S57] [Blackmagic：URSA Mini Pro 12K 规格](https://www.blackmagicdesign.com/products/blackmagicursaminipro/techspecs) — 2026-11-26 访问。用于核对「价格带：先看总拥有成本」一节的术语/方法/规则（URSA Mini Pro 12K 官方规格，不是独立测试）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

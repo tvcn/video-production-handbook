@@ -29,6 +29,10 @@ source_kind: sourced
 related: [tools.capability.reflector, tools.guide.rent-camera, shoot.camera.composition]
 depth: deep
 deep_minutes: 6
+sources:
+- S29
+- S28
+
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -78,10 +82,11 @@ Do not close the laptop right after uploading. Open it on your phone once, confi
 <ul><li>Written permission for music, fonts, footage</li><li>Likeness and location releases complete</li><li>AI material labeled</li><li>Subtitles proofread character by character</li><li>Opening and ending complete</li><li>Loudness and bitrate match the platform</li><li>Cover survives all three ratios</li><li>Filename has date, project, version, platform</li><li>Project and export backed up</li><li>Published version kept read-only</li></ul><p>Publishing is not the end; it turns this version into the foundation for the next.</p>
 <!-- DEEP_DIVE_END -->
 
+<section><h2>Boundary</h2><p>This page only covers “Twelve Checks Before Publishing: Do Not Lose the Last Hour”; it does not replace Reflector: Five Surfaces, One Job, Renting a Camera: Insurance, Deposit, Check, Composition: Tell the Eye Where to Look. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Three groups of checks: rights, technical, and publishing. E”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Three groups of checks: rights, technical, and publishing. E”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+- [S29] [YouTube: Upload Encoding Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Check rights first” section against YouTube upload encoding recommendations, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S28] [Netflix: Partner Help](https://partnerhelp.netflixstudios.com/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Then check the file” section against Netflix delivery help, not general platform rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

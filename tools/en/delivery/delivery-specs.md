@@ -29,6 +29,10 @@ source_kind: sourced
 related: [tools.calculator.dof-calculator, tools.tutorial.dual-system-sync, shoot.camera.composition]
 depth: deep
 deep_minutes: 7
+sources:
+- S29
+- S28
+
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -94,7 +98,7 @@ Name the file with project, version, date, and resolution, like “project_v3_20
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Delivery is not hitting export. Ask what the platform needs:”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Delivery is not hitting export. Ask what the platform needs:”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+- [S29] [YouTube: Upload Encoding Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Picture: size, frame rate, bitrate” section against YouTube upload encoding recommendations, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S28] [Netflix: Partner Help](https://partnerhelp.netflixstudios.com/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Get the spec before you export” section against Netflix delivery help, not general platform rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

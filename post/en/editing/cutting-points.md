@@ -74,9 +74,10 @@ A cut point is not a frame number; it is a handoff of attention. Ask at every cu
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Cut Points: Action, Eye Line, Sound”; it does not replace Asset management: structure, proxies, versions, Colour pipeline: management, primary, LUT, Composition: Tell the Eye Where to Look. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 4 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Cut Points: Action, Eye Line, Sound”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 4 post-production reviews under the listed software versions, source formats and delivery platform; it covers the operating order for “Cut Points: Action, Eye Line, Sound”, not an external laboratory test, unlisted versions, cinema masters, broadcast safety certification or legal advice.
 <!-- SOURCES_END -->
 

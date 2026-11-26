@@ -25,10 +25,8 @@ authors:
 - TVCN Research Desk
 sources:
 - S10
-- S01
-- S02
-- S03
-- S16
+- S11
+- S50
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [context.history.16mm, context.history.photography.1839, formats.documentary.documentary-template]
@@ -42,7 +40,7 @@ source_kind: sourced
   <figcaption>Watch “Edit linearly, without jumping back.” and “Log each hard cut.”; judge what old problem it replaced and what new limit it added.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">What changed</h2><h2 id="section-2">How to use it now</h2><ul><li>For multicam or live work, understand the tape-era record-replay-broadcast chain before designing backup recording.</li><li>For archive digitization, confirm tape speed, standard, track layout and timecode. Do not use one capture preset for every tape.</li><li>When studying TV history, include broadcast policy, advertising and domestic viewing, not only the machine.</li></ul><h2 id="section-3">Do not misread</h2><p>Do not treat tape softness and noise as a “retro filter.” They are the result of a medium and signal chain, not a universal style.</p><h2 id="section-4">Video tape is not “low definition”; it is instant playback and overwrite</h2>
+<section><h2 id="section-2">How to use it now</h2><ul><li>For multicam or live work, understand the tape-era record-replay-broadcast chain before designing backup recording.</li><li>For archive digitization, confirm tape speed, standard, track layout and timecode. Do not use one capture preset for every tape.</li><li>When studying TV history, include broadcast policy, advertising and domestic viewing, not only the machine.</li></ul><h2 id="section-3">Do not misread</h2><p>Do not treat tape softness and noise as a “retro filter.” They are the result of a medium and signal chain, not a universal style.</p><h2 id="section-4">Video tape is not “low definition”; it is instant playback and overwrite</h2>
 <p>Tape changed production from “wait for processing” to “watch on set.” It brought instant playback, re-record and multi-camera live work, plus generation loss and archive problems. The technology changed workflow, not only image quality.</p>
 <h3>Common misreading</h3>
 <p>“Tape is always worse than film” is incomplete. Broadcast tape was sharp for its era; the difference was resolution, latitude and media life. Another misreading says tape lasts forever; binder shedding and dead machines kill archives.</p>
@@ -53,10 +51,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Video tape freed television from live-only and made recordin”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Video tape freed television from live-only and made recordin”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Video tape freed television from live-only and made recordin”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Video tape freed television from live-only and made recordin”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Video tape freed television from live-only and made recordin”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S10] [BFI: Film History and Moving Image Research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “How to use it now” section against BFI film history and archive, not gear reviews; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S11] [Britannica: Photography](https://www.britannica.com/technology/photography) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Do not misread” section against Britannica photography entry, not a how-to manual; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S50] [Kodak: Motion Picture](https://www.kodak.com/en/motion/home) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Video tape is not “low definition”; it is instant playback and overwrite” section against Kodak film and motion-picture material, not digital settings; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

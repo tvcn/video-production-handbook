@@ -66,9 +66,10 @@ Do not change size just for variety. Too many jumps in one scene and the viewer 
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Shot Size: Decide How Much the Audience Sees”; it does not replace Shutter Angle: The Amount of Blur, Continuity: Every Take Has to Cut, Color: Match First, Style Second. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 3 on-set shoot and playback review reviews under one camera, available light or one key light; it discusses “Shot Size: Decide How Much the Audience Sees”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 3 on-set tests and shoot reviews under the listed camera/lens/audio gear and one location; it covers the on-set decisions for “Shot Size: Decide How Much the Audience Sees”, not an external laboratory test, unlisted gear, extreme weather, stunts or high-risk permitted sets.
 <!-- SOURCES_END -->
 

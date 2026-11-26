@@ -29,7 +29,9 @@ review_due: '2027-02-26'
 related: [post.assets.archive-reuse, post.accessibility.audio-description, shoot.camera.composition]
 source_kind: sourced
 sources:
-- S35
+- S28
+- S29
+- S13
 - S61
 ---
 <p>The package includes final project, originals or proxies, fonts, LUTs, music licenses, captions, delivery files and a one-page note. Missing fonts and LUTs means a wall of errors next time.</p>
@@ -46,7 +48,8 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S35] [Avid Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Archiving is not dragging files to a drive; it means findabl”) against Resources for Media Composer, collaboration and delivery; not a substitute for an on-set test.
-- [S61] [Apple: Compressor User Guide](https://support.apple.com/guide/compressor/welcome/mac) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Archiving is not dragging files to a drive; it means findabl”) against Encoding, batch processing and delivery; not a substitute for an on-set test.
+- [S28] [Netflix: Partner Help](https://partnerhelp.netflixstudios.com/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Archiving is not zipping; it is opening next time” section against Netflix delivery help, not general platform rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S29] [YouTube: Upload Encoding Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against YouTube upload encoding recommendations, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S13] [DCI: Digital Cinema System Specification](https://www.dcimovies.com/dci-specification/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “On set” section against DCI digital-cinema specification, not streaming upload rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

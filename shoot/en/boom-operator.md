@@ -28,6 +28,7 @@ review_due: '2027-02-26'
 related: [shoot.production.camera-height, shoot.camera.camera-move, post.color.color]
 source_kind: sourced
 sources:
+- S27
 - S23
 - S31
 ---
@@ -45,7 +46,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The boom follows action, not lines. Lines stop; bodies keep ”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The boom follows action, not lines. Lines stop; bodies keep ”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
+- [S27] [ITU-R BS.1770: Loudness and True Peak](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Boom operating is listening before lifting” section against BS.1770 loudness measurement, not microphone buying advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

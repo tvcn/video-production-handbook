@@ -24,11 +24,9 @@ authors:
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 sources:
-- S23
-- S25
-- S26
-- S29
-- S38
+- S34
+- S60
+- S35
 test_context: 复核环境：Windows 11 + Chrome 131；按公开软件页面与短时 4K 时间线核对，不做跑分。
 known_failures: 已知失败：订阅价格/功能变化；不同机器性能差异；插件兼容性。
 verified: 2026-11-23
@@ -77,10 +75,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Editing, grading, audio, encoding and review are five stages”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Editing, grading, audio, encoding and review are five stages”) against HD SDR gamut, transfer function and viewing conditions; not a substitute for an on-set test.
-- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Editing, grading, audio, encoding and review are five stages”) against Wide-gamut and parameter definitions for UHD/HDR; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Editing, grading, audio, encoding and review are five stages”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Editing, grading, audio, encoding and review are five stages”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
+- [S34] [Adobe: Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Test scope: use the same 4K timeline” section against official Premiere Pro guide, not a verdict on workflow quality; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S60] [Apple: Final Cut Pro Guide](https://support.apple.com/guide/final-cut-pro/welcome/mac) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Workflow first: six stages, not six apps” section against official Final Cut Pro guide, not a verdict on workflow quality; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S35] [Avid: Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Decision tree: project first, tool second” section against Avid resource center, not an independent review; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

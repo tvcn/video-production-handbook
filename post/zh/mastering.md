@@ -27,6 +27,8 @@ related: [post.editing.mix-dialogue, post.accessibility.multilingual-subtitles, 
 source_kind: sourced
 sources:
 - S28
+- S29
+- S13
 - S27
 ---
 <p>母版是唯一高质量文件：最高分辨率、最高码率、无字幕或独立字幕、声音分轨。平台版从母版导出，不要拿平台版再二次压缩。</p>
@@ -43,7 +45,8 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S28] [Netflix 制作与交付帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对首段“母版是唯一可信的交付源；平台版、竖版、字幕版都从它派生。”中的术语与公开背景（平台交付规格、HDR/SDR 与 QC 要求的公开入口）；不替代现场测试。
-- [S27] [ITU-R：BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-27 访问。用于核对首段“母版是唯一可信的交付源；平台版、竖版、字幕版都从它派生。”中的术语与公开背景（响度测量、真峰值与 EBU R128 所依据的 ITU 算法标准）；不替代现场测试。
+- [S28] [Netflix：合作伙伴帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对「母版只做一次，平台版从母版派生」一节的术语/方法/规则（Netflix 交付帮助，不是通用平台规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S29] [YouTube：上传编码建议](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（YouTube 上传编码建议，不是创作标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S13] [DCI：数字电影系统规范](https://www.dcimovies.com/dci-specification/) — 2026-11-26 访问。用于核对「怎么做」一节的术语/方法/规则（DCI 数字电影规范，不是流媒体上传规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

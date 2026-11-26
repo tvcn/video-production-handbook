@@ -30,6 +30,7 @@ related: [post.color.secondary-correction, post.sound.sound, shoot.camera.compos
 source_kind: sourced
 sources:
 - S68
+- S06
 - S29
 ---
 <p>SDH is not only dialogue; it names sound events: door, footsteps, phone, music mood. Mark speaker changes by name or position; overlap gets “together.”</p>
@@ -46,7 +47,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S68] [W3C: WebVTT](https://www.w3.org/TR/webvtt1/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“SDH names speakers, ambience, and important effects; it does”) against Caption file format and timestamps; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“SDH names speakers, ambience, and important effects; it does”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S68] [W3C: WebVTT](https://www.w3.org/TR/webvtt1/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “SDH writes what is heard” section against WebVTT caption format, not platform review rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S06] [W3C: Captions and Subtitles](https://www.w3.org/WAI/media/av/captions/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against W3C caption guidance, not platform review rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

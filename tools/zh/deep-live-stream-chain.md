@@ -27,11 +27,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [tools.deep.deep-location-sound-chain, tools.deep.deep-one-light-kit, shoot.camera.axis-line]
 sources:
-- S17
-- S29
 - S23
-- S30
-- S70
+- S29
 source_kind: sourced
 ---
 <p>直播不是把相机接上电脑；无线、监看、时码和备份任何一环断了，现场就停。 单看《无线图传：延迟与干扰》只能解决一个局部；把《无线图传：延迟与干扰》《视频助理：现场回放》《时间码：多机同步》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
@@ -57,10 +54,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — 2026-11-26 访问。用于核对首段“直播不是把相机接上电脑；无线、监看、时码和备份任何一环断了，现场就停。”中的术语与公开背景（通讯社对独立、准确与不带偏见的公开承诺）；不替代现场测试。
-- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“直播不是把相机接上电脑；无线、监看、时码和备份任何一环断了，现场就停。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“直播不是把相机接上电脑；无线、监看、时码和备份任何一环断了，现场就停。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“直播不是把相机接上电脑；无线、监看、时码和备份任何一环断了，现场就停。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
-- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“直播不是把相机接上电脑；无线、监看、时码和备份任何一环断了，现场就停。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
+- [S23] [SMPTE：标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对「问题」一节的术语/方法/规则（SMPTE 标准入口，不是具体机型参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S29] [YouTube：上传编码建议](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对「判断」一节的术语/方法/规则（YouTube 上传编码建议，不是创作标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -29,6 +29,8 @@ review_due: '2027-02-26'
 related: [tools.capability.practical-bulb, tools.capability.prime-lens, shoot.camera.composition]
 source_kind: sourced
 sources:
+- S58
+- S57
 - S53
 - S58
 ---
@@ -46,7 +48,8 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cool it, shoot in segments, lower bitrate; do not put a wet ”) against Body specifications, recording formats and interfaces; not a substitute for an on-set test.
-- [S58] [Blackmagic Design: Pocket Cinema Camera 6K](https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cool it, shoot in segments, lower bitrate; do not put a wet ”) against Body specifications and recording formats; not a substitute for an on-set test.
+- [S58] [Blackmagic: Pocket Cinema Camera 6K Specs](https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Drop specs before the camera dies” section against Pocket Cinema Camera 6K specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S57] [Blackmagic: URSA Mini Pro 12K Specs](https://www.blackmagicdesign.com/products/blackmagicursaminipro/techspecs) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against URSA Mini Pro 12K specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “On set” section against FX6 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

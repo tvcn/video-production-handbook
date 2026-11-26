@@ -30,6 +30,7 @@ related: [animation.3d.render, animation.3d.rigging, formats.documentary.documen
 source_kind: sourced
 sources:
 - S62
+- S59
 - S63
 ---
 <p>Check the silhouette: fill the model black—can you still recognize the character? Then thickness: bevels at edges, volume at joints. If the silhouette fails, detail will not identify it.</p>
@@ -56,7 +57,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Read the silhouette before polygon count. A wrong outline st”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
-- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Read the silhouette before polygon count. A wrong outline st”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S62] [Blender: Official Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Modeling protects silhouette and thickness” section against Blender manual, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S59] [Adobe: After Effects Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against official After Effects guide, not a verdict on compositing aesthetics; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

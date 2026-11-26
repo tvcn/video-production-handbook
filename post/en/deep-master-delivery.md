@@ -27,11 +27,9 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [post.deep.deep-sound-mix, post.deep.deep-subtitle-delivery, shoot.camera.axis-line]
 sources:
+- S28
+- S29
 - S13
-- S14
-- S30
-- S34
-- S27
 source_kind: sourced
 ---
 <p>Delivery is not one export; master, QC and platform specs must align once or the launch comes back. One page of &amp;quot;Mastering: One File to Rule the Delivery&amp;quot; solves one local problem; joining &amp;quot;Mastering: One File to Rule the Delivery&amp;quot;, &amp;quot;QC: Black Frames, Frozen Frames, Dead Audio&amp;quot; and &amp;quot;Platform Deliverables: One Master, Many Safe Areas&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
@@ -57,10 +55,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S13] [Digital Cinema System Specification](https://www.dcimovies.com/dci-specification/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Delivery is not one export; master, QC and platform specs mu”) against Specification entry for digital-cinema resolution, colour, security and delivery; not a substitute for an on-set test.
-- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Delivery is not one export; master, QC and platform specs mu”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
-- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Delivery is not one export; master, QC and platform specs mu”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
-- [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Delivery is not one export; master, QC and platform specs mu”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
-- [S27] [ITU-R: BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“Delivery is not one export; master, QC and platform specs mu”) against ITU algorithms for loudness measurement and true peak, the basis referenced by EBU R128; not a substitute for an on-set test.
+- [S28] [Netflix: Partner Help](https://partnerhelp.netflixstudios.com/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against Netflix delivery help, not general platform rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S29] [YouTube: Upload Encoding Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Judgement” section against YouTube upload encoding recommendations, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S13] [DCI: Digital Cinema System Specification](https://www.dcimovies.com/dci-specification/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Method” section against DCI digital-cinema specification, not streaming upload rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

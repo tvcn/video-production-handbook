@@ -30,11 +30,9 @@ related: [post.delivery.qc, post.sound.room-tone, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
 sources:
-- S24
-- S27
-- S28
-- S30
-- S34
+- S70
+- S35
+- S29
 test_context: 'Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci
   Resolve 20 and Premiere Pro 2025; results vary by machine.'
 known_failures: 'Known failures: older-version timelines break; camera Logs need remapping;
@@ -75,10 +73,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S24] [ACESCentral: ACES](https://acescentral.com/) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“Proxies do not lower the final quality; they let the edit mo”) against ACES color encoding, ACEScg and delivery/archive workflows; not a substitute for an on-set test.
-- [S27] [ITU-R: BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“Proxies do not lower the final quality; they let the edit mo”) against ITU algorithms for loudness measurement and true peak, the basis referenced by EBU R128; not a substitute for an on-set test.
-- [S28] [Netflix Partner Help](https://partnerhelp.netflixstudios.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Proxies do not lower the final quality; they let the edit mo”) against Public entry for delivery specs, HDR/SDR and QC; not a substitute for an on-set test.
-- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Proxies do not lower the final quality; they let the edit mo”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
-- [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Proxies do not lower the final quality; they let the edit mo”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
+- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “A proxy is an editing copy, not a delivery file” section against FFmpeg codec/muxing documentation, not a delivery spec; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S35] [Avid: Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against Avid resource center, not an independent review; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S29] [YouTube: Upload Encoding Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “On set” section against YouTube upload encoding recommendations, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

@@ -25,6 +25,10 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [formats.event.event-breakdown, formats.event.event-structure, story.screenplay.logline]
 source_kind: sourced
+sources:
+- S43
+- S16
+
 ---
 <p>A documentary template is one person, one concrete task, one visible change; do not start with the era.</p>
 <!-- DIAGRAM_START -->
@@ -42,10 +46,11 @@ source_kind: sourced
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Documentary Template: One Person, One Thing, One Change”; it does not replace Event Breakdown: Make a Live Event Clear in Ninety Seconds, Event Film Structure: Result First, Process Second, The One-Line Story: Who Wants What, and What Stands in the Way. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S43] [BFI: BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One person, one concrete task, one visible change. Do not st”) against UK film archive, restoration and exhibition resources; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One person, one concrete task, one visible change. Do not st”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S43] [BFI: National Archive](https://www.bfi.org.uk/bfi-national-archive) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “A usable 60-second segment table” section against BFI archive material, not distribution rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S16] [BBC: Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Fill three lines before rolling” section against BBC editorial guidelines, not platform growth rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

@@ -41,9 +41,10 @@ source_kind: experience
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Interview Breakdown: Make a Person Land in Three Minutes”; it does not replace Interview Structure: The Question Matters More, Interview Template: Person, Question, Scene, Adjusting Actors: Give Verbs, Not Adjectives. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 4 format breakdown and project review reviews under a 30-second to five-minute film for one platform; it discusses “Interview Breakdown: Make a Person Land in Three Minutes”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 4 format breakdowns of finished films, 30 seconds to five minutes, delivered to one platform; it covers the structure and decision order of “Interview Breakdown: Make a Person Land in Three Minutes”, not an external laboratory test, multi-camera live, cinema delivery or a long-form custom narrative.
 <!-- SOURCES_END -->
 

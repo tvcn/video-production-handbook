@@ -28,6 +28,8 @@ source_kind: sourced
 sources:
 - S34
 - S60
+- S30
+- S60
 ---
 <p>两条线交叉，观众要知道它们共享同一个问题：同一时间、同一笔钱、同一个人。每次切回另一条线，都要让问题更紧，而不是单纯换场景。</p>
 <!-- DIAGRAM_START -->
@@ -43,7 +45,8 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“平行剪辑不是来回切，它要让两条线在观众心里产生一个问题：什么时候撞上。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
-- [S60] [Apple：Final Cut Pro 用户指南](https://support.apple.com/guide/final-cut-pro/welcome/mac) — 2026-11-26 访问。用于核对首段“平行剪辑不是来回切，它要让两条线在观众心里产生一个问题：什么时候撞上。”中的术语与公开背景（剪辑、磁性时间线、代理与导出）；不替代现场测试。
+- [S34] [Adobe：Premiere Pro 官方指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对「平行剪辑靠“共同问题”，不靠来回切」一节的术语/方法/规则（Premiere Pro 官方指南，不是工作流优劣结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S60] [Apple：Final Cut Pro 官方指南](https://support.apple.com/guide/final-cut-pro/welcome/mac) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Final Cut Pro 官方指南，不是工作流优劣结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S30] [DaVinci Resolve：官方文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对「怎么做」一节的术语/方法/规则（Resolve 官方产品/文档入口，不是第三方教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

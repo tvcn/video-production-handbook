@@ -24,10 +24,8 @@ authors:
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 sources:
-- S14
-- S15
 - S16
-- S29
+- S14
 test_context: 'Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project.'
 known_failures: 'Known failures: composite samples are not client proof; platform length/spec changes expire templates.'
 verified: 2026-11-22
@@ -48,12 +46,11 @@ source_kind: sourced
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Food & Table Template: One Sheet to Shoot”; it does not replace Interview Breakdown: Make a Person Land in Three Minutes, Interview Structure: The Question Matters More, The One-Line Story: Who Wants What, and What Stands in the Way. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A one-sheet food & table plan: six beats, picture, sound, du”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
-- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A one-sheet food & table plan: six beats, picture, sound, du”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A one-sheet food & table plan: six beats, picture, sound, du”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A one-sheet food & table plan: six beats, picture, sound, du”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S16] [BBC: Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “When to use this sheet” section against BBC editorial guidelines, not platform growth rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S14] [YouTube: Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “The sheet: five columns plus a pass line” section against YouTube community rules, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

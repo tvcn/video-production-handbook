@@ -29,6 +29,7 @@ source_kind: sourced
 related: [post.titles.title-design, post.vfx.tracking, shoot.camera.composition]
 sources:
 - S68
+- S06
 - S29
 ---
 <!-- DIAGRAM_START -->
@@ -72,10 +73,11 @@ Leave a little margin on both ends. Arriving too early spoils the line; staying 
 - Numbers, names, and negations survive unbroken.
 - Subtitles stay off the mouth and hands, inside the vertical safe area.
 
+<section><h2>Boundary</h2><p>This page only covers “Subtitles: Help Them Read, Not Just Transcribe”; it does not replace Title Design: Readable Before Cool, Tracking: Put the Point on Something Real, Composition: Tell the Eye Where to Look. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S68] [W3C: WebVTT](https://www.w3.org/TR/webvtt1/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Subtitles are not a transcript. They have to land the meanin”) against Caption file format and timestamps; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Subtitles are not a transcript. They have to land the meanin”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S68] [W3C: WebVTT](https://www.w3.org/TR/webvtt1/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Decide what must be read” section against WebVTT caption format, not platform review rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S06] [W3C: Captions and Subtitles](https://www.w3.org/WAI/media/av/captions/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Break by meaning, not by character count” section against W3C caption guidance, not platform review rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

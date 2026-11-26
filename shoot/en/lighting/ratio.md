@@ -28,11 +28,8 @@ review_due: '2027-02-26'
 source_kind: sourced
 related: [shoot.safety.risk-assessment, shoot.production.scene-space, post.color.color]
 sources:
-- S23
 - S31
-- S32
-- S33
-- S52
+- S23
 test_context: "Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus and samples; lens claims follow page labels, not every lens tested."
 known_failures: "Known failures: menus and firmware differ; uncalibrated color temperature/monitors cause misreads."
 verified: 2026-11-22
@@ -75,13 +72,11 @@ Do not buy lights first. Window light already has color and direction; you only 
 
 <!-- V11_DEEPEN -->
 
+<section><h2>Boundary</h2><p>This page only covers “Lighting Ratio: Learn the Ratio Before the Positions”; it does not replace Risk Assessment: Fill One Page Before You Roll, Let the Room Speak First, Color: Match First, Style Second. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One key and one reflector can shoot most portrait scenes. Co”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One key and one reflector can shoot most portrait scenes. Co”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
-- [S32] [Sony Pro Support](https://pro.sony/ue_US/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One key and one reflector can shoot most portrait scenes. Co”) against Support, firmware and documents for pro cameras and lenses; not a substitute for an on-set test.
-- [S33] [Canon Support](https://www.usa.canon.com/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One key and one reflector can shoot most portrait scenes. Co”) against Official support for cameras, lenses and firmware; not a substitute for an on-set test.
-- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One key and one reflector can shoot most portrait scenes. Co”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Window light plus a reflector” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “The key shapes the face” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

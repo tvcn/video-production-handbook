@@ -27,6 +27,10 @@ related: [story.screenplay.scene-transition-writing, story.screenplay.script-for
 depth: deep
 deep_minutes: 6
 source_kind: sourced
+sources:
+- S41
+- S42
+
 ---
 <p>三场戏不是三个场景，而是三次状态改变。每场开始写“人物进场时想要什么”，结束写“离场时什么已经不一样”；两行之间必须能画出一个动作。</p>
 <!-- DIAGRAM_START -->
@@ -57,7 +61,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“一场戏只完成一个变化，三场戏连起来才推得动一个段落。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
-- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“一场戏只完成一个变化，三场戏连起来才推得动一个段落。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S41] [美国编剧工会：合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对「一场只推一个变化」一节的术语/方法/规则（WGA 合同与署名资源，不是中国劳动法）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S42] [Pixar in a Box：叙事课程](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Pixar 叙事课程，不是项目报价）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

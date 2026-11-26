@@ -47,6 +47,6 @@ source_kind: experience
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 7 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Room Tone: Thirty Seconds per Location”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 7 production reviews under the listed software/camera versions and delivery platform; it covers the operating order for “Room Tone: Thirty Seconds per Location”, not an external laboratory test, unlisted versions, cinema masters, broadcast safety certification or legal advice.
 <!-- SOURCES_END -->
 

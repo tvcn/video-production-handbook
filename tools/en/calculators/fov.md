@@ -81,6 +81,6 @@ Take a 24mm and a 50mm lens into the same room, from the same tripod position. C
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 3 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Lens Field-of-View Calculator: Focal Length, Sensor, and Horizontal Angle”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page documents the parameter limits of “Lens Field-of-View Calculator: Focal Length, Sensor, and Horizontal Angle”, drawing on 3 production calculations and on-set playbacks under the listed camera/firmware and distances; it is for estimates only, not unlisted gear, extreme temperatures, legal/platform compliance or cinema masters.
 <!-- SOURCES_END -->
 

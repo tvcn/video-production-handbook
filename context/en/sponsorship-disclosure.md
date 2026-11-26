@@ -25,11 +25,9 @@ format: handbook
 authors:
 - TVCN Research Desk
 sources:
-- S14
-- S15
 - S01
-- S02
-- S03
+- S16
+- S17
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [context.literacy.statistics-video, context.history.streaming, formats.documentary.documentary-template]
@@ -49,10 +47,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Disclose sponsorship before the recommendation, not in the l”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
-- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Disclose sponsorship before the recommendation, not in the l”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Disclose sponsorship before the recommendation, not in the l”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Disclose sponsorship before the recommendation, not in the l”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Disclose sponsorship before the recommendation, not in the l”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S01] [UNESCO: Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “The audience must know who paid” section against media and information literacy framework, not platform-specific rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S16] [BBC: Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against BBC editorial guidelines, not platform growth rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S17] [Reuters: Trust Principles](https://reutersagency.com/about/our-trust-principles/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Source boundary” section against Reuters trust principles, not general creative advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

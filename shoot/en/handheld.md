@@ -29,7 +29,8 @@ review_due: '2027-02-26'
 related: [shoot.lighting.hard-light, shoot.virtual-production.led-virtual-production, post.color.color]
 source_kind: sourced
 sources:
-- S53
+- S31
+- S23
 - S31
 ---
 <p>Handheld is not random shake; it turns the operator&#x27;s breath into rhythm. Stabilize the feet first, then allow movement.</p>
@@ -46,7 +47,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Handheld is not random shake; it turns the operator's breath”) against Body specifications, recording formats and interfaces; not a substitute for an on-set test.
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Handheld is not random shake; it turns the operator's breath”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “On set” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Do this” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

@@ -30,6 +30,7 @@ related: [story.storyboard.insert-shot, story.interview.interview-questions, sho
 source_kind: sourced
 sources:
 - S42
+- S16
 - S10
 ---
 <p>A group scene is chaotic not because there are many people but because power is unclear. Draw a gaze map: who wants to speak, who blocks, who watches. Every position and look answers those three questions.</p>
@@ -46,7 +47,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S42] [Pixar: Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“In an ensemble scene everyone has a task; only then does the”) against Story structure, character and visual storytelling lessons; not a substitute for an on-set test.
-- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“In an ensemble scene everyone has a task; only then does the”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Ensemble scenes start with who watches whom” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S16] [BBC: Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against BBC editorial guidelines, not platform growth rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

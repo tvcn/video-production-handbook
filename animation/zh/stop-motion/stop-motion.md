@@ -29,10 +29,9 @@ related: [animation.stop-motion.stop-motion-motion-blur, animation.stop-motion.s
 depth: deep
 deep_minutes: 7
 sources:
+- S50
 - S62
-- S63
 - S12
-- S59
 test_context: "复核环境：Windows 11；Blender 4.x / After Effects 2025 公开流程；不声称所有版本一致。"
 known_failures: "已知失败：插件/版本差异导致绑定或渲染失败；字体授权与素材版权需单独核对。"
 verified: 2026-11-22
@@ -89,12 +88,12 @@ verified: 2026-11-22
 <ul><li>先算总帧数</li><li>十二帧一秒按尺子走</li><li>每帧运动量以毫米算</li><li>灯用沙袋胶带固定</li><li>相机用快门线</li><li>人离开画面再动模型</li><li>一次只改一个关节</li><li>布景墙面地面固定</li><li>后期先稳闪烁再补模糊</li><li>脚步接触对帧</li></ul><p>定格动画的真实感，不是模型多细，是每一帧的移动量和灯的位置都没有变。</p>
 <!-- DEEP_DIVE_END -->
 
+<section><h2>边界</h2><p>本页只解决「定格动画：一张一张拍」这一个问题；不替代 定格运动模糊：拍两遍、定格布景：尺度与透视线、品牌片：先让人相信一句话。如果现场问题属于后者，先读对应页，不要在本页继续加参数。</p></section>
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“定格最磨人的地方是稳定：相机别动、光别动、动作每次只改一点。一天拍两秒很正常，别以为自己慢。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
-- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“定格最磨人的地方是稳定：相机别动、光别动、动作每次只改一点。一天拍两秒很正常，别以为自己慢。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
-- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“定格最磨人的地方是稳定：相机别动、光别动、动作每次只改一点。一天拍两秒很正常，别以为自己慢。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
-- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“定格最磨人的地方是稳定：相机别动、光别动、动作每次只改一点。一天拍两秒很正常，别以为自己慢。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
+- [S50] [Kodak：动态影像](https://www.kodak.com/en/motion/home) — 2026-11-26 访问。用于核对「固定相机」一节的术语/方法/规则（Kodak 胶片与动态影像资料，不是数码参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「拍两遍」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S12] [Britannica：动画](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对「光和运动」一节的术语/方法/规则（Britannica 动画史条目，不是软件手册）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

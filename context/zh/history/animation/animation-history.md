@@ -29,10 +29,6 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 sources:
 - S12
-- S01
-- S02
-- S03
-- S16
 related: [context.history.camera-obscura, context.literacy.clickbait, formats.documentary.documentary-template]
 source_kind: sourced
 ---
@@ -91,13 +87,10 @@ source_kind: sourced
 
 <!-- V11_DEEPEN -->
 
+<section><h2>边界</h2><p>本页只解决「动画史：从赛璐珞到 3D」这一个问题；不替代 暗箱：图像先学会倒过来、标题党：标题承诺了什么，正文给了什么、纪录模板：一个人、一件事、一个变化。如果现场问题属于后者，先读对应页，不要在本页继续加参数。</p></section>
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“从纸、赛璐珞到多边形，工具换了几轮，动画师每天面对的仍是同一个问题：怎么让静止的东西看起来想动。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
-- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“从纸、赛璐珞到多边形，工具换了几轮，动画师每天面对的仍是同一个问题：怎么让静止的东西看起来想动。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
-- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“从纸、赛璐珞到多边形，工具换了几轮，动画师每天面对的仍是同一个问题：怎么让静止的东西看起来想动。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
-- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“从纸、赛璐珞到多边形，工具换了几轮，动画师每天面对的仍是同一个问题：怎么让静止的东西看起来想动。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
-- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“从纸、赛璐珞到多边形，工具换了几轮，动画师每天面对的仍是同一个问题：怎么让静止的东西看起来想动。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S12] [Britannica：动画](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对「逐帧」一节的术语/方法/规则（Britannica 动画史条目，不是软件手册）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

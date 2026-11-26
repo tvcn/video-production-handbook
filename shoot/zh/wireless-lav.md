@@ -27,6 +27,10 @@ related: [shoot.camera.axis-line, shoot.production.b-roll, post.color.color]
 depth: deep
 deep_minutes: 5
 source_kind: sourced
+sources:
+- S27
+- S23
+
 ---
 <p>现场先扫频，避开电视台和 Wi-Fi 密集段；发射器贴近身体，接收器高于人群，天线不要贴金属。每套麦备一条有线备份，录到机身或第二录音机。</p>
 <!-- DIAGRAM_START -->
@@ -57,8 +61,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“领夹麦先解决藏和备份：衣领下、头发里、胶带固定，再录一条备用轨。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“领夹麦先解决藏和备份：衣领下、头发里、胶带固定，再录一条备用轨。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
-- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“领夹麦先解决藏和备份：衣领下、头发里、胶带固定，再录一条备用轨。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
+- [S27] [ITU-R BS.1770：响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-26 访问。用于核对「无线麦先扫频率，再谈距离」一节的术语/方法/规则（BS.1770 响度测量方法，不是话筒选购）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S23] [SMPTE：标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（SMPTE 标准入口，不是具体机型参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

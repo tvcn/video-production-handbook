@@ -29,6 +29,7 @@ related: [post.color.color, post.color.color-management, shoot.camera.compositio
 source_kind: sourced
 sources:
 - S30
+- S59
 - S35
 ---
 <p>Before removing a cable, mic or stand, read the background: a plain wall is easy; foliage, crowds and texture are not. Shoot a clean plate or empty frame so post has a source.</p>
@@ -45,7 +46,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cleanup removes the mistake, not the information the audienc”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
-- [S35] [Avid Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cleanup removes the mistake, not the information the audienc”) against Resources for Media Composer, collaboration and delivery; not a substitute for an on-set test.
+- [S30] [DaVinci Resolve: Official Documentation](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Ask what the background contains before erasing” section against official Resolve product/documentation entry, not a third-party tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S59] [Adobe: After Effects Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against official After Effects guide, not a verdict on compositing aesthetics; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

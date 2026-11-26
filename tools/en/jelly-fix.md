@@ -29,7 +29,8 @@ review_due: '2027-02-26'
 related: [tools.tutorial.lav-hidden, tools.capability.lav-system, shoot.camera.composition]
 source_kind: sourced
 sources:
-- S23
+- S53
+- S58
 - S52
 ---
 <p>Rolling shutter shows most in fast lateral moves: poles lean, faces narrow, hands bend. Avoid fast pans, use a wider lens and steadier support; stabilization can crop but cannot restore shape.</p>
@@ -46,7 +47,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Rolling shutter comes from slow readout and fast motion; cha”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Rolling shutter comes from slow readout and fast motion; cha”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Read the direction of motion for rolling shutter” section against FX6 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S58] [Blackmagic: Pocket Cinema Camera 6K Specs](https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against Pocket Cinema Camera 6K specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

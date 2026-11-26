@@ -28,6 +28,8 @@ source_kind: sourced
 sources:
 - S62
 - S63
+- S59
+- S63
 ---
 <p>看到一个动画案例，先记三样限制：预算、周期、团队规模。风格是这些限制的结果，不是起点。把“好看”拆成可执行的取舍：少角色、少场景、用重复镜头、用有限帧率。</p>
 <!-- DIAGRAM_START -->
@@ -43,7 +45,8 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“动画案例复盘按“分镜—animatic—layout—动画—灯光—合成”逐段对照，不只夸成片。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
-- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“动画案例复盘按“分镜—animatic—layout—动画—灯光—合成”逐段对照，不只夸成片。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「案例拆解先看“限制”，再看“风格”」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Toon Boom 官方文档，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S59] [Adobe：After Effects 官方指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对「怎么做」一节的术语/方法/规则（After Effects 官方指南，不是合成美学结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

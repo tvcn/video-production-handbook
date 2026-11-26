@@ -26,6 +26,7 @@ review_due: '2027-02-26'
 related: [formats.music-video.music-video-structure, formats.music-video.music-video-template, story.directing.actor-adjustment]
 source_kind: sourced
 sources:
+- S42
 - S14
 - S42
 ---
@@ -42,7 +43,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A nine-beat breakdown of a three-and-a-half-minute music vid”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
-- [S42] [Pixar: Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A nine-beat breakdown of a three-and-a-half-minute music vid”) against Story structure, character and visual storytelling lessons; not a substitute for an on-set test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Fix Three Variables First” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S14] [YouTube: Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Timecode Breakdown: 9 Beats” section against YouTube community rules, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

@@ -27,11 +27,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [tools.deep.deep-backup-321, tools.deep.deep-camera-lens-kit, shoot.camera.axis-line]
 sources:
-- S14
-- S15
-- S29
-- S23
-- S30
+- S19
+- S20
 source_kind: sourced
 ---
 <p>AI tools are not one-click films; generation, voice, render and human review need a traceable chain. One page of &amp;quot;AI Video Tool: Controllability First&amp;quot; solves one local problem; joining &amp;quot;AI Video Tool: Controllability First&amp;quot;, &amp;quot;AI Audio Tool: Rights and Quality&amp;quot; and &amp;quot;Cloud Render: Cost and Transfer&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
@@ -57,10 +54,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“AI tools are not one-click films; generation, voice, render ”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
-- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“AI tools are not one-click films; generation, voice, render ”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“AI tools are not one-click films; generation, voice, render ”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“AI tools are not one-click films; generation, voice, render ”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“AI tools are not one-click films; generation, voice, render ”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S19] [Generative Adversarial Nets (2014)](https://arxiv.org/abs/1406.2661) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against the original GAN paper, not a product review; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S20] [Denoising Diffusion Probabilistic Models (2020)](https://arxiv.org/abs/2006.11239) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Judgement” section against the original DDPM paper, not a product review; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

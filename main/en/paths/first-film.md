@@ -40,6 +40,6 @@ related: [main.method.method-actor-stiff, main.method.method-ai-consistency, con
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 6 client brief and project review reviews under a one- or two-to-three-person team with a fixed budget and schedule; it discusses “Your First Film in 7 Days”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This is an editorial path for “Your First Film in 7 Days”, drawing on 6 comparable projects and teaching cases; it gives order, outputs and checks, not a certification, job guarantee, quote or platform approval.
 <!-- SOURCES_END -->
 

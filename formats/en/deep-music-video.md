@@ -27,11 +27,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [formats.deep.deep-short-drama, formats.documentary.documentary, story.deep.deep-coverage-board]
 sources:
-- S12
+- S42
 - S14
-- S15
-- S16
-- S29
 source_kind: sourced
 ---
 <p>A music video is not images over a song; structure, performance and cuts follow the music, not dialogue. One page of &amp;quot;Music Video Template: Verse, Chorus, Memory&amp;quot; solves one local problem; joining &amp;quot;Music Video Template: Verse, Chorus, Memory&amp;quot;, &amp;quot;Music Video Structure: The Song Is the Timeline&amp;quot; and &amp;quot;Music Video Breakdown: Map Song Structure to Image&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
@@ -57,10 +54,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A music video is not images over a song; structure, performa”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
-- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A music video is not images over a song; structure, performa”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
-- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A music video is not images over a song; structure, performa”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A music video is not images over a song; structure, performa”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A music video is not images over a song; structure, performa”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S14] [YouTube: Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Judgement” section against YouTube community rules, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

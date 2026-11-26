@@ -26,7 +26,9 @@ review_due: '2027-02-26'
 related: [post.assets.archive-reuse, post.accessibility.audio-description, shoot.camera.composition]
 source_kind: sourced
 sources:
-- S35
+- S28
+- S29
+- S13
 - S61
 ---
 <p>归档包要包含：最终工程、原素材或代理、字体、LUT、音乐授权、字幕、交付文件和一页说明。缺字体和 LUT，下次打开就是满屏报错。</p>
@@ -43,7 +45,8 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S35] [Avid 资源中心](https://www.avid.com/resource-center) — 2026-11-26 访问。用于核对首段“归档不是把文件拖进硬盘，是保证三年后还能找到、还能打开、还能改。”中的术语与公开背景（Media Composer、协作与交付的资源入口）；不替代现场测试。
-- [S61] [Apple：Compressor 用户指南](https://support.apple.com/guide/compressor/welcome/mac) — 2026-11-26 访问。用于核对首段“归档不是把文件拖进硬盘，是保证三年后还能找到、还能打开、还能改。”中的术语与公开背景（编码、批处理与交付）；不替代现场测试。
+- [S28] [Netflix：合作伙伴帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对「归档不是“打包”，是“下次能打开”」一节的术语/方法/规则（Netflix 交付帮助，不是通用平台规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S29] [YouTube：上传编码建议](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（YouTube 上传编码建议，不是创作标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S13] [DCI：数字电影系统规范](https://www.dcimovies.com/dci-specification/) — 2026-11-26 访问。用于核对「怎么做」一节的术语/方法/规则（DCI 数字电影规范，不是流媒体上传规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

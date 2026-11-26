@@ -27,11 +27,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [tools.deep.deep-storage-chain, tools.delivery.delivery-specs, shoot.deep.deep-camera-move]
 sources:
-- S19
-- S29
 - S23
-- S30
-- S70
+- S29
 source_kind: sourced
 ---
 <p>A workstation is not a spec sheet; NLE, proxies, cache and nodes must not fight in one project. One page of &amp;quot;Choosing an NLE: Start With the Project&amp;quot; solves one local problem; joining &amp;quot;Choosing an NLE: Start With the Project&amp;quot;, &amp;quot;Proxy Creation: Match the Timeline&amp;quot; and &amp;quot;DaVinci Nodes: Nodes Are Not Filters&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
@@ -57,10 +54,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S19] [Generative Adversarial Nets (2014)](https://arxiv.org/abs/1406.2661) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A workstation is not a spec sheet; NLE, proxies, cache and n”) against The original GAN paper: a generator and discriminator trained against each other; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A workstation is not a spec sheet; NLE, proxies, cache and n”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A workstation is not a spec sheet; NLE, proxies, cache and n”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A workstation is not a spec sheet; NLE, proxies, cache and n”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
-- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A workstation is not a spec sheet; NLE, proxies, cache and n”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S29] [YouTube: Upload Encoding Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Judgement” section against YouTube upload encoding recommendations, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

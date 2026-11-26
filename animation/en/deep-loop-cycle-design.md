@@ -29,7 +29,6 @@ related: [animation.deep.deep-render-budget, animation.deep.deep-rig-handoff, fo
 sources:
 - S62
 - S63
-- S12
 - S59
 source_kind: sourced
 ---
@@ -56,9 +55,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A loop is not a matching first and last frame; it is weight,”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
-- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A loop is not a matching first and last frame; it is weight,”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
-- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A loop is not a matching first and last frame; it is weight,”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
-- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A loop is not a matching first and last frame; it is weight,”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
+- [S62] [Blender: Official Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against Blender manual, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Judgement” section against Toon Boom documentation, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S59] [Adobe: After Effects Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Method” section against official After Effects guide, not a verdict on compositing aesthetics; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

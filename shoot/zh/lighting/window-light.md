@@ -28,6 +28,7 @@ source_kind: sourced
 related: [shoot.sound.wireless-lav, shoot.camera.axis-line, post.color.color]
 sources:
 - S31
+- S23
 - S25
 ---
 <!-- DIAGRAM_START -->
@@ -83,10 +84,11 @@ sources:
 
 <!-- V11_DEEPEN -->
 
+<section><h2>边界</h2><p>本页只解决「一扇窗怎么当主光」这一个问题；不替代 无线领夹：藏麦与备份、越轴之后，观众会突然找不到方向、调色：先统一，再风格。如果现场问题属于后者，先读对应页，不要在本页继续加参数。</p></section>
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“没有灯组也能拍人脸：先定朝向，再用反光板补一点，最后把背景压下去。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
-- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — 2026-11-26 访问。用于核对首段“没有灯组也能拍人脸：先定朝向，再用反光板补一点，最后把背景压下去。”中的术语与公开背景（HD SDR 的色域、传递函数与观看条件）；不替代现场测试。
+- [S31] [ARRI：电影系统](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对「先让人转脸，不要移窗」一节的术语/方法/规则（ARRI 摄影机、镜头与灯光资料，不是通用拍摄教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S23] [SMPTE：标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对「反光板放低，不要举到头顶」一节的术语/方法/规则（SMPTE 标准入口，不是具体机型参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

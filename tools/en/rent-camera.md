@@ -29,7 +29,9 @@ review_due: '2027-02-26'
 related: [tools.guide.rent-lighting, tools.tutorial.restore-test, shoot.camera.composition]
 source_kind: sourced
 sources:
-- S32
+- S31
+- S52
+- S53
 - S33
 ---
 <p>A cheap day rate with no backup, a long pickup and no insurance can cost more than the rental when the camera stops. Ask: same-model backup, early pickup, damage liability, tech support hours.</p>
@@ -46,7 +48,8 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S32] [Sony Pro Support](https://pro.sony/ue_US/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Insurance, deposit, and a hands-on check; film scratches and”) against Support, firmware and documents for pro cameras and lenses; not a substitute for an on-set test.
-- [S33] [Canon Support](https://www.usa.canon.com/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Insurance, deposit, and a hands-on check; film scratches and”) against Official support for cameras, lenses and firmware; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Rent by downtime cost, not day rate” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against ALEXA 35 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “On set” section against FX6 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

@@ -27,11 +27,9 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [tools.deep.deep-live-stream-chain, tools.deep.deep-location-sound-chain, shoot.camera.axis-line]
 sources:
-- S16
-- S29
-- S23
-- S30
-- S70
+- S31
+- S52
+- S53
 source_kind: sourced
 ---
 <p>机身决定下限，镜头决定你能拍到什么；一机三镜比一机十镜更容易拍完。 单看《微单拍视频：过热、果冻、裁切》只能解决一个局部；把《微单拍视频：过热、果冻、裁切》《定焦镜头：先走动，再变焦》《变焦镜头：方便与画质》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
@@ -57,10 +55,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“机身决定下限，镜头决定你能拍到什么；一机三镜比一机十镜更容易拍完。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
-- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“机身决定下限，镜头决定你能拍到什么；一机三镜比一机十镜更容易拍完。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“机身决定下限，镜头决定你能拍到什么；一机三镜比一机十镜更容易拍完。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“机身决定下限，镜头决定你能拍到什么；一机三镜比一机十镜更容易拍完。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
-- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“机身决定下限，镜头决定你能拍到什么；一机三镜比一机十镜更容易拍完。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
+- [S31] [ARRI：电影系统](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对「问题」一节的术语/方法/规则（ARRI 摄影机、镜头与灯光资料，不是通用拍摄教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对「判断」一节的术语/方法/规则（ALEXA 35 官方规格，不是独立测试）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对「做法」一节的术语/方法/规则（FX6 官方规格，不是独立测试）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

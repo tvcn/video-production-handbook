@@ -27,11 +27,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [formats.deep.deep-short-drama, formats.documentary.documentary, story.deep.deep-coverage-board]
 sources:
-- S12
+- S42
 - S14
-- S15
-- S16
-- S29
 source_kind: sourced
 ---
 <p>MV 不是把歌配画面；结构、表演和剪辑点要跟着音乐走，而不是跟着台词走。 单看《MV 模板：主歌、副歌、记忆点》只能解决一个局部；把《MV 模板：主歌、副歌、记忆点》《MV 结构：歌是时间轴》《MV 拉片：歌的结构怎么变成画面》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
@@ -57,10 +54,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“MV 不是把歌配画面；结构、表演和剪辑点要跟着音乐走，而不是跟着台词走。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
-- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“MV 不是把歌配画面；结构、表演和剪辑点要跟着音乐走，而不是跟着台词走。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
-- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“MV 不是把歌配画面；结构、表演和剪辑点要跟着音乐走，而不是跟着台词走。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
-- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“MV 不是把歌配画面；结构、表演和剪辑点要跟着音乐走，而不是跟着台词走。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
-- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“MV 不是把歌配画面；结构、表演和剪辑点要跟着音乐走，而不是跟着台词走。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S42] [Pixar in a Box：叙事课程](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对「问题」一节的术语/方法/规则（Pixar 叙事课程，不是项目报价）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S14] [YouTube：社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对「判断」一节的术语/方法/规则（YouTube 社区准则，不是内容创意标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

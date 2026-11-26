@@ -30,6 +30,7 @@ related: [post.sound.music-editing, post.editing.parallel-editing, shoot.camera.
 source_kind: sourced
 sources:
 - S68
+- S06
 - S65
 ---
 <p>Deliver multilingual captions as separate tracks: one language each, aligned timecode, separate styles. Do not stack Chinese and English on one line; mobile collapses and neither can be turned off.</p>
@@ -46,7 +47,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S68] [W3C: WebVTT](https://www.w3.org/TR/webvtt1/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Do not stack two languages in one line; switch tracks or del”) against Caption file format and timestamps; not a substitute for an on-set test.
-- [S65] [ITU: H.264](https://www.itu.int/rec/T-REC-H.264/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Do not stack two languages in one line; switch tracks or del”) against AVC codec specification; not a substitute for an on-set test.
+- [S68] [W3C: WebVTT](https://www.w3.org/TR/webvtt1/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “One track per language, never mixed” section against WebVTT caption format, not platform review rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S06] [W3C: Captions and Subtitles](https://www.w3.org/WAI/media/av/captions/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against W3C caption guidance, not platform review rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

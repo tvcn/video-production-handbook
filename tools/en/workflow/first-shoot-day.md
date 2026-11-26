@@ -30,6 +30,7 @@ related: [tools.capability.fluid-head, tools.capability.follow-focus, shoot.came
 sources:
 - S23
 - S31
+- S31
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -67,10 +68,12 @@ Keep ten minutes before wrap: play back the last take, make one backup, confirm 
 
 <!-- V11_DEEPEN -->
 
+<section><h2>Boundary</h2><p>This page only covers “Six Things to Write Down Before Your First Shoot Day”; it does not replace Fluid Head: Pan and Tilt Need Drag, Follow Focus: One Hand Can Follow, Composition: Tell the Eye Where to Look. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
+<section><h2>Three failures</h2><p>The three common first-shoot-day failures happen before the first take:</p><ul><li><strong>1. Batteries and cards are not labelled.</strong> You discover both batteries are flat and the card still holds last week's footage; label one battery and one card per body.</li><li><strong>2. Shooting the hardest shot first.</strong> You block the actor and props while the good light goes; shoot the natural-light-dependent shots first, then the controllable pickups.</li><li><strong>3. Recording only the on-camera mic.</strong> No independent audio, no room tone, no second backup; when the dialogue is unusable in post, there is no rescue material.</li></ul></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“First shoots fall apart around time, place, ownership, shot ”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“First shoots fall apart around time, place, ownership, shot ”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “A call sheet that fits on one page” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Shoot the light before the scene” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

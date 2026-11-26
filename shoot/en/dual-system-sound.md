@@ -29,11 +29,8 @@ related: [shoot.camera.exposure, shoot.exposure.false-color, post.color.color]
 depth: deep
 deep_minutes: 6
 sources:
-- S31
-- S32
+- S27
 - S23
-- S52
-- S53
 source_kind: sourced
 ---
 <p>The camera mic is scratch; the external recorder captures clean dialogue. Clap or slate before rolling so both files share a sync point; do not align by camera audio alone.</p>
@@ -65,10 +62,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Sync dual-system sound with a clap or timecode. With neither”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
-- [S32] [Sony Pro Support](https://pro.sony/ue_US/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Sync dual-system sound with a clap or timecode. With neither”) against Support, firmware and documents for pro cameras and lenses; not a substitute for an on-set test.
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Sync dual-system sound with a clap or timecode. With neither”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Sync dual-system sound with a clap or timecode. With neither”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
-- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Sync dual-system sound with a clap or timecode. With neither”) against Body specifications, recording formats and interfaces; not a substitute for an on-set test.
+- [S27] [ITU-R BS.1770: Loudness and True Peak](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Dual system records scratch and clean sound” section against BS.1770 loudness measurement, not microphone buying advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

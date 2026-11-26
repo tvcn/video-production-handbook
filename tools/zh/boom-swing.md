@@ -26,6 +26,7 @@ review_due: '2027-02-26'
 related: [tools.calculator.budget-calculator, tools.producing.budget-contingency, shoot.sound.boom-operator]
 source_kind: sourced
 sources:
+- S27
 - S23
 - S35
 ---
@@ -46,7 +47,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“吊杆跟着演员胸口走，不跟着嘴；嘴会转，胸口不会突然消失。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S35] [Avid 资源中心](https://www.avid.com/resource-center) — 2026-11-26 访问。用于核对首段“吊杆跟着演员胸口走，不跟着嘴；嘴会转，胸口不会突然消失。”中的术语与公开背景（Media Composer、协作与交付的资源入口）；不替代现场测试。
+- [S27] [ITU-R BS.1770：响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-26 访问。用于核对「话筒杆跟着动作走，不横穿画面」一节的术语/方法/规则（BS.1770 响度测量方法，不是话筒选购）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S23] [SMPTE：标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对「吊杆跟着台词走，不跟着人走」一节的术语/方法/规则（SMPTE 标准入口，不是具体机型参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

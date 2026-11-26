@@ -34,7 +34,7 @@ source_kind: experience
   <figcaption>看“CTO 贴窗、CTB 贴灯，拍一张看…”和“ND 色纸只减亮，不改变色温”两处，判断这个参数能不能对应到一个具体的拍摄问题。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">先测色偏</h2><ul><li><strong>档位：</strong>在最终光位拍白纸和灰卡，分别加 1/4、1/2、全 ND，比较色温和密度。</li><li><strong>叠用：</strong>多张 ND 叠加会增加偏色和暗角；尽量用单张够用的密度。</li><li><strong>热量：</strong>色纸离灯太近会烤化；用色纸夹并留距离，LED 也要看散热。</li></ul><h2 id="section-2">什么时候不要用</h2><h2 id="section-3">色纸与 ND 不要叠超过两片</h2>
+<section><h2 id="section-1">先测色偏</h2><ul><li><strong>档位：</strong>在最终光位拍白纸和灰卡，分别加 1/4、1/2、全 ND，比较色温和密度。</li><li><strong>叠用：</strong>多张 ND 叠加会增加偏色和暗角；尽量用单张够用的密度。</li><li><strong>热量：</strong>色纸离灯太近会烤化；用色纸夹并留距离，LED 也要看散热。</li></ul><h2 id="section-3">色纸与 ND 不要叠超过两片</h2>
 <p>CTO/CTB 校色温，ND 降亮度；两片叠加会偏色、降清晰度，还可能产生红外污染。先决定需不需要改色温，再决定 ND。</p>
 <ol><li>日光偏蓝：加 1/4 CTO；钨丝灯偏黄：加 1/4 CTB。一次只加 1/4，逐步试。</li><li>ND 优先放在镜头前或窗上，不要和色纸贴在一起；需要大档位时用一片高 ND，不叠三片低 ND。</li><li>LED 灯先调色温和亮度，色纸只做微调；不要用色纸救不准的灯。</li></ol>
 <p>验收：白平衡后看白纸和肤色，不要只看灯；出现偏绿或暗角，先减片数。</p></section><section><h2 id="section-4">现场</h2><p>把 CTO 贴窗、CTB 贴灯，拍一张看色温；ND 色纸只减亮，不改变色温。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>CTO 贴窗、CTB 贴灯，拍一张看色温。</li><li>ND 色纸只减亮，不改变色温。</li><li>每张色纸标名称和档数，别靠颜色认。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别靠肉眼分色纸；CTO 和 ND 在暗处看起来都像橙色。</p></section>
@@ -43,6 +43,6 @@ source_kind: experience
 <!-- SOURCES_START -->
 ## 经验说明
 
-经验说明：本页来自 6 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「灯光色纸：CTO、CTB、ND」；不含外部实验室测试，条件变化时结论可能失效。
+经验说明：本页来自 6 次器材试用与现场回放，条件为页面所列型号/固件、室内外各一次；只讨论「灯光色纸：CTO、CTB、ND」的选型与使用边界，不含外部实验室测试；不适用于未列型号、个体品控、保修/租赁合同与安全认证。
 <!-- SOURCES_END -->
 

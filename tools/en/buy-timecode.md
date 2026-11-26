@@ -25,10 +25,7 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 sources:
 - S23
-- S29
-- S30
-- S70
-- S35
+- S67
 test_context: 'Review setup: Windows 11 workstation + iPhone 13, Chrome 131; bodies/lenses checked against public specs and short samples, not lab instruments.'
 known_failures: 'Known failures: grey-channel firmware/warranty vary; samples do not prove retail units; prices and stock expire.'
 verified: 2026-11-22
@@ -47,10 +44,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Timecode is not automatic for multicam, but when needed, dri”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Timecode is not automatic for multicam, but when needed, dri”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Timecode is not automatic for multicam, but when needed, dri”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
-- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Timecode is not automatic for multicam, but when needed, dri”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
-- [S35] [Avid Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Timecode is not automatic for multicam, but when needed, dri”) against Resources for Media Composer, collaboration and delivery; not a substitute for an on-set test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “First decision: which link is missing” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S67] [IETF: RFC 8216 (HLS)](https://datatracker.ietf.org/doc/html/rfc8216) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Test protocol: reproducible, no invented scores” section against HLS protocol spec, not live-operations advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

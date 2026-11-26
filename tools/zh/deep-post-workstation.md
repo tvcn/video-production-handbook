@@ -27,11 +27,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [tools.deep.deep-storage-chain, tools.delivery.delivery-specs, shoot.deep.deep-camera-move]
 sources:
-- S19
-- S29
 - S23
-- S30
-- S70
+- S29
 source_kind: sourced
 ---
 <p>工作站不是配置单，而是 NLE、代理、缓存和节点在同一个项目里不打架。 单看《剪辑软件怎么选：项目先定》只能解决一个局部；把《剪辑软件怎么选：项目先定》《代理生成：剪辑不卡》《达芬奇节点：节点不是滤镜》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
@@ -57,10 +54,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S19] [GAN 原始论文（2014）](https://arxiv.org/abs/1406.2661) — 2026-11-26 访问。用于核对首段“工作站不是配置单，而是 NLE、代理、缓存和节点在同一个项目里不打架。”中的术语与公开背景（生成对抗网络：生成模型与判别模型互相博弈）；不替代现场测试。
-- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“工作站不是配置单，而是 NLE、代理、缓存和节点在同一个项目里不打架。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“工作站不是配置单，而是 NLE、代理、缓存和节点在同一个项目里不打架。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“工作站不是配置单，而是 NLE、代理、缓存和节点在同一个项目里不打架。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
-- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“工作站不是配置单，而是 NLE、代理、缓存和节点在同一个项目里不打架。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
+- [S23] [SMPTE：标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对「问题」一节的术语/方法/规则（SMPTE 标准入口，不是具体机型参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S29] [YouTube：上传编码建议](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对「判断」一节的术语/方法/规则（YouTube 上传编码建议，不是创作标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

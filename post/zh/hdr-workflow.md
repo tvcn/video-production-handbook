@@ -25,10 +25,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 sources:
 - S24
-- S26
-- S28
+- S25
 - S30
-- S34
 test_context: 复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere Pro 2025 复跑；不声称每台机器结果一致。
 known_failures: 已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。
 verified: 2026-11-22
@@ -47,10 +45,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S24] [ACESCentral：ACES：Academy Color Encoding System](https://acescentral.com/) — 2026-11-27 访问。用于核对首段“HDR 不是把 SDR 拉亮，而是从拍摄、监看、调色到平台交付都保留同一套亮度关系。任何一个环节按 SDR 猜，最后都会”中的术语与公开背景（ACES 色彩编码、ACEScg 与交付/归档工作流）；不替代现场测试。
-- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — 2026-11-26 访问。用于核对首段“HDR 不是把 SDR 拉亮，而是从拍摄、监看、调色到平台交付都保留同一套亮度关系。任何一个环节按 SDR 猜，最后都会”中的术语与公开背景（UHD/HDR 的宽色域与参数定义）；不替代现场测试。
-- [S28] [Netflix 制作与交付帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对首段“HDR 不是把 SDR 拉亮，而是从拍摄、监看、调色到平台交付都保留同一套亮度关系。任何一个环节按 SDR 猜，最后都会”中的术语与公开背景（平台交付规格、HDR/SDR 与 QC 要求的公开入口）；不替代现场测试。
-- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“HDR 不是把 SDR 拉亮，而是从拍摄、监看、调色到平台交付都保留同一套亮度关系。任何一个环节按 SDR 猜，最后都会”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
-- [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“HDR 不是把 SDR 拉亮，而是从拍摄、监看、调色到平台交付都保留同一套亮度关系。任何一个环节按 SDR 猜，最后都会”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
+- [S24] [ACESCentral：ACES 色彩规范](https://acescentral.com/) — 2026-11-26 访问。用于核对「调色：先做 HDR，再做 SDR trim」一节的术语/方法/规则（ACES 色彩规范，不是调色教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — 2026-11-26 访问。用于核对「先判断：这条片子真的需要 HDR 吗」一节的术语/方法/规则（BT.709 高清电视参数，不是现场曝光建议）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S30] [DaVinci Resolve：官方文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对「交付：平台、母版、字幕与 QC」一节的术语/方法/规则（Resolve 官方产品/文档入口，不是第三方教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -27,6 +27,10 @@ related: [post.editing.parallel-editing, post.delivery.platform-deliverables, sh
 depth: deep
 deep_minutes: 5
 source_kind: sourced
+sources:
+- S27
+- S35
+
 ---
 <p>不要一开始就按节拍切画面。先把故事剪到成立，再把音乐铺上去；需要时移动音乐段落，而不是把画面切碎去凑拍子。</p>
 <!-- DIAGRAM_START -->
@@ -61,8 +65,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“配乐不是从头铺到尾，它要在动作转折处进入、退出、留白。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
-- [S27] [ITU-R：BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-27 访问。用于核对首段“配乐不是从头铺到尾，它要在动作转折处进入、退出、留白。”中的术语与公开背景（响度测量、真峰值与 EBU R128 所依据的 ITU 算法标准）；不替代现场测试。
-- [S67] [IETF：RFC 8216：HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216) — 2026-11-26 访问。用于核对首段“配乐不是从头铺到尾，它要在动作转折处进入、退出、留白。”中的术语与公开背景（HLS 分片、清单与播放）；不替代现场测试。
+- [S27] [ITU-R BS.1770：响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-26 访问。用于核对「先剪故事，再对音乐」一节的术语/方法/规则（BS.1770 响度测量方法，不是话筒选购）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S35] [Avid：资源中心](https://www.avid.com/resource-center) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Avid 资源中心，不是独立评测）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

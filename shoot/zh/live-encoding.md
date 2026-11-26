@@ -28,6 +28,8 @@ source_kind: sourced
 sources:
 - S67
 - S28
+- S23
+- S28
 ---
 <p>码率按上传带宽的 70% 设，留余量；关键帧间隔 2 秒，音频 128–192 kbps。分辨率高但码率不够，运动画面会糊成块；宁可 720p 稳，不要 4K 卡。</p>
 <!-- DIAGRAM_START -->
@@ -43,7 +45,8 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S67] [IETF：RFC 8216：HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216) — 2026-11-26 访问。用于核对首段“直播编码先算上行带宽，再定码率；永远留一条本地录制备份。”中的术语与公开背景（HLS 分片、清单与播放）；不替代现场测试。
-- [S28] [Netflix 制作与交付帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对首段“直播编码先算上行带宽，再定码率；永远留一条本地录制备份。”中的术语与公开背景（平台交付规格、HDR/SDR 与 QC 要求的公开入口）；不替代现场测试。
+- [S67] [IETF：RFC 8216（HLS）](https://datatracker.ietf.org/doc/html/rfc8216) — 2026-11-26 访问。用于核对「直播先保“不断”，再保“好看”」一节的术语/方法/规则（HLS 协议规范，不是直播运营建议）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S28] [Netflix：合作伙伴帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Netflix 交付帮助，不是通用平台规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S23] [SMPTE：标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对「怎么做」一节的术语/方法/规则（SMPTE 标准入口，不是具体机型参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -26,7 +26,9 @@ review_due: '2027-02-26'
 related: [animation.pipeline.asset-handoff, animation.3d.blockout, formats.documentary.documentary-template]
 source_kind: sourced
 sources:
+- S50
 - S62
+- S12
 - S63
 ---
 <p>定格骨架先测三个动作：站立不晃、抬手不软、坐下不塌。关节用金属骨架加硅胶垫，脚底加大接触面；不要先做手指，先把重心和膝盖做稳。</p>
@@ -53,7 +55,8 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“定格人偶先能站住、能走、能重复，再谈表演；骨架软，拍十帧就塌。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
-- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“定格人偶先能站住、能走、能重复，再谈表演；骨架软，拍十帧就塌。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S50] [Kodak：动态影像](https://www.kodak.com/en/motion/home) — 2026-11-26 访问。用于核对「骨架先保“能站稳”，再保“能表演”」一节的术语/方法/规则（Kodak 胶片与动态影像资料，不是数码参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「骨架绑定：先做“极限测试”，再开始动画」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S12] [Britannica：动画](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Britannica 动画史条目，不是软件手册）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

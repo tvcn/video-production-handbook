@@ -55,6 +55,6 @@ source_kind: experience
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 3 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “ND Calculator: Change Filters Without Guessing”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page documents the parameter limits of “ND Calculator: Change Filters Without Guessing”, drawing on 3 production calculations and on-set playbacks under the listed camera/firmware and distances; it is for estimates only, not unlisted gear, extreme temperatures, legal/platform compliance or cinema masters.
 <!-- SOURCES_END -->
 

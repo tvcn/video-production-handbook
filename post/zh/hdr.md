@@ -26,7 +26,9 @@ review_due: '2027-02-26'
 related: [post.color.hdr-workflow, post.vfx.keying, shoot.camera.composition]
 source_kind: sourced
 sources:
-- S64
+- S24
+- S25
+- S30
 - S26
 ---
 <p>HDR 不是把暗部无限拉亮，而是保留从窗到暗角的信息。曝光时让高光刚好不贴顶，用假色或波形确认；暗部留噪声空间，后期再决定压多少。</p>
@@ -46,7 +48,8 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S64] [ITU：BT.2100](https://www.itu.int/rec/R-REC-BT.2100/en) — 2026-11-26 访问。用于核对首段“HDR 不是把 SDR 拉亮；拍摄、监看、交付都得真的支持 HDR。”中的术语与公开背景（HDR 电视参数、PQ 与 HLG）；不替代现场测试。
-- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — 2026-11-26 访问。用于核对首段“HDR 不是把 SDR 拉亮；拍摄、监看、交付都得真的支持 HDR。”中的术语与公开背景（UHD/HDR 的宽色域与参数定义）；不替代现场测试。
+- [S24] [ACESCentral：ACES 色彩规范](https://acescentral.com/) — 2026-11-26 访问。用于核对「HDR 先保高光，再谈“亮”」一节的术语/方法/规则（ACES 色彩规范，不是调色教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — 2026-11-26 访问。用于核对「HDR 先有监看，再谈交付」一节的术语/方法/规则（BT.709 高清电视参数，不是现场曝光建议）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S30] [DaVinci Resolve：官方文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Resolve 官方产品/文档入口，不是第三方教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -46,9 +46,10 @@ source_kind: experience
 <p>Use Ethernet whenever possible; wireless is backup only. Do not discover insufficient upload at showtime, and do not put backup recording on the same machine without independent power.</p></section><section><h2 id="section-4">On set</h2><p>Camera, capture card, wired network, hotspot backup, and local recording. Rehearse one network drop.</p></section><section><h2 id="section-5">Avoid</h2><p>Do not rely on venue Wi-Fi alone; one drop erases the stream.</p></section>
 <h2>Check</h2><ul><li>The stream runs wired and the backup hotspot is speed-tested.</li><li>A complete local recording exists alongside the stream.</li><li>The disconnect drill logs switchover and recovers within ten seconds.</li></ul>
 
+<section><h2>Boundary</h2><p>This page only covers “Live Streaming Kit”; it does not replace Backup Three-Piece Kit, Travel Kit, 16mm: Cinema Left the Theater. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 3 client brief and project review reviews under a one- or two-to-three-person team with a fixed budget and schedule; it discusses “Live Streaming Kit”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 3 projects with one lead and a two-to-three-person crew, a fixed budget and schedule; it covers the decision order for “Live Streaming Kit”, not an external laboratory test, multi-camera, union crews, stunts or high-risk sets.
 <!-- SOURCES_END -->
 

@@ -27,11 +27,9 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [tools.delivery.delivery-specs, tools.calculator.dof-calculator, shoot.deep.deep-camera-move]
 sources:
-- S17
-- S29
-- S23
-- S30
 - S70
+- S29
+- S57
 source_kind: sourced
 ---
 <p>Storage is not one drive; it is a chain from card to work disk, backup and offline media. One page of &amp;quot;storage&amp;quot; solves one local problem; joining &amp;quot;storage&amp;quot;, &amp;quot;SSD RAID: Edit Array, Not Archive&amp;quot; and &amp;quot;3-2-1 Backup: Finish It Today&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
@@ -57,10 +55,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Storage is not one drive; it is a chain from card to work di”) against The agency's public commitment to independence, accuracy and freedom from bias; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Storage is not one drive; it is a chain from card to work di”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Storage is not one drive; it is a chain from card to work di”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Storage is not one drive; it is a chain from card to work di”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
-- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Storage is not one drive; it is a chain from card to work di”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against FFmpeg codec/muxing documentation, not a delivery spec; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S29] [YouTube: Upload Encoding Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Judgement” section against YouTube upload encoding recommendations, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S57] [Blackmagic: URSA Mini Pro 12K Specs](https://www.blackmagicdesign.com/products/blackmagicursaminipro/techspecs) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Method” section against URSA Mini Pro 12K specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

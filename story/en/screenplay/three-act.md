@@ -28,11 +28,8 @@ review_due: '2027-02-26'
 source_kind: sourced
 related: [story.screenplay.voice-over, story.story.want-stakes, shoot.camera.composition]
 sources:
-- S02
-- S16
-- S17
 - S41
-- S10
+- S42
 test_context: "Review setup: Windows 11 + Chrome; checked against public films, scripts and platform pages; not frame-by-frame testing."
 known_failures: "Known failures: public case data is incomplete; platform specs and length limits change; re-verify per project."
 verified: 2026-11-22
@@ -78,13 +75,11 @@ End after the choice, without a voice-over summary. The sentence the audience su
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Three Acts: Put the Character Against a Wall”; it does not replace Voice-Over: Do Not Summarize What the Picture Already Says, Want and Stakes: What Does Losing Cost?, Composition: Tell the Eye Where to Look. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Act one gives a goal, act two applies pressure, act three fo”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Act one gives a goal, act two applies pressure, act three fo”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
-- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Act one gives a goal, act two applies pressure, act three fo”) against The agency's public commitment to independence, accuracy and freedom from bias; not a substitute for an on-set test.
-- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Act one gives a goal, act two applies pressure, act three fo”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
-- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Act one gives a goal, act two applies pressure, act three fo”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+- [S41] [WGA: Contract and Credit Resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Act one only gets the character moving” section against WGA contract and credit resources, not Chinese employment law; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Act two applies pressure, not complication” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

@@ -27,6 +27,10 @@ related: [story.storyboard.storyboard, story.story.subplot, shoot.production.sho
 depth: deep
 deep_minutes: 5
 source_kind: sourced
+sources:
+- S42
+- S43
+
 ---
 <p>每行写：镜号、景别、机位、动作、台词、时长、道具、声音。少一项，现场就要停下来问。镜头表不是分镜的替代，而是分镜的可执行版。</p>
 <!-- DIAGRAM_START -->
@@ -57,7 +61,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“镜头表四列就够：镜号、景别、动作、时长；写不清这四样，现场一定乱。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
-- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“镜头表四列就够：镜号、景别、动作、时长；写不清这四样，现场一定乱。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S42] [Pixar in a Box：叙事课程](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对「一张镜头表要能在现场直接执行」一节的术语/方法/规则（Pixar 叙事课程，不是项目报价）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S43] [BFI：国家档案馆](https://www.bfi.org.uk/bfi-national-archive) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（BFI 档案资料，不是发行规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

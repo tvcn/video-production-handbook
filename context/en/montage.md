@@ -24,11 +24,9 @@ format: handbook
 authors:
 - TVCN Research Desk
 sources:
-- S01
-- S03
-- S22
-- S39
-- S02
+- S10
+- S11
+- S50
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [context.law.music-license, context.history.muybridge, formats.documentary.documentary-template]
@@ -47,7 +45,7 @@ source_kind: sourced
   <figcaption>Watch “Take the Odessa Steps sequence and log each” and “Pair opposite directions and see whether causality reads.”; judge what old problem it replaced and what new limit it added.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">What changed</h2><h2 id="section-2">How to use it now</h2><ul><li>When cutting a passage, write what each shot should make the viewer conclude before choosing order.</li><li>Run a Kuleshov-style test: the same face followed by food, a body, a child; does the meaning change?</li><li>For trailers and ads, build the claim through shot relationships, not just the fastest images.</li></ul><h2 id="section-3">Do not misread</h2><p>Do not treat montage as “fast cutting.” Switches without cause and point of view are just noise.</p><h2 id="section-4">Montage is not fast cutting; it is a third meaning born between two shots</h2>
+<section><h2 id="section-2">How to use it now</h2><ul><li>When cutting a passage, write what each shot should make the viewer conclude before choosing order.</li><li>Run a Kuleshov-style test: the same face followed by food, a body, a child; does the meaning change?</li><li>For trailers and ads, build the claim through shot relationships, not just the fastest images.</li></ul><h2 id="section-3">Do not misread</h2><p>Do not treat montage as “fast cutting.” Switches without cause and point of view are just noise.</p><h2 id="section-4">Montage is not fast cutting; it is a third meaning born between two shots</h2>
 <p>The Kuleshov experiment: the same face, different following shots, different emotions read by viewers. Meaning is not inside one shot; it is between shots. Reducing montage to fast cutting turns it into a rhythm trick.</p>
 <h3>Common misreading</h3>
 <p>“Montage equals association” is incomplete. It also covers narrative ellipsis, parallel action, cross-cutting and conflict. Another misreading treats Soviet montage as the only origin; Griffith and others developed editing grammar in parallel.</p>
@@ -58,10 +56,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Montage cut unrelated shots together and let the audience bu”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Montage cut unrelated shots together and let the audience bu”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
-- [S22] [National People's Congress: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Montage cut unrelated shots together and let the audience bu”) against Statutory text on portrait rights, privacy, contracts and location rights; not a substitute for an on-set test.
-- [S39] [W3C WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Montage cut unrelated shots together and let the audience bu”) against Current standards for captions, contrast and accessibility; not a substitute for an on-set test.
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Montage cut unrelated shots together and let the audience bu”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S10] [BFI: Film History and Moving Image Research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “How to use it now” section against BFI film history and archive, not gear reviews; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S11] [Britannica: Photography](https://www.britannica.com/technology/photography) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Do not misread” section against Britannica photography entry, not a how-to manual; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S50] [Kodak: Motion Picture](https://www.kodak.com/en/motion/home) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Montage is not fast cutting; it is a third meaning born between two shots” section against Kodak film and motion-picture material, not digital settings; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

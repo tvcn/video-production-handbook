@@ -44,9 +44,10 @@ source_kind: experience
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Event Template: Open, Live, Close”; it does not replace Experimental Breakdown: Rule, Repetition, Break, Experimental Structure: Rules Before Effects, The One-Line Story: Who Wants What, and What Stands in the Way. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 6 format breakdown and project review reviews under a 30-second to five-minute film for one platform; it discusses “Event Template: Open, Live, Close”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 6 format breakdowns of finished films, 30 seconds to five minutes, delivered to one platform; it covers the structure and decision order of “Event Template: Open, Live, Close”, not an external laboratory test, multi-camera live, cinema delivery or a long-form custom narrative.
 <!-- SOURCES_END -->
 

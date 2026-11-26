@@ -27,6 +27,10 @@ related: [animation.deep.deep-2d-layer-depth, animation.deep.deep-3d-light-mater
 depth: deep
 deep_minutes: 6
 source_kind: sourced
+sources:
+- S62
+- S59
+
 ---
 <p>Blockout 只解决三件事：角色和场景的比例、摄影机放在哪、动作占多少时间。用球体、方块和简单道具，不要先做细节。</p>
 <!-- DIAGRAM_START -->
@@ -62,7 +66,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“Blockout 先定比例、机位和时长，不建模细节；这一步错了，后面全返工。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
-- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“Blockout 先定比例、机位和时长，不建模细节；这一步错了，后面全返工。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「先定比例、机位和时间」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S59] [Adobe：After Effects 官方指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对「Blockout 只看三件事」一节的术语/方法/规则（After Effects 官方指南，不是合成美学结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

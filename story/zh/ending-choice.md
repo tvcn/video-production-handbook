@@ -27,6 +27,10 @@ related: [story.directing.ensemble-scene, story.storyboard.insert-shot, shoot.ca
 depth: deep
 deep_minutes: 5
 source_kind: sourced
+sources:
+- S41
+- S42
+
 ---
 <p>结尾不是把选择解释清楚，而是让观众看到选择带来的第一个后果。她留下，就拍她放下行李；她走，就拍门在身后关上。停在动作之后，观众自己补那句话。</p>
 <!-- DIAGRAM_START -->
@@ -64,7 +68,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“结尾停在选择之后，别再加一段解释；观众自己补上的那句更有力。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
-- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“结尾停在选择之后，别再加一段解释；观众自己补上的那句更有力。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S41] [美国编剧工会：合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对「停在选择之后」一节的术语/方法/规则（WGA 合同与署名资源，不是中国劳动法）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S42] [Pixar in a Box：叙事课程](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Pixar 叙事课程，不是项目报价）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -29,6 +29,10 @@ related: [shoot.exposure.waveform, shoot.lighting.window-light, post.color.color
 depth: deep
 deep_minutes: 5
 source_kind: sourced
+sources:
+- S31
+- S23
+
 ---
 <p>Post stabilization zooms and cuts edges. Confirm the frame has margin; without it you get black or soft edges. Handheld wide is easier to rescue than long lens.</p>
 <!-- DIAGRAM_START -->
@@ -61,8 +65,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Gimbals hate tiny steps. Soft knees, heel-first, even speed.”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Gimbals hate tiny steps. Soft knees, heel-first, even speed.”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
-- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Gimbals hate tiny steps. Soft knees, heel-first, even speed.”) against Body specifications, recording formats and interfaces; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Check room to crop before stabilizing” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

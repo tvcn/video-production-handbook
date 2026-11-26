@@ -27,11 +27,9 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [shoot.deep.deep-set-safety, shoot.deep.deep-sound-rig, post.delivery.archive]
 sources:
-- S17
+- S67
+- S28
 - S23
-- S31
-- S52
-- S53
 source_kind: sourced
 ---
 <p>Multicam is not more cameras; sync, shot-size division and repeatable blocking make it editable. One page of &amp;quot;Multicam Sync: Timecode and a Camera Map&amp;quot; solves one local problem; joining &amp;quot;Multicam Sync: Timecode and a Camera Map&amp;quot;, &amp;quot;Coverage: Do Not Shoot One Angle&amp;quot; and &amp;quot;Blocking: Let the Body Tell the Story&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
@@ -57,10 +55,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Multicam is not more cameras; sync, shot-size division and r”) against The agency's public commitment to independence, accuracy and freedom from bias; not a substitute for an on-set test.
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Multicam is not more cameras; sync, shot-size division and r”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Multicam is not more cameras; sync, shot-size division and r”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
-- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Multicam is not more cameras; sync, shot-size division and r”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
-- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Multicam is not more cameras; sync, shot-size division and r”) against Body specifications, recording formats and interfaces; not a substitute for an on-set test.
+- [S67] [IETF: RFC 8216 (HLS)](https://datatracker.ietf.org/doc/html/rfc8216) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against HLS protocol spec, not live-operations advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S28] [Netflix: Partner Help](https://partnerhelp.netflixstudios.com/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Judgement” section against Netflix delivery help, not general platform rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Method” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

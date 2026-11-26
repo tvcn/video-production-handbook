@@ -28,6 +28,7 @@ source_kind: sourced
 sources:
 - S59
 - S62
+- S62
 ---
 <p>信息图不是把数字放大再加箭头。先确定关系：比较、趋势、占比、流程；每种关系对应一种图形。关系错了，动画再顺也读不懂。</p>
 <!-- DIAGRAM_START -->
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“信息动画一条线只讲一件事；线越多，观众越记不住。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
-- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“信息动画一条线只讲一件事；线越多，观众越记不住。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
+- [S59] [Adobe：After Effects 官方指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对「图表动画先画“关系”，再画“装饰”」一节的术语/方法/规则（After Effects 官方指南，不是合成美学结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -27,7 +27,9 @@ review_due: '2027-02-26'
 source_kind: sourced
 related: [shoot.camera.shot-size, shoot.camera.shutter-angle, post.color.color]
 sources:
-- S23
+- S31
+- S52
+- S53
 - S31
 ---
 <!-- DIAGRAM_START -->
@@ -65,10 +67,12 @@ sources:
 - 每个必拍镜头后面都写了替代方案。
 - 收工前能对照清单说清楚哪几行还没拿到。
 
+<section><h2>边界</h2><p>本页只解决「拍摄清单写到别人能替你执行」这一个问题；不替代 景别：观众该看见多少、快门角度：运动模糊、调色：先统一，再风格。如果现场问题属于后者，先读对应页，不要在本页继续加参数。</p></section>
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“清单要写清楚先拍什么、拍多久、拍不到怎么办。想拍的都写上去，现场反而没法执行。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“清单要写清楚先拍什么、拍多久、拍不到怎么办。想拍的都写上去，现场反而没法执行。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
+- [S31] [ARRI：电影系统](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对「按机位和光线排」一节的术语/方法/规则（ARRI 摄影机、镜头与灯光资料，不是通用拍摄教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对「每一行都留一个替代」一节的术语/方法/规则（ALEXA 35 官方规格，不是独立测试）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对「收工前对照清单」一节的术语/方法/规则（FX6 官方规格，不是独立测试）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

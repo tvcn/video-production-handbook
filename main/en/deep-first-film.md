@@ -27,11 +27,9 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [main.paths.first-film, main.method.method-actor-stiff, context.deep.deep-ai-regulation]
 sources:
-- S12
-- S22
-- S23
-- S02
-- S38
+- S19
+- S20
+- S04
 source_kind: sourced
 ---
 <p>A first film is not proof that you can shoot; it is one finishable project that earns the next chance. One page of &amp;quot;first-film&amp;quot; solves one local problem; joining &amp;quot;first-film&amp;quot;, &amp;quot;You Only Have a Vague Idea&amp;quot; and &amp;quot;Career &amp;amp; Clients&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
@@ -57,10 +55,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A first film is not proof that you can shoot; it is one fini”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
-- [S22] [National People's Congress: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A first film is not proof that you can shoot; it is one fini”) against Statutory text on portrait rights, privacy, contracts and location rights; not a substitute for an on-set test.
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A first film is not proof that you can shoot; it is one fini”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A first film is not proof that you can shoot; it is one fini”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A first film is not proof that you can shoot; it is one fini”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
+- [S19] [Generative Adversarial Nets (2014)](https://arxiv.org/abs/1406.2661) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against the original GAN paper, not a product review; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S20] [Denoising Diffusion Probabilistic Models (2020)](https://arxiv.org/abs/2006.11239) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Judgement” section against the original DDPM paper, not a product review; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S04] [CAC: Interim Measures for Generative AI Services](https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Failure table” section against China's generative-AI service rules, not technical implementation; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

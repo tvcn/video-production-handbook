@@ -29,6 +29,7 @@ source_kind: sourced
 related: [shoot.sound.wireless-lav, shoot.camera.axis-line, post.color.color]
 sources:
 - S31
+- S23
 - S25
 ---
 <!-- DIAGRAM_START -->
@@ -67,10 +68,11 @@ If the background cannot change, choose a darker angle or move the subject half 
 
 <!-- V11_DEEPEN -->
 
+<section><h2>Boundary</h2><p>This page only covers “How to Use One Window as Your Key Light”; it does not replace Wireless Lav: Hide It, Back It Up, Cross the Line and the Room Disappears, Color: Match First, Style Second. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“You do not need a lighting kit for a face: set the direction”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
-- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“You do not need a lighting kit for a face: set the direction”) against HD SDR gamut, transfer function and viewing conditions; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Turn the face, not the window” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Keep the bounce low” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

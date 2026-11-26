@@ -30,10 +30,8 @@ related: [formats.brand-film.brand-film-breakdown, formats.brand-film.brand-film
 depth: deep
 deep_minutes: 7
 sources:
-- S14
-- S15
 - S16
-- S29
+- S42
 test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
 known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
 verified: 2026-11-22
@@ -88,12 +86,11 @@ A brand film can have no voice-over, but it cannot have no stance. Without a sta
 <ul><li>The stance can be argued with</li><li>The stance becomes an action</li><li>One main person</li><li>The person acts in a real situation</li><li>No recited values</li><li>Product is evidence, not hero</li><li>Show use, repair, or refusal</li><li>End returns to the opening action</li><li>It works without the brand name</li><li>No drone-and-subtitle summary</li></ul><p>A brand film does not say who you are; it shows what you are willing to pay for.</p>
 <!-- DEEP_DIVE_END -->
 
+<section><h2>Boundary</h2><p>This page only covers “Brand Film: Make Them Believe One Sentence”; it does not replace Brand Film Breakdown: Build a World in Ninety Seconds, Brand Film Template: Stance, Evidence, Landing, Adjusting Actors: Give Verbs, Not Adjectives. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A brand film does not explain specs; it leaves one attitude.”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
-- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A brand film does not explain specs; it leaves one attitude.”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A brand film does not explain specs; it leaves one attitude.”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A brand film does not explain specs; it leaves one attitude.”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S16] [BBC: Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Write one stance first” section against BBC editorial guidelines, not platform growth rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Prove it with one person” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

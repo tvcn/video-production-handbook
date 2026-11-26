@@ -48,6 +48,6 @@ source_kind: experience
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 6 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Keying: Edge First, Color Second”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 6 post-production reviews under the listed software versions, source formats and delivery platform; it covers the operating order for “Keying: Edge First, Color Second”, not an external laboratory test, unlisted versions, cinema masters, broadcast safety certification or legal advice.
 <!-- SOURCES_END -->
 

@@ -26,7 +26,8 @@ review_due: '2027-02-26'
 related: [tools.capability.nle-compare, tools.guide.overheat-fix, shoot.lighting.night-interior]
 source_kind: sourced
 sources:
-- S31
+- S23
+- S29
 - S25
 ---
 <p>有实景灯的夜景，先让灯和窗在画面里保留颜色，不要把亮部曝到死白。人物脸用一块小补光或墙面反光提半档，剩下的暗部交给后期；现场把噪声控制住，比后期降噪更重要。</p>
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“夜景实用光先让画面里的灯成立，再用小灯补人脸；两者亮度差太多，就会假。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
-- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — 2026-11-26 访问。用于核对首段“夜景实用光先让画面里的灯成立，再用小灯补人脸；两者亮度差太多，就会假。”中的术语与公开背景（HD SDR 的色域、传递函数与观看条件）；不替代现场测试。
+- [S23] [SMPTE：标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对「夜景先保高光，再提暗部」一节的术语/方法/规则（SMPTE 标准入口，不是具体机型参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S29] [YouTube：上传编码建议](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（YouTube 上传编码建议，不是创作标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

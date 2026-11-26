@@ -28,9 +28,6 @@ authors:
 sources:
 - S06
 - S39
-- S01
-- S02
-- S03
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [context.law.ai-label-law, context.history.ai-video-history, formats.documentary.documentary-template]
@@ -55,10 +52,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S06] [Captions and subtitles](https://www.w3.org/WAI/media/av/captions/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Accessible captions tell Deaf viewers who speaks, what happe”) against 1.2.4。 / Accessibility requirements for prerecorded and live captions; WCAG 1.2.2 / 1.2.4; not a substitute for an on-set test.
-- [S39] [W3C WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Accessible captions tell Deaf viewers who speaks, what happe”) against Current standards for captions, contrast and accessibility; not a substitute for an on-set test.
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Accessible captions tell Deaf viewers who speaks, what happe”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Accessible captions tell Deaf viewers who speaks, what happe”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Accessible captions tell Deaf viewers who speaks, what happe”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S06] [W3C: Captions and Subtitles](https://www.w3.org/WAI/media/av/captions/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Captions must be readable before pretty” section against W3C caption guidance, not platform review rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S39] [W3C: WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against WCAG accessibility standard, not a platform review checklist; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

@@ -27,6 +27,11 @@ related: [post.sound.foley, post.color.hdr, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
 source_kind: sourced
+sources:
+- S34
+- S60
+- S30
+
 ---
 <p>细剪只处理三件事：删掉每个镜头前后多余的半秒、把动作接点对准、把表演里不需要的反应拿掉。结构问题回粗剪解决，不要在这里靠转场遮。</p>
 <!-- DIAGRAM_START -->
@@ -57,7 +62,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“细剪不是加特效，是把每个切换、每句呼吸、每个多余半秒修顺。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
-- [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“细剪不是加特效，是把每个切换、每句呼吸、每个多余半秒修顺。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
+- [S34] [Adobe：Premiere Pro 官方指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对「细剪修毛边，不重写结构」一节的术语/方法/规则（Premiere Pro 官方指南，不是工作流优劣结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S60] [Apple：Final Cut Pro 官方指南](https://support.apple.com/guide/final-cut-pro/welcome/mac) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Final Cut Pro 官方指南，不是工作流优劣结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S30] [DaVinci Resolve：官方文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对「怎么做」一节的术语/方法/规则（Resolve 官方产品/文档入口，不是第三方教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

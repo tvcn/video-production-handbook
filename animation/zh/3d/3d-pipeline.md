@@ -30,8 +30,6 @@ depth: deep
 deep_minutes: 7
 sources:
 - S62
-- S63
-- S12
 - S59
 test_context: "复核环境：Windows 11；Blender 4.x / After Effects 2025 公开流程；不声称所有版本一致。"
 known_failures: "已知失败：插件/版本差异导致绑定或渲染失败；字体授权与素材版权需单独核对。"
@@ -87,12 +85,11 @@ Layout 定构图、焦距、运动路径。机位没锁，动画师会在错误�
 <ul><li>先 blockout 再建模</li><li>blockout 用方盒圆柱</li><li>相机先放进场景</li><li>用实际焦距看构图</li><li>绑定前定关节和命名</li><li>交接录测试动作</li><li>低模上做动画</li><li>灰模先定主光</li><li>低分辨率低采样试渲染</li><li>每阶段存版本</li></ul><p>三维流程省时间的办法不是少做一步，是每一步都能退回上一步。</p>
 <!-- DEEP_DIVE_END -->
 
+<section><h2>边界</h2><p>本页只解决「3D 动画管线：从 blockout 到渲染」这一个问题；不替代 Animatic：配音、定时、改镜头、短片复盘：从分镜到成片、纪录模板：一个人、一件事、一个变化。如果现场问题属于后者，先读对应页，不要在本页继续加参数。</p></section>
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“3D 不是建模完就动画。先 blockout 定时间，再 layout、animation、lighting、rende”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
-- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“3D 不是建模完就动画。先 blockout 定时间，再 layout、animation、lighting、rende”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
-- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“3D 不是建模完就动画。先 blockout 定时间，再 layout、animation、lighting、rende”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
-- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“3D 不是建模完就动画。先 blockout 定时间，再 layout、animation、lighting、rende”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「Layout 锁机位，动画再进来」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S59] [Adobe：After Effects 官方指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对「灯光与渲染分开验收」一节的术语/方法/规则（After Effects 官方指南，不是合成美学结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

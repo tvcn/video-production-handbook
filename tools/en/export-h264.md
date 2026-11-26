@@ -31,6 +31,7 @@ source_kind: sourced
 sources:
 - S65
 - S29
+- S29
 ---
 <p>H.264 export fixes platform and bitrate first, then two-pass encoding; low bitrate destroys motion first.</p>
 <!-- DIAGRAM_START -->
@@ -46,7 +47,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S65] [ITU: H.264](https://www.itu.int/rec/T-REC-H.264/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Set platform and bitrate before two-pass encoding; low bitra”) against AVC codec specification; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Set platform and bitrate before two-pass encoding; low bitra”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S65] [ITU-T H.264](https://www.itu.int/rec/T-REC-H.264/en) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “On set” section against H.264 codec standard, not platform upload rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S29] [YouTube: Upload Encoding Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Do this” section against YouTube upload encoding recommendations, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

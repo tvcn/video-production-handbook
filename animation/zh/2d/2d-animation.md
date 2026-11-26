@@ -29,9 +29,8 @@ related: [animation.2d.2d-camera, animation.2d.2d-compositing, formats.brand.bra
 depth: deep
 deep_minutes: 7
 sources:
-- S62
 - S63
-- S12
+- S62
 - S59
 test_context: "复核环境：Windows 11；Blender 4.x / After Effects 2025 公开流程；不声称所有版本一致。"
 known_failures: "已知失败：插件/版本差异导致绑定或渲染失败；字体授权与素材版权需单独核对。"
@@ -89,12 +88,12 @@ verified: 2026-11-22
 <ul><li>先画三个关键帧</li><li>关键帧能讲清动作</li><li>转折帧先画接触</li><li>身体头发衣服分层</li><li>头发衣摆延迟</li><li>循环先做四张</li><li>检查脚滑</li><li>先定帧率再画细节</li><li>停顿说明重量</li><li>每版记录帧数</li></ul><p>二维动画的功夫不在画得细，在关键帧和帧数能不能让动作成立。</p>
 <!-- DEEP_DIVE_END -->
 
+<section><h2>边界</h2><p>本页只解决「2D 动画：关键帧、Breakdown、循环」这一个问题；不替代 二维运镜：pan 与 multiplane、二维合成：背景、前景、光、品牌片：先让人相信一句话。如果现场问题属于后者，先读对应页，不要在本页继续加参数。</p></section>
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“2D 不是一张张画得漂亮，而是用关键帧和 breakdown 控制时间。先让一个动作读得懂。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
-- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“2D 不是一张张画得漂亮，而是用关键帧和 breakdown 控制时间。先让一个动作读得懂。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
-- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“2D 不是一张张画得漂亮，而是用关键帧和 breakdown 控制时间。先让一个动作读得懂。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
-- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“2D 不是一张张画得漂亮，而是用关键帧和 breakdown 控制时间。先让一个动作读得懂。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对「循环」一节的术语/方法/规则（Toon Boom 官方文档，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「关键帧」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S59] [Adobe：After Effects 官方指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对「Breakdown」一节的术语/方法/规则（After Effects 官方指南，不是合成美学结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

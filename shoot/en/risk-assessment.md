@@ -29,7 +29,8 @@ review_due: '2027-02-26'
 related: [shoot.production.scene-space, shoot.camera.sensor-size, post.color.color]
 source_kind: sourced
 sources:
-- S23
+- S18
+- S36
 - S31
 ---
 <p>A risk sheet is not every possible bad thing; it is the three to five that would make today unshootable: weather, key person absent, gear failure, location refused, transport cut. For each, write trigger, backup and decision time.</p>
@@ -46,7 +47,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One page before rolling: who can get hurt, what can fall, wh”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One page before rolling: who can get hurt, what can fall, wh”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
+- [S18] [CMSI: Dangerous Documentaries](https://cmsimpact.org/wp-content/uploads/2015/12/dangerousdocs-feb2015.pdf) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Name the item that would stop the shoot” section against documentary risk and ethics handbook, not legal advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S36] [NRTA: Official Site](https://www.nrta.gov.cn/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against NRTA official site, not permit agency service; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

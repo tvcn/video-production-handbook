@@ -32,6 +32,7 @@ source_kind: sourced
 sources:
 - S41
 - S42
+- S42
 ---
 <p>A scene change is not “then he went to the office.” Write what the last action left behind: he slams the door and it is still ringing; she sets down a cup and someone else holds it. Consequence connects the spaces.</p>
 <!-- DIAGRAM_START -->
@@ -47,7 +48,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Carry an action, a sound, or an object across the cut instea”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
-- [S42] [Pixar: Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Carry an action, a sound, or an object across the cut instea”) against Story structure, character and visual storytelling lessons; not a substitute for an on-set test.
+- [S41] [WGA: Contract and Credit Resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Write the consequence of an action, not “then”” section against WGA contract and credit resources, not Chinese employment law; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

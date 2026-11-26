@@ -27,11 +27,9 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [post.deep.deep-edit-rhythm, post.deep.deep-master-delivery, shoot.camera.axis-line]
 sources:
-- S19
+- S24
+- S25
 - S30
-- S34
-- S27
-- S35
 source_kind: sourced
 ---
 <p>色彩不是套 LUT；管理、一级校正和 LUT 的顺序错了，越调越脏。 单看《色彩管理：把 LUT 放在正确的位置》只能解决一个局部；把《色彩管理：把 LUT 放在正确的位置》《一级校正：曝光与白平衡》《LUT：起点不是终点》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
@@ -57,10 +55,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S19] [GAN 原始论文（2014）](https://arxiv.org/abs/1406.2661) — 2026-11-26 访问。用于核对首段“色彩不是套 LUT；管理、一级校正和 LUT 的顺序错了，越调越脏。”中的术语与公开背景（生成对抗网络：生成模型与判别模型互相博弈）；不替代现场测试。
-- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“色彩不是套 LUT；管理、一级校正和 LUT 的顺序错了，越调越脏。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
-- [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“色彩不是套 LUT；管理、一级校正和 LUT 的顺序错了，越调越脏。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
-- [S27] [ITU-R：BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-27 访问。用于核对首段“色彩不是套 LUT；管理、一级校正和 LUT 的顺序错了，越调越脏。”中的术语与公开背景（响度测量、真峰值与 EBU R128 所依据的 ITU 算法标准）；不替代现场测试。
-- [S35] [Avid 资源中心](https://www.avid.com/resource-center) — 2026-11-26 访问。用于核对首段“色彩不是套 LUT；管理、一级校正和 LUT 的顺序错了，越调越脏。”中的术语与公开背景（Media Composer、协作与交付的资源入口）；不替代现场测试。
+- [S24] [ACESCentral：ACES 色彩规范](https://acescentral.com/) — 2026-11-26 访问。用于核对「问题」一节的术语/方法/规则（ACES 色彩规范，不是调色教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — 2026-11-26 访问。用于核对「判断」一节的术语/方法/规则（BT.709 高清电视参数，不是现场曝光建议）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S30] [DaVinci Resolve：官方文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对「做法」一节的术语/方法/规则（Resolve 官方产品/文档入口，不是第三方教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

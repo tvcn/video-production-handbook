@@ -29,6 +29,7 @@ related: [story.storyboard.shot-sheet, story.storyboard.storyboard, shoot.camera
 source_kind: sourced
 sources:
 - S41
+- S42
 - S10
 ---
 <p>Every extra location, actor and VFX shot adds coordination, transport and a failure point. Compress to one main location, two actors, one time block; put the savings into sound and rehearsal.</p>
@@ -45,7 +46,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cut what you cannot shoot, then make what remains more speci”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
-- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cut what you cannot shoot, then make what remains more speci”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+- [S41] [WGA: Contract and Credit Resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Short-film savings come from fewer variables” section against WGA contract and credit resources, not Chinese employment law; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

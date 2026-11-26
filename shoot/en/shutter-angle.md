@@ -28,6 +28,11 @@ related: [shoot.production.slate-continuity, shoot.movement.stabilizer, post.col
 depth: deep
 deep_minutes: 5
 source_kind: sourced
+sources:
+- S31
+- S52
+- S53
+
 ---
 <p>1/50 at 25p or 1/48 at 24p approximates 180 degrees and film-like motion. A faster shutter sharpens the instant; a slower one lengthens blur but risks flicker and skew.</p>
 <!-- DIAGRAM_START -->
@@ -58,8 +63,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Shutter angle controls motion blur. 180 degrees is a default”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Shutter angle controls motion blur. 180 degrees is a default”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
-- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Shutter angle controls motion blur. 180 degrees is a default”) against Body specifications, recording formats and interfaces; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “180 degrees is a start, not a law” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against ALEXA 35 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “On set” section against FX6 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

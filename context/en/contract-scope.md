@@ -25,10 +25,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 sources:
 - S02
-- S22
-- S01
 - S03
-- S16
+- S22
 test_context: 'Review setup: current China mainland statutes, platform rules and public cases; not legal advice.'
 known_failures: 'Known failures: platform rules and local enforcement change; counsel must confirm applicability.'
 verified: 2026-11-22
@@ -47,10 +45,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The most common film contract dispute is not payment; it is ”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S22] [National People's Congress: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The most common film contract dispute is not payment; it is ”) against Statutory text on portrait rights, privacy, contracts and location rights; not a substitute for an on-set test.
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The most common film contract dispute is not payment; it is ”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The most common film contract dispute is not payment; it is ”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The most common film contract dispute is not payment; it is ”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S02] [WIPO: Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Scope” section against WIPO copyright FAQ, not Chinese statute; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S03] [NPC: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Key terms: eight must-writes” section against China's Personal Information Protection Law, not content copyright; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S22] [NPC: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Process: from quote to change order” section against China's Civil Code, not industry custom; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

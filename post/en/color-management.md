@@ -27,8 +27,6 @@ sources:
 - S24
 - S25
 - S30
-- S34
-- S27
 test_context: 'Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine.'
 known_failures: 'Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking.'
 verified: 2026-11-22
@@ -47,10 +45,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S24] [ACESCentral: ACES](https://acescentral.com/) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“Color management is not applying a cinematic LUT. It answers”) against ACES color encoding, ACEScg and delivery/archive workflows; not a substitute for an on-set test.
-- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Color management is not applying a cinematic LUT. It answers”) against HD SDR gamut, transfer function and viewing conditions; not a substitute for an on-set test.
-- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Color management is not applying a cinematic LUT. It answers”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
-- [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Color management is not applying a cinematic LUT. It answers”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
-- [S27] [ITU-R: BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“Color management is not applying a cinematic LUT. It answers”) against ITU algorithms for loudness measurement and true peak, the basis referenced by EBU R128; not a substitute for an on-set test.
+- [S24] [ACESCentral: ACES](https://acescentral.com/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Separate the four spaces” section against ACES color specification, not a grading tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Where the LUT goes: three nodes, no stacking” section against BT.709 HD television parameters, not on-set exposure advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S30] [DaVinci Resolve: Official Documentation](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Handoff: deliver LUT, node tree, and references together” section against official Resolve product/documentation entry, not a third-party tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

@@ -47,6 +47,6 @@ source_kind: experience
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 3 table read and pre-shoot rehearsal reviews under a three-to-eight-page scene with one primary point of view; it discusses “Escalation: Same Wall, Higher Cost”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 3 table reads, rehearsals or on-set reviews with one lead and a two-to-three-person crew; it covers the decisions and actions for “Escalation: Same Wall, Higher Cost”, not an external laboratory test, multi-camera, union crews, stunts or high-risk sets.
 <!-- SOURCES_END -->
 

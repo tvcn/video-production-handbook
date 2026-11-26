@@ -28,6 +28,7 @@ source_kind: sourced
 sources:
 - S49
 - S44
+- S44
 ---
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -42,7 +43,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S49] [MoMA: Film collection and screenings](https://www.moma.org/visit/film) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An eight-beat breakdown of a four-minute experimental film: ”) against Film collection and screenings at MoMA; not a substitute for an on-set test.
-- [S44] [Academy Film Archive: Film archive and restoration](https://www.oscars.org/film-archive) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An eight-beat breakdown of a four-minute experimental film: ”) against Film archive, restoration and preservation projects; not a substitute for an on-set test.
+- [S49] [MoMA: Film Collection](https://www.moma.org/visit/film) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Fix Three Variables First” section against MoMA film collection, not a filmmaking tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S44] [Academy Film Archive](https://www.oscars.org/film-archive) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Timecode Breakdown: 8 Beats” section against Academy archive and restoration material, not distribution rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

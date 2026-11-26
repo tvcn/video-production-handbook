@@ -30,10 +30,9 @@ related: [animation.stop-motion.stop-motion-motion-blur, animation.stop-motion.s
 depth: deep
 deep_minutes: 7
 sources:
+- S50
 - S62
-- S63
 - S12
-- S59
 test_context: "Review setup: Windows 11; public Blender 4.x / After Effects 2025 workflows; not every version behaves the same."
 known_failures: "Known failures: plugin/version gaps break rigs or renders; font and asset licenses need separate checks."
 verified: 2026-11-22
@@ -88,12 +87,12 @@ Use continuous, flicker-free light. Avoid cheap LEDs with PWM flicker; test with
 <ul><li>Total frames counted first</li><li>Twelve fps, measured on a ruler</li><li>Movement in millimeters per frame</li><li>Lamps sandbagged and taped</li><li>Cable release or software</li><li>Hands out of frame before touching</li><li>One joint changed at a time</li><li>Walls and floor fixed</li><li>Flicker fixed before motion blur</li><li>Footsteps and contacts on frame</li></ul><p>Stop-motion realism is not puppet detail. It is the same movement per frame and the same light position every frame.</p>
 <!-- DEEP_DIVE_END -->
 
+<section><h2>Boundary</h2><p>This page only covers “Stop Motion: One Frame at a Time”; it does not replace Stop-Motion Motion Blur: Shoot It Twice, Stop-Motion Set: Scale and Perspective, Brand Film: Make Them Believe One Sentence. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Stop motion is a test of stability: lock the camera, lock th”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
-- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Stop motion is a test of stability: lock the camera, lock th”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
-- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Stop motion is a test of stability: lock the camera, lock th”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
-- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Stop motion is a test of stability: lock the camera, lock th”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
+- [S50] [Kodak: Motion Picture](https://www.kodak.com/en/motion/home) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Lock the camera” section against Kodak film and motion-picture material, not digital settings; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S62] [Blender: Official Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Light and motion” section against Blender manual, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S12] [Britannica: Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Shoot it twice” section against Britannica animation history, not software documentation; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

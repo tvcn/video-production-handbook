@@ -27,6 +27,10 @@ related: [post.color.hdr, post.color.hdr-workflow, shoot.camera.composition]
 depth: deep
 deep_minutes: 6
 source_kind: sourced
+sources:
+- S27
+- S35
+
 ---
 <p>Foley 的第一关是同步：脚步落地的帧、衣服摩擦的帧、杯子放下的帧。先把动作对上，再加重量和材质；不同步的 Foley 比没有更假。</p>
 <!-- DIAGRAM_START -->
@@ -64,8 +68,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“Foley 不是配背景音，它把画面里的动作重新做成声音：脚步、衣服、门把手。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
-- [S27] [ITU-R：BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-27 访问。用于核对首段“Foley 不是配背景音，它把画面里的动作重新做成声音：脚步、衣服、门把手。”中的术语与公开背景（响度测量、真峰值与 EBU R128 所依据的 ITU 算法标准）；不替代现场测试。
-- [S67] [IETF：RFC 8216：HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216) — 2026-11-26 访问。用于核对首段“Foley 不是配背景音，它把画面里的动作重新做成声音：脚步、衣服、门把手。”中的术语与公开背景（HLS 分片、清单与播放）；不替代现场测试。
+- [S27] [ITU-R BS.1770：响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-26 访问。用于核对「先对动作，再谈创意」一节的术语/方法/规则（BS.1770 响度测量方法，不是话筒选购）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S35] [Avid：资源中心](https://www.avid.com/resource-center) — 2026-11-26 访问。用于核对「Foley 三件套：脚、衣、物」一节的术语/方法/规则（Avid 资源中心，不是独立评测）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -27,6 +27,7 @@ related: [story.interview.interview-questions, story.screenplay.logline, shoot.c
 source_kind: sourced
 sources:
 - S42
+- S43
 - S10
 ---
 <p>每个场景准备 2–3 个插入：手部动作、道具状态、环境细节。它们要能接在主镜头任何位置，帮剪辑藏跳切、压节奏、补信息。</p>
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S42] [Khan Academy：Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对首段“一个插入镜头能顶掉一句台词：手抖、杯沿、没关的门，都比解释有用。”中的术语与公开背景（故事结构、角色与视觉叙事教学）；不替代现场测试。
-- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“一个插入镜头能顶掉一句台词：手抖、杯沿、没关的门，都比解释有用。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S42] [Pixar in a Box：叙事课程](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对「插入镜头是“剪辑的呼吸”，不是随手空镜」一节的术语/方法/规则（Pixar 叙事课程，不是项目报价）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S43] [BFI：国家档案馆](https://www.bfi.org.uk/bfi-national-archive) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（BFI 档案资料，不是发行规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

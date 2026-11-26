@@ -30,6 +30,11 @@ related: [animation.case.animation-case, animation.2d.animation-lip-sync, format
 depth: deep
 deep_minutes: 6
 source_kind: sourced
+sources:
+- S62
+- S63
+- S59
+
 ---
 <p>An animatic uses temporary voice, simple drawings and exact durations to test whether shots connect and pacing works. Mark seconds per shot and record voice first; do not wait for finished animation.</p>
 <!-- DIAGRAM_START -->
@@ -67,7 +72,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Lay temp voice, set duration, then revise the board. Without”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
-- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Lay temp voice, set duration, then revise the board. Without”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S62] [Blender: Official Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Timing before detail” section against Blender manual, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Lock three things in the animatic before animation” section against Toon Boom documentation, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S59] [Adobe: After Effects Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against official After Effects guide, not a verdict on compositing aesthetics; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

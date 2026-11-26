@@ -26,6 +26,8 @@ review_due: '2027-02-26'
 related: [animation.stop-motion.stop-motion-set, animation.principles.weight, formats.documentary.documentary-template]
 source_kind: sourced
 sources:
+- S50
+- S62
 - S12
 - S50
 ---
@@ -43,7 +45,8 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“定格运动模糊靠两次曝光或后期合成，不是把帧率调低。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
-- [S50] [柯达：电影胶片](https://www.kodak.com/en/motion/home) — 2026-11-26 访问。用于核对首段“定格运动模糊靠两次曝光或后期合成，不是把帧率调低。”中的术语与公开背景（胶片规格、曝光与扫描技术资料）；不替代现场测试。
+- [S50] [Kodak：动态影像](https://www.kodak.com/en/motion/home) — 2026-11-26 访问。用于核对「定格的运动模糊要“每帧决定”」一节的术语/方法/规则（Kodak 胶片与动态影像资料，不是数码参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S12] [Britannica：动画](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对「怎么做」一节的术语/方法/规则（Britannica 动画史条目，不是软件手册）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

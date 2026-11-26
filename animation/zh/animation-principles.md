@@ -27,10 +27,8 @@ related: [animation.timing.animation-timing, animation.2d.animation-walk, format
 depth: deep
 deep_minutes: 6
 sources:
-- S62
-- S63
 - S12
-- S59
+- S62
 test_context: 复核环境：Windows 11；Blender 4.x / After Effects 2025 公开流程；不声称所有版本一致。
 known_failures: 已知失败：插件/版本差异导致绑定或渲染失败；字体授权与素材版权需单独核对。
 verified: 2026-11-22
@@ -69,9 +67,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“十二原则不是十二个滤镜；一个动作先用一个原则解释，观众才看得懂。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
-- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“十二原则不是十二个滤镜；一个动作先用一个原则解释，观众才看得懂。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
-- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“十二原则不是十二个滤镜；一个动作先用一个原则解释，观众才看得懂。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
-- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“十二原则不是十二个滤镜；一个动作先用一个原则解释，观众才看得懂。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
+- [S12] [Britannica：动画](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对「一次只用两三条原则」一节的术语/方法/规则（Britannica 动画史条目，不是软件手册）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

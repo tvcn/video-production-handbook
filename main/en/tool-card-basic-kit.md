@@ -38,8 +38,6 @@ source_kind: experience
 <!-- DIAGRAM_END -->
 <section><h2 id="section-1">Build backwards from the job</h2>
 <ul><li><strong>Minimum:</strong> one camera with manual exposure, one 24–70mm-equivalent lens, one lav or on-camera mic, one dimmable light, two cards, one portable drive. Finish a 30-second dialogue scene and ten shots first.</li><li><strong>Working:</strong> add a prime, a shotgun mic and recorder, ND filters, and a monitor. Independent sound and exposure are the entry ticket to style.</li><li><strong>Backup:</strong> a second body, a second audio chain, spare batteries, and a separate backup drive. A paid shoot should survive one failed link.</li></ul>
-<h2 id="section-2">Where the first money goes</h2>
-
 <h2 id="section-3">Three tests before you shoot</h2>
 <ol><li>Record 30 seconds of dialogue, listen on headphones for noise and sibilance, then play it back without monitoring.</li><li>Shoot a frame with a bright window: check that highlights hold and shadows still carry detail.</li><li>Copy the test clip to the drive, eject the card, and play it back from the drive only.</li></ol>
 <h2 id="section-4">When not to upgrade</h2>
@@ -49,6 +47,6 @@ source_kind: experience
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 5 client brief and project review reviews under a one- or two-to-three-person team with a fixed budget and schedule; it discusses “Minimum Kit”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 5 projects with one lead and a two-to-three-person crew, a fixed budget and schedule; it covers the decision order for “Minimum Kit”, not an external laboratory test, multi-camera, union crews, stunts or high-risk sets.
 <!-- SOURCES_END -->
 

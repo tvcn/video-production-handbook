@@ -29,6 +29,8 @@ source_kind: sourced
 related: [shoot.camera.camera-move, shoot.camera.composition, post.color.color]
 sources:
 - S31
+- S52
+- S53
 - S23
 ---
 <!-- DIAGRAM_START -->
@@ -72,7 +74,8 @@ Do not stay low for the whole film to look “cinematic.” Height is a sentence
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The same face at one inch lower reads as a different person.”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The same face at one inch lower reads as a different person.”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “High presses down, low lifts up” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Start at eye level, then decide to move” section against ALEXA 35 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Height follows action” section against FX6 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

@@ -27,6 +27,8 @@ related: [post.delivery.mastering, post.editing.mix-dialogue, shoot.camera.compo
 source_kind: sourced
 sources:
 - S24
+- S25
+- S30
 - S30
 ---
 <p>别把 LUT 当修复工具；它只会把问题染成统一的颜色。</p>
@@ -37,13 +39,15 @@ sources:
   <figcaption>看“套 LUT 前先把曝光和白平衡做平”和“套完检查黑位是否发灰、高光是否染色”两处，判断剪掉一个镜头后，节奏是更快还是更乱。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">现场</h2><p>套 LUT 前先把曝光和白平衡做平；套完检查黑位是否发灰、高光是否染色，再回一级校正。</p></section><section><h2 id="section-2">怎么做</h2><p>把这件事拆成现场能检查的动作。</p><ol><li>套 LUT 前先把曝光和白平衡做平。</li><li>套完检查黑位是否发灰、高光是否染色。</li><li>回到一级校正修掉问题，再决定保留多少 LUT 强度。</li></ol></section><section><h2 id="section-3">别踩</h2></section><section><h2 id="section-4">LUT 的种类</h2><p>先分清三种：技术 LUT（Log→Rec.709、色域转换）、创意 LUT（风格）、校准 LUT（监视器/打印机）。技术 LUT 放在色彩管理的前端，创意 LUT 放在一级校正之后；不要把三者混在一个节点里。</p><p>确认 LUT 的输入色彩空间和 cube 尺寸；给 Log 素材套 Rec.709 LUT，黑位和高光一定错。</p></section><section><h2 id="section-5">节点顺序</h2><ol><li>先做色彩空间转换，把素材送进工作空间；不要直接套创意 LUT。</li><li>做一级校正：曝光、白平衡、黑位；让素材回到中性。</li><li>套 LUT，控制强度；再用曲线/色轮修黑位、高光、肤色。</li><li>最后做输出变换和合法化，检查波形与示波器。</li></ol></section><section><h2 id="section-6">套 LUT 的误用</h2><ol><li>用 LUT 修曝光：过曝的素材套 LUT 只会把高光染成一种颜色，细节回不来。</li><li>把 LUT 拉满：黑位发灰、肤色偏橙；先降到 50–70% 看还成不成立。</li><li>不同镜头套同一 LUT 不校正：镜头色偏不同，先做镜头匹配。</li><li>把创意 LUT 当技术转换：色彩空间错了，后面全错。</li></ol></section><section><h2 id="section-7">调色验收记录</h2><ul><li>套 LUT 前素材曝光正确、白平衡中性；黑位在波形上不抬、不压死。</li><li>套完后高光没有明显偏色，肤色没有统一变成橙/绿。</li><li>降低 LUT 强度到 50%，画面仍成立；说明底子是对的。</li><li>记录 LUT 名称、输入色彩空间、强度、节点顺序；交付前看一遍 Rec.709。</li></ul></section><section><h2 id="section-8">调色记录</h2><p>记 LUT 名称、输入色彩空间、强度、所在节点、输出变换和监看标准。交付前把整条时间线按 Rec.709 看一遍，不要只看单帧。</p></section><section><h2>判断</h2><p>这一页的判断只看三条可观察的验收，不靠口号：</p><ul><li><strong>1.</strong> 套 LUT 前素材已经曝光正确、白平衡中性。</li><li><strong>2.</strong> 套完后黑位没有发灰，高光没有明显偏色。</li><li><strong>3.</strong> 降低 LUT 强度后，画面仍能回到可交付的状态。</li></ul></section><section><h2>失败</h2><p>下面任一条出现，先停，不要靠后期补：</p><ul><li><strong>1.</strong> 只做到“套 LUT 前素材已经曝光正确、白平衡中性”的形式，换一个机位或场景就重现不了。</li><li><strong>2.</strong> 把“套完后黑位没有发灰，高光没有明显偏色”留到后期或口头解释，现场没有留下能复查的记录。</li><li><strong>3.</strong> 第 3 条验收“降低 LUT 强度后，画面仍能回到可交付的状态”没人复核，交片时才发现。</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>拿一段 30 秒素材做 A/B，只改“套 LUT 前先把曝光和白平衡做平”；记下一个时间码和一处差异，再决定是否保留。</p></section>
+<section><h2 id="section-1">现场</h2><p>套 LUT 前先把曝光和白平衡做平；套完检查黑位是否发灰、高光是否染色，再回一级校正。</p></section><section><h2 id="section-2">怎么做</h2><p>把这件事拆成现场能检查的动作。</p><ol><li>套 LUT 前先把曝光和白平衡做平。</li><li>套完检查黑位是否发灰、高光是否染色。</li><li>回到一级校正修掉问题，再决定保留多少 LUT 强度。</li></ol></section><section></section><section><h2 id="section-4">LUT 的种类</h2><p>先分清三种：技术 LUT（Log→Rec.709、色域转换）、创意 LUT（风格）、校准 LUT（监视器/打印机）。技术 LUT 放在色彩管理的前端，创意 LUT 放在一级校正之后；不要把三者混在一个节点里。</p><p>确认 LUT 的输入色彩空间和 cube 尺寸；给 Log 素材套 Rec.709 LUT，黑位和高光一定错。</p></section><section><h2 id="section-5">节点顺序</h2><ol><li>先做色彩空间转换，把素材送进工作空间；不要直接套创意 LUT。</li><li>做一级校正：曝光、白平衡、黑位；让素材回到中性。</li><li>套 LUT，控制强度；再用曲线/色轮修黑位、高光、肤色。</li><li>最后做输出变换和合法化，检查波形与示波器。</li></ol></section><section><h2 id="section-6">套 LUT 的误用</h2><ol><li>用 LUT 修曝光：过曝的素材套 LUT 只会把高光染成一种颜色，细节回不来。</li><li>把 LUT 拉满：黑位发灰、肤色偏橙；先降到 50–70% 看还成不成立。</li><li>不同镜头套同一 LUT 不校正：镜头色偏不同，先做镜头匹配。</li><li>把创意 LUT 当技术转换：色彩空间错了，后面全错。</li></ol></section><section><h2 id="section-7">调色验收记录</h2><ul><li>套 LUT 前素材曝光正确、白平衡中性；黑位在波形上不抬、不压死。</li><li>套完后高光没有明显偏色，肤色没有统一变成橙/绿。</li><li>降低 LUT 强度到 50%，画面仍成立；说明底子是对的。</li><li>记录 LUT 名称、输入色彩空间、强度、节点顺序；交付前看一遍 Rec.709。</li></ul></section><section><h2 id="section-8">调色记录</h2><p>记 LUT 名称、输入色彩空间、强度、所在节点、输出变换和监看标准。交付前把整条时间线按 Rec.709 看一遍，不要只看单帧。</p></section><section><h2>判断</h2><p>这一页的判断只看三条可观察的验收，不靠口号：</p><ul><li><strong>1.</strong> 套 LUT 前素材已经曝光正确、白平衡中性。</li><li><strong>2.</strong> 套完后黑位没有发灰，高光没有明显偏色。</li><li><strong>3.</strong> 降低 LUT 强度后，画面仍能回到可交付的状态。</li></ul></section><section><h2>失败</h2><p>下面任一条出现，先停，不要靠后期补：</p><ul><li><strong>1.</strong> 只做到“套 LUT 前素材已经曝光正确、白平衡中性”的形式，换一个机位或场景就重现不了。</li><li><strong>2.</strong> 把“套完后黑位没有发灰，高光没有明显偏色”留到后期或口头解释，现场没有留下能复查的记录。</li><li><strong>3.</strong> 第 3 条验收“降低 LUT 强度后，画面仍能回到可交付的状态”没人复核，交片时才发现。</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>拿一段 30 秒素材做 A/B，只改“套 LUT 前先把曝光和白平衡做平”；记下一个时间码和一处差异，再决定是否保留。</p></section>
 <h2>验收</h2><ul><li>套 LUT 前素材已经曝光正确、白平衡中性。</li><li>套完后黑位没有发灰，高光没有明显偏色。</li><li>降低 LUT 强度后，画面仍能回到可交付的状态。</li></ul>
 
+<section><h2>边界</h2><p>本页只解决「LUT：起点不是终点」这一个问题；不替代 母版：交付前定一个唯一版本、混音：先让对白站住，再加音乐、构图：先让观众知道看哪里。如果现场问题属于后者，先读对应页，不要在本页继续加参数。</p></section>
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S24] [ACESCentral：ACES：Academy Color Encoding System](https://acescentral.com/) — 2026-11-27 访问。用于核对首段“LUT 是起点，不是终点；套完之后还要回到一级校正看黑位和高光。”中的术语与公开背景（ACES 色彩编码、ACEScg 与交付/归档工作流）；不替代现场测试。
-- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“LUT 是起点，不是终点；套完之后还要回到一级校正看黑位和高光。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S24] [ACESCentral：ACES 色彩规范](https://acescentral.com/) — 2026-11-26 访问。用于核对「调色验收记录」一节的术语/方法/规则（ACES 色彩规范，不是调色教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（BT.709 高清电视参数，不是现场曝光建议）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S30] [DaVinci Resolve：官方文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对「节点顺序」一节的术语/方法/规则（Resolve 官方产品/文档入口，不是第三方教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

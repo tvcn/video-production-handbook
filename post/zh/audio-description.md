@@ -27,6 +27,7 @@ related: [post.assets.backup-recovery, post.vfx.cg-integration, shoot.camera.com
 source_kind: sourced
 sources:
 - S68
+- S06
 - S29
 ---
 <p>音频描述不是把画面全念一遍。只写三类：谁在做什么、空间关系、屏幕上出现的文字。人物已经说出的内容，不要重复。</p>
@@ -46,7 +47,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S68] [W3C：WebVTT](https://www.w3.org/TR/webvtt1/) — 2026-11-26 访问。用于核对首段“口述影像只讲看不见但必须知道的信息：谁在动、往哪走、手里是什么。”中的术语与公开背景（字幕格式与时间戳）；不替代现场测试。
-- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“口述影像只讲看不见但必须知道的信息：谁在动、往哪走、手里是什么。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S68] [W3C：WebVTT](https://www.w3.org/TR/webvtt1/) — 2026-11-26 访问。用于核对「描述“看不见但必须知道”的信息」一节的术语/方法/规则（WebVTT 字幕格式，不是平台审核规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S06] [W3C：字幕与说明指南](https://www.w3.org/WAI/media/av/captions/) — 2026-11-26 访问。用于核对「口述影像：先说“谁在哪”，再说“发生了什么”」一节的术语/方法/规则（W3C 字幕/说明指南，不是平台审核规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

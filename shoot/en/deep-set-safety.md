@@ -27,11 +27,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [shoot.deep.deep-sound-rig, shoot.sound.dual-system-sound, post.deep.deep-asset-management]
 sources:
-- S17
-- S23
-- S31
-- S52
-- S53
+- S18
+- S36
 source_kind: sourced
 ---
 <p>Set safety is not a signature; risk, permit and wrap checks must reach every moving person. One page of &amp;quot;Set Safety: Cables, Heights, Roads&amp;quot; solves one local problem; joining &amp;quot;Set Safety: Cables, Heights, Roads&amp;quot;, &amp;quot;Risk Assessment: Fill One Page Before You Roll&amp;quot; and &amp;quot;Permits: Parks, Transit, Shops&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
@@ -57,10 +54,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Set safety is not a signature; risk, permit and wrap checks ”) against The agency's public commitment to independence, accuracy and freedom from bias; not a substitute for an on-set test.
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Set safety is not a signature; risk, permit and wrap checks ”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Set safety is not a signature; risk, permit and wrap checks ”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
-- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Set safety is not a signature; risk, permit and wrap checks ”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
-- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Set safety is not a signature; risk, permit and wrap checks ”) against Body specifications, recording formats and interfaces; not a substitute for an on-set test.
+- [S18] [CMSI: Dangerous Documentaries](https://cmsimpact.org/wp-content/uploads/2015/12/dangerousdocs-feb2015.pdf) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against documentary risk and ethics handbook, not legal advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S36] [NRTA: Official Site](https://www.nrta.gov.cn/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Judgement” section against NRTA official site, not permit agency service; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

@@ -27,11 +27,9 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [shoot.deep.deep-set-safety, shoot.deep.deep-sound-rig, post.delivery.archive]
 sources:
-- S17
+- S67
+- S28
 - S23
-- S31
-- S52
-- S53
 source_kind: sourced
 ---
 <p>多机位不是多开几台机器；同步、景别分工和走位重复，缺一个就剪不起来。 单看《多机位同步：时间码与机位图》只能解决一个局部；把《多机位同步：时间码与机位图》《覆盖：别只拍一个角度》《走位：让人用身体说话》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
@@ -57,10 +55,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — 2026-11-26 访问。用于核对首段“多机位不是多开几台机器；同步、景别分工和走位重复，缺一个就剪不起来。”中的术语与公开背景（通讯社对独立、准确与不带偏见的公开承诺）；不替代现场测试。
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“多机位不是多开几台机器；同步、景别分工和走位重复，缺一个就剪不起来。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“多机位不是多开几台机器；同步、景别分工和走位重复，缺一个就剪不起来。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
-- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“多机位不是多开几台机器；同步、景别分工和走位重复，缺一个就剪不起来。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
-- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“多机位不是多开几台机器；同步、景别分工和走位重复，缺一个就剪不起来。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
+- [S67] [IETF：RFC 8216（HLS）](https://datatracker.ietf.org/doc/html/rfc8216) — 2026-11-26 访问。用于核对「问题」一节的术语/方法/规则（HLS 协议规范，不是直播运营建议）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S28] [Netflix：合作伙伴帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对「判断」一节的术语/方法/规则（Netflix 交付帮助，不是通用平台规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S23] [SMPTE：标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对「做法」一节的术语/方法/规则（SMPTE 标准入口，不是具体机型参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -24,11 +24,8 @@ authors:
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 sources:
-- S22
 - S38
-- S01
-- S02
-- S03
+- S22
 test_context: 'Review setup: current China mainland statutes, platform rules and public cases; not legal advice.'
 known_failures: 'Known failures: platform rules and local enforcement change; counsel must confirm applicability.'
 verified: 2026-11-22
@@ -47,10 +44,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S22] [National People's Congress: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cross-border projects stall on “invoices”: a proforma invoic”) against Statutory text on portrait rights, privacy, contracts and location rights; not a substitute for an on-set test.
-- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cross-border projects stall on “invoices”: a proforma invoic”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cross-border projects stall on “invoices”: a proforma invoic”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cross-border projects stall on “invoices”: a proforma invoic”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cross-border projects stall on “invoices”: a proforma invoic”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S38] [State Taxation Administration: Official Site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Process: ask tax before quoting” section against tax authority site, not a quote; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S22] [NPC: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Scope” section against China's Civil Code, not industry custom; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

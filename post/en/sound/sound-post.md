@@ -72,6 +72,6 @@ Do not sync by eye. Clap at the head of every take and match the waveform. Witho
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 4 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Fix the Noise Before You Build a Mood”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 4 post-production reviews under the listed software versions, source formats and delivery platform; it covers the operating order for “Fix the Noise Before You Build a Mood”, not an external laboratory test, unlisted versions, cinema masters, broadcast safety certification or legal advice.
 <!-- SOURCES_END -->
 

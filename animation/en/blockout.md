@@ -30,6 +30,10 @@ related: [animation.deep.deep-2d-layer-depth, animation.deep.deep-3d-light-mater
 depth: deep
 deep_minutes: 6
 source_kind: sourced
+sources:
+- S62
+- S59
+
 ---
 <p>A blockout solves three things: character-to-set scale, camera placement and how long the action takes. Use spheres, boxes and simple props; do not add detail yet.</p>
 <!-- DIAGRAM_START -->
@@ -65,7 +69,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Blockout sets scale, camera, and timing before detail. Get i”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
-- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Blockout sets scale, camera, and timing before detail. Get i”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S62] [Blender: Official Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Lock scale, camera and timing first” section against Blender manual, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S59] [Adobe: After Effects Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against official After Effects guide, not a verdict on compositing aesthetics; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

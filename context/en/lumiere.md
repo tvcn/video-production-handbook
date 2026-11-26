@@ -26,9 +26,6 @@ authors:
 sources:
 - S09
 - S10
-- S01
-- S02
-- S03
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [context.literacy.media-literacy, context.history.montage, formats.documentary.documentary-template]
@@ -42,7 +39,7 @@ source_kind: sourced
   <figcaption>Watch “Lock the camera and let the train approach” and “Do not cut; hold one long take.”; judge what old problem it replaced and what new limit it added.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">What changed</h2><h2 id="section-2">How to use it now</h2><ul><li>For a real location, find the camera position where action happens naturally before designing complex movement.</li><li>For a documentary opening, establish space with one complete action, then cut to detail.</li><li>When studying early cinema, note how the fixed frame and deep staging create tension, not only the “audience panicked” legend.</li></ul><h2 id="section-3">Do not misread</h2><p>Do not treat a fixed camera as laziness. It demands blocking, light and action that work inside one frame.</p><h2 id="section-4">The Lumières' value is not “the first screening” but taking the camera into the street</h2>
+<section><h2 id="section-2">How to use it now</h2><ul><li>For a real location, find the camera position where action happens naturally before designing complex movement.</li><li>For a documentary opening, establish space with one complete action, then cut to detail.</li><li>When studying early cinema, note how the fixed frame and deep staging create tension, not only the “audience panicked” legend.</li></ul><h2 id="section-3">Do not misread</h2><p>Do not treat a fixed camera as laziness. It demands blocking, light and action that work inside one frame.</p><h2 id="section-4">The Lumières' value is not “the first screening” but taking the camera into the street</h2>
 <p>The 1895 screening is often called the birth of cinema. More important: they moved the machine out of the studio and filmed trains, factories and streets. Real scene, single shot, fixed camera: the first repeatable production model.</p>
 <h3>Common misreading</h3>
 <p>“The Lumières only shot documentary” is inaccurate; they also made staged comic shorts. Another myth: “audiences ran from the arriving train.” It was exaggerated later and should not be cited as fact.</p>
@@ -53,10 +50,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S09] [The Cinematograph and Museum](https://www.institut-lumiere.org/en/lumiere-museum) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The Lumière brothers projected a train arriving, and the aud”) against Institutional archive on the Lumière brothers, the Cinematograph and the 1895 screenings; not a substitute for an on-set test.
-- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The Lumière brothers projected a train arriving, and the aud”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The Lumière brothers projected a train arriving, and the aud”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The Lumière brothers projected a train arriving, and the aud”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The Lumière brothers projected a train arriving, and the aud”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S09] [Institut Lumière: Cinematograph and Museum](https://www.institut-lumiere.org/en/lumiere-museum) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “The Lumières' value is not “the first screening” but taking the camera into the street” section against Lumière cinematograph history, not modern shooting rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S10] [BFI: Film History and Moving Image Research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “How to use it now” section against BFI film history and archive, not gear reviews; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

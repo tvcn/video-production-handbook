@@ -29,6 +29,10 @@ related: [story.directing.ensemble-scene, story.storyboard.insert-shot, shoot.ca
 depth: deep
 deep_minutes: 5
 source_kind: sourced
+sources:
+- S41
+- S42
+
 ---
 <p>The ending does not explain the choice; it shows the first consequence. If she stays, show her setting down the bag. If she leaves, show the door closing behind her. Stop after the action and let the audience supply the sentence.</p>
 <!-- DIAGRAM_START -->
@@ -66,7 +70,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“End after the choice. The sentence the audience supplies is ”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
-- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“End after the choice. The sentence the audience supplies is ”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+- [S41] [WGA: Contract and Credit Resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Stop after the choice” section against WGA contract and credit resources, not Chinese employment law; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

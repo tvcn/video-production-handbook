@@ -26,7 +26,8 @@ review_due: '2027-02-26'
 related: [tools.tutorial.lav-hidden, tools.capability.lav-system, shoot.camera.composition]
 source_kind: sourced
 sources:
-- S23
+- S53
+- S58
 - S52
 ---
 <p>滚动快门在横向快速移动时最明显：柱子变斜、脸变窄、手变软。拍前避免快速横摇，用更广的镜头、更稳的支撑；后期稳定只能裁切，不能还原形状。</p>
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“果冻效应来自慢读出和快速运动；先换机器，再调快门，别只怪镜头。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“果冻效应来自慢读出和快速运动；先换机器，再调快门，别只怪镜头。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对「果冻先看“运动方向”」一节的术语/方法/规则（FX6 官方规格，不是独立测试）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S58] [Blackmagic：Pocket Cinema Camera 6K 规格](https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Pocket Cinema Camera 6K 官方规格，不是独立测试）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

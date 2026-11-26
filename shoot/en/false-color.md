@@ -28,7 +28,9 @@ review_due: '2027-02-26'
 related: [shoot.camera.frame-rate, shoot.movement.handheld, post.color.color]
 source_kind: sourced
 sources:
+- S31
 - S52
+- S53
 - S25
 ---
 <p>False color maps luminance into color blocks, so overexposed skin or a dead sky is obvious. Check skin first, then highlights.</p>
@@ -45,7 +47,8 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“False color turns brightness into bands, so clipped skin or ”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
-- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“False color turns brightness into bands, so clipped skin or ”) against HD SDR gamut, transfer function and viewing conditions; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Lighting order” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “On set” section against ALEXA 35 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Do this” section against FX6 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

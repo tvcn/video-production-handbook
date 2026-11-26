@@ -29,6 +29,10 @@ source_kind: sourced
 related: [formats.tutorial.tutorial-breakdown, formats.tutorial.tutorial-structure, story.screenplay.logline]
 depth: deep
 deep_minutes: 5
+sources:
+- S16
+- S14
+
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -78,10 +82,11 @@ Make three covers for the same film and test them in the feed. Do not ask a coll
 <ul><li>Readable at thumb size</li><li>A face or an action is visible</li><li>Face fills at least a third</li><li>Title does not repeat the image</li><li>Clean background</li><li>Eight percent margin around the subject</li><li>Two lines of type at most</li><li>Subject survives 16:9, 1:1, and 9:16</li><li>Test on a phone with five people</li><li>The film delivers the promise</li></ul><p>The cover only makes people stop; the film makes them stay.</p>
 <!-- DEEP_DIVE_END -->
 
+<section><h2>Boundary</h2><p>This page only covers “Does the Cover Still Read at 200 Pixels?”; it does not replace Tutorial Breakdown: Teach in Five Minutes, Tutorial Structure: One Problem, One Skill, The One-Line Story: Who Wants What, and What Stands in the Way. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“On a phone, a cover is the size of a thumb. Secure one face,”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“On a phone, a cover is the size of a thumb. Secure one face,”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S16] [BBC: Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Make a black-and-white proof at thumb size” section against BBC editorial guidelines, not platform growth rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S14] [YouTube: Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “One face, one action, one contrast” section against YouTube community rules, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

@@ -27,6 +27,7 @@ related: [post.color.secondary-correction, post.sound.sound, shoot.camera.compos
 source_kind: sourced
 sources:
 - S68
+- S06
 - S29
 ---
 <p>听障字幕不只写对白，还要写声音事件：关门、脚步、电话铃、音乐情绪。说话人变化要标名字或位置；多人重叠时，标“同时”。</p>
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S68] [W3C：WebVTT](https://www.w3.org/TR/webvtt1/) — 2026-11-26 访问。用于核对首段“听障字幕要写清说话人、环境声和重要音效，不只抄对白。”中的术语与公开背景（字幕格式与时间戳）；不替代现场测试。
-- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“听障字幕要写清说话人、环境声和重要音效，不只抄对白。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S68] [W3C：WebVTT](https://www.w3.org/TR/webvtt1/) — 2026-11-26 访问。用于核对「SDH 要写“听见了什么”」一节的术语/方法/规则（WebVTT 字幕格式，不是平台审核规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S06] [W3C：字幕与说明指南](https://www.w3.org/WAI/media/av/captions/) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（W3C 字幕/说明指南，不是平台审核规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -43,6 +43,6 @@ source_kind: experience
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 3 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “CFexpress: Speed and Heat”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 3 gear trials and on-set playbacks under the listed model/firmware, once indoors and once outdoors; it covers the selection and use limits of “CFexpress: Speed and Heat”, not an external laboratory test, unlisted models, unit-level QC, warranty/rental contracts or safety certification.
 <!-- SOURCES_END -->
 

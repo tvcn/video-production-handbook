@@ -48,6 +48,6 @@ source_kind: experience
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 4 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “CG Integration: Match Light, Shadow, Atmosphere”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 4 post-production reviews under the listed software versions, source formats and delivery platform; it covers the operating order for “CG Integration: Match Light, Shadow, Atmosphere”, not an external laboratory test, unlisted versions, cinema masters, broadcast safety certification or legal advice.
 <!-- SOURCES_END -->
 

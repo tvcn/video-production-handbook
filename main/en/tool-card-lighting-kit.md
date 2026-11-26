@@ -50,6 +50,6 @@ source_kind: experience
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 5 client brief and project review reviews under a one- or two-to-three-person team with a fixed budget and schedule; it discusses “One-Light Kit”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 5 projects with one lead and a two-to-three-person crew, a fixed budget and schedule; it covers the decision order for “One-Light Kit”, not an external laboratory test, multi-camera, union crews, stunts or high-risk sets.
 <!-- SOURCES_END -->
 

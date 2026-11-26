@@ -25,10 +25,7 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 sources:
 - S23
-- S25
-- S26
-- S29
-- S30
+- S31
 test_context: 复核环境：Windows 11 + Chrome 131；本页只定义协议和记录字段，未做实验室测量。
 known_failures: 已知失败：不同机器/固件/镜头结果不可直接比较；环境温度与卡型会影响写入。
 verified: 2026-11-23
@@ -76,10 +73,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Reproducible steps, raw-data fields and pass lines for ten t”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Reproducible steps, raw-data fields and pass lines for ten t”) against HD SDR gamut, transfer function and viewing conditions; not a substitute for an on-set test.
-- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Reproducible steps, raw-data fields and pass lines for ten t”) against Wide-gamut and parameter definitions for UHD/HDR; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Reproducible steps, raw-data fields and pass lines for ten t”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Reproducible steps, raw-data fields and pass lines for ten t”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “How to use: say “not measured” when it is not measured” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “02 Low-light noise and dual native ISO” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

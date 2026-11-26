@@ -26,7 +26,9 @@ review_due: '2027-02-26'
 related: [post.assets.proxy-cache, post.editing.proxy-workflow, shoot.camera.composition]
 source_kind: sourced
 sources:
-- S34
+- S70
+- S35
+- S29
 - S60
 ---
 <p>项目根下只放三样：01_素材、02_工程、03_交付。素材按日期和场景分，工程按剪辑/调色/声音分，交付按平台和日期分。任何文件都能从路径判断它属于哪一步。</p>
@@ -43,7 +45,8 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“项目结构先定文件夹和命名，软件换了还能找到素材。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
-- [S60] [Apple：Final Cut Pro 用户指南](https://support.apple.com/guide/final-cut-pro/welcome/mac) — 2026-11-26 访问。用于核对首段“项目结构先定文件夹和命名，软件换了还能找到素材。”中的术语与公开背景（剪辑、磁性时间线、代理与导出）；不替代现场测试。
+- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对「先建三层文件夹，再谈命名」一节的术语/方法/规则（FFmpeg 编解码/封装文档，不是交付规范）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S35] [Avid：资源中心](https://www.avid.com/resource-center) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Avid 资源中心，不是独立评测）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S29] [YouTube：上传编码建议](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对「怎么做」一节的术语/方法/规则（YouTube 上传编码建议，不是创作标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

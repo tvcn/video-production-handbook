@@ -24,11 +24,9 @@ authors:
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 sources:
-- S23
-- S25
-- S26
+- S70
 - S29
-- S38
+- S57
 test_context: 'Review setup: Windows 11 workstation + iPhone 13, Chrome 131; bodies/lenses checked against public specs and short samples, not lab instruments.'
 known_failures: 'Known failures: grey-channel firmware/warranty vary; samples do not prove retail units; prices and stock expire.'
 verified: 2026-11-23
@@ -68,10 +66,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Storage is not “bigger is better.” It is “the shoot does not”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Storage is not “bigger is better.” It is “the shoot does not”) against HD SDR gamut, transfer function and viewing conditions; not a substitute for an on-set test.
-- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Storage is not “bigger is better.” It is “the shoot does not”) against Wide-gamut and parameter definitions for UHD/HDR; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Storage is not “bigger is better.” It is “the shoot does not”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Storage is not “bigger is better.” It is “the shoot does not”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
+- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Decision tree: working disk, backup, archive” section against FFmpeg codec/muxing documentation, not a delivery spec; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S29] [YouTube: Upload Encoding Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “First decision: which link is missing” section against YouTube upload encoding recommendations, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S57] [Blackmagic: URSA Mini Pro 12K Specs](https://www.blackmagicdesign.com/products/blackmagicursaminipro/techspecs) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Buying steps: bring footage, not spec sheets” section against URSA Mini Pro 12K specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

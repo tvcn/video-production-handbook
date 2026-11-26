@@ -28,6 +28,11 @@ source_kind: sourced
 related: [animation.principles.anticipation, animation.stop-motion.armature, formats.documentary.documentary-template]
 depth: deep
 deep_minutes: 6
+sources:
+- S63
+- S62
+- S59
+
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -81,10 +86,12 @@ deep_minutes: 6
 <ul><li>四姿势构成半步</li><li>先画骨盆胸腔上下</li><li>接触时两脚最开</li><li>下沉时重心最低</li><li>经过时支撑腿直立</li><li>支撑脚不滑</li><li>脚跟脚掌脚尖三点清楚</li><li>手臂反向摆且延迟</li><li>头比胸腔晚一帧</li><li>疲劳加拖步不减速</li></ul><p>走路循环的所有问题，最后都会回到两个地方：重心有没有上下，支撑脚有没有滑。</p>
 <!-- DEEP_DIVE_END -->
 
+<section><h2>边界</h2><p>本页只解决「走路循环：脚落地那一下」这一个问题；不替代 预备动作：让观众先知道、人偶骨架：能站住才能演、纪录模板：一个人、一件事、一个变化。如果现场问题属于后者，先读对应页，不要在本页继续加参数。</p></section>
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“走路看起来难，是因为脚会滑、重心不对、手脚同拍。先把四个姿势站住，再谈风格。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
-- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“走路看起来难，是因为脚会滑、重心不对、手脚同拍。先把四个姿势站住，再谈风格。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对「手和头晚半拍，循环看首尾」一节的术语/方法/规则（Toon Boom 官方文档，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「四个姿势先站住」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S59] [Adobe：After Effects 官方指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对「脚不能滑」一节的术语/方法/规则（After Effects 官方指南，不是合成美学结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

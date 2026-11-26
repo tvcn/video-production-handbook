@@ -36,7 +36,7 @@ source_kind: experience
   <figcaption>Watch “Take the camera to a shop and shoot” and “Check edges, distortion, and breathing.”; judge whether the spec maps to one concrete shooting problem.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">What to compare first</h2><ul><li><strong>Range:</strong> choose from your common camera-to-subject distance; 24-70 is not universal, and the long end may be tight indoors.</li><li><strong>Breathing and focus:</strong> does focus shift while zooming, and does the image breathe while focusing? Video is more sensitive than stills.</li><li><strong>Aperture and weight:</strong> constant fast apertures are heavier; calculate total weight and balance before a gimbal.</li></ul><h2 id="section-2">When not to use it</h2></section><section><h2 id="section-3">On set</h2><p>Take the camera to the shop and shoot a backlit window and a railing wide open. Check edges, distortion, and breathing, then lift the lens.</p></section><section><h2 id="section-4">Do this</h2><p>A zoom saves time but charges you in weight, aperture, and image quality; ask which you lack most today.</p><ol><li>Take the camera to a shop and shoot a backlit window and railing wide open.</li><li>Check edges, distortion, and breathing.</li><li>Weigh it and decide whether convenience is worth the price.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not check center sharpness only; edges and backlight expose a zoom fastest.</p></section>
+<section><h2 id="section-1">What to compare first</h2><ul><li><strong>Range:</strong> choose from your common camera-to-subject distance; 24-70 is not universal, and the long end may be tight indoors.</li><li><strong>Breathing and focus:</strong> does focus shift while zooming, and does the image breathe while focusing? Video is more sensitive than stills.</li><li><strong>Aperture and weight:</strong> constant fast apertures are heavier; calculate total weight and balance before a gimbal.</li></ul></section><section><h2 id="section-3">On set</h2><p>Take the camera to the shop and shoot a backlit window and a railing wide open. Check edges, distortion, and breathing, then lift the lens.</p></section><section><h2 id="section-4">Do this</h2><p>A zoom saves time but charges you in weight, aperture, and image quality; ask which you lack most today.</p><ol><li>Take the camera to a shop and shoot a backlit window and railing wide open.</li><li>Check edges, distortion, and breathing.</li><li>Weigh it and decide whether convenience is worth the price.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not check center sharpness only; edges and backlight expose a zoom fastest.</p></section>
 <h2>Check</h2><ul><li>Wide-open backlit window and railing shots record edge performance.</li><li>Distortion and breathing are named, not just “good quality.”</li><li>Weight is measured and the saved step is stated.</li></ul>
 
 
@@ -44,9 +44,10 @@ source_kind: experience
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>What this page does not solve</h2><p>This page compares the capability and key parameters of “Zoom Lens: Convenience Has a Cost”; it does not settle live pricing, warranty, mount/firmware compatibility or unit-to-unit sample variation for a specific model. Check the official spec sheet, a rental house test and the return terms. For shooting plans, budgets or on-set faults, use the matching method page first.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 6 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Zoom Lens: Convenience Has a Cost”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 6 gear trials and on-set playbacks under the listed model/firmware, once indoors and once outdoors; it covers the selection and use limits of “Zoom Lens: Convenience Has a Cost”, not an external laboratory test, unlisted models, unit-level QC, warranty/rental contracts or safety certification.
 <!-- SOURCES_END -->
 

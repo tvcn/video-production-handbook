@@ -29,6 +29,11 @@ source_kind: sourced
 related: [tools.calculator.storage-calculator, tools.producing.stripboard, shoot.camera.composition]
 depth: deep
 deep_minutes: 7
+sources:
+- S70
+- S29
+- S57
+
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -82,10 +87,12 @@ AI projects also store prompts, seeds, references, and generation logs. Otherwis
 <ul><li>One copy on card</li><li>One on portable drive</li><li>Third off-site or cloud</li><li>Three copies not in one bag</li><li>Back up the day you shoot</li><li>Play three random files to verify</li><li>File names carry date and version</li><li>Originals, proxies, exports separate</li><li>Capacity from bitrate with twenty percent headroom</li><li>Sustained write speed sufficient</li></ul><p>Storage safety does not come from drive size. It comes from being able to say where all three copies are.</p>
 <!-- DEEP_DIVE_END -->
 
+<section><h2>Boundary</h2><p>This page only covers “Media Management: Back Up Today, Name for Finding”; it does not replace Storage Calculator: How Long Can You Roll?, Stripboard: Turn the Script into Shootable Days, Composition: Tell the Eye Where to Look. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Back up before wrap. Put date, scene, and camera in the file”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Back up before wrap. Put date, scene, and camera in the file”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “The 3-2-1 rule” section against FFmpeg codec/muxing documentation, not a delivery spec; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S29] [YouTube: Upload Encoding Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Naming rules” section against YouTube upload encoding recommendations, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S57] [Blackmagic: URSA Mini Pro 12K Specs](https://www.blackmagicdesign.com/products/blackmagicursaminipro/techspecs) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Project archive” section against URSA Mini Pro 12K specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

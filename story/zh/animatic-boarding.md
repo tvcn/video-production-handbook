@@ -28,6 +28,7 @@ source_kind: sourced
 sources:
 - S42
 - S43
+- S43
 ---
 <p>animatic 的第一任务是时间，不是画面。每个镜头标秒数，配音先录，按声音长度定镜头；不要先画满再配音，节奏一定不对。</p>
 <!-- DIAGRAM_START -->
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S42] [Khan Academy：Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对首段“动态分镜先定镜头时长和剪辑点，画得糙没关系，节奏错了才是大问题。”中的术语与公开背景（故事结构、角色与视觉叙事教学）；不替代现场测试。
-- [S43] [BFI：BFI 国家电影档案](https://www.bfi.org.uk/bfi-national-archive) — 2026-11-26 访问。用于核对首段“动态分镜先定镜头时长和剪辑点，画得糙没关系，节奏错了才是大问题。”中的术语与公开背景（英国电影档案、修复与放映资料）；不替代现场测试。
+- [S42] [Pixar in a Box：叙事课程](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对「Animatic 先定“镜头长度”」一节的术语/方法/规则（Pixar 叙事课程，不是项目报价）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S43] [BFI：国家档案馆](https://www.bfi.org.uk/bfi-national-archive) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（BFI 档案资料，不是发行规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

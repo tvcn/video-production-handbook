@@ -27,6 +27,7 @@ related: [story.storyboard.insert-shot, story.interview.interview-questions, sho
 source_kind: sourced
 sources:
 - S42
+- S16
 - S10
 ---
 <p>多人场景乱，通常不是因为人太多，而是因为权力关系不清。先画一张视线图：谁想说话、谁在阻止、谁在看戏。每个人的位置和视线都要能回答这三问。</p>
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S42] [Khan Academy：Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对首段“群戏里每个人都有事做，观众才相信这是一个真实的空间，而不是一排等台词的人。”中的术语与公开背景（故事结构、角色与视觉叙事教学）；不替代现场测试。
-- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“群戏里每个人都有事做，观众才相信这是一个真实的空间，而不是一排等台词的人。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S42] [Pixar in a Box：叙事课程](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对「群戏先定“谁在看谁”」一节的术语/方法/规则（Pixar 叙事课程，不是项目报价）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S16] [BBC：编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（BBC 编辑准则，不是平台流量规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -30,6 +30,10 @@ related: [story.storyboard.sequence-board, story.screenplay.short-drama-script, 
 depth: deep
 deep_minutes: 6
 source_kind: sourced
+sources:
+- S41
+- S42
+
 ---
 <p>Format exists so the director, camera, sound and editor can find scene, action, dialogue and time on the same page. The slug line states location and time; action describes only what the camera can see; the character name sits above the line.</p>
 <!-- DIAGRAM_START -->
@@ -60,7 +64,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Script format is not for a literary prize; it helps camera, ”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
-- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Script format is not for a literary prize; it helps camera, ”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+- [S41] [WGA: Contract and Credit Resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “A script is a working document” section against WGA contract and credit resources, not Chinese employment law; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

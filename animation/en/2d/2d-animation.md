@@ -30,9 +30,8 @@ related: [animation.2d.2d-camera, animation.2d.2d-compositing, formats.brand.bra
 depth: deep
 deep_minutes: 7
 sources:
-- S62
 - S63
-- S12
+- S62
 - S59
 test_context: "Review setup: Windows 11; public Blender 4.x / After Effects 2025 workflows; not every version behaves the same."
 known_failures: "Known failures: plugin/version gaps break rigs or renders; font and asset licenses need separate checks."
@@ -90,12 +89,12 @@ Loop length comes from the action, not the software. A step may take twelve fram
 <ul><li>Three keys first</li><li>Keys tell the action</li><li>Contact drawn at the turn</li><li>Body, hair, cloth layered</li><li>Hair and hem lag</li><li>Four drawings for a loop</li><li>Foot slide checked</li><li>Frame rate before detail</li><li>Holds carry weight</li><li>Frame counts recorded</li></ul><p>2D craft is not fine drawing. It is whether keys and frame counts make the action true.</p>
 <!-- DEEP_DIVE_END -->
 
+<section><h2>Boundary</h2><p>This page only covers “2D Animation: Keyframes, Breakdowns, Loops”; it does not replace 2D Camera: Pan and Multiplane, 2D Compositing: Separate Background, Character, Light, Brand Film: Make Them Believe One Sentence. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“2D is not about beautiful drawings. It is about controlling ”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
-- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“2D is not about beautiful drawings. It is about controlling ”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
-- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“2D is not about beautiful drawings. It is about controlling ”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
-- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“2D is not about beautiful drawings. It is about controlling ”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Keyframes” section against Toon Boom documentation, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S62] [Blender: Official Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Breakdowns” section against Blender manual, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S59] [Adobe: After Effects Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Loops” section against official After Effects guide, not a verdict on compositing aesthetics; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

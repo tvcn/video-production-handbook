@@ -27,11 +27,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [tools.deep.deep-location-sound-chain, tools.deep.deep-one-light-kit, shoot.camera.axis-line]
 sources:
-- S17
-- S29
 - S23
-- S30
-- S70
+- S29
 source_kind: sourced
 ---
 <p>Live is not camera-to-laptop; wireless, monitoring, timecode and backup are one chain. One page of &amp;quot;Wireless Video: Latency and Interference&amp;quot; solves one local problem; joining &amp;quot;Wireless Video: Latency and Interference&amp;quot;, &amp;quot;Video Assist: Playback on Set&amp;quot; and &amp;quot;Timecode: Sync Without Guessing&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
@@ -57,10 +54,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Live is not camera-to-laptop; wireless, monitoring, timecode”) against The agency's public commitment to independence, accuracy and freedom from bias; not a substitute for an on-set test.
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Live is not camera-to-laptop; wireless, monitoring, timecode”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Live is not camera-to-laptop; wireless, monitoring, timecode”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Live is not camera-to-laptop; wireless, monitoring, timecode”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
-- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Live is not camera-to-laptop; wireless, monitoring, timecode”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S29] [YouTube: Upload Encoding Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Judgement” section against YouTube upload encoding recommendations, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

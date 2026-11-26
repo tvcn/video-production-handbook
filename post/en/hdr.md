@@ -29,7 +29,9 @@ review_due: '2027-02-26'
 related: [post.color.hdr-workflow, post.vfx.keying, shoot.camera.composition]
 source_kind: sourced
 sources:
-- S64
+- S24
+- S25
+- S30
 - S26
 ---
 <p>HDR is not lifting shadows infinitely; it preserves information from window to dark corner. Expose so highlights just avoid clipping, confirmed with false color or waveform; leave noise room in shadows and decide later how far to push.</p>
@@ -49,7 +51,8 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S64] [ITU: BT.2100](https://www.itu.int/rec/R-REC-BT.2100/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“HDR is not a brighter SDR; capture, monitoring, and delivery”) against HDR television parameters, PQ and HLG; not a substitute for an on-set test.
-- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“HDR is not a brighter SDR; capture, monitoring, and delivery”) against Wide-gamut and parameter definitions for UHD/HDR; not a substitute for an on-set test.
+- [S24] [ACESCentral: ACES](https://acescentral.com/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “HDR protects highlights before brightness” section against ACES color specification, not a grading tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “HDR needs a monitor before it needs a delivery spec” section against BT.709 HD television parameters, not on-set exposure advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S30] [DaVinci Resolve: Official Documentation](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against official Resolve product/documentation entry, not a third-party tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

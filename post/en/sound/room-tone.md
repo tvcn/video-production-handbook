@@ -68,9 +68,10 @@ Music is allowed, but room tone is the floor. Lay the room first, then add music
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Room Tone: Do Not Let the Picture Live in a Vacuum”; it does not replace Rotoscoping: One Frame at a Time, The Rough Cut: Make the Film Work First, Composition: Tell the Eye Where to Look. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 5 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Room Tone: Do Not Let the Picture Live in a Vacuum”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 5 post-production reviews under the listed software versions, source formats and delivery platform; it covers the operating order for “Room Tone: Do Not Let the Picture Live in a Vacuum”, not an external laboratory test, unlisted versions, cinema masters, broadcast safety certification or legal advice.
 <!-- SOURCES_END -->
 

@@ -72,9 +72,10 @@ The audience reads the change from the cost, not the line. The more concrete the
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Character Arc: Not Better, Different Choices”; it does not replace Directing Children: Give a Task, Not a Line Reading, Comedy: Build the Expectation, Then Break It, Composition: Tell the Eye Where to Look. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 6 table read and pre-shoot rehearsal reviews under a three-to-eight-page scene with one primary point of view; it discusses “Character Arc: Not Better, Different Choices”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 6 table reads, rehearsals or on-set reviews with one lead and a two-to-three-person crew; it covers the decisions and actions for “Character Arc: Not Better, Different Choices”, not an external laboratory test, multi-camera, union crews, stunts or high-risk sets.
 <!-- SOURCES_END -->
 

@@ -27,11 +27,9 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [post.deep.deep-master-delivery, post.deep.deep-sound-mix, shoot.camera.axis-line]
 sources:
-- S18
-- S30
 - S34
-- S27
-- S35
+- S60
+- S30
 source_kind: sourced
 ---
 <p>节奏不是切得快，而是精剪、并行场景和音乐在同一拍上推进。 单看《细剪：把粗剪的毛边修掉》只能解决一个局部；把《细剪：把粗剪的毛边修掉》《平行剪辑：两条线什么时候交叉》《配乐剪辑：让音乐跟着动作》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
@@ -57,10 +55,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S18] [Dangerous Documentaries（CMSI）](https://cmsimpact.org/wp-content/uploads/2015/12/dangerousdocs-feb2015.pdf) — 2026-11-26 访问。用于核对首段“节奏不是切得快，而是精剪、并行场景和音乐在同一拍上推进。”中的术语与公开背景（纪录片拍摄中的知情同意、风险与伦理决策）；不替代现场测试。
-- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“节奏不是切得快，而是精剪、并行场景和音乐在同一拍上推进。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
-- [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“节奏不是切得快，而是精剪、并行场景和音乐在同一拍上推进。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
-- [S27] [ITU-R：BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-27 访问。用于核对首段“节奏不是切得快，而是精剪、并行场景和音乐在同一拍上推进。”中的术语与公开背景（响度测量、真峰值与 EBU R128 所依据的 ITU 算法标准）；不替代现场测试。
-- [S35] [Avid 资源中心](https://www.avid.com/resource-center) — 2026-11-26 访问。用于核对首段“节奏不是切得快，而是精剪、并行场景和音乐在同一拍上推进。”中的术语与公开背景（Media Composer、协作与交付的资源入口）；不替代现场测试。
+- [S34] [Adobe：Premiere Pro 官方指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对「问题」一节的术语/方法/规则（Premiere Pro 官方指南，不是工作流优劣结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S60] [Apple：Final Cut Pro 官方指南](https://support.apple.com/guide/final-cut-pro/welcome/mac) — 2026-11-26 访问。用于核对「判断」一节的术语/方法/规则（Final Cut Pro 官方指南，不是工作流优劣结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S30] [DaVinci Resolve：官方文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对「做法」一节的术语/方法/规则（Resolve 官方产品/文档入口，不是第三方教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -48,9 +48,10 @@ source_kind: experience
 <p>Unedited auto-captions, description that only narrates the image, and contrast judged by eye do not count. Accessibility is a delivery spec, not a favor.</p></section><section><h2 id="section-5">On set</h2><p>Subtitles, contrast, audio description, loudness, and flicker. Check each before delivery.</p></section><section><h2 id="section-6">Avoid</h2><p>Do not check captions only; failed contrast and flashing make the picture unwatchable.</p></section><aside class="regional-note"><p><strong>Regional note for US / UK / EU readers</strong></p><p>This English page keeps mainland-China examples where they are part of the method. Read platform names as examples, not as the only market: Douyin ↔ TikTok/Reels, Bilibili ↔ YouTube, Xiaohongshu ↔ Instagram/Pinterest; RMB figures are not converted here. Contracts, tax, insurance and consent rules differ by market; use the local currency and local counsel before signing or invoicing.</p></aside>
 <h2>Check</h2><ul><li>Captions name speakers and key sounds at a compliant rate.</li><li>Text contrast, audio description, and loudness all pass.</li><li>Flashing is compliant and all five items are ticked before delivery.</li></ul>
 
+<section><h2>Boundary</h2><p>This page only covers “Accessibility Check Kit”; it does not replace AI Workflow Kit, Audio Starter Kit, 16mm: Cinema Left the Theater. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 7 client brief and project review reviews under a one- or two-to-three-person team with a fixed budget and schedule; it discusses “Accessibility Check Kit”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 7 projects with one lead and a two-to-three-person crew, a fixed budget and schedule; it covers the decision order for “Accessibility Check Kit”, not an external laboratory test, multi-camera, union crews, stunts or high-risk sets.
 <!-- SOURCES_END -->
 

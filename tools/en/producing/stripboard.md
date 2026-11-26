@@ -29,6 +29,7 @@ source_kind: sourced
 related: [tools.calculator.subtitle-cps, tools.tutorial.subtitle-srt, shoot.camera.composition]
 sources:
 - S41
+- S22
 - S35
 ---
 <!-- DIAGRAM_START -->
@@ -69,7 +70,7 @@ The board is not a contract. It is the thing you make decisions against. When it
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Scheduling is not filling the calendar in script order. Brea”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
-- [S35] [Avid Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Scheduling is not filling the calendar in script order. Brea”) against Resources for Media Composer, collaboration and delivery; not a substitute for an on-set test.
+- [S41] [WGA: Contract and Credit Resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Strip first, dates later” section against WGA contract and credit resources, not Chinese employment law; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S22] [NPC: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Group by location and cast” section against China's Civil Code, not industry custom; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

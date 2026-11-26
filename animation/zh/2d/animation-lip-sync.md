@@ -28,6 +28,8 @@ source_kind: sourced
 related: [animation.principles.animation-principles, animation.timing.animation-timing, formats.brand.brand-film]
 sources:
 - S63
+- S62
+- S59
 - S59
 ---
 <!-- DIAGRAM_START -->
@@ -69,10 +71,12 @@ sources:
 - 每个闭唇音都真的合上，至少停一帧。
 - 眼睛和头比嘴晚，句尾先停嘴。
 
+<section><h2>边界</h2><p>本页只解决「口型：先对辅音，再画表情」这一个问题；不替代 十二原则：别一次全用、动画的时间感：两张原画之间，决定重量、品牌片：先让人相信一句话。如果现场问题属于后者，先读对应页，不要在本页继续加参数。</p></section>
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“口型不是把每个字都画出来。先对闭唇的辅音，再给元音开口，表情晚半拍，观众就觉得是他在说。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
-- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“口型不是把每个字都画出来。先对闭唇的辅音，再给元音开口，表情晚半拍，观众就觉得是他在说。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对「先把声音分成四类嘴形」一节的术语/方法/规则（Toon Boom 官方文档，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「闭合帧比开口帧重要」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S59] [Adobe：After Effects 官方指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对「表情晚半拍，头别一直点」一节的术语/方法/规则（After Effects 官方指南，不是合成美学结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

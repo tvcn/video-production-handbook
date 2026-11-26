@@ -29,7 +29,9 @@ review_due: '2027-02-26'
 related: [shoot.lighting.mixed-light, shoot.multicam.multicam-live, post.color.color]
 source_kind: sourced
 sources:
+- S31
 - S52
+- S53
 - S50
 ---
 <p>Log is not “brighter is better.” Expose with one to one-and-a-half stops of highlight headroom, midtones in the middle of the waveform; shadows may underexpose but must not crush. Use false color or zebra, not the monitor LUT.</p>
@@ -46,7 +48,8 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Log is not 'flat looks pro'; it preserves highlights and sha”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
-- [S50] [Kodak: Motion Picture](https://www.kodak.com/en/motion/home) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Log is not 'flat looks pro'; it preserves highlights and sha”) against Film stock specifications, exposure and scanning documentation; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Log protects highlights, then midtones” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against ALEXA 35 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “On set” section against FX6 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

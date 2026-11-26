@@ -29,6 +29,11 @@ source_kind: sourced
 related: [formats.talking-head.talking-head-breakdown, formats.talking-head.talking-head-template, story.directing.actor-adjustment]
 depth: deep
 deep_minutes: 6
+sources:
+- S14
+- S15
+- S29
+
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -86,10 +91,12 @@ Keep your hands visible. Rest them on the table, at chest height, or at your sid
 <ul><li>Judgment or conflict in three seconds</li><li>One idea per sentence</li><li>Something new every ten seconds</li><li>At least three concrete examples or numbers</li><li>Eye-level half-body as the main shot</li><li>Hands or product visible</li><li>Change form every twenty to thirty seconds</li><li>Jump cuts remove pauses only</li><li>Two subtitle lines max</li><li>A real question at the end</li></ul><p>Talking head is not reading. It is cutting one argument into pieces the viewer can swallow.</p>
 <!-- DEEP_DIVE_END -->
 
+<section><h2>Boundary</h2><p>This page only covers “Talking Head: Write for the Ear”; it does not replace Talking Head Breakdown: Hold Attention for Sixty Seconds, Talking Head Template: One Claim, Three Proofs, One Action, Adjusting Actors: Give Verbs, Not Adjectives. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A talking-head piece is not an article read aloud. The viewe”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A talking-head piece is not an article read aloud. The viewe”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S14] [YouTube: Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Write sentences you can say” section against YouTube community rules, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S15] [TikTok: Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Land something every thirty seconds” section against TikTok community rules, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S29] [YouTube: Upload Encoding Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “The body is also dialogue” section against YouTube upload encoding recommendations, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

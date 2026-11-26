@@ -27,6 +27,10 @@ related: [story.screenplay.three-act, story.screenplay.voice-over, shoot.camera.
 depth: deep
 deep_minutes: 6
 source_kind: sourced
+sources:
+- S41
+- S42
+
 ---
 <p>“主题”不是一句旁白，而是一个反复出现、每次含义不同的动作。比如一个人每次紧张就擦桌子：第一次是习惯，第二次是掩饰，第三次是告别。观众从动作的变化读到主题。</p>
 <!-- DIAGRAM_START -->
@@ -59,7 +63,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“主题不要让人物讲出来，让他在压力下做一个能暴露价值观的选择。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
-- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“主题不要让人物讲出来，让他在压力下做一个能暴露价值观的选择。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S41] [美国编剧工会：合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对「主题要落在重复的动作上」一节的术语/方法/规则（WGA 合同与署名资源，不是中国劳动法）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S42] [Pixar in a Box：叙事课程](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Pixar 叙事课程，不是项目报价）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

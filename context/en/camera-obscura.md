@@ -25,11 +25,7 @@ format: handbook
 authors:
 - TVCN Research Desk
 sources:
-- S07
-- S08
-- S01
-- S02
-- S03
+- S11
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [context.literacy.clickbait, context.law.contract-scope, formats.documentary.documentary-template]
@@ -48,7 +44,7 @@ source_kind: sourced
   <figcaption>Watch “Build one from a shoebox: 0.5 mm pinhole,” and “Check that the image is inverted and measure”; judge what old problem it replaced and what new limit it added.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">What changed</h2><h2 id="section-2">How to use it now</h2><ul><li>To understand lens imaging, observe an inverted image through a pinhole or obscura before discussing focal length and perspective.</li><li>For an installation or projection, design ambient light, surface material and viewing distance.</li><li>When studying image history, keep the obscura separate from painting, science and photography; do not merge them into one invention story.</li></ul><h2 id="section-3">Do not misread</h2><p>Do not treat the camera obscura as a “retro filter.” It is an imaging principle, not a visual style.</p><h2 id="section-4">The camera obscura is not an ancient camera; it is projection geometry</h2>
+<section><h2 id="section-2">How to use it now</h2><ul><li>To understand lens imaging, observe an inverted image through a pinhole or obscura before discussing focal length and perspective.</li><li>For an installation or projection, design ambient light, surface material and viewing distance.</li><li>When studying image history, keep the obscura separate from painting, science and photography; do not merge them into one invention story.</li></ul><h2 id="section-3">Do not misread</h2><p>Do not treat the camera obscura as a “retro filter.” It is an imaging principle, not a visual style.</p><h2 id="section-4">The camera obscura is not an ancient camera; it is projection geometry</h2>
 <p>The key is not a lens but a small aperture: light passes through a hole and forms an inverted image on a dark surface. It proves an image can be projected, not fixed. That explains why photography first solved fixation, not sharpness.</p>
 <h3>Common misreading</h3>
 <p>Calling it “the first camera” is inaccurate. It is an optical device with no sensitive material. Daguerre and others fixed the image. Another misreading: “smaller hole, sharper image.” Too small a hole diffracts and softens.</p>
@@ -59,10 +55,6 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S07] [Daguerreotypes](https://www.loc.gov/pictures/collection/dag/background.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The camera obscura already knew light could form an image; w”) against Collection background, scale and material notes on early photography; not a substitute for an on-set test.
-- [S08] [Daguerre and the Invention of Photography](https://www.metmuseum.org/TOAH/hd/dagu/hd_dagu.htm) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The camera obscura already knew light could form an image; w”) against Museum timeline for the 1839 announcement, the process and its early circulation; not a substitute for an on-set test.
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The camera obscura already knew light could form an image; w”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The camera obscura already knew light could form an image; w”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The camera obscura already knew light could form an image; w”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S11] [Britannica: Photography](https://www.britannica.com/technology/photography) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “The camera obscura is not an ancient camera; it is projection geometry” section against Britannica photography entry, not a how-to manual; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

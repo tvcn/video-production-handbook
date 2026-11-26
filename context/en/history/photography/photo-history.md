@@ -33,9 +33,7 @@ review_due: '2027-02-26'
 sources:
 - S07
 - S08
-- S01
-- S02
-- S03
+- S11
 related: [context.literacy.platform-rules, context.law.portrait-rights, formats.documentary.documentary-template]
 source_kind: sourced
 ---
@@ -84,13 +82,13 @@ Everyone now carries a camera that shoots, edits, and publishes immediately. Pho
 - You can explain why “photographs are evidence” was unstable from the start.
 - You know phones changed not only gear but publishing speed.
 
+<section><h2>Boundary</h2><p>This page only covers “From Daguerreotype to Phone: Five Turns in Photography”; it does not replace Platform Rules: What Gets Throttled, Likeness, Location, and Minors: What a Release Must Say, Documentary Template: One Person, One Thing, One Change. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
+<section><h2>Three failures</h2><p>The three common failures in photography-history writing are not just “wrong date”:</p><ul><li><strong>1. Giving the invention to one person.</strong> The 1839 announcement sits on different lines of work by Daguerre, Niépce and Talbot; one name turns technical competition into a hero story.</li><li><strong>2. Judging early processes by today's sharpness.</strong> Daguerreotype, calotype and wet plate each had material and exposure limits; modern pixel standards hide the real constraints.</li><li><strong>3. Listing dates without materials or circulation.</strong> A process works only through its sensitive material, exposure time, viewing method and reproduction cost; drop one and the timeline becomes an empty shell.</li></ul></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S07] [Daguerreotypes](https://www.loc.gov/pictures/collection/dag/background.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“In 1839 you sat still for dozens of seconds. In 1888 Kodak h”) against Collection background, scale and material notes on early photography; not a substitute for an on-set test.
-- [S08] [Daguerre and the Invention of Photography](https://www.metmuseum.org/TOAH/hd/dagu/hd_dagu.htm) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“In 1839 you sat still for dozens of seconds. In 1888 Kodak h”) against Museum timeline for the 1839 announcement, the process and its early circulation; not a substitute for an on-set test.
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“In 1839 you sat still for dozens of seconds. In 1888 Kodak h”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“In 1839 you sat still for dozens of seconds. In 1888 Kodak h”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“In 1839 you sat still for dozens of seconds. In 1888 Kodak h”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S07] [Library of Congress: Daguerreotypes](https://www.loc.gov/pictures/collection/dag/background.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “1839: Make people believe the photograph” section against Library of Congress daguerreotype history, not a shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S08] [The Met: Daguerre and the Invention of Photography](https://www.metmuseum.org/TOAH/hd/dagu/hd_dagu.htm) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “1888: The camera leaves the studio” section against Met museum photography history, not current camera settings; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S11] [Britannica: Photography](https://www.britannica.com/technology/photography) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “1925: A small camera that moves with people” section against Britannica photography entry, not a how-to manual; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

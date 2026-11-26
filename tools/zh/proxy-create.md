@@ -28,6 +28,7 @@ source_kind: sourced
 sources:
 - S34
 - S60
+- S60
 ---
 <p>生成代理时不要改文件名，也不要换目录结构。剪辑软件靠原名和时间码回批；改名会让回批变成手工找文件。</p>
 <!-- DIAGRAM_START -->
@@ -46,7 +47,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“代理按时间线和交付分辨率生成，别用完整分辨率硬剪；代理不对，字幕和构图会错。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
-- [S60] [Apple：Final Cut Pro 用户指南](https://support.apple.com/guide/final-cut-pro/welcome/mac) — 2026-11-26 访问。用于核对首段“代理按时间线和交付分辨率生成，别用完整分辨率硬剪；代理不对，字幕和构图会错。”中的术语与公开背景（剪辑、磁性时间线、代理与导出）；不替代现场测试。
+- [S34] [Adobe：Premiere Pro 官方指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对「代理要保留原名、时间码和卷名」一节的术语/方法/规则（Premiere Pro 官方指南，不是工作流优劣结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S60] [Apple：Final Cut Pro 官方指南](https://support.apple.com/guide/final-cut-pro/welcome/mac) — 2026-11-26 访问。用于核对「代理规格：能剪、能回套、不丢原片」一节的术语/方法/规则（Final Cut Pro 官方指南，不是工作流优劣结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

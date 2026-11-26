@@ -28,6 +28,11 @@ source_kind: sourced
 related: [formats.talking-head.talking-head-breakdown, formats.talking-head.talking-head-template, story.directing.actor-adjustment]
 depth: deep
 deep_minutes: 6
+sources:
+- S14
+- S15
+- S29
+
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -85,10 +90,12 @@ deep_minutes: 6
 <ul><li>三秒内给判断或冲突</li><li>一句只放一个信息</li><li>每十秒有一个新东西</li><li>至少三个具体例子或数字</li><li>主景别是眼睛高度半身</li><li>手或产品能进画面</li><li>每二十到三十秒换信息形态</li><li>跳切只删停顿</li><li>字幕最多两行</li><li>结尾有一个可回答的问题</li></ul><p>口播不是念稿，是把一个观点拆成观众能一口一口吃下去的小块。</p>
 <!-- DEEP_DIVE_END -->
 
+<section><h2>边界</h2><p>本页只解决「口播：写给耳朵，不是写给眼睛」这一个问题；不替代 口播拉片：60 秒怎么留住人、口播模板：一句话、三个例子、一个动作、给演员调整：只给动词，不给形容词。如果现场问题属于后者，先读对应页，不要在本页继续加参数。</p></section>
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“口播不是把文章念出来。观众听不见标点，只听得见意思。句子要短，转折要早，例子要具体；一口气说不完，就分成两句。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
-- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“口播不是把文章念出来。观众听不见标点，只听得见意思。句子要短，转折要早，例子要具体；一口气说不完，就分成两句。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S14] [YouTube：社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对「先写能说出口的句子」一节的术语/方法/规则（YouTube 社区准则，不是内容创意标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S15] [TikTok：社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对「每三十秒给一个落点」一节的术语/方法/规则（TikTok 社区准则，不是内容创意标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S29] [YouTube：上传编码建议](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对「身体也是台词」一节的术语/方法/规则（YouTube 上传编码建议，不是创作标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

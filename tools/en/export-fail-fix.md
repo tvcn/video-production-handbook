@@ -29,6 +29,10 @@ related: [tools.tutorial.export-h264, tools.tutorial.export-prores, shoot.camera
 depth: deep
 deep_minutes: 7
 source_kind: sourced
+sources:
+- S65
+- S29
+
 ---
 <p>Check in order: bad frames or offline media, disk space, codec support, special characters in the filename, hardware acceleration. Change one variable and log the result.</p>
 <!-- DIAGRAM_START -->
@@ -63,7 +67,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Check codec, disk space, and permissions; only then rebuild ”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
-- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Check codec, disk space, and permissions; only then rebuild ”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+- [S65] [ITU-T H.264](https://www.itu.int/rec/T-REC-H.264/en) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Find the failing step before reinstalling” section against H.264 codec standard, not platform upload rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S29] [YouTube: Upload Encoding Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against YouTube upload encoding recommendations, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

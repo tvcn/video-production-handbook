@@ -27,6 +27,10 @@ related: [story.story.scene-sequence, story.screenplay.scene-transition-writing,
 depth: deep
 deep_minutes: 5
 source_kind: sourced
+sources:
+- S41
+- S42
+
 ---
 <p>场景描述不是小说环境描写。写“桌上有一只没洗的杯子，水槽里泡着另一只”，不要写“她感到生活失控”。前者能拍，后者只能演。</p>
 <!-- DIAGRAM_START -->
@@ -59,7 +63,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“场景描述只写镜头拍得到的东西：光、动作、物件、声音；心理活动留给演员。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
-- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“场景描述只写镜头拍得到的东西：光、动作、物件、声音；心理活动留给演员。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S41] [美国编剧工会：合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对「只写摄影机能看到和听到的」一节的术语/方法/规则（WGA 合同与署名资源，不是中国劳动法）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S42] [Pixar in a Box：叙事课程](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Pixar 叙事课程，不是项目报价）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

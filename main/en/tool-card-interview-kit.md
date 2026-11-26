@@ -46,9 +46,10 @@ source_kind: experience
 <p>Do not pair two different camera brands and expect a one-click match; do not give the subject only one lav; do not change a battery mid-interview without stopping. Continuity is the value of an interview, not the number of angles.</p></section><section><h2 id="section-4">On set</h2><p>A camera for the medium, B for the close, a shotgun, and a backup lav. Test two-camera sync first.</p></section><section><h2 id="section-5">Avoid</h2><p>Do not set both cameras to the same framing; the edit has no choices.</p></section>
 <h2>Check</h2><ul><li>A is mid-shot, B is close-up, clearly different.</li><li>Shotgun and lav each record a usable track.</li><li>The two-camera test syncs and framings do not duplicate.</li></ul>
 
+<section><h2>Boundary</h2><p>This page only covers “Interview Two-Camera Kit”; it does not replace One-Light Kit, Live Streaming Kit, 16mm: Cinema Left the Theater. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 5 client brief and project review reviews under a one- or two-to-three-person team with a fixed budget and schedule; it discusses “Interview Two-Camera Kit”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 5 projects with one lead and a two-to-three-person crew, a fixed budget and schedule; it covers the decision order for “Interview Two-Camera Kit”, not an external laboratory test, multi-camera, union crews, stunts or high-risk sets.
 <!-- SOURCES_END -->
 

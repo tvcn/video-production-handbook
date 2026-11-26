@@ -28,7 +28,8 @@ review_due: '2027-02-26'
 related: [tools.capability.nle-compare, tools.guide.overheat-fix, shoot.lighting.night-interior]
 source_kind: sourced
 sources:
-- S31
+- S23
+- S29
 - S25
 ---
 <p>In a practical-lit night scene, keep lamps and windows colored, not blown to white. Lift the face half a stop with a small fill or wall bounce and leave the rest to post; control noise on set rather than fixing it later.</p>
@@ -45,7 +46,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Make the lamp in frame believable, then add a small face lig”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
-- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Make the lamp in frame believable, then add a small face lig”) against HD SDR gamut, transfer function and viewing conditions; not a substitute for an on-set test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Protect highlights, then lift the shadows” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S29] [YouTube: Upload Encoding Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against YouTube upload encoding recommendations, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

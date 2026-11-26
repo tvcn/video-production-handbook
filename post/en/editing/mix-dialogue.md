@@ -71,9 +71,10 @@ At the end, let the music leave before the picture does. The last bit of quiet i
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Mixing: Land the Dialogue Before the Music”; it does not replace Multilingual Subtitles: One Language at a Time, Music Editing: Let the Music Follow the Action, Composition: Tell the Eye Where to Look. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 5 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Mixing: Land the Dialogue Before the Music”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 5 post-production reviews under the listed software versions, source formats and delivery platform; it covers the operating order for “Mixing: Land the Dialogue Before the Music”, not an external laboratory test, unlisted versions, cinema masters, broadcast safety certification or legal advice.
 <!-- SOURCES_END -->
 

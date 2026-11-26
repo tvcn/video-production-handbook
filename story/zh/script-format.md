@@ -27,6 +27,10 @@ related: [story.storyboard.sequence-board, story.screenplay.short-drama-script, 
 depth: deep
 deep_minutes: 6
 source_kind: sourced
+sources:
+- S41
+- S42
+
 ---
 <p>剧本格式的目的，是让导演、摄影、录音、剪辑在同一页上找到场景、动作、对白和时间。场景头写地点与时间，动作段只写镜头能拍到的东西，对白上面标角色名。</p>
 <!-- DIAGRAM_START -->
@@ -57,7 +61,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“剧本格式不是给文学奖看的，它要让摄影、录音和剪辑一眼找到信息。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
-- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“剧本格式不是给文学奖看的，它要让摄影、录音和剪辑一眼找到信息。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S41] [美国编剧工会：合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对「剧本是工作文件，不是文学作品」一节的术语/方法/规则（WGA 合同与署名资源，不是中国劳动法）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S42] [Pixar in a Box：叙事课程](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Pixar 叙事课程，不是项目报价）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

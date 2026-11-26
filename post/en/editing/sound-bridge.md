@@ -28,7 +28,8 @@ review_due: '2027-02-26'
 source_kind: sourced
 related: [post.sound.sound-post, post.sound.sound-post-workflow, shoot.camera.axis-line]
 sources:
-- S34
+- S27
+- S35
 - S27
 ---
 <!-- DIAGRAM_START -->
@@ -68,10 +69,11 @@ J-cuts and L-cuts are bridges, not bandages. If the picture has a continuity err
 - The audio overlap stays under two seconds unless there is a deliberate design.
 - Watch it muted. The picture still works.
 
+<section><h2>Boundary</h2><p>This page only covers “Let Sound Cross the Cut: J-cuts and L-cuts”; it does not replace Fix the Noise Before You Build a Mood, Sound Post: The Order from Dialogue to Final Mix, Cross the Line and the Room Disappears. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Picture does not have to cut at the same time as sound. Let ”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
-- [S27] [ITU-R: BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“Picture does not have to cut at the same time as sound. Let ”) against ITU algorithms for loudness measurement and true peak, the basis referenced by EBU R128; not a substitute for an on-set test.
+- [S27] [ITU-R BS.1770: Loudness and True Peak](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Decide whose ear leads” section against BS.1770 loudness measurement, not microphone buying advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S35] [Avid: Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “J-cut: the next scene speaks first” section against Avid resource center, not an independent review; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

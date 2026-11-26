@@ -27,6 +27,7 @@ related: [shoot.multicam.multicam-live, shoot.multicam.multicam-sync, post.color
 source_kind: sourced
 sources:
 - S31
+- S23
 - S25
 ---
 <p>窗光、台灯、霓虹同时出现时，先决定画面主色温：白天偏窗、夜晚偏灯。然后用 gel 或补光把其他光源拉近主色温；不要全部中和成白色，会失去现场感。</p>
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“混合光不要全部打成白；保留窗光冷、灯泡暖，空间才有层次。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
-- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — 2026-11-26 访问。用于核对首段“混合光不要全部打成白；保留窗光冷、灯泡暖，空间才有层次。”中的术语与公开背景（HD SDR 的色域、传递函数与观看条件）；不替代现场测试。
+- [S31] [ARRI：电影系统](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对「混合光先选“一个主色温”」一节的术语/方法/规则（ARRI 摄影机、镜头与灯光资料，不是通用拍摄教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S23] [SMPTE：标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（SMPTE 标准入口，不是具体机型参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -29,6 +29,10 @@ source_kind: sourced
 related: [animation.2d.animation-walk, animation.principles.anticipation, formats.documentary.documentary-template]
 depth: deep
 deep_minutes: 6
+sources:
+- S12
+- S62
+
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -85,7 +89,7 @@ For a walk, watch the feet. If the planted foot slides, the character looks like
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A ball falls off a table. How many in-betweens you draw, and”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
-- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A ball falls off a table. How many in-betweens you draw, and”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S12] [Britannica: Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Decide the weight first” section against Britannica animation history, not software documentation; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S62] [Blender: Official Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Test at 12, finish at 24” section against Blender manual, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

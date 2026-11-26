@@ -27,11 +27,9 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [post.deep.deep-sound-mix, post.deep.deep-subtitle-delivery, shoot.camera.axis-line]
 sources:
+- S28
+- S29
 - S13
-- S14
-- S30
-- S34
-- S27
 source_kind: sourced
 ---
 <p>交付不是导出一个文件；母版、QC 和平台规格要一次对齐，否则上线后还要返工。 单看《母版：交付前定一个唯一版本》只能解决一个局部；把《母版：交付前定一个唯一版本》《技术检查：黑帧、静帧、断音》《平台多版本交付：一版母版，多版安全区》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
@@ -57,10 +55,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S13] [DCI](https://www.dcimovies.com/dci-specification/) — 2026-11-26 访问。用于核对首段“交付不是导出一个文件；母版、QC 和平台规格要一次对齐，否则上线后还要返工。”中的术语与公开背景（数字影院的分辨率、色彩、安全与交付规范入口）；不替代现场测试。
-- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“交付不是导出一个文件；母版、QC 和平台规格要一次对齐，否则上线后还要返工。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
-- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“交付不是导出一个文件；母版、QC 和平台规格要一次对齐，否则上线后还要返工。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
-- [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“交付不是导出一个文件；母版、QC 和平台规格要一次对齐，否则上线后还要返工。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
-- [S27] [ITU-R：BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — 2026-11-27 访问。用于核对首段“交付不是导出一个文件；母版、QC 和平台规格要一次对齐，否则上线后还要返工。”中的术语与公开背景（响度测量、真峰值与 EBU R128 所依据的 ITU 算法标准）；不替代现场测试。
+- [S28] [Netflix：合作伙伴帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对「问题」一节的术语/方法/规则（Netflix 交付帮助，不是通用平台规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S29] [YouTube：上传编码建议](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对「判断」一节的术语/方法/规则（YouTube 上传编码建议，不是创作标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S13] [DCI：数字电影系统规范](https://www.dcimovies.com/dci-specification/) — 2026-11-26 访问。用于核对「做法」一节的术语/方法/规则（DCI 数字电影规范，不是流媒体上传规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

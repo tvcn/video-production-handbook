@@ -31,6 +31,7 @@ source_kind: sourced
 sources:
 - S42
 - S43
+- S43
 ---
 <p>The first job is timing, not drawing. Mark seconds per shot and record voice first; let sound length set the shot. Do not draw everything then add voice; pacing will be wrong.</p>
 <!-- DIAGRAM_START -->
@@ -46,7 +47,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S42] [Pixar: Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An animatic fixes shot length and cut points first; rough dr”) against Story structure, character and visual storytelling lessons; not a substitute for an on-set test.
-- [S43] [BFI: BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An animatic fixes shot length and cut points first; rough dr”) against UK film archive, restoration and exhibition resources; not a substitute for an on-set test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Animatic sets shot length first” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S43] [BFI: National Archive](https://www.bfi.org.uk/bfi-national-archive) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against BFI archive material, not distribution rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

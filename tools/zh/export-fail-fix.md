@@ -27,6 +27,10 @@ related: [tools.tutorial.export-h264, tools.tutorial.export-prores, shoot.camera
 depth: deep
 deep_minutes: 7
 source_kind: sourced
+sources:
+- S65
+- S29
+
 ---
 <p>按顺序排查：时间线是否有坏帧/离线素材、磁盘是否满、编码器是否支持、文件名是否有特殊字符、是否开了硬件加速。每次只改一项，记录结果。</p>
 <!-- DIAGRAM_START -->
@@ -61,7 +65,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“导出失败先查编码、磁盘空间、权限；三样都排除，再重建项目。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
-- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“导出失败先查编码、磁盘空间、权限；三样都排除，再重建项目。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
+- [S65] [ITU-T H.264](https://www.itu.int/rec/T-REC-H.264/en) — 2026-11-26 访问。用于核对「导出失败先看“哪一步”，不要重装软件」一节的术语/方法/规则（H.264 编码标准，不是平台上传规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S29] [YouTube：上传编码建议](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（YouTube 上传编码建议，不是创作标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

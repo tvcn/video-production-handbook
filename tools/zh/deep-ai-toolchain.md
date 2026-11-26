@@ -27,11 +27,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [tools.deep.deep-backup-321, tools.deep.deep-camera-lens-kit, shoot.camera.axis-line]
 sources:
-- S14
-- S15
-- S29
-- S23
-- S30
+- S19
+- S20
 source_kind: sourced
 ---
 <p>AI 工具不是一键出片；生成、配音、渲染和人工复核必须排成一条可追溯的链。 单看《AI 视频工具：先看可控性》只能解决一个局部；把《AI 视频工具：先看可控性》《AI 音频工具：授权与音质》《云渲染：成本与传输》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
@@ -57,10 +54,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“AI 工具不是一键出片；生成、配音、渲染和人工复核必须排成一条可追溯的链。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
-- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“AI 工具不是一键出片；生成、配音、渲染和人工复核必须排成一条可追溯的链。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
-- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“AI 工具不是一键出片；生成、配音、渲染和人工复核必须排成一条可追溯的链。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“AI 工具不是一键出片；生成、配音、渲染和人工复核必须排成一条可追溯的链。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“AI 工具不是一键出片；生成、配音、渲染和人工复核必须排成一条可追溯的链。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S19] [GAN 原始论文（2014）](https://arxiv.org/abs/1406.2661) — 2026-11-26 访问。用于核对「问题」一节的术语/方法/规则（GAN 原始论文，不是产品评测）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S20] [DDPM 原始论文（2020）](https://arxiv.org/abs/2006.11239) — 2026-11-26 访问。用于核对「判断」一节的术语/方法/规则（DDPM 原始论文，不是产品评测）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

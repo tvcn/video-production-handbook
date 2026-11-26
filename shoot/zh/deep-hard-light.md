@@ -27,11 +27,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [shoot.deep.deep-log-exposure, shoot.deep.deep-multicam, post.delivery.archive]
 sources:
-- S16
-- S23
 - S31
-- S52
-- S53
+- S23
 source_kind: sourced
 ---
 <p>硬光不是缺点；问题是硬光、实用光和色温三种来源有没有被安排在同一张脸上。 单看《硬光：影子也是构图》只能解决一个局部；把《硬光：影子也是构图》《混合光：两种色温别打平》《实用光：画面里的灯怎么用》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
@@ -57,10 +54,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“硬光不是缺点；问题是硬光、实用光和色温三种来源有没有被安排在同一张脸上。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“硬光不是缺点；问题是硬光、实用光和色温三种来源有没有被安排在同一张脸上。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“硬光不是缺点；问题是硬光、实用光和色温三种来源有没有被安排在同一张脸上。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
-- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“硬光不是缺点；问题是硬光、实用光和色温三种来源有没有被安排在同一张脸上。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
-- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“硬光不是缺点；问题是硬光、实用光和色温三种来源有没有被安排在同一张脸上。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
+- [S31] [ARRI：电影系统](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对「问题」一节的术语/方法/规则（ARRI 摄影机、镜头与灯光资料，不是通用拍摄教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S23] [SMPTE：标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对「判断」一节的术语/方法/规则（SMPTE 标准入口，不是具体机型参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

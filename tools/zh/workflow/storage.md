@@ -28,6 +28,11 @@ source_kind: sourced
 related: [tools.calculator.storage-calculator, tools.producing.stripboard, shoot.camera.composition]
 depth: deep
 deep_minutes: 7
+sources:
+- S70
+- S29
+- S57
+
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -81,10 +86,12 @@ AI 项目还要存提示词、种子、参考图和生成记录。否则三个�
 <ul><li>现场卡一份</li><li>移动硬盘一份</li><li>第三份异地或云端</li><li>三份不放同一个包</li><li>拍完当天备份</li><li>随机播放三个文件校验</li><li>文件名带日期版本</li><li>素材代理输出分开</li><li>按码率算容量留两成</li><li>持续写入速度够</li></ul><p>存储的安全感不来自硬盘多大，来自你能说出三份分别在哪。</p>
 <!-- DEEP_DIVE_END -->
 
+<section><h2>边界</h2><p>本页只解决「素材管理：当天备份，命名可查」这一个问题；不替代 存储时长计算器：卡能录多久、拍摄日程：把剧本拆成条、构图：先让观众知道看哪里。如果现场问题属于后者，先读对应页，不要在本页继续加参数。</p></section>
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“拍摄结束前做完备份，文件名带日期、场次、机位。找不到的素材等于没拍。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
-- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“拍摄结束前做完备份，文件名带日期、场次、机位。找不到的素材等于没拍。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
+- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对「3-2-1 备份」一节的术语/方法/规则（FFmpeg 编解码/封装文档，不是交付规范）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S29] [YouTube：上传编码建议](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对「命名规则」一节的术语/方法/规则（YouTube 上传编码建议，不是创作标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S57] [Blackmagic：URSA Mini Pro 12K 规格](https://www.blackmagicdesign.com/products/blackmagicursaminipro/techspecs) — 2026-11-26 访问。用于核对「项目归档」一节的术语/方法/规则（URSA Mini Pro 12K 官方规格，不是独立测试）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

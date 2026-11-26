@@ -28,6 +28,10 @@ source_kind: sourced
 related: [tools.capability.reflector, tools.guide.rent-camera, shoot.camera.composition]
 depth: deep
 deep_minutes: 6
+sources:
+- S29
+- S28
+
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -77,10 +81,11 @@ deep_minutes: 6
 <ul><li>音乐、字体、素材有书面授权</li><li>肖像和场地授权齐全</li><li>AI 素材已标注</li><li>字幕逐字校对</li><li>片头片尾完整</li><li>响度和码率符合平台</li><li>封面三种比例都不裁主体</li><li>文件名写日期、项目、版本、平台</li><li>原始工程和导出已备份</li><li>发布版本留只读归档</li></ul><p>发布不是结束，是把这一版变成下一版的地基。</p>
 <!-- DEEP_DIVE_END -->
 
+<section><h2>边界</h2><p>本页只解决「发布前 12 项检查：别在最后一小时翻车」这一个问题；不替代 反光板：五合一怎么用、租相机：保险、押金、检查、构图：先让观众知道看哪里。如果现场问题属于后者，先读对应页，不要在本页继续加参数。</p></section>
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“授权、技术、发布三组检查。每一项都能在十分钟内查完，别等到上传后才看到黑帧和错字。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
-- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“授权、技术、发布三组检查。每一项都能在十分钟内查完，别等到上传后才看到黑帧和错字。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
+- [S29] [YouTube：上传编码建议](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对「先查授权」一节的术语/方法/规则（YouTube 上传编码建议，不是创作标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S28] [Netflix：合作伙伴帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对「再查技术」一节的术语/方法/规则（Netflix 交付帮助，不是通用平台规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

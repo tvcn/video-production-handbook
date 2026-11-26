@@ -27,6 +27,7 @@ related: [story.screenplay.adaptation, story.storyboard.animatic-boarding, shoot
 source_kind: sourced
 sources:
 - S42
+- S16
 - S41
 ---
 <p>“再难过一点”通常无效。换成可执行的动作：把杯子推到桌边、看对方一眼再低头、说到一半停住。动作变了，情绪自然变。</p>
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S42] [Khan Academy：Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对首段“给演员调整时给动词：走慢点、压住火、别碰她；别给“再自然一点”。”中的术语与公开背景（故事结构、角色与视觉叙事教学）；不替代现场测试。
-- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“给演员调整时给动词：走慢点、压住火、别碰她；别给“再自然一点”。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S42] [Pixar in a Box：叙事课程](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对「给动作，不给情绪形容词」一节的术语/方法/规则（Pixar 叙事课程，不是项目报价）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S16] [BBC：编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（BBC 编辑准则，不是平台流量规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

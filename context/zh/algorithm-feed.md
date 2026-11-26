@@ -23,10 +23,8 @@ authors:
 - TVCN 研究组
 sources:
 - S01
-- S02
-- S03
 - S16
-- S10
+- S17
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [context.history.animation.animation-history, context.history.camera-obscura, formats.documentary.documentary-template]
@@ -46,10 +44,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“算法推荐按停留和互动放大相似内容；你越停，它越认定你喜欢。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
-- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“算法推荐按停留和互动放大相似内容；你越停，它越认定你喜欢。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
-- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“算法推荐按停留和互动放大相似内容；你越停，它越认定你喜欢。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
-- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“算法推荐按停留和互动放大相似内容；你越停，它越认定你喜欢。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
-- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“算法推荐按停留和互动放大相似内容；你越停，它越认定你喜欢。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S01] [UNESCO：媒体与信息素养课程](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对「先看观众看完没有，再看平台推不推」一节的术语/方法/规则（媒体与信息素养框架，不是具体平台规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S16] [BBC：编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（BBC 编辑准则，不是平台流量规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S17] [路透社：信任原则](https://reutersagency.com/about/our-trust-principles/) — 2026-11-26 访问。用于核对「来源边界」一节的术语/方法/规则（路透社信任原则，不是一般创作建议）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

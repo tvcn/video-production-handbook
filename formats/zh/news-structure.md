@@ -27,10 +27,8 @@ related: [formats.news.news-template, formats.ad.product-ad, story.screenplay.lo
 depth: deep
 deep_minutes: 6
 sources:
-- S14
-- S15
+- S83
 - S16
-- S29
 test_context: 复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。
 known_failures: 已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。
 verified: 2026-11-22
@@ -67,9 +65,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“新闻结构先给现场，再给核实；先讲背景，观众已经走了。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
-- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“新闻结构先给现场，再给核实；先讲背景，观众已经走了。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
-- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“新闻结构先给现场，再给核实；先讲背景，观众已经走了。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
-- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“新闻结构先给现场，再给核实；先讲背景，观众已经走了。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S83] [美联社：新闻价值观与原则](https://www.ap.org/about/news-values-and-principles/) — 2026-11-26 访问。用于核对「现场、核实、影响，一段回答一个问题」一节的术语/方法/规则（AP 新闻价值观，不是平台流量规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S16] [BBC：编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（BBC 编辑准则，不是平台流量规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

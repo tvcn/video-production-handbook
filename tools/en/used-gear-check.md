@@ -47,6 +47,6 @@ source_kind: experience
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 5 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Used Gear Check: Shutter, Mount, Sensor”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 5 production reviews under the listed software/camera versions and delivery platform; it covers the operating order for “Used Gear Check: Shutter, Mount, Sensor”, not an external laboratory test, unlisted versions, cinema masters, broadcast safety certification or legal advice.
 <!-- SOURCES_END -->
 

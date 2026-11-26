@@ -29,6 +29,7 @@ related: [tools.capability.tripod, tools.guide.used-gear-check, shoot.camera.com
 source_kind: sourced
 sources:
 - S41
+- S22
 - S42
 ---
 <p>One page: who the audience follows, what blocks them, and what change is visible at the end. No shot list, no director&#x27;s statement; those belong to later steps.</p>
@@ -45,7 +46,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A treatment does not decorate a script; it lets the client s”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
-- [S42] [Pixar: Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A treatment does not decorate a script; it lets the client s”) against Story structure, character and visual storytelling lessons; not a substitute for an on-set test.
+- [S41] [WGA: Contract and Credit Resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “A one-page treatment answers three questions” section against WGA contract and credit resources, not Chinese employment law; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S22] [NPC: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against China's Civil Code, not industry custom; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

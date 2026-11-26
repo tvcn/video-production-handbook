@@ -29,6 +29,11 @@ source_kind: sourced
 related: [animation.principles.anticipation, animation.stop-motion.armature, formats.documentary.documentary-template]
 depth: deep
 deep_minutes: 6
+sources:
+- S63
+- S62
+- S59
+
 ---
 <!-- DIAGRAM_START -->
 ## Diagram
@@ -82,10 +87,12 @@ When the cycle is done, put the first and last frames side by side. If they do n
 <ul><li>Four poses per half step</li><li>Pelvis and ribcage first</li><li>Widest stride at contact</li><li>Lowest center at down</li><li>Straight support leg at passing</li><li>Planted foot does not slide</li><li>Heel, ball, toe clear</li><li>Arms opposite and lagging</li><li>Head one frame behind ribcage</li><li>Fatigue adds drag, not slow motion</li></ul><p>Every walk-cycle problem comes back to two places: does the center bounce, and does the planted foot slide?</p>
 <!-- DEEP_DIVE_END -->
 
+<section><h2>Boundary</h2><p>This page only covers “The Walk Cycle: The Foot Plant”; it does not replace Anticipation: Show the Next Move, Armature: It Must Stand Before It Acts, Documentary Template: One Person, One Thing, One Change. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Walks look hard because feet slide, weight is wrong, and lim”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
-- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Walks look hard because feet slide, weight is wrong, and lim”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Lock the four poses” section against Toon Boom documentation, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S62] [Blender: Official Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “The planted foot cannot slide” section against Blender manual, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S59] [Adobe: After Effects Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Let hands and head lag; judge the loop by its ends” section against official After Effects guide, not a verdict on compositing aesthetics; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

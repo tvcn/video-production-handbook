@@ -34,7 +34,7 @@ source_kind: experience
   <figcaption>看“装上机身、镜头、监视器和电池”和“锁紧云台，轻推三下”两处，判断这个参数能不能对应到一个具体的拍摄问题。</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">选型先看什么</h2><ul><li><strong>承重：</strong>按机身、镜头、电池、监视器和云台的总重选，至少留 30% 余量。</li><li><strong>高度与稳定：</strong>不要只看最高高度；升到最高会放大晃动，先试常用高度。</li><li><strong>脚管与云台：</strong>脚管锁、水平调节和云台回弹都要试；沙袋挂钩比参数更实用。</li></ul><h2 id="section-2">什么时候不要用</h2></section><section><h2 id="section-3">现场</h2><p>装上机身、镜头、监视器和电池，锁紧云台；轻推三下，看脚管和云台是否回弹。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>装上机身、镜头、监视器和电池。</li><li>锁紧云台，轻推三下。</li><li>看脚管和云台是否回弹。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别按空机重量选脚架；装上镜头和电池，承重可能已经超了。</p></section><figure class="article-audio"><audio controls preload="none" src="../../assets/audio/zh/tool-tripod.zh.mp3"></audio><figcaption>20 秒语音演示：一个检查点和最常见的失败。文字稿与步骤在正文里。</figcaption></figure>
+<section><h2 id="section-1">选型先看什么</h2><ul><li><strong>承重：</strong>按机身、镜头、电池、监视器和云台的总重选，至少留 30% 余量。</li><li><strong>高度与稳定：</strong>不要只看最高高度；升到最高会放大晃动，先试常用高度。</li><li><strong>脚管与云台：</strong>脚管锁、水平调节和云台回弹都要试；沙袋挂钩比参数更实用。</li></ul></section><section><h2 id="section-3">现场</h2><p>装上机身、镜头、监视器和电池，锁紧云台；轻推三下，看脚管和云台是否回弹。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>装上机身、镜头、监视器和电池。</li><li>锁紧云台，轻推三下。</li><li>看脚管和云台是否回弹。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别按空机重量选脚架；装上镜头和电池，承重可能已经超了。</p></section><figure class="article-audio"><audio controls preload="none" src="../../assets/audio/zh/tool-tripod.zh.mp3"></audio><figcaption>20 秒语音演示：一个检查点和最常见的失败。文字稿与步骤在正文里。</figcaption></figure>
 <h2>验收</h2><ul><li>称过完整配置重量，与脚架标称承重对照。</li><li>锁紧后轻推三下，脚管不滑、云台不回弹。</li><li>最高高度不是主要购买理由，稳定性优先。</li></ul>
 
 
@@ -42,9 +42,10 @@ source_kind: experience
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>不解决什么</h2><p>本页只比较「三脚架：云台与承重」的能力与关键参数，不解决具体型号的实时价格、保修、卡口/固件兼容和个体品控；这些要看官方规格页、租赁商实测和退货条款。若问题涉及拍摄方案、预算或现场故障，先回到对应方法页。</p></section>
 <!-- SOURCES_START -->
 ## 经验说明
 
-经验说明：本页来自 7 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「三脚架：云台与承重」；不含外部实验室测试，条件变化时结论可能失效。
+经验说明：本页来自 7 次器材试用与现场回放，条件为页面所列型号/固件、室内外各一次；只讨论「三脚架：云台与承重」的选型与使用边界，不含外部实验室测试；不适用于未列型号、个体品控、保修/租赁合同与安全认证。
 <!-- SOURCES_END -->
 

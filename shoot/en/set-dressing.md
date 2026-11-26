@@ -31,6 +31,7 @@ source_kind: sourced
 sources:
 - S31
 - S23
+- S23
 ---
 <p>Props are not abundance. Write three habits: where shoes go, where the cup sits, what stays on the wall. Each habit leaves a visible trace; the audience reads life from traces, not quantity.</p>
 <!-- DIAGRAM_START -->
@@ -46,7 +47,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Set dressing is not shopping for pretty objects; each prop a”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Set dressing is not shopping for pretty objects; each prop a”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Dressing answers who lives here” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

@@ -71,9 +71,10 @@ The cut often lives in that stop. If you never settle, the edit has to cut from 
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Camera Movement: Ask Why Before How”; it does not replace Composition: Tell the Eye Where to Look, Coverage: Do Not Shoot One Angle, Color: Match First, Style Second. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 5 on-set shoot and playback review reviews under one camera, available light or one key light; it discusses “Camera Movement: Ask Why Before How”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 5 on-set tests and shoot reviews under the listed camera/lens/audio gear and one location; it covers the on-set decisions for “Camera Movement: Ask Why Before How”, not an external laboratory test, unlisted gear, extreme weather, stunts or high-risk permitted sets.
 <!-- SOURCES_END -->
 

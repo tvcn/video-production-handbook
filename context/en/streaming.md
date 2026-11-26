@@ -26,10 +26,8 @@ authors:
 - TVCN Research Desk
 sources:
 - S10
-- S01
-- S02
-- S03
-- S16
+- S11
+- S50
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [context.history.technicolor, context.history.vfx-history, formats.documentary.documentary-template]
@@ -43,7 +41,7 @@ source_kind: sourced
   <figcaption>Watch “Compare runtimes for the same genre on streaming” and “Count what the first thirty seconds deliver.”; judge what old problem it replaced and what new limit it added.</figcaption>
 </figure>
 <!-- DIAGRAM_END -->
-<section><h2 id="section-1">What changed</h2><h2 id="section-2">How to use it now</h2><ul><li>For platform delivery, confirm artwork, title, first frame, captions and multilingual metadata; do not deliver only a video file.</li><li>For series, design the first three seconds and the previous episode's ending as entry points, not an afterthought.</li><li>When studying streaming history, read recommendation, rights windows and production budgets together, not only convenience.</li></ul><h2 id="section-3">Do not misread</h2><p>Do not cut every film into the same opening for recommendations. The entry must be clear; not every film needs a three-second twist.</p><h2 id="section-4">Streaming is not “upload the film”; it redistributes bitrate, caching and rights</h2>
+<section><h2 id="section-2">How to use it now</h2><ul><li>For platform delivery, confirm artwork, title, first frame, captions and multilingual metadata; do not deliver only a video file.</li><li>For series, design the first three seconds and the previous episode's ending as entry points, not an afterthought.</li><li>When studying streaming history, read recommendation, rights windows and production budgets together, not only convenience.</li></ul><h2 id="section-3">Do not misread</h2><p>Do not cut every film into the same opening for recommendations. The entry must be clear; not every film needs a three-second twist.</p><h2 id="section-4">Streaming is not “upload the film”; it redistributes bitrate, caching and rights</h2>
 <p>Streaming turns delivery from one master into multiple bitrates, devices and regions. Viewers see adaptive bitrate, not your master; network, device and rights decide the final image.</p>
 <h3>Common misreading</h3>
 <p>“Upload 4K and viewers see 4K” is inaccurate. Platforms transcode by bandwidth and device; many viewers see 1080p or less. Another misreading says streaming has no schedule; review, subtitles and regional rights all affect launch.</p>
@@ -54,10 +52,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Streaming turned viewing from a schedule into a list, and re”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Streaming turned viewing from a schedule into a list, and re”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Streaming turned viewing from a schedule into a list, and re”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Streaming turned viewing from a schedule into a list, and re”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Streaming turned viewing from a schedule into a list, and re”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S10] [BFI: Film History and Moving Image Research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Streaming is not “upload the film”; it redistributes bitrate, caching and rights” section against BFI film history and archive, not gear reviews; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S11] [Britannica: Photography](https://www.britannica.com/technology/photography) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “How to use it now” section against Britannica photography entry, not a how-to manual; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S50] [Kodak: Motion Picture](https://www.kodak.com/en/motion/home) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Do not misread” section against Kodak film and motion-picture material, not digital settings; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

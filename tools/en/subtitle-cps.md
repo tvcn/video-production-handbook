@@ -51,6 +51,6 @@ source_kind: experience
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 4 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Subtitle CPS: Can They Read It?”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page documents the parameter limits of “Subtitle CPS: Can They Read It?”, drawing on 4 production calculations and on-set playbacks under the listed camera/firmware and distances; it is for estimates only, not unlisted gear, extreme temperatures, legal/platform compliance or cinema masters.
 <!-- SOURCES_END -->
 

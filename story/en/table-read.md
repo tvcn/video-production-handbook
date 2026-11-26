@@ -31,6 +31,7 @@ source_kind: sourced
 sources:
 - S41
 - S42
+- S42
 ---
 <p>Bring two people who do not know the story, read it start to finish without interruption. Log three columns: unclear, boring, unbelievable. Do not log “add a shot here”; that is the next pass.</p>
 <!-- DIAGRAM_START -->
@@ -46,7 +47,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A table read tracks three problems only: unclear, boring, ou”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
-- [S42] [Pixar: Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A table read tracks three problems only: unclear, boring, ou”) against Story structure, character and visual storytelling lessons; not a substitute for an on-set test.
+- [S41] [WGA: Contract and Credit Resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “A table read logs three kinds of problem” section against WGA contract and credit resources, not Chinese employment law; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

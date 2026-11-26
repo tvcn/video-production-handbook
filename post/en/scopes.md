@@ -28,6 +28,8 @@ review_due: '2027-02-26'
 related: [post.accessibility.sdh, post.color.secondary-correction, shoot.camera.composition]
 source_kind: sourced
 sources:
+- S24
+- S25
 - S30
 - S24
 ---
@@ -45,7 +47,8 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Scopes answer three things: dead blacks, clipped whites, and”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
-- [S24] [ACESCentral: ACES](https://acescentral.com/) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“Scopes answer three things: dead blacks, clipped whites, and”) against ACES color encoding, ACEScg and delivery/archive workflows; not a substitute for an on-set test.
+- [S24] [ACESCentral: ACES](https://acescentral.com/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Waveform for luma, vector for color, parade for separation” section against ACES color specification, not a grading tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against BT.709 HD television parameters, not on-set exposure advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S30] [DaVinci Resolve: Official Documentation](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “On set” section against official Resolve product/documentation entry, not a third-party tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

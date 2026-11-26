@@ -30,6 +30,8 @@ source_kind: sourced
 sources:
 - S67
 - S28
+- S23
+- S28
 ---
 <p>Set bitrate at 70% of upload, keyframe every two seconds, audio 128–192 kbps. High resolution without bitrate turns motion into blocks; stable 720p beats stuttering 4K.</p>
 <!-- DIAGRAM_START -->
@@ -45,7 +47,8 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S67] [IETF: RFC 8216: HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Calculate uplink before bitrate, and always keep a local rec”) against HLS segments, playlists and playback; not a substitute for an on-set test.
-- [S28] [Netflix Partner Help](https://partnerhelp.netflixstudios.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Calculate uplink before bitrate, and always keep a local rec”) against Public entry for delivery specs, HDR/SDR and QC; not a substitute for an on-set test.
+- [S67] [IETF: RFC 8216 (HLS)](https://datatracker.ietf.org/doc/html/rfc8216) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Live starts with staying up, then looking good” section against HLS protocol spec, not live-operations advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S28] [Netflix: Partner Help](https://partnerhelp.netflixstudios.com/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against Netflix delivery help, not general platform rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “On set” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

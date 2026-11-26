@@ -45,9 +45,10 @@ source_kind: experience
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Notes to Actors: One Executable Sentence”; it does not replace Escalation: Same Wall, Higher Cost, Performance Scale: Closer Camera, Smaller Action, Composition: Tell the Eye Where to Look. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 7 table read and pre-shoot rehearsal reviews under a three-to-eight-page scene with one primary point of view; it discusses “Notes to Actors: One Executable Sentence”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 7 table reads, rehearsals or on-set reviews with one lead and a two-to-three-person crew; it covers the decisions and actions for “Notes to Actors: One Executable Sentence”, not an external laboratory test, multi-camera, union crews, stunts or high-risk sets.
 <!-- SOURCES_END -->
 

@@ -29,7 +29,6 @@ related: [animation.deep.deep-render-budget, animation.deep.deep-rig-handoff, fo
 sources:
 - S62
 - S63
-- S12
 - S59
 source_kind: sourced
 ---
@@ -56,9 +55,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“循环不是把首尾接上，而是让重心、接触和节奏在同一拍里闭合。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
-- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“循环不是把首尾接上，而是让重心、接触和节奏在同一拍里闭合。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
-- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“循环不是把首尾接上，而是让重心、接触和节奏在同一拍里闭合。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
-- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“循环不是把首尾接上，而是让重心、接触和节奏在同一拍里闭合。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「问题」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对「判断」一节的术语/方法/规则（Toon Boom 官方文档，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S59] [Adobe：After Effects 官方指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对「做法」一节的术语/方法/规则（After Effects 官方指南，不是合成美学结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

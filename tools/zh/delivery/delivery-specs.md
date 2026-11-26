@@ -28,6 +28,10 @@ source_kind: sourced
 related: [tools.calculator.dof-calculator, tools.tutorial.dual-system-sync, shoot.camera.composition]
 depth: deep
 deep_minutes: 7
+sources:
+- S29
+- S28
+
 ---
 <!-- DIAGRAM_START -->
 ## 图解
@@ -93,7 +97,7 @@ deep_minutes: 7
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“交付不是点导出。先问平台要什么：比例、分辨率、帧率、码率、色彩、声道、文件名。做一个能重复的模板，交付前自己从头播一遍。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
-- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“交付不是点导出。先问平台要什么：比例、分辨率、帧率、码率、色彩、声道、文件名。做一个能重复的模板，交付前自己从头播一遍。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
+- [S29] [YouTube：上传编码建议](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对「画面：尺寸、帧率、码率」一节的术语/方法/规则（YouTube 上传编码建议，不是创作标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S28] [Netflix：合作伙伴帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对「交付前，自己从头播一遍」一节的术语/方法/规则（Netflix 交付帮助，不是通用平台规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -29,6 +29,7 @@ related: [story.directing.directing-nonactors, story.story.ending-choice, shoot.
 source_kind: sourced
 sources:
 - S42
+- S16
 - S41
 ---
 <p>First-time directors overestimate three things: shoot days, actor availability and post patience. Write three to five scenes, two to three characters, one main location. Every extra location adds a permit, a move and weather risk.</p>
@@ -45,7 +46,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S42] [Pixar: Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“On a first directing job, protect the performance and the sc”) against Story structure, character and visual storytelling lessons; not a substitute for an on-set test.
-- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“On a first directing job, protect the performance and the sc”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Your first feature should be the one you can finish” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S16] [BBC: Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against BBC editorial guidelines, not platform growth rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

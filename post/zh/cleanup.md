@@ -27,6 +27,7 @@ related: [post.color.color, post.color.color-management, shoot.camera.compositio
 source_kind: sourced
 sources:
 - S30
+- S59
 - S35
 ---
 <p>移除电线、麦克风、灯架前，先看背景：纯墙容易补，纹理、树叶、人群难补。拍摄时多拍一条“干净板”或空镜，后期才有源可补。</p>
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“清理穿帮不是把画面擦空，而是去掉错误的东西，保留观众需要的信息。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
-- [S35] [Avid 资源中心](https://www.avid.com/resource-center) — 2026-11-26 访问。用于核对首段“清理穿帮不是把画面擦空，而是去掉错误的东西，保留观众需要的信息。”中的术语与公开背景（Media Composer、协作与交付的资源入口）；不替代现场测试。
+- [S30] [DaVinci Resolve：官方文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对「擦除先问“背景有没有信息”」一节的术语/方法/规则（Resolve 官方产品/文档入口，不是第三方教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S59] [Adobe：After Effects 官方指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（After Effects 官方指南，不是合成美学结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

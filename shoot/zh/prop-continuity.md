@@ -26,6 +26,7 @@ review_due: '2027-02-26'
 related: [shoot.lighting.ratio, shoot.safety.risk-assessment, post.color.color]
 source_kind: sourced
 sources:
+- S31
 - S23
 - S31
 ---
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“道具连贯靠照片：开机前拍桌面、拍手、拍衣服，收工前再拍一次。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“道具连贯靠照片：开机前拍桌面、拍手、拍衣服，收工前再拍一次。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
+- [S31] [ARRI：电影系统](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对「道具连续性靠“照片+表格”，不靠记忆」一节的术语/方法/规则（ARRI 摄影机、镜头与灯光资料，不是通用拍摄教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S23] [SMPTE：标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（SMPTE 标准入口，不是具体机型参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

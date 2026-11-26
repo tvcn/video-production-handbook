@@ -27,7 +27,9 @@ review_due: '2027-02-26'
 source_kind: sourced
 related: [shoot.production.b-roll, shoot.blocking.blocking, post.color.color]
 sources:
-- S23
+- S31
+- S52
+- S53
 - S31
 ---
 <!-- DIAGRAM_START -->
@@ -86,7 +88,8 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“两个人对话，摄影机跨到桌子另一边，观众会以为他们换了位置。先定一条线，再决定要不要跨。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“两个人对话，摄影机跨到桌子另一边，观众会以为他们换了位置。先定一条线，再决定要不要跨。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
+- [S31] [ARRI：电影系统](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对「先在地上画一条线」一节的术语/方法/规则（ARRI 摄影机、镜头与灯光资料，不是通用拍摄教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对「什么时候可以跨」一节的术语/方法/规则（ALEXA 35 官方规格，不是独立测试）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对「一个人拍对话，先拍干净的单人」一节的术语/方法/规则（FX6 官方规格，不是独立测试）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

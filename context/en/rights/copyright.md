@@ -34,10 +34,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 sources:
 - S02
-- S01
 - S03
-- S16
-- S10
+- S22
 related: [context.law.data-security, context.deep.deep-ai-regulation, formats.documentary.documentary-template]
 deep_minutes: 8
 source_kind: sourced
@@ -81,10 +79,8 @@ Label AI generation, digital humans, and synthetic voice as required. Disclosure
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Footage, music, fonts, likeness, and location are five separ”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
-- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Footage, music, fonts, likeness, and location are five separ”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
-- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Footage, music, fonts, likeness, and location are five separ”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Footage, music, fonts, likeness, and location are five separ”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
-- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Footage, music, fonts, likeness, and location are five separ”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+- [S02] [WIPO: Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “The five-item list” section against WIPO copyright FAQ, not Chinese statute; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S03] [NPC: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “CC is not free commercial use” section against China's Personal Information Protection Law, not content copyright; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S22] [NPC: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Platform rules and disclosure” section against China's Civil Code, not industry custom; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

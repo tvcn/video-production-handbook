@@ -29,7 +29,9 @@ review_due: '2027-02-26'
 related: [animation.stop-motion.stop-motion, animation.stop-motion.stop-motion-motion-blur, formats.documentary.documentary-template]
 source_kind: sourced
 sources:
-- S12
+- S63
+- S62
+- S59
 - S63
 ---
 <p>The key is not how high the leg lifts but when the foot lands and when the body is lowest. Mark contact and airborne frames, then in-between; a wrong contact makes the whole cycle slide.</p>
@@ -46,7 +48,8 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Set the center of gravity and footfall order before arms; wr”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
-- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Set the center of gravity and footfall order before arms; wr”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Run cycles start at the contact frame” section against Toon Boom documentation, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S62] [Blender: Official Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against Blender manual, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S59] [Adobe: After Effects Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “On set” section against official After Effects guide, not a verdict on compositing aesthetics; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

@@ -25,6 +25,10 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [formats.corporate.corporate-video-breakdown, formats.corporate.corporate-video-structure, story.screenplay.logline]
 source_kind: sourced
+sources:
+- S16
+- S42
+
 ---
 <p>A brand-film template uses claim, evidence, landing; the claim must be opposable and the evidence specific.</p>
 <!-- DIAGRAM_START -->
@@ -42,10 +46,11 @@ source_kind: sourced
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Brand Film Template: Stance, Evidence, Landing”; it does not replace Corporate Video Breakdown: Six Beats in Practice, Corporate Video Structure: Six Beats, The One-Line Story: Who Wants What, and What Stands in the Way. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Stance, evidence, landing. The stance must be arguable and t”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
-- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Stance, evidence, landing. The stance must be arguable and t”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S16] [BBC: Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “A usable 45-second segment table” section against BBC editorial guidelines, not platform growth rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Fill three lines before rolling” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

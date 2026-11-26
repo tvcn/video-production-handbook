@@ -26,7 +26,9 @@ review_due: '2027-02-26'
 related: [tools.guide.rent-lighting, tools.tutorial.restore-test, shoot.camera.composition]
 source_kind: sourced
 sources:
-- S32
+- S31
+- S52
+- S53
 - S33
 ---
 <p>日租便宜但缺备件、取还远、保险不覆盖，停机一天可能比租金更贵。先问：有没有同型号备机、能否提前一天取、损坏责任怎么算、技术支援几点到几点。</p>
@@ -43,7 +45,8 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S32] [Sony 专业影像支持](https://pro.sony/ue_US/support) — 2026-11-26 访问。用于核对首段“租相机先买保险、交押金、当面检查；划痕和坏点拍视频留证。”中的术语与公开背景（专业摄影机与镜头的支持、固件与文档）；不替代现场测试。
-- [S33] [Canon 支持](https://www.usa.canon.com/support) — 2026-11-26 访问。用于核对首段“租相机先买保险、交押金、当面检查；划痕和坏点拍视频留证。”中的术语与公开背景（相机、镜头与固件的官方支持入口）；不替代现场测试。
+- [S31] [ARRI：电影系统](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对「租机先算“停机成本”，不只算日租」一节的术语/方法/规则（ARRI 摄影机、镜头与灯光资料，不是通用拍摄教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（ALEXA 35 官方规格，不是独立测试）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对「怎么做」一节的术语/方法/规则（FX6 官方规格，不是独立测试）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

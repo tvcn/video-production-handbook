@@ -28,6 +28,7 @@ source_kind: sourced
 sources:
 - S12
 - S62
+- S62
 ---
 <p>动作开始前，先做一个相反的小动作：跳之前先蹲，打之前先收手，跑之前先后仰。这个反向帧让观众预判力量方向，动作才不突然。</p>
 <!-- DIAGRAM_START -->
@@ -46,7 +47,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“预备动作让观众提前知道要发生什么；没有预备，动作像突然被剪进来。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
-- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“预备动作让观众提前知道要发生什么；没有预备，动作像突然被剪进来。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
+- [S12] [Britannica：动画](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对「先反向，再正向」一节的术语/方法/规则（Britannica 动画史条目，不是软件手册）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「预备动作只提前 2–4 帧」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

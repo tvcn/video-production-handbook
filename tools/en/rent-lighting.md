@@ -30,6 +30,7 @@ related: [tools.tutorial.restore-test, tools.tutorial.room-tone-record, shoot.ca
 source_kind: sourced
 sources:
 - S31
+- S23
 - S32
 ---
 <p>Draw the positions: key, fill, rim, background. For each, decide size, color temperature and diffusion. Rent by position, not “more is better.”</p>
@@ -46,7 +47,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“List, test, and photograph the gear; one missing soft box co”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
-- [S32] [Sony Pro Support](https://pro.sony/ue_US/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“List, test, and photograph the gear; one missing soft box co”) against Support, firmware and documents for pro cameras and lenses; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Rent by lighting roles, not lamp count” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

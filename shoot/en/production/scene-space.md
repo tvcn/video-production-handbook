@@ -29,6 +29,8 @@ source_kind: sourced
 related: [shoot.camera.sensor-size, shoot.art.set-dressing, post.color.color]
 sources:
 - S31
+- S52
+- S53
 - S23
 ---
 <!-- DIAGRAM_START -->
@@ -70,10 +72,12 @@ Before shooting, walk from the door to the window with a phone. What the eye see
 - Key props carry wear or a change of state.
 - The light comes from the room, and one thing is wrong enough to make the audience ask why.
 
+<section><h2>Boundary</h2><p>This page only covers “Let the Room Speak First”; it does not replace Sensor Size: What the Frame Really Changes, Set Dressing: Props Tell the Character, Color: Match First, Style Second. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Before anyone speaks, the room is already talking: shoes at ”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Before anyone speaks, the room is already talking: shoes at ”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S31] [ARRI: Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “The light belongs to the room too” section against ARRI camera, lens and lighting documentation, not a general shooting tutorial; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Decide who has lived here” section against ALEXA 35 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Props need a use and a before/after” section against FX6 official specs, not independent testing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

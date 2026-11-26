@@ -28,6 +28,7 @@ source_kind: sourced
 sources:
 - S42
 - S43
+- S43
 ---
 <p>序列板不是把漂亮单格摊开，而是先定“上一镜怎么结束、下一镜怎么开始”。每个接点写动作、视线或声音的匹配方式，再补中间的画面。</p>
 <!-- DIAGRAM_START -->
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S42] [Khan Academy：Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对首段“段落分镜不是把剧本一句一句画出来，而是决定这场戏先给观众看什么。”中的术语与公开背景（故事结构、角色与视觉叙事教学）；不替代现场测试。
-- [S43] [BFI：BFI 国家电影档案](https://www.bfi.org.uk/bfi-national-archive) — 2026-11-26 访问。用于核对首段“段落分镜不是把剧本一句一句画出来，而是决定这场戏先给观众看什么。”中的术语与公开背景（英国电影档案、修复与放映资料）；不替代现场测试。
+- [S42] [Pixar in a Box：叙事课程](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对「先排接点，再画单格」一节的术语/方法/规则（Pixar 叙事课程，不是项目报价）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S43] [BFI：国家档案馆](https://www.bfi.org.uk/bfi-national-archive) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（BFI 档案资料，不是发行规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

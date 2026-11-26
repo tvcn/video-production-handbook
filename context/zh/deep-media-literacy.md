@@ -27,11 +27,9 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [context.literacy.deepfake, context.history.digital-cinema, formats.deep.deep-brand-film]
 sources:
-- S14
 - S01
-- S02
-- S03
 - S16
+- S17
 source_kind: sourced
 ---
 <p>媒介素养不是“别信网上的”；来源、算法和情绪触发要拆成可检查的步骤。 单看《media-literacy》只能解决一个局部；把《media-literacy》《来源核查：这条视频最初是谁发的》《算法推荐：为什么你总看到同一种》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
@@ -57,10 +55,8 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“媒介素养不是“别信网上的”；来源、算法和情绪触发要拆成可检查的步骤。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
-- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“媒介素养不是“别信网上的”；来源、算法和情绪触发要拆成可检查的步骤。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
-- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“媒介素养不是“别信网上的”；来源、算法和情绪触发要拆成可检查的步骤。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
-- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“媒介素养不是“别信网上的”；来源、算法和情绪触发要拆成可检查的步骤。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
-- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“媒介素养不是“别信网上的”；来源、算法和情绪触发要拆成可检查的步骤。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S01] [UNESCO：媒体与信息素养课程](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对「问题」一节的术语/方法/规则（媒体与信息素养框架，不是具体平台规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S16] [BBC：编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对「判断」一节的术语/方法/规则（BBC 编辑准则，不是平台流量规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S17] [路透社：信任原则](https://reutersagency.com/about/our-trust-principles/) — 2026-11-26 访问。用于核对「做法」一节的术语/方法/规则（路透社信任原则，不是一般创作建议）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

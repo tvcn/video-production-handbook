@@ -47,6 +47,6 @@ source_kind: experience
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 6 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Camera Black Balance: Do Not Bake Noise”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 6 production reviews under the listed software/camera versions and delivery platform; it covers the operating order for “Camera Black Balance: Do Not Bake Noise”, not an external laboratory test, unlisted versions, cinema masters, broadcast safety certification or legal advice.
 <!-- SOURCES_END -->
 

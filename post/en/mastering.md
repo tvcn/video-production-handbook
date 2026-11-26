@@ -30,6 +30,8 @@ related: [post.editing.mix-dialogue, post.accessibility.multilingual-subtitles, 
 source_kind: sourced
 sources:
 - S28
+- S29
+- S13
 - S27
 ---
 <p>The master is the single high-quality file: max resolution, max bitrate, no burned-in captions or separate tracks. Platform versions export from it; never re-compress a platform file.</p>
@@ -46,7 +48,8 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S28] [Netflix Partner Help](https://partnerhelp.netflixstudios.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The master is the single trusted source; platform, vertical,”) against Public entry for delivery specs, HDR/SDR and QC; not a substitute for an on-set test.
-- [S27] [ITU-R: BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“The master is the single trusted source; platform, vertical,”) against ITU algorithms for loudness measurement and true peak, the basis referenced by EBU R128; not a substitute for an on-set test.
+- [S28] [Netflix: Partner Help](https://partnerhelp.netflixstudios.com/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Master once; platform cuts derive from it” section against Netflix delivery help, not general platform rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S29] [YouTube: Upload Encoding Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against YouTube upload encoding recommendations, not creative standards; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S13] [DCI: Digital Cinema System Specification](https://www.dcimovies.com/dci-specification/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “On set” section against DCI digital-cinema specification, not streaming upload rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

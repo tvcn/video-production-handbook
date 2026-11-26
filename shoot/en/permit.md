@@ -28,6 +28,7 @@ review_due: '2027-02-26'
 related: [shoot.lighting.practical-light, shoot.art.prop-continuity, post.color.color]
 source_kind: sourced
 sources:
+- S18
 - S36
 - S23
 ---
@@ -45,7 +46,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S36] [National Radio and Television Administration: Official site](https://www.nrta.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A permit is not paper; it decides whether you can stand a li”) against Policy entry for broadcasting and online audiovisual services; not a substitute for an on-set test.
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A permit is not paper; it decides whether you can stand a li”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S18] [CMSI: Dangerous Documentaries](https://cmsimpact.org/wp-content/uploads/2015/12/dangerousdocs-feb2015.pdf) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Ask whose ground, road and air first” section against documentary risk and ethics handbook, not legal advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S36] [NRTA: Official Site](https://www.nrta.gov.cn/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against NRTA official site, not permit agency service; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

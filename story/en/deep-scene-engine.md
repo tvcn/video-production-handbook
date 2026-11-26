@@ -27,11 +27,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [story.deep.deep-scene-stitch, story.deep.deep-structure-turn, shoot.camera.axis-line]
 sources:
-- S12
-- S41
-- S10
 - S42
-- S16
+- S43
 source_kind: sourced
 ---
 <p>A scene is not information exchange; someone wants something, is blocked, and has to change. One page of &amp;quot;A Sequence: Three Scenes, One Change&amp;quot; solves one local problem; joining &amp;quot;A Sequence: Three Scenes, One Change&amp;quot;, &amp;quot;Want and Stakes: What Does Losing Cost?&amp;quot; and &amp;quot;Escalation: Same Wall, Higher Cost&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
@@ -57,10 +54,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A scene is not information exchange; someone wants something”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
-- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A scene is not information exchange; someone wants something”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
-- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A scene is not information exchange; someone wants something”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
-- [S42] [Pixar: Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A scene is not information exchange; someone wants something”) against Story structure, character and visual storytelling lessons; not a substitute for an on-set test.
-- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A scene is not information exchange; someone wants something”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Problem” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S43] [BFI: National Archive](https://www.bfi.org.uk/bfi-national-archive) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Judgement” section against BFI archive material, not distribution rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

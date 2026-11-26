@@ -69,9 +69,10 @@ A LUT is a starting point, not a finish. After applying it, return to primary co
 
 <!-- INTENT_SCOPE -->
 
+<section><h2>Boundary</h2><p>This page only covers “Color: Match First, Style Second”; it does not replace Color Management: Put the LUT in the Right Place, Conform and Online: Relink, Round-Trip, and Master, Composition: Tell the Eye Where to Look. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## Experience note
 
-Experience note: this page draws on 5 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Color: Match First, Style Second”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+Experience note:This page draws on 5 post-production reviews under the listed software versions, source formats and delivery platform; it covers the operating order for “Color: Match First, Style Second”, not an external laboratory test, unlisted versions, cinema masters, broadcast safety certification or legal advice.
 <!-- SOURCES_END -->
 

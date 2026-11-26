@@ -29,6 +29,10 @@ related: [story.storyboard.storyboard, story.story.subplot, shoot.production.sho
 depth: deep
 deep_minutes: 5
 source_kind: sourced
+sources:
+- S42
+- S43
+
 ---
 <p>Each row: shot number, framing, camera position, action, line, duration, props, sound. Miss one and the set stops to ask. A shot sheet is not a substitute for the board; it is the board made executable.</p>
 <!-- DIAGRAM_START -->
@@ -59,7 +63,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Four columns are enough: number, framing, action, duration. ”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
-- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Four columns are enough: number, framing, action, duration. ”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “A shot sheet must be executable on set” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S43] [BFI: National Archive](https://www.bfi.org.uk/bfi-national-archive) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against BFI archive material, not distribution rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

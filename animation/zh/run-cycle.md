@@ -26,7 +26,9 @@ review_due: '2027-02-26'
 related: [animation.stop-motion.stop-motion, animation.stop-motion.stop-motion-motion-blur, formats.documentary.documentary-template]
 source_kind: sourced
 sources:
-- S12
+- S63
+- S62
+- S59
 - S63
 ---
 <p>跑步循环的关键不是腿抬多高，而是脚什么时候落地、身体什么时候最低。先标接触帧和腾空帧，再做中间；接触帧错了，整段会滑。</p>
@@ -43,7 +45,8 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“跑步循环先定重心和脚掌着地顺序，再修手臂；脚不对，全身都飘。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
-- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“跑步循环先定重心和脚掌着地顺序，再修手臂；脚不对，全身都飘。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对「跑步循环先定“接触帧”」一节的术语/方法/规则（Toon Boom 官方文档，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S62] [Blender：官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Blender 官方手册，不是行业流程标准）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S59] [Adobe：After Effects 官方指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对「怎么做」一节的术语/方法/规则（After Effects 官方指南，不是合成美学结论）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

@@ -28,7 +28,8 @@ review_due: '2027-02-26'
 related: [tools.capability.lav-system, tools.capability.led-panel, shoot.camera.composition]
 source_kind: sourced
 sources:
-- S35
+- S27
+- S23
 - S27
 ---
 <p>The enemy is cloth friction and muffling. Anchor the capsule inside a collar, tape the cable away from skin, keep jacket and buttons off the capsule. Do not bury it in hair or a scarf.</p>
@@ -48,7 +49,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S35] [Avid Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Try collar, then hair, then medical tape; every wardrobe cha”) against Resources for Media Composer, collaboration and delivery; not a substitute for an on-set test.
-- [S27] [ITU-R: BS.1770 音频响度与真峰值测量](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-27. Used to check the terminology and public context in the opening paragraph (“Try collar, then hair, then medical tape; every wardrobe cha”) against ITU algorithms for loudness measurement and true peak, the basis referenced by EBU R128; not a substitute for an on-set test.
+- [S27] [ITU-R BS.1770: Loudness and True Peak](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Hide a lav: 15–20cm below the mouth, protect against cloth first” section against BS.1770 loudness measurement, not microphone buying advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Hide the lav without rubbing” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

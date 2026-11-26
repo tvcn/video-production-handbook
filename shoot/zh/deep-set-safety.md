@@ -27,11 +27,8 @@ last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [shoot.deep.deep-sound-rig, shoot.sound.dual-system-sound, post.deep.deep-asset-management]
 sources:
-- S17
-- S23
-- S31
-- S52
-- S53
+- S18
+- S36
 source_kind: sourced
 ---
 <p>现场安全不是一张签字表；风险评估、许可和收工检查要落到每一个会动的人。 单看《现场安全：电线、高处、道路》只能解决一个局部；把《现场安全：电线、高处、道路》《风险评估：开机前填一张表》《拍摄许可：公园、地铁、商铺》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
@@ -57,10 +54,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — 2026-11-26 访问。用于核对首段“现场安全不是一张签字表；风险评估、许可和收工检查要落到每一个会动的人。”中的术语与公开背景（通讯社对独立、准确与不带偏见的公开承诺）；不替代现场测试。
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“现场安全不是一张签字表；风险评估、许可和收工检查要落到每一个会动的人。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“现场安全不是一张签字表；风险评估、许可和收工检查要落到每一个会动的人。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
-- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“现场安全不是一张签字表；风险评估、许可和收工检查要落到每一个会动的人。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
-- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“现场安全不是一张签字表；风险评估、许可和收工检查要落到每一个会动的人。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
+- [S18] [CMSI：危险纪录片手册](https://cmsimpact.org/wp-content/uploads/2015/12/dangerousdocs-feb2015.pdf) — 2026-11-26 访问。用于核对「问题」一节的术语/方法/规则（纪录片风险与伦理手册，不是法律意见）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S36] [国家广播电视总局：官网](https://www.nrta.gov.cn/) — 2026-11-26 访问。用于核对「判断」一节的术语/方法/规则（广电总局官网，不是具体许可代办）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

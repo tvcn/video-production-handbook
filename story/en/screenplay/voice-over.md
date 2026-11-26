@@ -29,6 +29,7 @@ source_kind: sourced
 related: [story.story.want-stakes, story.directing.actor-adjustment, shoot.camera.composition]
 sources:
 - S41
+- S42
 - S10
 ---
 <!-- DIAGRAM_START -->
@@ -71,10 +72,11 @@ Keep the breath. Do not cut every pause flat. VO is not a commercial; it should 
 - Read aloud, does it trip or sound like an essay?
 - Does the VO cover the action at its entrance or exit?
 
+<section><h2>Boundary</h2><p>This page only covers “Voice-Over: Do Not Summarize What the Picture Already Says”; it does not replace Want and Stakes: What Does Losing Cost?, Adjusting Actors: Give Verbs, Not Adjectives, Composition: Tell the Eye Where to Look. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Voice-over is not the picture read aloud. It either gives in”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
-- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Voice-over is not the picture read aloud. It either gives in”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+- [S41] [WGA: Contract and Credit Resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Three kinds of voice-over, three jobs” section against WGA contract and credit resources, not Chinese employment law; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Write for the ear, not the eye” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

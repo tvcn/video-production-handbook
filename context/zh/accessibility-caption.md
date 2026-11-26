@@ -24,9 +24,6 @@ authors:
 sources:
 - S06
 - S39
-- S01
-- S02
-- S03
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [context.law.ai-label-law, context.history.ai-video-history, formats.documentary.documentary-template]
@@ -49,10 +46,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S06] [W3C WAI](https://www.w3.org/WAI/media/av/captions/) — 2026-11-26 访问。用于核对首段“无障碍字幕要让听不见的人知道谁在说、发生了什么、语气是什么，不只写台词。”中的术语与公开背景（预录与直播字幕的无障碍要求，对应 WCAG 1.2.2）；不替代现场测试。
-- [S39] [W3C WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) — 2026-11-26 访问。用于核对首段“无障碍字幕要让听不见的人知道谁在说、发生了什么、语气是什么，不只写台词。”中的术语与公开背景（字幕、对比度与无障碍的现行标准）；不替代现场测试。
-- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“无障碍字幕要让听不见的人知道谁在说、发生了什么、语气是什么，不只写台词。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
-- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“无障碍字幕要让听不见的人知道谁在说、发生了什么、语气是什么，不只写台词。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
-- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“无障碍字幕要让听不见的人知道谁在说、发生了什么、语气是什么，不只写台词。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
+- [S06] [W3C：字幕与说明指南](https://www.w3.org/WAI/media/av/captions/) — 2026-11-26 访问。用于核对「字幕先保“能读”，再谈好看」一节的术语/方法/规则（W3C 字幕/说明指南，不是平台审核规则）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S39] [W3C：WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（WCAG 无障碍标准，不是平台审核清单）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

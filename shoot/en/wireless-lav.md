@@ -30,6 +30,10 @@ related: [shoot.camera.axis-line, shoot.production.b-roll, post.color.color]
 depth: deep
 deep_minutes: 5
 source_kind: sourced
+sources:
+- S27
+- S23
+
 ---
 <p>Scan the room, avoid TV and crowded Wi-Fi bands; keep the transmitter on the body, receiver above the crowd, antennas off metal. Every wireless pair needs a wired backup to camera or a second recorder.</p>
 <!-- DIAGRAM_START -->
@@ -60,8 +64,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Hide the lav, secure it, and record a backup track before wo”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
-- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Hide the lav, secure it, and record a backup track before wo”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
-- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Hide the lav, secure it, and record a backup track before wo”) against Body specifications, recording formats and interfaces; not a substitute for an on-set test.
+- [S27] [ITU-R BS.1770: Loudness and True Peak](https://www.itu.int/rec/R-REC-BS.1770/en) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Scan frequencies before discussing range” section against BS.1770 loudness measurement, not microphone buying advice; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S23] [SMPTE: Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against SMPTE standards portal, not specific camera specs; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

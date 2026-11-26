@@ -30,6 +30,7 @@ related: [story.directing.rehearsal, story.screenplay.rewrite-pass, shoot.camera
 source_kind: sourced
 sources:
 - S42
+- S16
 - S10
 ---
 <p>Small action is invisible in a wide; exaggeration looks false in a close-up. Lock the framing, then the scale: wides use body and blocking, closes use breath, eyes and fingers.</p>
@@ -46,7 +47,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S42] [Pixar: Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The closer the camera, the smaller the action; a gesture tha”) against Story structure, character and visual storytelling lessons; not a substitute for an on-set test.
-- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The closer the camera, the smaller the action; a gesture tha”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+- [S42] [Pixar in a Box: Storytelling](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Framing sets the size of performance” section against Pixar storytelling course, not project pricing; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S16] [BBC: Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against BBC editorial guidelines, not platform growth rules; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

@@ -31,6 +31,7 @@ source_kind: sourced
 sources:
 - S62
 - S59
+- S59
 ---
 <p>3D layout is not pretty placement. Draw the ground line, camera height and focal length first, then the character. With those three, space exists. Wrong scale makes later animation look pasted on.</p>
 <!-- DIAGRAM_START -->
@@ -56,7 +57,7 @@ sources:
 <!-- SOURCES_START -->
 ## References and further reading
 
-- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Layout locks camera, scale, and asset versions before animat”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
-- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Layout locks camera, scale, and asset versions before animat”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
+- [S62] [Blender: Official Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Layout starts with camera and ground” section against Blender manual, not an industry pipeline standard; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
+- [S59] [Adobe: After Effects Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology/method/rule in the “Limits” section against official After Effects guide, not a verdict on compositing aesthetics; it does not verify numbers, model choices or on-set conclusions derived from this page, and is not a substitute for a test.
 <!-- SOURCES_END -->
 

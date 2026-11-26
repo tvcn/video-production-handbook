@@ -26,7 +26,8 @@ review_due: '2027-02-26'
 related: [story.storyboard.animatic-boarding, story.storyboard.board-review, shoot.camera.composition]
 source_kind: sourced
 sources:
-- S43
+- S41
+- S42
 - S41
 ---
 <p>小说用叙述进入人物内心，电影只能拍动作和声音。改编先把“他心里怎么想”翻成“他做了什么”，再决定删哪条线。</p>
@@ -43,7 +44,7 @@ sources:
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S43] [BFI：BFI 国家电影档案](https://www.bfi.org.uk/bfi-national-archive) — 2026-11-26 访问。用于核对首段“改编不是复述事件，而是找到一个能在两个小时里被拍出来的冲突。”中的术语与公开背景（英国电影档案、修复与放映资料）；不替代现场测试。
-- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“改编不是复述事件，而是找到一个能在两个小时里被拍出来的冲突。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S41] [美国编剧工会：合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对「改编换的是媒介，不是把小说念一遍」一节的术语/方法/规则（WGA 合同与署名资源，不是中国劳动法）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S42] [Pixar in a Box：叙事课程](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（Pixar 叙事课程，不是项目报价）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 

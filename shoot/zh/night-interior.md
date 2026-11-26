@@ -27,6 +27,10 @@ related: [shoot.safety.permit, shoot.lighting.practical-light, post.color.color]
 depth: deep
 deep_minutes: 6
 source_kind: sourced
+sources:
+- S31
+- S23
+
 ---
 <p>画面里至少要有一盏可信的实景光源：台灯、窗、电视、走廊灯。人物补光从这盏灯的方向来，不要从摄影机方向打平。曝光保灯罩和窗外，暗部留一点细节。</p>
 <!-- DIAGRAM_START -->
@@ -61,8 +65,7 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“夜景内景先找画面里能信的实用光，再用一盏小灯补人脸，别把整间房打平。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
-- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“夜景内景先找画面里能信的实用光，再用一盏小灯补人脸，别把整间房打平。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
-- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“夜景内景先找画面里能信的实用光，再用一盏小灯补人脸，别把整间房打平。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
+- [S31] [ARRI：电影系统](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对「室内夜景先定“哪盏灯是真的”」一节的术语/方法/规则（ARRI 摄影机、镜头与灯光资料，不是通用拍摄教程）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
+- [S23] [SMPTE：标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对「现场」一节的术语/方法/规则（SMPTE 标准入口，不是具体机型参数）；不核对其中由本页经验得出的数字、型号与现场结论，也不替代测试。
 <!-- SOURCES_END -->
 
