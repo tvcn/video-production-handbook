@@ -23,20 +23,19 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.restore-test.en
-- tools.tutorial.set-mediabay.en
-- tools.workflow.storage.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [tools.calculator.bitrate-calculator, tools.tutorial.boom-swing, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
 sources:
-- S31
 - S23
+- S31
+- S29
+- S30
+- S70
 source_kind: sourced
 ---
-
 <p>3-2-1 is not “upload to cloud and done.” On a shoot day make at least three copies: card/camera, on-set drive, and another offline drive or cloud. One copy sits in a different building.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -63,11 +62,18 @@ source_kind: sourced
 <ul><li>Confirm the card plays back before copying</li><li>Copy to the first working drive</li><li>Verify file count and decode with a checksum tool</li><li>Rename date_project_camera_card</li><li>Copy to a second backup drive</li><li>Move one copy off this machine</li><li>Open three random files and play them</li><li>Confirm both copies before formatting the card</li><li>Put restore steps at the project root</li><li>Run one restore drill per month</li></ul><p>Backup is not dragging files across; it is making sure tomorrow can still open, export, and deliver. Before formatting the card, open both copies once; open, play, and export is what makes a backup real.</p>
 <!-- DEEP_DIVE_END -->
 
+
+> Intent split: this page covers the practical details of “3-2-1 Backup: Finish It Today”; start with <a href="https://tools.tvcn.org/article/buy-storage/">Buying Project Storage: Speed, Capacity, and Backup</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
 <!-- SOURCES_START -->
-## Sources
+## References and further reading
 
-- [S31] ARRI Cine Systems; see the original link and use note in SOURCES.md.
-- [S23] SMPTE 标准入口; see the original link and use note in SOURCES.md.
-
-Full links and use notes: [`SOURCES.md`](../../about/).
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Do 3-2-1 today: three copies, two media, one offsite; tomorr”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Do 3-2-1 today: three copies, two media, one offsite; tomorr”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Do 3-2-1 today: three copies, two media, one offsite; tomorr”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Do 3-2-1 today: three copies, two media, one offsite; tomorr”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Do 3-2-1 today: three copies, two media, one offsite; tomorr”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

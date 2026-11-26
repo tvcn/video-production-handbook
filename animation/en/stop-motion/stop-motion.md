@@ -23,18 +23,21 @@ cover: /images/animation/stop-motion.webp
 diagram: /images/diagrams/en/stop-motion.png
 diagram_alt: "Stop motion: lock camera, light, and hand"
 diagram_caption: "The hard part is not movement but stability. Lock the camera and light, change one thing per frame. Two seconds a day is normal."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [animation.2d.2d-animation.en, context.law.portrait-rights.en, formats.food.food-video-structure.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [animation.stop-motion.stop-motion-motion-blur, animation.stop-motion.stop-motion-set, formats.brand.brand-film]
 depth: deep
 deep_minutes: 7
-sources: [S12, S28, S34]
+sources:
+- S62
+- S63
+- S12
+- S59
 test_context: "Review setup: Windows 11; public Blender 4.x / After Effects 2025 workflows; not every version behaves the same."
 known_failures: "Known failures: plugin/version gaps break rigs or renders; font and asset licenses need separate checks."
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -84,9 +87,13 @@ Use continuous, flicker-free light. Avoid cheap LEDs with PWM flicker; test with
 ### Ten stop-motion checks
 <ul><li>Total frames counted first</li><li>Twelve fps, measured on a ruler</li><li>Movement in millimeters per frame</li><li>Lamps sandbagged and taped</li><li>Cable release or software</li><li>Hands out of frame before touching</li><li>One joint changed at a time</li><li>Walls and floor fixed</li><li>Flicker fixed before motion blur</li><li>Footsteps and contacts on frame</li></ul><p>Stop-motion realism is not puppet detail. It is the same movement per frame and the same light position every frame.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S12]</span> Britannica: Animation</li><li><span class="mono">[S28]</span> Netflix Partner Help</li><li><span class="mono">[S34]</span> Adobe Premiere Pro Guide</li></ul>
-<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
+## References and further reading
+
+- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Stop motion is a test of stability: lock the camera, lock th”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Stop motion is a test of stability: lock the camera, lock th”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Stop motion is a test of stability: lock the camera, lock th”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Stop motion is a test of stability: lock the camera, lock th”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

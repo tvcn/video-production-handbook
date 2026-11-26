@@ -28,17 +28,17 @@ cover: /images/context/screen-size.webp
 diagram: /images/diagrams/en/screen-size.png
 diagram_alt: 'One face: cinema, TV, phone'
 diagram_caption: The smaller the screen, the closer the viewer, the tighter the shot. Taste did not change; reading conditions did.
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
 sources:
 - S10
-related:
-- context.history.film.1895.en
-- context.history.photography.photo-history.en
-- context.history.animation.animation-history.en
-source_kind: experience
+- S01
+- S02
+- S03
+- S16
+related: [context.history.smartphone-video, context.history.sound-era, formats.documentary.documentary-template]
+source_kind: sourced
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -77,9 +77,12 @@ Vertical is not a smaller movie. It has its own shot sizes, pace, and viewing di
 - The phone version holds one face and one action per scene.
 
 <!-- SOURCES_START -->
-## References
+## References and further reading
 
-- [S10] BFI: Film history and moving-image research
-
-Full links and notes: [`SOURCES.md`](../../../about/).
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Faces did not get closer because directors fell in love with”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Faces did not get closer because directors fell in love with”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Faces did not get closer because directors fell in love with”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Faces did not get closer because directors fell in love with”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Faces did not get closer because directors fell in love with”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

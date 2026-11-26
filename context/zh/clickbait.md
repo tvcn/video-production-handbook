@@ -23,15 +23,15 @@ authors:
 - TVCN 研究组
 sources:
 - S01
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.literacy.algorithm-feed.en
-- context.literacy.edit-manipulation.en
-- context.literacy.statistics-video.en
+- S02
+- S03
+- S16
+- S10
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.law.contract-scope, context.rights.copyright, formats.documentary.documentary-template]
 source_kind: sourced
 ---
-
 <p>可用的钩子不是“你绝对想不到”，而是“第 37 秒，他把镜头转过来”。它承诺一个真实存在的时刻，观众点进来能找到。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -46,7 +46,10 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S01] UNESCO：媒介与信息素养
-
-完整链接与用途见 [`SOURCES.md`](../../about/)。
+- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“标题党先承诺一个强结果，正文只给一个弱例子；判断方法是把标题和正文各写一句。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“标题党先承诺一个强结果，正文只给一个弱例子；判断方法是把标题和正文各写一句。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“标题党先承诺一个强结果，正文只给一个弱例子；判断方法是把标题和正文各写一句。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“标题党先承诺一个强结果，正文只给一个弱例子；判断方法是把标题和正文各写一句。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“标题党先承诺一个强结果，正文只给一个弱例子；判断方法是把标题和正文各写一句。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
 <!-- SOURCES_END -->
+

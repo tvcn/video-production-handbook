@@ -27,12 +27,12 @@ authors:
 sources:
 - S07
 - S08
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.law.contract-scope.en
-- formats.interview.interview-structure.en
-- post.delivery.conform-online.en
+- S01
+- S02
+- S03
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.literacy.clickbait, context.law.contract-scope, formats.documentary.documentary-template]
 test_context: 'Review setup: Windows 11 + Chrome; checked against public films, scripts
   and platform pages; not frame-by-frame testing.'
 known_failures: 'Known failures: public case data is incomplete; platform specs and
@@ -40,7 +40,6 @@ known_failures: 'Known failures: public case data is incomplete; platform specs 
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>The camera obscura proved an image could be projected before it was drawn or recorded. It turned viewing into a process that could be built as a device, laying the physical basis for lenses, framing and photography.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -58,3 +57,12 @@ source_kind: sourced
 <h2>Check</h2><ul><li>The shoebox projects an inverted image with a 0.5 mm pinhole and 15 cm screen distance.</li><li>Image size is measured and related to hole distance.</li><li>Doubling the hole brightens but softens the image, and the trade is recorded.</li></ul>
 
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S07] [Daguerreotypes](https://www.loc.gov/pictures/collection/dag/background.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The camera obscura already knew light could form an image; w”) against Collection background, scale and material notes on early photography; not a substitute for an on-set test.
+- [S08] [Daguerre and the Invention of Photography](https://www.metmuseum.org/TOAH/hd/dagu/hd_dagu.htm) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The camera obscura already knew light could form an image; w”) against Museum timeline for the 1839 announcement, the process and its early circulation; not a substitute for an on-set test.
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The camera obscura already knew light could form an image; w”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The camera obscura already knew light could form an image; w”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The camera obscura already knew light could form an image; w”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

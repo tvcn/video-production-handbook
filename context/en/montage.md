@@ -28,12 +28,10 @@ sources:
 - S03
 - S22
 - S39
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.law.music-license.en
-- formats.news.news-structure.en
-- post.color.primary-correction.en
+- S02
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.law.music-license, context.history.muybridge, formats.documentary.documentary-template]
 test_context: 'Review setup: Windows 11 + Chrome; checked against public films, scripts
   and platform pages; not frame-by-frame testing.'
 known_failures: 'Known failures: public case data is incomplete; platform specs and
@@ -41,7 +39,6 @@ known_failures: 'Known failures: public case data is incomplete; platform specs 
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>Montage made two shots produce a third meaning: the viewer is not passively receiving images but building cause and effect across the cut. It moved cinema from recording toward argument and emotional construction.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -59,3 +56,12 @@ source_kind: sourced
 <h2>Check</h2><ul><li>Each shot's duration and direction are logged, not just the total count.</li><li>A pair of opposing directions is identified and causality explained.</li><li>Analysis focuses on edit organization, not just violence.</li></ul>
 
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Montage cut unrelated shots together and let the audience bu”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Montage cut unrelated shots together and let the audience bu”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S22] [National People's Congress: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Montage cut unrelated shots together and let the audience bu”) against Statutory text on portrait rights, privacy, contracts and location rights; not a substitute for an on-set test.
+- [S39] [W3C WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Montage cut unrelated shots together and let the audience bu”) against Current standards for captions, contrast and accessibility; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Montage cut unrelated shots together and let the audience bu”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.tool.tool-card-lighting-kit.en
-- main.tool.tool-card-interview-kit.en
-- main.tool.tool-card-audio-kit.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.case.case-brand-product-composite, main.case.case-corporate-composite, context.literacy.media-literacy]
 source_kind: experience
 ---
-
 <p>旅拍的第一限制是背包和步行，不是镜头数量。机身加两支镜头加录音加脚架，超过你走一小时还能举起的重量，就会开始漏拍。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -46,3 +42,10 @@ source_kind: experience
 <h2 id="section-3">现场测试</h2>
 <p>出发前把最终背包背上，走十分钟、爬一层楼，再拍 30 秒。如果肩带勒、脚架晃或录音线找不到，回桌上减东西，不要到目的地再减。</p></section><section><h2 id="section-4">现场</h2><p>一机一镜、小型稳定器、两块电池、ND、腰包；称总重，能走一天再出门。</p></section><section><h2 id="section-5">别踩</h2><p>别带三支镜头“以防万一”；走半天就背不动，什么也拍不到。</p></section>
 <h2>验收</h2><ul><li>总重称过，背着走一天肩膀能承受。</li><li>只有一机一镜，没有额外镜头。</li><li>电池、ND、稳定器都在腰包，能单手取。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 5 次客户需求梳理与项目复盘，条件为单人或 2–3 人小组、预算与周期明确；页面讨论的具体对象是「旅拍轻装」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

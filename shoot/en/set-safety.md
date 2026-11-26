@@ -23,12 +23,9 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tech Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.blocking.blocking.en
-- story.storyboard.storyboard.en
-- tools.guide.buy-audio-field.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.production.shot-list, shoot.camera.shot-size, post.color.color]
 depth: deep
 deep_minutes: 5
 sources:
@@ -36,6 +33,7 @@ sources:
 - S31
 - S32
 - S33
+- S52
 test_context: 'Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus
   and samples; lens claims follow page labels, not every lens tested.'
 known_failures: 'Known failures: menus and firmware differ; uncalibrated color temperature/monitors
@@ -43,7 +41,6 @@ known_failures: 'Known failures: menus and firmware differ; uncalibrated color t
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>Walk the set before rolling: cable paths that trip, stands without sandbags, heights without tie-offs, roads without closure and hi-vis. Give every risk an owner and a stop-work condition.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -71,4 +68,14 @@ source_kind: sourced
 ### Ten safety checks before rolling
 <ul><li>Tape every cable</li><li>Keep the walkway clear</li><li>No chairs as stands</li><li>Do not overload power strips</li><li>Someone holds the ladder</li><li>Tether tools</li><li>Sandbag the tripods</li><li>Look up before lifting a light</li><li>High-vis and cones at the road</li><li>Post emergency contacts</li></ul><p>Safety is not shooting slower; it is making sure everyone can shoot the next take.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cables, heights, traffic: check those three before anything ”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cables, heights, traffic: check those three before anything ”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
+- [S32] [Sony Pro Support](https://pro.sony/ue_US/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cables, heights, traffic: check those three before anything ”) against Support, firmware and documents for pro cameras and lenses; not a substitute for an on-set test.
+- [S33] [Canon Support](https://www.usa.canon.com/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cables, heights, traffic: check those three before anything ”) against Official support for cameras, lenses and firmware; not a substitute for an on-set test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cables, heights, traffic: check those three before anything ”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

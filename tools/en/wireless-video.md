@@ -24,15 +24,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.field-monitor.en
-- tools.capability.video-assist.en
-- tools.capability.slider.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.capability.zoom-lens, tools.capability.ai-audio-tool, shoot.sound.wireless-lav]
 source_kind: experience
 ---
-
 <p>For critical live, long range or heavy RF, prefer wired or local recording; wireless video is convenience, not a reliability guarantee.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -43,3 +39,10 @@ source_kind: experience
 <!-- DIAGRAM_END -->
 <section><h2 id="section-1">What to compare first</h2><ul><li><strong>Latency:</strong> confirm end-to-end delay, not the “low latency” ad; follow focus and live broadcast have different limits.</li><li><strong>Band and interference:</strong> check available bands, frequency hopping and antennas; on-site Wi-Fi and crowds compete.</li><li><strong>Power and backup:</strong> both transmitter and receiver must hot-swap batteries; without a wired backup, do not use it for a critical live show.</li></ul><h2 id="section-2">When not to use it</h2></section><section><h2 id="section-3">On set</h2><p>Walk the set and test latency and dropouts. Give the director and the focus puller separate signals; do not share one.</p></section><section><h2 id="section-4">Do this</h2><p>Wireless video needs latency and interference tests before deciding director or focus use; a dropout stops the set.</p><ol><li>Walk the set and measure latency and dropouts.</li><li>Keep director and focus signals separate.</li><li>Log dropout spots and add antennas or change channels.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not share one wireless link between director and focus; one dropout stops both.</p></section>
 <h2>Check</h2><ul><li>Latency and dropouts are logged across the set.</li><li>Director and focus monitoring use two separate links.</li><li>Dropout spots have a response, such as antennas or channel change.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 7 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Wireless Video: Latency and Interference”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

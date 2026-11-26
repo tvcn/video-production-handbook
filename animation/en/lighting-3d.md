@@ -24,15 +24,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Animation Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.3d.render.en
-- animation.3d.materials.en
-- animation.3d.modeling.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [animation.2d.loop-cycle, animation.3d.materials, formats.documentary.documentary-template]
 source_kind: experience
 ---
-
 <p>3D lighting is not filling a scene with light. Set one key direction so shadows explain space; use ambient and fill to control contrast. Even a realistic material looks like a texture map when the key is wrong.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -53,3 +49,10 @@ source_kind: experience
 <ol><li>Turn off all atmosphere and judge the silhouette on key light alone. If the silhouette fails, atmosphere cannot save it.</li><li>Use one lighting rig across shots; record why a shot needs a special light.</li><li>Render reflection and refraction as a separate pass so post can adjust. Baking them into beauty locks them.</li><li>Check 10% gray and skin, not “brightness”; expose for the midtones.</li></ol>
 <p>If render time runs short, cut atmosphere passes before key-light samples. Key noise ruins the whole shot.</p></section><section><h2 id="section-4">On set</h2><p>Turn off the HDRI and shape the form with the key only. Add fill and rim, then bring the HDRI back to 20 or 30 percent for environment.</p></section><section><h2 id="section-5">Do this</h2><p>3D lighting builds structure with key, fill, and rim before HDRI; reversing the order flattens space.</p><ol><li>Turn off HDRI and shape with the key only.</li><li>Add fill and rim.</li><li>Bring HDRI in at 20 to 30 percent to fill the environment.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not start with HDRI; environment light hides the form.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the speed split between foreground, midground and background reads in one pan</li><li>a 0.5-second action still carries weight or anticipation</li><li>turn off any layer and the space still holds</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>more layers, same speed: the space stays flat</li><li>anticipation without follow-through: the weight is only half done</li><li>rendering before assets are locked: rework starts at the compositor</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Draw three keys at 24 fps, change only “Add fill and rim.”, and export two seconds. If the weight still does not read, add anticipation before adding blur.</p></section>
 <h2>Check</h2><ul><li>With HDRI off, the key already defines form.</li><li>Fill and rim do their jobs without flattening the key.</li><li>HDRI stays at 20 to 30 percent and does not take over.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 6 animation shot and asset-handover review reviews under one 2D/3D pipeline and shots under 30 seconds; it discusses “3D Lighting: Three Points and HDRI”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

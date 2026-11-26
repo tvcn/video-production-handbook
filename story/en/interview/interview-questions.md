@@ -23,12 +23,11 @@ cover: /images/story/interview-questions.webp
 diagram: /images/diagrams/en/interview-questions.png
 diagram_alt: "Interview: replace feelings with actions"
 diagram_caption: "People cannot recall a feeling, but they remember which foot moved first. More concrete questions produce more human answers."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [story.directing.directing-nonactors.en, story.screenplay.dialogue.en, story.screenplay.conflict.en]
+related: [story.screenplay.logline, story.story.midpoint-turn, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -61,3 +60,18 @@ Then ask what cannot be published. Someone may be willing to talk but not willin
 - The first three questions can be answered in one sentence and contain an action.
 - At least one silence longer than three seconds survived the edit.
 - Names, places, and numbers were checked on site.
+
+
+<!-- V11_DEEPEN -->
+
+
+> Intent split: this page covers the practical details of “Stop Asking “How Did You Feel”: Ask for an Action”; start with <a href="https://formats.tvcn.org/article/interview-structure/">Interview Structure: The Question Matters More</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 3 table read and pre-shoot rehearsal reviews under a three-to-eight-page scene with one primary point of view; it discusses “Stop Asking “How Did You Feel”: Ask for an Action”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.speedbooster.en
-- tools.capability.zoom-lens.en
-- tools.capability.matte-box.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.capability.animation-software, tools.calculator.aspect-calculator, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>需要广角、轻便、快速自动对焦或干净画面时，不要用变形镜头。它是有代价的风格选择。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -40,3 +36,15 @@ source_kind: experience
 <!-- DIAGRAM_END -->
 <section><h2 id="section-1">选型先看什么</h2><ul><li><strong>挤压倍率：</strong>确认 1.33x/1.5x/2x 与传感器和后期去挤压的配合；错配会变形。</li><li><strong>炫光与畸变：</strong>炫光不是唯一卖点；边缘畸变和最近对焦距离会影响构图。</li><li><strong>对焦与重量：</strong>手动对焦、长行程和重型前端；稳定器要重新配平。</li></ul><h2 id="section-2">什么时候不要用</h2></section><section><h2 id="section-3">现场</h2><p>拍一条夜景霓虹，看椭圆光斑和水平蓝线；再拍人脸，检查横向拉伸是否可接受。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>拍一条夜景霓虹，看椭圆光斑和水平蓝线。</li><li>再拍人脸，检查横向拉伸是否可接受。</li><li>把变形和裁切两个概念分开。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别把裁切当变形；没有椭圆光斑和横向压缩，它只是宽画幅。</p></section>
 <h2>验收</h2><ul><li>夜景霓虹里能看到椭圆光斑或水平蓝线。</li><li>人脸横向拉伸有样张，能判断是否可接受。</li><li>能说清变形与裁切的区别，不混为一谈。</li></ul>
+
+
+> 意图分工：本页负责「变形宽银幕：炫光与畸变」的可执行细节；同集群先读 <a href="https://tools.tvcn.org/article/buy-lens-first/">先买镜头：焦段、光圈与呼吸</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 7 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「变形宽银幕：炫光与畸变」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

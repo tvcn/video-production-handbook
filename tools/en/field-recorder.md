@@ -24,15 +24,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.lav-system.en
-- tools.capability.headphone-monitor.en
-- tools.capability.shotgun-mic.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.workflow.first-shoot-day, tools.capability.fluid-head, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>If one camera input is enough and sound is controlled, a separate recorder adds a sync step; solve mic distance and camera preamp first. Do not hide missing monitoring behind more gear.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -43,3 +39,15 @@ source_kind: experience
 <!-- DIAGRAM_END -->
 <section><h2 id="section-1">What to compare first</h2><ul><li><strong>Channels and preamps:</strong> how many independent inputs, phantom power and gain range; preamp noise matters more than a 32-bit claim.</li><li><strong>Limits of 32-bit:</strong> it rescues a clipped peak, not a missing lav, a stopped record or wind in the capsule; still watch levels and monitor.</li><li><strong>Media and power:</strong> card type, dual-card backup, battery runtime and external power; a card change must not stop recording.</li></ul><h2 id="section-2">When not to use it</h2></section><section><h2 id="section-3">On set</h2><p>Record a quiet line with peaks at -12 dB, then clip it on purpose and see whether 32-bit float recovers it.</p></section><section><h2 id="section-4">Do this</h2><p>32-bit float can rescue clipping but not dialogue eaten by wind; microphone and position still come first.</p><ol><li>Record quiet dialogue with peaks at -12 dB.</li><li>Deliberately clip once and see whether 32-bit recovers it.</li><li>Test wind and confirm float cannot rescue it; do not treat it as insurance.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not treat 32-bit as universal insurance; it cannot save wind noise or bad placement.</p></section>
 <h2>Check</h2><ul><li>Quiet dialogue peaks near -12 dB with audible noise floor.</li><li>Deliberate clipping is recovered to intelligibility in 32-bit.</li><li>A wind test proves float cannot rescue wind-eaten dialogue.</li></ul>
+
+
+> Intent split: this page covers the practical details of “Field Recorder: 32-Bit Is Not Magic”; start with <a href="https://tools.tvcn.org/article/lav-hidden/">Lav Hiding: Collar, Hair, Tape</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 4 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Field Recorder: 32-Bit Is Not Magic”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

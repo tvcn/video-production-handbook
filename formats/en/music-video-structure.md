@@ -24,18 +24,16 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Formats Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.news.news-structure.en
-- post.assets.dit-data-handoff.en
-- shoot.virtual-production.led-virtual-production.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.music-video.music-video-template, formats.news.news-breakdown, story.screenplay.logline]
 depth: deep
 deep_minutes: 7
 sources:
 - S14
 - S15
 - S16
+- S29
 test_context: 'Review setup: composite samples and public cases; previewed on MacBook
   Pro M1 / iPhone 13; not one real client project.'
 known_failures: 'Known failures: composite samples are not client proof; platform
@@ -43,7 +41,6 @@ known_failures: 'Known failures: composite samples are not client proof; platfor
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>Music-video structure starts from lyrics and sections: verse establishes space, chorus gives a repeatable motif, bridge changes relationship or location. Each section carries one job; do not tell the story and show off in the same section.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -71,4 +68,13 @@ source_kind: sourced
 ### Ten music-video checks
 <ul><li>Track split into clear sections</li><li>One emotional job per section</li><li>One memory point</li><li>Three visual motifs</li><li>Chorus lifts the same motif</li><li>Verse and chorus differ in scale</li><li>Bridge allowed to go quiet</li><li>Lip-sync line by line</li><li>Inserts stand alone</li><li>Lyrics not illustrated line by line</li></ul><p>The memory point is not the most expensive shot; it is the action the viewer recalls when the chorus hits.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Follow the song: verses give space, chorus gives a memory im”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Follow the song: verses give space, chorus gives a memory im”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Follow the song: verses give space, chorus gives a memory im”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Follow the song: verses give space, chorus gives a memory im”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

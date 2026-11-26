@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.sound.sound-post-workflow
-- post.sound.loudness
-- post.sound.foley
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.deep.deep-subtitle-delivery, post.assets.dit-data-handoff, shoot.deep.deep-camera-move]
 sources:
 - S18
+- S30
+- S34
+- S27
+- S35
 source_kind: sourced
 ---
-
 <p>混音不是把声音调大；对白、响度和拟音要各就各位，观众才不累。 单看《声音后期：从对白到终混的顺序》只能解决一个局部；把《声音后期：从对白到终混的顺序》《响度：平台目标与真峰值》《Foley：脚步、衣服、门把手》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>一条品牌片在粗剪时就铺满音乐，客户觉得“有情绪”。等到终混，对白被音乐盖住，只能整体降音乐；降完片子又变得平。…</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>音乐不是遮羞布。对白不清，先修对白；环境不连续，先补底噪。把音乐留到最后，才有空间做真正的情绪</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别把响度当竞争力；压限器压扁了，对白会更累</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>整片积分响度落在平台目标附近，不是凭耳朵猜。</li><li>真峰值不超过 -1 dB，没有连续红区。</li><li>对白仍然清楚，音乐和环境没有把动态压死。</li><li>先 solo 对白，确认每句都能听懂</li><li>加音乐再听一遍</li><li>加环境再听一遍</li><li>手机外放，音量一半，站到两米外</li><li>耳机听一遍，注意齿音和爆音</li><li>脚步、衣服、门把手三类声音都能对上具体动作。</li><li>静音看画面时，每一下都有声，且没有早半帧。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《声音后期：从对白到终混的顺序》里的单点问题：回到<a href="https://post.tvcn.org/article/sound-post-workflow/">《声音后期：从对白到终混的顺序》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://post.tvcn.org/article/loudness/">《响度：平台目标与真峰值》</a>，先不改第三页。</li><li>只做验收：看<a href="https://post.tvcn.org/article/foley/">《Foley：脚步、衣服、门把手》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S18] [Dangerous Documentaries（CMSI）](https://cmsimpact.org/wp-content/uploads/2015/12/dangerousdocs-feb2015.pdf) — 2026-11-26 访问。用于核对首段“混音不是把声音调大；对白、响度和拟音要各就各位，观众才不累。”中的术语与公开背景（纪录片拍摄中的知情同意、风险与伦理决策）；不替代现场测试。
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“混音不是把声音调大；对白、响度和拟音要各就各位，观众才不累。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“混音不是把声音调大；对白、响度和拟音要各就各位，观众才不累。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
+- [S27] [EBU R128 响度](https://tech.ebu.ch/publications/r128) — 2026-11-26 访问。用于核对首段“混音不是把声音调大；对白、响度和拟音要各就各位，观众才不累。”中的术语与公开背景（广播响度目标、真峰值与测量方法）；不替代现场测试。
+- [S35] [Avid 资源中心](https://www.avid.com/resource-center) — 2026-11-26 访问。用于核对首段“混音不是把声音调大；对白、响度和拟音要各就各位，观众才不累。”中的术语与公开背景（Media Composer、协作与交付的资源入口）；不替代现场测试。
+<!-- SOURCES_END -->
+

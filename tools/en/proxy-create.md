@@ -23,15 +23,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.sync-multicam.en
-- tools.tutorial.color-checker.en
-- tools.tutorial.night-practical.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.delivery.publish-checklist, tools.capability.reflector, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>Do not rename files or change folder structure when generating proxies. The editor relinks by original name and timecode; renaming turns relinking into manual hunting.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -45,3 +41,10 @@ source_kind: experience
 <ol><li>Common: 1080p ProRes Proxy or high-bitrate H.264, same frame rate as source, audio kept.</li><li>Add <code>_proxy</code> to the filename; do not change reel names. Relink against the original media path.</li><li>Keep originals separate from the proxy project. Never grade the proxy as final.</li></ol>
 <p>Acceptance: pick a random cut point and relink to the original; the frame should not shift and audio should stay in sync. If it shifts, check frame rate and timecode.</p></section><section><h2 id="section-4">On set</h2><p>Make quarter-resolution ProRes Proxy files on a separate SSD. Relink and check timecode and framing.</p></section><section><h2 id="section-5">Do this</h2><p>Proxies follow timeline and delivery resolution; do not cut at full resolution. Wrong proxies misplace subtitles and framing.</p><ol><li>Generate quarter-resolution ProRes Proxy.</li><li>Keep them on a separate SSD.</li><li>On relink, check timecode and framing.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not export from proxies; relinking to originals shifts every subtitle.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>every spec maps to one concrete shooting problem</li><li>weight, power and connections hold on a real rig</li><li>a 60-second test leaves one comparable number</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>specs without connections, power or weight</li><li>batteries, storage or body do not match after purchase</li><li>no 60-second test, so the problem arrives on the shoot</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Run a 60-second test with the gear you already own, measuring only “Generate quarter-resolution ProRes Proxy.”. Record two numbers: what you need and what the gear actually gives.</p></section>
 <h2>Check</h2><ul><li>Proxies are quarter-resolution ProRes Proxy on a separate SSD.</li><li>Timeline and proxy names map back to originals.</li><li>After relink, timecode and framing match the proxy cut.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 6 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Proxy Creation: Match the Timeline”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

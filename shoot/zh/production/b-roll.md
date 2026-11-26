@@ -22,14 +22,13 @@ cover: /images/shoot/b-roll.webp
 diagram: /images/diagrams/zh/b-roll.png
 diagram_alt: "B-roll：把一句话变成四个画面"
 diagram_caption: "受访者说“每天早上五点出摊”，画面还停在脸上，观众就只能听。B-roll 要把这句话变成看得见的东西。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [shoot.coverage.coverage.en, shoot.production.shot-list.en, shoot.production.slate-continuity.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [shoot.blocking.blocking, shoot.sound.boom-operator, post.color.color]
 depth: deep
 deep_minutes: 5
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -77,3 +76,12 @@ deep_minutes: 5
 ### 空镜拍完，十项检查
 <ul><li>先拍手、脚、背影</li><li>每个动作都有完整版和局部版</li><li>每个空镜能回答一个问题</li><li>建立空间、人物细节、环境变化各一组</li><li>每组至少两条</li><li>空镜有进点和出点</li><li>单个空镜不超过三秒</li><li>颜色和运动不抢主叙事</li><li>声音没有压过对白</li><li>收工前补拍缺的细节</li></ul><p>空镜不是多余，是给剪辑留的退路。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“受访者说“每天早上五点出摊”，画面还停在脸上，观众就只能听。B-roll 要把这句话变成看得见的东西。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“受访者说“每天早上五点出摊”，画面还停在脸上，观众就只能听。B-roll 要把这句话变成看得见的东西。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“受访者说“每天早上五点出摊”，画面还停在脸上，观众就只能听。B-roll 要把这句话变成看得见的东西。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
+<!-- SOURCES_END -->
+

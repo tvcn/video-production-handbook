@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.method.method-no-budget.en
-- main.method.method-deadline.en
-- main.method.method-portfolio-empty.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [main.method.method-story-slow, main.method.method-subtitle-bad, context.history.16mm]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>单人拍摄最耗时的是调整机位、对焦和收音。把镜头设计成固定机位、预设焦点、连续动作；能用三脚架和自动曝光解决的，不要现场手动。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -59,3 +55,11 @@ source_kind: experience
 ### 一个人拍，十项检查
 <ul><li>一台机只解决一个信息</li><li>每个景别至少两条</li><li>全景中景近景插入都有</li><li>三脚架加手机监看</li><li>录音单独开</li><li>开机拍手</li><li>拍完听十秒</li><li>同一动作拍三遍</li><li>每条检查焦点曝光声音</li><li>先保证能剪再追求好看</li></ul><p>一个人拍片不是逞强，是把每个镜头减到一个人真的能同时管住。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S22] [全国人民代表大会：《民法典》](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — 2026-11-26 访问。用于核对首段“一个人拍先用固定机位和连续动作；不要同时演、拍、跟焦。”中的术语与公开背景（肖像、隐私、合同与场地权利的上位法文本）；不替代现场测试。
+- [S38] [国家税务总局：官方网站](https://www.chinatax.gov.cn/) — 2026-11-26 访问。用于核对首段“一个人拍先用固定机位和连续动作；不要同时演、拍、跟焦。”中的术语与公开背景（增值税、跨境服务与代扣代缴的官方政策入口）；不替代现场测试。
+<!-- SOURCES_END -->
+

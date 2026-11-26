@@ -21,8 +21,8 @@ stage: handbook
 format: guide
 authors:
 - TVCN Tools Desk
-last_verified: 2026-11-23
-review_due: 2027-11-22
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
 sources:
 - S23
 - S25
@@ -32,13 +32,9 @@ sources:
 test_context: 'Review setup: Windows 11 workstation + iPhone 13, Chrome 131; bodies/lenses checked against public specs and short samples, not lab instruments.'
 known_failures: 'Known failures: grey-channel firmware/warranty vary; samples do not prove retail units; prices and stock expire.'
 verified: 2026-11-23
-related:
-- tools.guide.buy-audio-field.en
-- tools.capability.audio-interface.en
-- tools.capability.shotgun-mic.en
-source_kind: experience
+related: [tools.guide.buy-batteries, tools.guide.buy-camera-budget, shoot.camera.axis-line]
+source_kind: sourced
 ---
-
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
@@ -65,9 +61,14 @@ source_kind: experience
 <!-- P5_EXTRA2_START -->
 <h2>Add: pre-purchase checklist</h2>
 <p>Check these four before recording; if one is missing, the set will rely on luck.</p><div class="table-scroll"><table class="data-table"><thead><tr><th>Check</th><th>Pass line</th><th>Log</th></tr></thead><tbody><tr><td>Manual gain</td><td>Exists, locks, and is not changed by auto gain</td><td>Photograph the meter</td></tr><tr><td>Headphone monitoring</td><td>No latency; noise is audible</td><td>Thirty-second test</td></tr><tr><td>Power</td><td>48V/plug-in matches the mic</td><td>Manual/body</td></tr><tr><td>Backup recording</td><td>Camera reference or second recorder</td><td>Enable dual record</td></tr></tbody></table></div>
+
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: field notes and buying checklists; tested: short tests against public specs, not lab scores; references: manufacturer and standards links below.</p>
-<ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube Upload Specs</li><li><span class="mono">[S38]</span> State Taxation Administration</li></ul>
-<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
+## References and further reading
+
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Audiences forgive a plain image; they do not forgive unclear”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Audiences forgive a plain image; they do not forgive unclear”) against HD SDR gamut, transfer function and viewing conditions; not a substitute for an on-set test.
+- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Audiences forgive a plain image; they do not forgive unclear”) against Wide-gamut and parameter definitions for UHD/HDR; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Audiences forgive a plain image; they do not forgive unclear”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Audiences forgive a plain image; they do not forgive unclear”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

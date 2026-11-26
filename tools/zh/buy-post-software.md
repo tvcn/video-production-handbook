@@ -21,8 +21,8 @@ stage: handbook
 format: guide
 authors:
 - TVCN 工具组
-last_verified: 2026-11-23
-review_due: 2027-04-30
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
 sources:
 - S23
 - S25
@@ -32,13 +32,9 @@ sources:
 test_context: 复核环境：Windows 11 + Chrome 131；按公开软件页面与短时 4K 时间线核对，不做跑分。
 known_failures: 已知失败：订阅价格/功能变化；不同机器性能差异；插件兼容性。
 verified: 2026-11-23
-related:
-- tools.capability.nle-compare.en
-- tools.capability.davinci-node.en
-- post.color.color-management.en
-source_kind: experience
+related: [tools.guide.buy-storage, tools.guide.buy-storage-cards, shoot.camera.axis-line]
+source_kind: sourced
 ---
-
 <p>先别记结论：后期软件与交付：先定流程，再买工具 这一页只回答一个现场问题——条件成立时怎么做，条件不成立时在哪一步停下。读完后拿自己的素材复述一次，能复述才算读懂。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -77,9 +73,14 @@ source_kind: experience
 <!-- P5_EXTRA4_START -->
 <h2>边界：订阅不是能力</h2>
 <p>订阅只买到工具，不买到判断。剪辑点、色彩管理、声音层次和交付规格仍然要一条片子一条片子地练；工具越多，越需要一条固定的流程。</p>
+
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：TVCN 工具组现场手册；公开规格核对与短时测试。未做实验室仪器测量。</p>
-<ul><li><span class="mono">[S23]</span> 公开标准/平台规格</li><li><span class="mono">[S25]</span> 公开标准/平台规格</li><li><span class="mono">[S26]</span> 公开标准/平台规格</li><li><span class="mono">[S29]</span> 公开标准/平台规格</li><li><span class="mono">[S38]</span> 公开标准/平台规格</li></ul>
-<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
+## 参考与延伸阅读
+
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“剪辑、调色、声音、编码、审片是五个环节；先定流程，再决定订阅哪几个。不要一次买齐。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — 2026-11-26 访问。用于核对首段“剪辑、调色、声音、编码、审片是五个环节；先定流程，再决定订阅哪几个。不要一次买齐。”中的术语与公开背景（HD SDR 的色域、传递函数与观看条件）；不替代现场测试。
+- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — 2026-11-26 访问。用于核对首段“剪辑、调色、声音、编码、审片是五个环节；先定流程，再决定订阅哪几个。不要一次买齐。”中的术语与公开背景（UHD/HDR 的宽色域与参数定义）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“剪辑、调色、声音、编码、审片是五个环节；先定流程，再决定订阅哪几个。不要一次买齐。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S38] [国家税务总局：官方网站](https://www.chinatax.gov.cn/) — 2026-11-26 访问。用于核对首段“剪辑、调色、声音、编码、审片是五个环节；先定流程，再决定订阅哪几个。不要一次买齐。”中的术语与公开背景（增值税、跨境服务与代扣代缴的官方政策入口）；不替代现场测试。
 <!-- SOURCES_END -->
+

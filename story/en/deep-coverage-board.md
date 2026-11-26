@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.storyboard.shot-sheet.en
-- story.storyboard.sequence-board.en
-- story.storyboard.animatic-boarding.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.deep.deep-dialogue-subtext, story.deep.deep-performance-direction, shoot.camera.axis-line]
 sources:
 - S12
+- S41
+- S10
+- S42
+- S16
 source_kind: sourced
 ---
-
 <p>A board is not a pretty drawing; shot sheet, coverage and animatic must cash out on the timeline. One page of &amp;quot;Shot Sheet: Number, Framing, Action, Duration&amp;quot; solves one local problem; joining &amp;quot;Shot Sheet: Number, Framing, Action, Duration&amp;quot;, &amp;quot;Sequence Board: Shoot the Scene, Not the Script&amp;quot; and &amp;quot;Animatic: Time the Scene Before You Draw It&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not draw what the camera cannot shoot; a board is not an illus…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not draw one panel per line; a board is information order, not…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not draw pretty frames before timing; wrong rhythm forces a re…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>Every shot has number, size, action, and seconds; no column is missing.</li><li>No shot runs over eight seconds without an action.</li><li>A third person can repeat the shooting order from the sheet.</li><li>One main action per row</li><li>Five columns: number, size, action, position, duration</li><li>Every group has wide, medium, close, and insert</li><li>Group by setup, not story order</li><li>Draw a line and estimate time at every setup change</li><li>The first three panels show what is shown, hidden, and revealed last.</li><li>Middle shots fill by information order, not line count.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "Shot Sheet: Number, Framing, Action, Duration", go back to <a href="https://story.tvcn.org/en/article/shot-sheet/">Shot Sheet: Number, Framing, Action, Duration</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://story.tvcn.org/en/article/sequence-board/">Sequence Board: Shoot the Scene, Not the Script</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://story.tvcn.org/en/article/animatic-boarding/">Animatic: Time the Scene Before You Draw It</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A board is not a pretty drawing; shot sheet, coverage and an”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A board is not a pretty drawing; shot sheet, coverage and an”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A board is not a pretty drawing; shot sheet, coverage and an”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+- [S42] [Pixar: Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A board is not a pretty drawing; shot sheet, coverage and an”) against Story structure, character and visual storytelling lessons; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A board is not a pretty drawing; shot sheet, coverage and an”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

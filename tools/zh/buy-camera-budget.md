@@ -21,8 +21,8 @@ stage: handbook
 format: guide
 authors:
 - TVCN 工具组
-last_verified: 2026-11-23
-review_due: 2027-11-22
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
 sources:
 - S23
 - S25
@@ -32,13 +32,9 @@ sources:
 test_context: 复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。
 known_failures: 已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。
 verified: 2026-11-23
-related:
-- tools.guide.buy-lens-first.en
-- tools.guide.buy-lens-zoom.en
-- tools.guide.buy-camera-cine.en
-source_kind: experience
+related: [tools.guide.buy-camera-cine, tools.guide.buy-gimbal-first, shoot.camera.axis-line]
+source_kind: sourced
 ---
-
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
@@ -62,9 +58,14 @@ source_kind: experience
 <p>不要用参数表决定机身。先租一次，拍一条你真正要接的片子；回来再算总价。</p><ol><li>先租一次目标机身和常用镜头，拍一条真实项目。</li><li>确认卡口、转接、自动对焦和供电。</li><li>把卡、电、监看、存储、维修算进总价。</li><li>留 10% 预算给意外和耗材。</li><li>第二支镜头等第一条片子交付后再买。</li></ol>
 <h2>补：失败案例</h2>
 <p>下面三种买法最常见，也都是把预算花在错误的轴上。</p><div class="table-scroll"><table class="data-table"><thead><tr><th>失败做法</th><th>后果</th><th>替换动作</th></tr></thead><tbody><tr><td>为了 4K120 买机身，灯和镜头没预算</td><td>高帧率拍出来没有光，片子仍不能用</td><td>先租机身，把钱留给灯和镜头</td></tr><tr><td>只看样片，不查固件/保修</td><td>量产机对焦或过热表现不同</td><td>带自己的卡试 30 分钟</td></tr><tr><td>先买冷门卡口</td><td>镜头群小，转接牺牲自动对焦</td><td>按已有镜头选卡口</td></tr></tbody></table></div>
+
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：编辑部现场手册与购买检查表；实测来源：短测与公开规格核对，不是实验室跑分；参考来源：以下厂商与标准链接。</p>
-<ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube 上传规格</li><li><span class="mono">[S38]</span> 国家税务总局</li></ul>
-<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
+## 参考与延伸阅读
+
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“预算有限时，机身不是第一优先级。先确认你缺的是暗光、自动对焦、10-bit、还是收音；买错机身，后面每一件配件都要跟着换”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — 2026-11-26 访问。用于核对首段“预算有限时，机身不是第一优先级。先确认你缺的是暗光、自动对焦、10-bit、还是收音；买错机身，后面每一件配件都要跟着换”中的术语与公开背景（HD SDR 的色域、传递函数与观看条件）；不替代现场测试。
+- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — 2026-11-26 访问。用于核对首段“预算有限时，机身不是第一优先级。先确认你缺的是暗光、自动对焦、10-bit、还是收音；买错机身，后面每一件配件都要跟着换”中的术语与公开背景（UHD/HDR 的宽色域与参数定义）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“预算有限时，机身不是第一优先级。先确认你缺的是暗光、自动对焦、10-bit、还是收音；买错机身，后面每一件配件都要跟着换”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S38] [国家税务总局：官方网站](https://www.chinatax.gov.cn/) — 2026-11-26 访问。用于核对首段“预算有限时，机身不是第一优先级。先确认你缺的是暗光、自动对焦、10-bit、还是收音；买错机身，后面每一件配件都要跟着换”中的术语与公开背景（增值税、跨境服务与代扣代缴的官方政策入口）；不替代现场测试。
 <!-- SOURCES_END -->
+

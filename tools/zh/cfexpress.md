@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.scope-monitor.en
-- tools.capability.video-assist.en
-- tools.capability.nas.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.capability.cine-camera, tools.capability.cloud-render, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>只拍低码率照片或短视频时，不必为最高规格付钱。卡的速度超过机身写入上限，多出的钱不会变成画质。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -40,3 +36,10 @@ source_kind: experience
 <!-- DIAGRAM_END -->
 <section><h2 id="section-1">选型先看什么</h2><ul><li><strong>持续写入：</strong>看持续写入，不看峰值；高码率录制几分钟后掉速的卡，会在长镜头中途停。</li><li><strong>发热：</strong>卡和读卡器都会热；连续拷卡时降速或掉盘，说明散热不够。</li><li><strong>容量与备份：</strong>按一天拍摄量和双卡备份算，不要按“能录多久”的广告数字算。</li></ul><h2 id="section-2">什么时候不要用</h2></section><section><h2 id="section-3">现场</h2><p>录 10 分钟最高码率，摸卡温度；再拷贝到 SSD，测持续写入是否掉速。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>录 10 分钟最高码率，摸卡温度。</li><li>拷到 SSD，测持续写入是否掉速。</li><li>掉速就换卡或降码率。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别只看峰值写入；十分钟后热降速，长条就会断。</p></section>
 <h2>验收</h2><ul><li>最高码率连录 10 分钟没有中断，卡温有记录。</li><li>拷到 SSD 的持续写入曲线没有明显掉速。</li><li>掉速时有换卡或降码率的处理方案。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 3 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「CFexpress 卡：速度与发热」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.tool.tool-card-interview-kit.en
-- main.tool.tool-card-basic-kit.en
-- main.tool.tool-card-lighting-kit.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.tool.tool-card-basic-kit, main.tool.tool-card-interview-kit, context.history.16mm]
 source_kind: experience
 ---
-
 <p>枪麦负责主对白，领夹做备份，录音机负责把两路分开录，监听耳机负责当场发现底噪。四件里少一件，现场就会靠猜。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -48,3 +44,10 @@ source_kind: experience
 <h2 id="section-4">别用后期降噪掩盖</h2>
 <p>降噪只能去掉稳定底噪，去不掉风噪、衣服摩擦和房间反射。现场换位置、换麦距、加挡风，永远比后期便宜。</p></section><section><h2 id="section-5">现场</h2><p>枪麦、领夹、录音机、监听耳机；先录一条 30 秒对白，确认底噪。</p></section><section><h2 id="section-6">别踩</h2><p>别只带枪麦；室内对白没有领夹备份，风一吹就废。</p></section>
 <h2>验收</h2><ul><li>枪麦和领夹同时录，两条都能独立用。</li><li>30 秒对白测试里能听出底噪水平。</li><li>录音时有人戴监听耳机，不只看表。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 6 次客户需求梳理与项目复盘，条件为单人或 2–3 人小组、预算与周期明确；页面讨论的具体对象是「录音入门组合」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

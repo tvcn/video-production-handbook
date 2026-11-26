@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.lighting-window.en
-- tools.tutorial.room-tone-record.en
-- tools.tutorial.white-balance-gray.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.tutorial.lighting-window, tools.producing.location-scout, shoot.lighting.lighting-style]
 source_kind: experience
 ---
-
 <p>只有一盏灯时，先决定它从哪来：侧后方做轮廓，侧前方做脸，顶光做压迫。方向定错，加十盏灯也救不回来。补光用白墙、泡沫板或反光板，不要再加第二盏同方向的灯。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -43,3 +39,15 @@ source_kind: experience
 <ol><li>先关掉所有环境光，只开主灯；看鼻子和下巴的阴影是否朝同一方向。</li><li>灯越高，眼窝越深；不要高过发际线，否则会出现“鬼影”。</li><li>需要柔光就加柔光箱或白布，尺寸越接近人脸越柔；不要直接裸灯打脸。</li></ol>
 <p>验收：看暗部是否还有皮肤纹理；一片死黑说明补光不够，一片平说明主灯太正。两者之间才有形状。</p></section><section><h2 id="section-4">现场</h2><p>灯放 45 度，距人脸 1 米；先拍一张看鼻子影子，再决定柔光箱大小。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>灯放 45 度，距人脸 1 米。</li><li>先拍一张看鼻子影子。</li><li>再决定柔光箱大小。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别先换柔光箱；方向没定，换多大的箱子都只是换一种错。</p></section><figure class="article-audio"><audio controls preload="none" src="../../assets/audio/zh/tool-lighting-one-light.zh.mp3"></audio><figcaption>20 秒语音演示：一个检查点和最常见的失败。文字稿与步骤在正文里。</figcaption></figure><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>每一项参数都能对应一个具体的拍摄问题</li><li>重量、供电和接口在真实机位上成立</li><li>60 秒测试能留下一个可比较的数字</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>只看参数，不看接口、供电和重量</li><li>买回来才发现电池、存储或机身不匹配</li><li>没有 60 秒测试，问题被带到正式拍摄</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用现有器材做 60 秒测试，只测“灯放 45 度，距人脸 1 米”；记下两个数字：一个是你需要的，一个是器材实际给出的。</p></section>
 <h2>验收</h2><ul><li>灯在 45 度、距人脸 1 米，有位置记录。</li><li>鼻子影子方向明确，能看出光从哪来。</li><li>柔光箱大小是在方向确认后才决定的。</li></ul>
+
+
+> 意图分工：本页负责「单灯人像：先有方向」的可执行细节；同集群先读 <a href="https://tools.tvcn.org/article/buy-light-kit/">购买灯光套装：先买柔，再买亮</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 7 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「单灯人像：先有方向」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

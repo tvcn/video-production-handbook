@@ -23,17 +23,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.backup-3-2-1.en
-- tools.guide.audio-noise-fix.en
-- tools.guide.jelly-fix.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [tools.tutorial.export-h264, tools.tutorial.export-prores, shoot.camera.axis-line]
 depth: deep
 deep_minutes: 7
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>Check in order: bad frames or offline media, disk space, codec support, special characters in the filename, hardware acceleration. Change one variable and log the result.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -63,3 +59,11 @@ source_kind: experience
 ### Ten export-failure checks
 <ul><li>Read the full error text</li><li>Record the failure time</li><li>Start failure: check codec and path</li><li>Fixed-time failure: check media and fonts</li><li>99% failure: check disk and file limit</li><li>Transcode variable frame rate to constant</li><li>Leave twice the estimated space</li><li>Short English path, pause cloud sync</li><li>Change one setting at a time</li><li>Split export to locate the bad section</li></ul><p>Export troubleshooting does not end at “it passed this time.” It ends at “I know why it will pass next time.”</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Check codec, disk space, and permissions; only then rebuild ”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Check codec, disk space, and permissions; only then rebuild ”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

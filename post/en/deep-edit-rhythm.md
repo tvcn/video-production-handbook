@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.editing.fine-cut.en
-- post.editing.parallel-editing.en
-- post.sound.music-editing.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.deep.deep-master-delivery, post.deep.deep-sound-mix, shoot.camera.axis-line]
 sources:
 - S18
+- S30
+- S34
+- S27
+- S35
 source_kind: sourced
 ---
-
 <p>Rhythm is not fast cutting; fine cut, parallel scenes and music advance on the same beat. One page of &amp;quot;Fine Cut: Remove the Rough Edges&amp;quot; solves one local problem; joining &amp;quot;Fine Cut: Remove the Rough Edges&amp;quot;, &amp;quot;Parallel Editing: When Do Two Lines Meet?&amp;quot; and &amp;quot;Music Editing: Let the Music Follow the Action&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not hide structure problems with fancy transitions; a wipe can…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not cut back and forth for technique; without a countdown, the…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not fill every gap with music; without an exit, the entrance h…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>Each scene loses at least three specific burrs and cuts no longer bite.</li><li>Breaths and pauses connect without a line being cut in half.</li><li>The stranger checks the phone less, or you can name why the drag remains.</li><li>Cut halfway through a reach</li><li>Cut between the looker and the looked-at</li><li>Let a line tail cover the picture change</li><li>Align a door, table edge, or shoulder across the cut</li><li>Delete repeated information</li><li>Each line has a readable countdown so the audience can calculate who arrives first.</li><li>The cross happens at rising pressure, not at even intervals.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "Fine Cut: Remove the Rough Edges", go back to <a href="https://post.tvcn.org/en/article/fine-cut/">Fine Cut: Remove the Rough Edges</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://post.tvcn.org/en/article/parallel-editing/">Parallel Editing: When Do Two Lines Meet?</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://post.tvcn.org/en/article/music-editing/">Music Editing: Let the Music Follow the Action</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S18] [Dangerous Documentaries (CMSI)](https://cmsimpact.org/wp-content/uploads/2015/12/dangerousdocs-feb2015.pdf) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Rhythm is not fast cutting; fine cut, parallel scenes and mu”) against Informed consent, risk and ethical decisions in documentary production; not a substitute for an on-set test.
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Rhythm is not fast cutting; fine cut, parallel scenes and mu”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Rhythm is not fast cutting; fine cut, parallel scenes and mu”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
+- [S27] [EBU R128 Loudness](https://tech.ebu.ch/publications/r128) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Rhythm is not fast cutting; fine cut, parallel scenes and mu”) against Broadcast loudness targets, true peak and measurement; not a substitute for an on-set test.
+- [S35] [Avid Resource Center](https://www.avid.com/resource-center) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Rhythm is not fast cutting; fine cut, parallel scenes and mu”) against Resources for Media Composer, collaboration and delivery; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

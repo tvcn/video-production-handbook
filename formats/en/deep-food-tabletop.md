@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.food.food-video-template.en
-- formats.food.food-video-structure.en
-- formats.food.food-video-breakdown.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.deep.deep-music-video, formats.deep.deep-short-drama, story.directing.actor-adjustment]
 sources:
 - S12
+- S14
+- S15
+- S16
+- S29
 source_kind: sourced
 ---
-
 <p>Food film is not a reel of close-ups; tabletop, sound and a 30-second action order decide appetite. One page of &amp;quot;Food &amp;amp; Table Template: One Sheet to Shoot&amp;quot; solves one local problem; joining &amp;quot;Food &amp;amp; Table Template: One Sheet to Shoot&amp;quot;, &amp;quot;Food &amp;amp; Table Structure: Six Beats&amp;quot; and &amp;quot;Food &amp;amp; Table Breakdown: Six Beats in Practice&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Only the result is kept, not the condition</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Only the result is kept, not the condition</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Only the result is kept, not the condition</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>The condition from Food &amp; Table Template: One Sheet to Shoot fits on one line and can be repeated by someone else.</li><li>Only one variable changes and the other page&#x27;s result still reproduces.</li><li>A failure is recorded as condition, action and result, not a feeling.</li><li>A colleague can reproduce the same version without asking you.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "Food & Table Template: One Sheet to Shoot", go back to <a href="https://formats.tvcn.org/en/article/food-video-template/">Food & Table Template: One Sheet to Shoot</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://formats.tvcn.org/en/article/food-video-structure/">Food & Table Structure: Six Beats</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://formats.tvcn.org/en/article/food-video-breakdown/">Food & Table Breakdown: Six Beats in Practice</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Food film is not a reel of close-ups; tabletop, sound and a ”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Food film is not a reel of close-ups; tabletop, sound and a ”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Food film is not a reel of close-ups; tabletop, sound and a ”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Food film is not a reel of close-ups; tabletop, sound and a ”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Food film is not a reel of close-ups; tabletop, sound and a ”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

@@ -26,15 +26,14 @@ authors:
 sources:
 - S09
 - S10
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.history.edison-kinetoscope.en
-- context.history.muybridge.en
-- context.history.sound-era.en
+- S01
+- S02
+- S03
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.literacy.media-literacy, context.history.montage, formats.documentary.documentary-template]
 source_kind: sourced
 ---
-
 <p>The Lumière train film brought the audience into a real space: fixed camera, full depth, movement from far to near. It proved cinema could record something happening, not only a stage performance.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -52,10 +51,12 @@ source_kind: sourced
 <h2>Check</h2><ul><li>The camera is locked and the train enters on a diagonal into depth.</li><li>No cut occurs; one long take carries the shot.</li><li>The fear comes from motion toward the lens, not stereoscopy.</li></ul>
 
 <!-- SOURCES_START -->
-## References
+## References and further reading
 
-- [S09] Institut Lumière: The Cinematograph and Museum
-- [S10] BFI: Film history and moving-image research
-
-Full links and notes: [`SOURCES.md`](../../about/).
+- [S09] [The Cinematograph and Museum](https://www.institut-lumiere.org/en/lumiere-museum) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The Lumière brothers projected a train arriving, and the aud”) against Institutional archive on the Lumière brothers, the Cinematograph and the 1895 screenings; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The Lumière brothers projected a train arriving, and the aud”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The Lumière brothers projected a train arriving, and the aud”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The Lumière brothers projected a train arriving, and the aud”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The Lumière brothers projected a train arriving, and the aud”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

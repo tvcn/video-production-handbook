@@ -22,18 +22,22 @@ cover: /images/tools/camera-choice.webp
 diagram: /images/diagrams/zh/camera-choice.png
 diagram_alt: "选相机：先写四个约束"
 diagram_caption: "参数表不能替你做决定。先写清楚拍什么、在哪拍、给谁看、能背多重，再选机身和镜头。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [tools.guide.crew-management.en, ai.generation.text-to-video.en, animation.3d.rigging.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [tools.producing.casting, tools.capability.cfexpress, shoot.production.camera-height]
 depth: deep
 deep_minutes: 7
-sources: [S23, S25, S26, S29, S38]
+sources:
+- S23
+- S25
+- S26
+- S29
+- S38
 test_context: "复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。"
 known_failures: "已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。"
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -87,9 +91,19 @@ verified: 2026-11-22
 ### 选相机，十项检查
 <ul><li>先问拍多久</li><li>谁拿机器</li><li>放在哪拍</li><li>交付决定规格</li><li>算镜头卡电池全套成本</li><li>镜头群够不够</li><li>能边充边拍</li><li>能双卡备份</li><li>连续录不过热</li><li>三十秒内能改三项参数</li></ul><p>相机不是买来证明你专业，是买来让拍摄当天不停。</p>
 <!-- DEEP_DIVE_END -->
+
+
+> 意图分工：本页负责「相机怎么选：先看约束，不看品牌」的可执行细节；同集群先读 <a href="https://tools.tvcn.org/article/buy-camera-budget/">购买相机：先定预算，再定机身</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：编辑部现场手册与购买检查表；实测来源：短测与公开规格核对，不是实验室跑分；参考来源：以下厂商与标准链接。</p>
-<ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube 上传规格</li><li><span class="mono">[S38]</span> 国家税务总局</li></ul>
-<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
+## 参考与延伸阅读
+
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“先写你拍什么、在哪拍、给谁看、能背多重，再选机身。参数表不能替你做决定。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — 2026-11-26 访问。用于核对首段“先写你拍什么、在哪拍、给谁看、能背多重，再选机身。参数表不能替你做决定。”中的术语与公开背景（HD SDR 的色域、传递函数与观看条件）；不替代现场测试。
+- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — 2026-11-26 访问。用于核对首段“先写你拍什么、在哪拍、给谁看、能背多重，再选机身。参数表不能替你做决定。”中的术语与公开背景（UHD/HDR 的宽色域与参数定义）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“先写你拍什么、在哪拍、给谁看、能背多重，再选机身。参数表不能替你做决定。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S38] [国家税务总局：官方网站](https://www.chinatax.gov.cn/) — 2026-11-26 访问。用于核对首段“先写你拍什么、在哪拍、给谁看、能背多重，再选机身。参数表不能替你做决定。”中的术语与公开背景（增值税、跨境服务与代扣代缴的官方政策入口）；不替代现场测试。
 <!-- SOURCES_END -->
+

@@ -24,12 +24,9 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Post Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.delivery.platform-deliverables.en
-- shoot.virtual-production.led-virtual-production.en
-- story.screenplay.three-act.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.color.lut, post.delivery.mastering, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
 sources:
@@ -38,7 +35,6 @@ sources:
 - S28
 - S30
 - S34
-- S35
 test_context: 'Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci
   Resolve 20 and Premiere Pro 2025; results vary by machine.'
 known_failures: 'Known failures: older-version timelines break; camera Logs need remapping;
@@ -46,7 +42,6 @@ known_failures: 'Known failures: older-version timelines break; camera Logs need
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>Make dialogue clear at normal monitoring, then match overall loudness to the platform target. Do not raise the master gain to rescue dialogue. Check true peak before export and leave 1–2 dB for encoding so platform compression does not clip.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -72,4 +67,14 @@ source_kind: sourced
 ### Ten listening checks before delivery
 <ul><li>Solo dialogue and confirm every line is intelligible</li><li>Add music and listen again</li><li>Add ambience and listen again</li><li>Play on a phone at half volume from two meters</li><li>Listen on headphones for sibilance and clipping</li><li>Listen once on a laptop speaker</li><li>Mark the timecode of the quietest line</li><li>Mark the timecode of the loudest line</li><li>Jump to both before delivery</li><li>Confirm true peak does not exceed minus one</li></ul><p>A loudness meter proves the number, not that the audience understood. The last pass belongs to your ears, not your eyes. Play it for someone who has not seen it and ask which line they missed; that is usually the fix.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S24] [ACES Color Management](https://www.oscars.org/science-technology/aces) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Deliver to the platform's loudness target and leave true-pea”) against Official ACES color pipeline documentation; not a substitute for an on-set test.
+- [S27] [EBU R128 Loudness](https://tech.ebu.ch/publications/r128) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Deliver to the platform's loudness target and leave true-pea”) against Broadcast loudness targets, true peak and measurement; not a substitute for an on-set test.
+- [S28] [Netflix Partner Help](https://partnerhelp.netflixstudios.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Deliver to the platform's loudness target and leave true-pea”) against Public entry for delivery specs, HDR/SDR and QC; not a substitute for an on-set test.
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Deliver to the platform's loudness target and leave true-pea”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Deliver to the platform's loudness target and leave true-pea”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

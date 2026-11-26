@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 后期组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.editing.parallel-editing.en
-- post.assets.project-structure.en
-- post.delivery.archive.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.vfx.vfx-composite, post.delivery.archive, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>文件名用 v001、v002，不用“最终”“最终2”。每次输出写一行变更：改了哪一场、哪个镜头、为什么。没有变更说明，版本号只是数字。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -61,3 +57,12 @@ source_kind: experience
 ### 只剩五分钟时
 <ul><li>文件名写项目、日期、版本、状态</li><li>禁止 final 和 final2</li><li>画面锁定再交付</li><li>变更写进变更表</li><li>交付包有清单</li><li>归档前打开检查</li></ul><p>版本管理不是为了好看，是为了让“上一版”真的找得到。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“版本管理用日期、平台、时长和改动原因命名，别用“final 真的 final”。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S27] [EBU R128 响度](https://tech.ebu.ch/publications/r128) — 2026-11-26 访问。用于核对首段“版本管理用日期、平台、时长和改动原因命名，别用“final 真的 final”。”中的术语与公开背景（广播响度目标、真峰值与测量方法）；不替代现场测试。
+- [S67] [IETF：RFC 8216：HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216) — 2026-11-26 访问。用于核对首段“版本管理用日期、平台、时长和改动原因命名，别用“final 真的 final”。”中的术语与公开背景（HLS 分片、清单与播放）；不替代现场测试。
+<!-- SOURCES_END -->
+

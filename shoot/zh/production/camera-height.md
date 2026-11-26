@@ -22,12 +22,11 @@ cover: /images/shoot/camera-height.webp
 diagram: /images/diagrams/zh/camera-height.png
 diagram_alt: "低 / 平 / 高：高度改变的是关系"
 diagram_caption: "同一张脸，机位越低人物越大，越高人物越小。先把镜头放到对方的眼睛高度，再决定要不要故意偏。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [shoot.camera.lens-distance.en, shoot.camera.shot-size.en, shoot.camera.axis-line.en]
+related: [shoot.camera.camera-move, shoot.camera.composition, post.color.color]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -62,3 +61,30 @@ related: [shoot.camera.lens-distance.en, shoot.camera.shot-size.en, shoot.camera
 - 这一场的默认高度是平视，还是有意选择的高/低？
 - 坐着的采访对象，镜头是否也坐到了眼睛高度？
 - 高度变化是否跟人物的站、坐、走近、退后同步？
+
+## 眼睛高度是基准
+
+摄影机放在人物眼睛高度，观众会觉得中立。高于眼睛，人物变小；低于眼睛，人物变大。
+
+先拍一条眼睛高度的版本，再决定要不要偏。不要一上来就蹲或举。
+
+## 低机位不是万能
+
+低机位让人有压迫感，但也会放大鼻孔、下巴和天花板。拍脸时先看光，再看高度。
+
+低机位适合权力、威胁、英雄；不适合需要亲和力的访谈。
+
+## 高度要跟着动作走
+
+人物坐下，摄影机也要降；人物站起，摄影机跟着升。高度不变，人物会像在滑动的背景前表演。
+
+如果不想动，就在剪辑点换高度，让观众看到关系变了。
+
+<!-- V11_DEEPEN -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 7 次现场拍摄与回放复核，条件为单机位、自然光或一盏主光；页面讨论的具体对象是「机位高度：蹲下比换镜头有用」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

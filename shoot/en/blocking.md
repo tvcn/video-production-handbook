@@ -23,12 +23,9 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tech Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.camera.composition.en
-- story.screenplay.three-act.en
-- tools.guide.buy-tripod.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.sound.boom-operator, shoot.production.camera-height, post.color.color]
 depth: deep
 deep_minutes: 6
 sources:
@@ -36,6 +33,7 @@ sources:
 - S31
 - S32
 - S33
+- S52
 test_context: 'Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus
   and samples; lens claims follow page labels, not every lens tested.'
 known_failures: 'Known failures: menus and firmware differ; uncalibrated color temperature/monitors
@@ -43,7 +41,6 @@ known_failures: 'Known failures: menus and firmware differ; uncalibrated color t
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>Blocking is not pretty placement; it turns who approaches, who retreats and who blocks whom into visible information. Tape the door, chair and camera on the floor, then let one action carry the actor across that distance.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -73,4 +70,14 @@ source_kind: sourced
 ### When you have five minutes
 <ul><li>Walk it once without lines</li><li>Mark start, end, and turns</li><li>Test sitting and standing</li><li>Confirm the key light does not hide the face</li><li>Give every group actor one action</li><li>Photograph the blocking diagram</li></ul><p>Right blocking gives dialogue a place to land; wrong blocking makes actors carry it with their faces.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Blocking is not pretty placement; it makes relationships vis”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Blocking is not pretty placement; it makes relationships vis”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
+- [S32] [Sony Pro Support](https://pro.sony/ue_US/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Blocking is not pretty placement; it makes relationships vis”) against Support, firmware and documents for pro cameras and lenses; not a substitute for an on-set test.
+- [S33] [Canon Support](https://www.usa.canon.com/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Blocking is not pretty placement; it makes relationships vis”) against Official support for cameras, lenses and firmware; not a substitute for an on-set test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Blocking is not pretty placement; it makes relationships vis”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

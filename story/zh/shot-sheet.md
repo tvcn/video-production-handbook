@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 故事组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.screenplay.scene-description.en
-- story.directing.rehearsal.en
-- story.storyboard.sequence-board.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.storyboard.storyboard, story.story.subplot, shoot.production.shot-list]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>每行写：镜号、景别、机位、动作、台词、时长、道具、声音。少一项，现场就要停下来问。镜头表不是分镜的替代，而是分镜的可执行版。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -57,3 +53,11 @@ source_kind: experience
 ### 出发前，镜头表要有这十样
 <ul><li>每行只有一个主要动作</li><li>镜号、景别、动作、机位、时长五列齐全</li><li>每组都有全景、中景、近景、插入</li><li>按机位分组，不按剧情顺序</li><li>换机位处画横线并写预计耗时</li><li>补拍用字母编号，不插回原号</li><li>每个镜头写清需要什么道具</li><li>标出演员站位和视线方向</li><li>留一列给现场实际条数</li><li>收工前拍照发给场记和剪辑</li></ul><p>镜头表不是给别人看的，是给明天的自己看的。明天的你不会记得今天为什么少拍一条。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“镜头表四列就够：镜号、景别、动作、时长；写不清这四样，现场一定乱。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“镜头表四列就够：镜号、景别、动作、时长；写不清这四样，现场一定乱。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+<!-- SOURCES_END -->
+

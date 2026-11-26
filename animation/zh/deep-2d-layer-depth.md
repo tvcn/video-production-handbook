@@ -23,18 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.2d.2d-camera
-- animation.2d.2d-compositing
-- animation.3d.layout
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.deep.deep-3d-light-material, animation.deep.deep-animation-qc, formats.brand.brand-film]
 sources:
+- S62
+- S63
 - S12
 - S23
+- S59
 source_kind: sourced
 ---
-
 <p>二维的空间不是画出来的，是分层、速度差和遮挡一起算出来的。 单看《二维运镜：pan 与 multiplane》只能解决一个局部；把《二维运镜：pan 与 multiplane》《二维合成：背景、前景、光》《Layout：镜头与资产交接》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -54,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别把整张图一起平移；所有层同速，空间就扁了</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别把所有东西画在一层；改一笔就要重画全图</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别在 layout 里留活机位；动画一开做，改机位就是返工</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>远、中、近三层速度不同，比例接近 1:2:4。</li><li>人物层和背景层分开，没有跟着背景一起滑。</li><li>pan 一遍能看出前景快、远景慢的空间感。</li><li>背景、角色、前景、光效四层分开，文件结构清楚。</li><li>影子在独立层，没有画死在角色身上。</li><li>改角色动作时只动角色层，背景和光效不用重画。</li><li>机位、角色比例、资产版本三项都锁死并有版本号。</li><li>文件头能看到版本和依赖，动画师不用猜。</li><li>动画段没有擅自改机位，最终镜头和 layout 一致。</li><li>把 二维运镜：pan 与 multiplane 的条件写成一行，能复述给下一个人。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《二维运镜：pan 与 multiplane》里的单点问题：回到<a href="https://animation.tvcn.org/article/2d-camera/">《二维运镜：pan 与 multiplane》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://animation.tvcn.org/article/2d-compositing/">《二维合成：背景、前景、光》</a>，先不改第三页。</li><li>只做验收：看<a href="https://animation.tvcn.org/article/layout/">《Layout：镜头与资产交接》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“二维的空间不是画出来的，是分层、速度差和遮挡一起算出来的。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“二维的空间不是画出来的，是分层、速度差和遮挡一起算出来的。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“二维的空间不是画出来的，是分层、速度差和遮挡一起算出来的。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“二维的空间不是画出来的，是分层、速度差和遮挡一起算出来的。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“二维的空间不是画出来的，是分层、速度差和遮挡一起算出来的。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
+<!-- SOURCES_END -->
+

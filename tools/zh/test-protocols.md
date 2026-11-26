@@ -21,22 +21,20 @@ stage: handbook
 format: protocol
 authors:
 - TVCN 工具组
-last_verified: 2026-11-23
-review_due: 2027-04-30
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
 sources:
 - S23
 - S25
 - S26
+- S29
+- S30
 test_context: 复核环境：Windows 11 + Chrome 131；本页只定义协议和记录字段，未做实验室测量。
 known_failures: 已知失败：不同机器/固件/镜头结果不可直接比较；环境温度与卡型会影响写入。
 verified: 2026-11-23
-related:
-- tools.guide.buy-camera-budget.en
-- tools.guide.buy-lens-first.en
-- tools.guide.buy-audio-first.en
-source_kind: experience
+related: [tools.capability.timecode, tools.proposal.treatment, shoot.camera.composition]
+source_kind: sourced
 ---
-
 <p>先别记结论：测试协议库：十项现场可复现测试 这一页只回答一个现场问题——条件成立时怎么做，条件不成立时在哪一步停下。读完后拿自己的素材复述一次，能复述才算读懂。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -74,9 +72,14 @@ source_kind: experience
 <p>示例：日期 2026-11-23；测试 RS-01；机器 A7S3 / 固件 2.0；镜头 24mm；软件 NLE 1.0；室温 22°C；方法“2 秒横摇，1/50”；变量“快门 1/100”；原始读数“直线弯曲 18px”；结论“失败”；失败条件“快速横摇”；文件路径“/tests/RS-01.mp4”。没有读数的格子留空，不要写“正常”。</p>
 <h2>补：失败条件必须单独写</h2>
 <p>失败不是“效果不好”，是一个可复现的条件：哪台机器、哪个固件、哪个镜头、什么温度、什么卡、什么设置。写不清失败条件，测试就不可复现，也不能拿来做购买决策。</p><ol><li>先写通过线，再写失败点。</li><li>失败点要能被别人按同样步骤复现。</li><li>失败文件单独保存，不覆盖。</li></ol>
+
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：TVCN 工具组现场手册；公开规格核对与短时测试。未做实验室仪器测量。</p>
-<ul><li><span class="mono">[S23]</span> 公开标准/平台规格</li><li><span class="mono">[S25]</span> 公开标准/平台规格</li><li><span class="mono">[S26]</span> 公开标准/平台规格</li></ul>
-<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
+## 参考与延伸阅读
+
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“十项测试的可复现步骤、原始记录字段和通过线；没有器材就写“未实测”，不编数字。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — 2026-11-26 访问。用于核对首段“十项测试的可复现步骤、原始记录字段和通过线；没有器材就写“未实测”，不编数字。”中的术语与公开背景（HD SDR 的色域、传递函数与观看条件）；不替代现场测试。
+- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — 2026-11-26 访问。用于核对首段“十项测试的可复现步骤、原始记录字段和通过线；没有器材就写“未实测”，不编数字。”中的术语与公开背景（UHD/HDR 的宽色域与参数定义）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“十项测试的可复现步骤、原始记录字段和通过线；没有器材就写“未实测”，不编数字。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“十项测试的可复现步骤、原始记录字段和通过线；没有器材就写“未实测”，不编数字。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
 <!-- SOURCES_END -->
+

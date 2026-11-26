@@ -22,12 +22,11 @@ cover: /images/post/sound-post.webp
 diagram: /images/diagrams/zh/sound-post.png
 diagram_alt: "声音后期：先修不舒服，再谈氛围"
 diagram_caption: "一条片子的声音不舒服，观众不会说“声音不好”，只会说“看不下去”。先处理底噪、电平、同步，再考虑音乐。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [post.sound.room-tone.en, post.editing.mix-dialogue.en, post.color.color.en]
+related: [post.sound.sound-post-workflow, post.editing.subtitles, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -60,3 +59,35 @@ related: [post.sound.room-tone.en, post.editing.mix-dialogue.en, post.color.colo
 - 问题清单里分别写了底噪、爆音、回声、音量跳。
 - 对白峰值在 -6 到 -3 dB，环境声低 12 到 18 dB。
 - 关掉画面听一遍，人声仍然清楚。
+
+## 降噪的边界
+
+降噪不是把噪声降到零，是把噪声压到观众不注意。压太狠，对白会变成塑料，齿音和呼吸先消失。
+
+先确认噪声类型：稳态风扇用谱减，突发关门用剪辑或手动修。一种工具打天下，最后一定伤对白。
+
+## 对白先站住
+
+先修对白的电平、节奏和呼吸，再修音色。对白不清楚，加多少氛围都没用。
+
+修完一条，和前后镜头并排听。单条好听不算，整场一致才算。
+
+## 交付前听三遍
+
+第一遍在剪辑软件里听，第二遍导出成平台格式听，第三遍用手机外放听。三遍听到的问题不一样。
+
+手机外放最容易暴露低频过多和对白太轻。耳机最容易暴露齿音和底噪。
+
+<!-- V11_DEEPEN -->
+
+
+> 意图分工：本页负责「声音后期先修噪声，再谈氛围」的可执行细节；同集群先读 <a href="https://post.tvcn.org/article/loudness/">响度：平台目标与真峰值</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 4 次后期项目复盘，条件为4K 以内素材、常规平台交付；页面讨论的具体对象是「声音后期先修噪声，再谈氛围」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

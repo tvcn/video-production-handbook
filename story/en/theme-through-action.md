@@ -24,17 +24,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Story Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.story.ending-choice.en
-- story.story.want-stakes.en
-- story.story.scene-sequence.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.screenplay.three-act, story.screenplay.voice-over, shoot.camera.composition]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>Theme is not a voiceover line; it is an action that recurs with a different meaning each time. Someone wipes the table when nervous: first a habit, then a cover, then a goodbye. The audience reads the theme from the change.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -62,3 +58,11 @@ source_kind: experience
 ### Ten theme checks
 <ul><li>Theme fits in one verb</li><li>Theme is filmable</li><li>Three actions across three scenes</li><li>The counter-theme has a case</li><li>The counter-theme also pays</li><li>Dialogue does not judge</li><li>Same situation at start and end</li><li>The ending answers with action</li><li>No explanation of growth</li><li>The counterexample holds</li></ul><p>Theme is not what the audience hears; it is what they watch a person keep doing.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Do not let a character speak the theme; make them choose und”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Do not let a character speak the theme; make them choose und”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

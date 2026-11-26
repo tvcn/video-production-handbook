@@ -23,12 +23,11 @@ cover: /images/post/cutting-points.webp
 diagram: /images/diagrams/en/cutting-points.png
 diagram_alt: "Three seams: action, eye line, sound"
 diagram_caption: "Every cut needs one thing to catch attention. Action is steadiest, eye line is smoothest, sound is freest. With none of them, the seam jumps."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [post.editing.sound-bridge.en, post.sound.room-tone.en, post.editing.transitions.en]
+related: [post.deep.deep-asset-management, post.deep.deep-color-pipeline, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -69,3 +68,15 @@ A cut point is not a frame number; it is a handoff of attention. Ask at every cu
 - You can name the action, eye line, or sound carrying each cut.
 - Action cuts land mid-motion, not after the action stops.
 - Sound bridges do not step on dialogue or hide under music.
+
+
+> Intent split: this page covers the practical details of “Cut Points: Action, Eye Line, Sound”; start with <a href="https://post.tvcn.org/article/fine-cut/">Fine Cut: Remove the Rough Edges</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 4 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Cut Points: Action, Eye Line, Sound”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

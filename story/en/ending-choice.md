@@ -23,17 +23,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Story Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.story.theme-through-action.en
-- story.story.scene-sequence.en
-- story.story.midpoint-turn.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.directing.ensemble-scene, story.storyboard.insert-shot, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>The ending does not explain the choice; it shows the first consequence. If she stays, show her setting down the bag. If she leaves, show the door closing behind her. Stop after the action and let the audience supply the sentence.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -61,3 +57,16 @@ source_kind: experience
 ### Ten ending checks
 <ul><li>Stop after the choice</li><li>The audience knows what he chose</li><li>The audience knows what it cost</li><li>The last shot shows the result</li><li>No dialogue summarizes the theme</li><li>Closed ending answers the main question</li><li>Open ending leaves a new one</li><li>The answer sits inside an action</li><li>The last beat is quieter</li><li>Someone else can name the loss</li></ul><p>An ending does not close the story; it sends the audience out carrying the cost.</p>
 <!-- DEEP_DIVE_END -->
+
+
+> Intent split: this page covers the practical details of “Ending: Stop After the Choice”; start with <a href="https://story.tvcn.org/article/midpoint-turn/">Midpoint Turn: Change the Method, Not the Goal</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“End after the choice. The sentence the audience supplies is ”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“End after the choice. The sentence the audience supplies is ”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

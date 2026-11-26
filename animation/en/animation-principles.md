@@ -24,18 +24,16 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Animation Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.motion-graphics.mg-typography.en
-- context.history.montage.en
-- formats.fashion.fashion-beauty-video-structure.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.timing.animation-timing, animation.2d.animation-walk, formats.brand.brand-film]
 depth: deep
 deep_minutes: 6
 sources:
+- S62
+- S63
 - S12
-- S28
-- S34
+- S59
 test_context: 'Review setup: Windows 11; public Blender 4.x / After Effects 2025 workflows;
   not every version behaves the same.'
 known_failures: 'Known failures: plugin/version gaps break rigs or renders; font and
@@ -43,7 +41,6 @@ known_failures: 'Known failures: plugin/version gaps break rigs or renders; font
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>The twelve principles are diagnostic tools, not a checklist. Read weight, arc and timing first, then decide whether squash and stretch is needed. Using all of them turns the action into a rubber toy.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -73,4 +70,13 @@ source_kind: sourced
 ### Ten principle checks
 <ul><li>Three principles per shot</li><li>Squash and stretch for material</li><li>Anticipation for intention</li><li>Follow-through for inertia</li><li>Crouch before jump, pull before punch</li><li>Hair and cloth continue after landing</li><li>Anticipation tested at two to four frames</li><li>Normal proportions first</li><li>Push one thing only</li><li>Remove one and test the action</li></ul><p>Right principles show what the character is thinking. Too many show you showing off.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The twelve principles are not filters. Use one to explain on”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The twelve principles are not filters. Use one to explain on”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The twelve principles are not filters. Use one to explain on”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The twelve principles are not filters. Use one to explain on”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

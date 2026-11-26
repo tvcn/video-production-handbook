@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.boom-swing.en
-- tools.tutorial.gimbal-balance.en
-- tools.tutorial.lav-hidden.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.capability.softbox, tools.capability.speedbooster, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>用滑轨时先问：移动要让观众多看到什么关系？前景遮挡到露出人物、从一个人的背到另一个人的脸、从空椅到门口。没有关系变化，移动就是多余。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -43,3 +39,15 @@ source_kind: experience
 <ol><li>先空推一遍，标出起点和终点；不要开机才找位置。</li><li>速度与镜头时长匹配：3 秒走完 1 米，约 0.33m/s；太快会糊，太慢会闷。</li><li>地面不平时，用两块板找平；滑轨不水平，画面会斜。</li></ol>
 <p>验收：回放看起停是否“顿”；顿就加缓动，不要靠后期变形稳定。</p></section><section><h2 id="section-4">现场</h2><p>起幅停 1 秒、匀速 3 秒、落幅停 1 秒；用监视器看起停，不要用手腕硬掰。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>起幅停 1 秒。</li><li>匀速走 3 秒。</li><li>落幅停 1 秒，用监视器看起停，不要用手腕硬掰。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别一开机就推；没有起幅停顿，剪辑时找不到入点。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>每一项参数都能对应一个具体的拍摄问题</li><li>重量、供电和接口在真实机位上成立</li><li>60 秒测试能留下一个可比较的数字</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>只看参数，不看接口、供电和重量</li><li>买回来才发现电池、存储或机身不匹配</li><li>没有 60 秒测试，问题被带到正式拍摄</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用现有器材做 60 秒测试，只测“起幅停 1 秒”；记下两个数字：一个是你需要的，一个是器材实际给出的。</p></section>
 <h2>验收</h2><ul><li>起幅 1 秒、过程 3 秒、落幅 1 秒的时间码可查。</li><li>监视器里起停没有突然加速或急停。</li><li>运动靠滑轨，不靠手腕硬掰。</li></ul>
+
+
+> 意图分工：本页负责「滑轨起停：让运动有头尾」的可执行细节；同集群先读 <a href="https://shoot.tvcn.org/article/stabilizer/">稳定器：走路的节奏</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 4 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「滑轨起停：让运动有头尾」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

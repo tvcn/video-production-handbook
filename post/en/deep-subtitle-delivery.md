@@ -23,18 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.accessibility.sdh.en
-- post.accessibility.multilingual-subtitles.en
-- post.accessibility.audio-description.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.assets.dit-data-handoff, post.editing.edit-pacing, shoot.deep.deep-camera-move]
 sources:
 - S06
 - S20
+- S30
+- S34
+- S27
 source_kind: sourced
 ---
-
 <p>Subtitles are not typing; SDH, multilingual and audio description are three different audience tasks. One page of &amp;quot;SDH: More Than Dialogue&amp;quot; solves one local problem; joining &amp;quot;SDH: More Than Dialogue&amp;quot;, &amp;quot;Multilingual Subtitles: One Language at a Time&amp;quot; and &amp;quot;Audio Description: Say What Matters&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -54,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not place captions over mouths or hands; the audience needs th…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not squeeze bilingual text into two small lines; neither reads…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not say “he is sad”; let action and sound say it.</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>Each caption identifies the speaker and distinguishes phone or off-screen voice.</li><li>Door, rain, music, and other key sounds appear in the captions.</li><li>Captions stay off mouths and hands, within two lines, and read at pace.</li><li>Each line holds one language with no stacked bilingual text.</li><li>Tracks switch independently, or each version is complete on its own.</li><li>Type size and line count remain readable on a phone without shrinking for both languages.</li><li>Description lands in dialogue gaps and never covers a key line.</li><li>Each passage names who moves, where, and what is held.</li><li>No emotion is interpreted; the listener can judge from action and sound.</li><li>The condition from SDH: More Than Dialogue fits on one line and can be repeated by someone else.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "SDH: More Than Dialogue", go back to <a href="https://post.tvcn.org/en/article/sdh/">SDH: More Than Dialogue</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://post.tvcn.org/en/article/multilingual-subtitles/">Multilingual Subtitles: One Language at a Time</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://post.tvcn.org/en/article/audio-description/">Audio Description: Say What Matters</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S06] [Captions and subtitles](https://www.w3.org/WAI/media/av/captions/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Subtitles are not typing; SDH, multilingual and audio descri”) against 1.2.4。 / Accessibility requirements for prerecorded and live captions; WCAG 1.2.2 / 1.2.4; not a substitute for an on-set test.
+- [S20] [Denoising Diffusion Probabilistic Models (2020)](https://arxiv.org/abs/2006.11239) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Subtitles are not typing; SDH, multilingual and audio descri”) against Diffusion models: the noising-to-denoising generation path; not a substitute for an on-set test.
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Subtitles are not typing; SDH, multilingual and audio descri”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Subtitles are not typing; SDH, multilingual and audio descri”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
+- [S27] [EBU R128 Loudness](https://tech.ebu.ch/publications/r128) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Subtitles are not typing; SDH, multilingual and audio descri”) against Broadcast loudness targets, true peak and measurement; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

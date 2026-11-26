@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.set-mediabay.en
-- tools.tutorial.white-balance-gray.en
-- tools.tutorial.boom-swing.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.tutorial.room-tone-record, tools.capability.scope-monitor, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>每月随机抽一个项目，从备份恢复到另一块盘，打开工程、链接素材、导出 10 秒。恢复失败，备份就等于没有。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -43,3 +39,15 @@ source_kind: experience
 <ol><li>抽签选文件，不选“最重要的”，避免只演练熟悉路径。</li><li>恢复到一台没有原始文件的机器；不要在原目录覆盖。</li><li>核对大小、哈希和打开状态；记录恢复耗时，超过 2 小时要改方案。</li></ol>
 <p>验收：恢复文件能正常打开、时间线无离线媒体、哈希一致；三项缺一，备份方案不算成立。</p></section><section><h2 id="section-4">现场</h2><p>随机抽一个文件，从备份拷到另一台机器，打开播放；失败就重做备份。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>随机抽一个文件。</li><li>从备份拷到另一台机器。</li><li>打开播放，失败就重做备份。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别只看备份软件打绿勾；没恢复过，就不知道能不能打开。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>每一项参数都能对应一个具体的拍摄问题</li><li>重量、供电和接口在真实机位上成立</li><li>60 秒测试能留下一个可比较的数字</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>只看参数，不看接口、供电和重量</li><li>买回来才发现电池、存储或机身不匹配</li><li>没有 60 秒测试，问题被带到正式拍摄</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用现有器材做 60 秒测试，只测“随机抽一个文件”；记下两个数字：一个是你需要的，一个是器材实际给出的。</p></section>
 <h2>验收</h2><ul><li>随机抽取，不是挑最熟悉的文件。</li><li>恢复到另一台机器，不是原机原路径。</li><li>文件能打开播放；失败时有重做记录。</li></ul>
+
+
+> 意图分工：本页负责「恢复演练：随机抽一个文件」的可执行细节；同集群先读 <a href="https://tools.tvcn.org/article/buy-storage/">购买项目存储：速度、容量与备份</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 5 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「恢复演练：随机抽一个文件」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

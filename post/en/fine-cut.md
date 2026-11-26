@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Post Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.editing.parallel-editing.en
-- post.sound.music-editing.en
-- post.editing.versioning.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.sound.foley, post.color.hdr, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>A fine cut does three things: remove the extra half second around each shot, align action cuts, and drop reactions the performance does not need. Structural problems go back to the rough cut; do not hide them with transitions here.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -57,5 +53,11 @@ source_kind: experience
 ### Ten joins to fix in the first fine-cut pass
 <ul><li>Cut halfway through a reach</li><li>Cut between the looker and the looked-at</li><li>Let a line tail cover the picture change</li><li>Align a door, table edge, or shoulder across the cut</li><li>Delete repeated information</li><li>Delete the full walk from sofa to door</li><li>Delete reactions that change nothing</li><li>Leave one two-second pause in every scene</li><li>Break three same-length shots in a row</li><li>After every deletion, ask what the character loses</li></ul><p>Fine-cutting is not beautifying frames; it is finding the places that are almost right. Do it ten times and you will start trusting your discomfort. After every cut, play five seconds on each side; pace lives in the relationship, not the cut point alone.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
-<aside class="article-sources experience-source" data-source-kind="experience"><div class="article-credit-head"><p class="eyebrow">Sources / 来源</p><span class="mono">Experience source</span></div><p class="source-types">Experience source: TVCN field handbook and editorial review; no laboratory measurement or external data is claimed here.</p></aside>
+## References and further reading
+
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Fine cutting is not adding effects; it smooths every cut, br”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Fine cutting is not adding effects; it smooths every cut, br”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

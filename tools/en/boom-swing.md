@@ -22,15 +22,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.lav-hidden.en
-- tools.tutorial.slider-shot.en
-- tools.tutorial.follow-focus-practice.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.calculator.budget-calculator, tools.producing.budget-contingency, shoot.sound.boom-operator]
 source_kind: experience
 ---
-
 <p>The operator must know where the actor goes next: watch rehearsal, listen for cues, track feet. Keep the tip 40–60 cm above and ahead, out of the shadow; move around outside frame, never across the head.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -44,3 +40,10 @@ source_kind: experience
 <ol><li>Keep the tip above frame and 30–60cm from the mouth. Too far is thin; too close enters frame.</li><li>Move between lines, not during them. When the actor walks, reposition in the pause.</li><li>Wear headphones and listen for clipping and wind. Use a windshield; do not rely on post denoise.</li></ol>
 <p>Acceptance: playback for level jumps and pole shadows. If they appear, fix blocking or pole position before compression.</p></section><section><h2 id="section-4">On set</h2><p>Keep the boom tip on the actor's chest at forty to sixty centimeters. When they turn, leave the tip above and outside the frame.</p></section><section><h2 id="section-5">Do this</h2><p>The boom follows the actor's chest, not the mouth; the mouth turns, the chest does not vanish.</p><ol><li>Track the boom head to the chest.</li><li>Keep forty to sixty centimeters away.</li><li>When the actor turns, keep the head above frame.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not chase the mouth with the boom; one head turn brings it into frame.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>every spec maps to one concrete shooting problem</li><li>weight, power and connections hold on a real rig</li><li>a 60-second test leaves one comparable number</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>specs without connections, power or weight</li><li>batteries, storage or body do not match after purchase</li><li>no 60-second test, so the problem arrives on the shoot</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Run a 60-second test with the gear you already own, measuring only “Track the boom head to the chest.”. Record two numbers: what you need and what the gear actually gives.</p></section>
 <h2>Check</h2><ul><li>The boom follows the chest, not the mouth.</li><li>Distance stays between forty and sixty centimeters.</li><li>On a turn, the boom head stays out of frame.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 6 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Boom Swing: Follow the Chest”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

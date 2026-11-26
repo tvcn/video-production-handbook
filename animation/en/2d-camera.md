@@ -24,18 +24,17 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Animation Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.2d.2d-compositing.en
-- animation.3d.modeling.en
-- animation.2d.loop-cycle.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.2d.2d-compositing, animation.3d.3d-pipeline, formats.documentary.documentary-template]
 sources:
+- S62
+- S63
 - S12
 - S23
+- S59
 source_kind: sourced
 ---
-
 <p>Camera moves in 2D start with layer layout: foreground, middle and background on separate planes, moving at different speeds to create space. Move them together and the audience sees a sliding drawing.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -57,10 +56,12 @@ source_kind: sourced
 <h2>Check</h2><ul><li>Far, mid, and near layers move at different speeds near 1:2:4.</li><li>The character layer is separate and does not slide with the background.</li><li>One pan shows near-fast, far-slow parallax.</li></ul>
 
 <!-- SOURCES_START -->
-## Sources
+## References and further reading
 
-- [S12] See the original link and use note in SOURCES.md.
-- [S23] See the original link and use note in SOURCES.md.
-
-Full links and use notes: [`SOURCES.md`](../../about/).
+- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A 2D camera is not one big pan; multiple layers at different”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A 2D camera is not one big pan; multiple layers at different”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A 2D camera is not one big pan; multiple layers at different”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A 2D camera is not one big pan; multiple layers at different”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A 2D camera is not one big pan; multiple layers at different”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

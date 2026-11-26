@@ -22,12 +22,11 @@ cover: /images/post/mix-dialogue.webp
 diagram: /images/diagrams/zh/mix-dialogue.png
 diagram_alt: "对白轨、音乐轨与安静点"
 diagram_caption: "对白在哪儿，音乐就让到哪儿。音乐不需要消失，只需要比对白低 6–10 dB。重要的句子前后，留一点安静。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [post.sound.room-tone.en, post.sound.sound-post.en, post.editing.transitions.en]
+related: [post.accessibility.multilingual-subtitles, post.sound.music-editing, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -62,3 +61,35 @@ related: [post.sound.room-tone.en, post.sound.sound-post.en, post.editing.transi
 - 每句对白都听得清，不靠字幕也能懂。
 - 音乐在对白下明显让路，不是从头压到尾。
 - 至少有一处主动留白，不靠音乐填满。
+
+## 对白不是越干净越好
+
+把对白修到绝对干净，观众反而像在看配音棚。保留一层低低的房间底噪，镜头切换时才不会“进真空”。
+
+底噪要连续：同一场戏用同一条 room tone，不要每个镜头换一条。换一条，剪点就会露。
+
+## 音乐让路的三种做法
+
+第一，手动画音量线，在对白前后各留 0.3 秒过渡；第二，用侧链压缩，让音乐跟着人声降；第三，直接换编排，把音乐写成不抢中频的版本。
+
+三种可以叠用，但不要只靠最后一步“整体调小”。整体调小会让音乐失去形状，观众只听到一条平线。
+
+## 检查顺序
+
+先关画面听一遍：对白是否清楚、音乐是否突然进出、环境是否断。再开画面听一遍：声音是否跟动作对得上。
+
+最后把音量拉到平台标准附近再听：太安静的对白在手机上会消失，太响的音乐在耳机里会刺耳。
+
+<!-- V11_DEEPEN -->
+
+
+> 意图分工：本页负责「混音：先让对白站住，再加音乐」的可执行细节；同集群先读 <a href="https://post.tvcn.org/article/loudness/">响度：平台目标与真峰值</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 5 次后期项目复盘，条件为4K 以内素材、常规平台交付；页面讨论的具体对象是「混音：先让对白站住，再加音乐」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

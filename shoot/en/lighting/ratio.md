@@ -23,16 +23,20 @@ cover: /images/shoot/ratio.webp
 diagram: /images/diagrams/en/ratio.png
 diagram_alt: "Light positions from above: key, fill, back"
 diagram_caption: "Key shapes, fill opens the shadow, back separates the subject from the background. Start with one light, then add the second."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [shoot.safety.set-safety.en, story.screenplay.logline.en, tools.guide.budget-quote.en]
-sources: [S23, S31, S32, S33]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [shoot.safety.risk-assessment, shoot.production.scene-space, post.color.color]
+sources:
+- S23
+- S31
+- S32
+- S33
+- S52
 test_context: "Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus and samples; lens claims follow page labels, not every lens tested."
 known_failures: "Known failures: menus and firmware differ; uncalibrated color temperature/monitors cause misreads."
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -67,9 +71,17 @@ Do not buy lights first. Window light already has color and direction; you only 
 - You can explain the mood of 1:1, 2:1, and 4:1.
 - Key and fill have a deliberate brightness difference.
 - Without a fill light, you can use a reflector or black flag.
+
+
+<!-- V11_DEEPEN -->
+
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S31]</span> ARRI Technical Documentation</li><li><span class="mono">[S32]</span> Sony Pro Support</li><li><span class="mono">[S33]</span> Canon Support</li></ul>
-<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
+## References and further reading
+
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One key and one reflector can shoot most portrait scenes. Co”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One key and one reflector can shoot most portrait scenes. Co”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
+- [S32] [Sony Pro Support](https://pro.sony/ue_US/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One key and one reflector can shoot most portrait scenes. Co”) against Support, firmware and documents for pro cameras and lenses; not a substitute for an on-set test.
+- [S33] [Canon Support](https://www.usa.canon.com/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One key and one reflector can shoot most portrait scenes. Co”) against Official support for cameras, lenses and firmware; not a substitute for an on-set test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One key and one reflector can shoot most portrait scenes. Co”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

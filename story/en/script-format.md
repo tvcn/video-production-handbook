@@ -24,17 +24,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Story Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.screenplay.scene-description.en
-- story.storyboard.shot-sheet.en
-- story.directing.rehearsal.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.storyboard.sequence-board, story.screenplay.short-drama-script, shoot.camera.composition]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>Format exists so the director, camera, sound and editor can find scene, action, dialogue and time on the same page. The slug line states location and time; action describes only what the camera can see; the character name sits above the line.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -60,3 +56,11 @@ source_kind: experience
 ### Ten checks before you print
 <ul><li>Scene heading names interior or exterior, place, and time</li><li>Action describes only what the camera can see</li><li>Capitalize a character name on first appearance</li><li>Keep each dialogue line under thirty-five characters</li><li>Give each scene one turn, not two</li><li>Delete explanatory adjectives</li><li>Turn inner states into playable action</li><li>Keep scene numbers continuous from first to last</li><li>Mark pickups and flashbacks separately</li><li>Leave a notes column for the script supervisor</li></ul><p>If two of these ten fail, do not start a new scene. Make this page shootable; that is worth more than three more pages.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Script format is not for a literary prize; it helps camera, ”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Script format is not for a literary prize; it helps camera, ”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

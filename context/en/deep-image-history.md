@@ -23,18 +23,18 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.history.camera-obscura.en
-- context.history.lumiere.en
-- context.history.muybridge.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.deep.deep-media-literacy, context.literacy.deepfake, formats.deep.deep-brand-film]
 
 sources:
 - S12
+- S01
+- S02
+- S03
+- S16
 source_kind: sourced
 ---
-
 <p>Image history is not a year list; 1839, 1895 and photography together show how recording became narrative. One page of &amp;quot;1839&amp;quot; solves one local problem; joining &amp;quot;1839&amp;quot;, &amp;quot;1895&amp;quot; and &amp;quot;photo-history&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -55,3 +55,14 @@ source_kind: sourced
 <section><h2 id="section-6">Acceptance</h2><ul><li>The condition from 1839 fits on one line and can be repeated by someone else.</li><li>Only one variable changes and the other page&#x27;s result still reproduces.</li><li>A failure is recorded as condition, action and result, not a feeling.</li><li>A colleague can reproduce the same version without asking you.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "1839", go back to <a href="https://context.tvcn.org/en/article/1839/">1839</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://context.tvcn.org/en/article/1895/">1895</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://context.tvcn.org/en/article/photo-history/">photo-history</a> as a self-test sheet.</li></ul></section>
 <section><h2 id="section-8">Boundary</h2><p>This chain is not evidence that one image regime is more real than another. Between 1839 and 1895, recording, projection and viewing institutions changed separately; compressing three nodes into one causal chain erases regional practice. The page treats the nodes as three samples of how recording becomes narrative, not as a timeline.</p></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Image history is not a year list; 1839, 1895 and photography”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Image history is not a year list; 1839, 1895 and photography”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Image history is not a year list; 1839, 1895 and photography”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Image history is not a year list; 1839, 1895 and photography”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Image history is not a year list; 1839, 1895 and photography”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

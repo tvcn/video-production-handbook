@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 拍摄组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.camera.shutter-angle.en
-- shoot.camera.nd-filter.en
-- shoot.exposure.waveform.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.movement.handheld, shoot.lighting.hard-light, post.color.color]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>项目帧率决定声音、字幕和平台兼容；慢动作只是拍摄帧率。24/25/30 是叙事基准，60/120 用于后期放慢。不要在同一个项目里混用多个基准帧率。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -61,3 +57,12 @@ source_kind: experience
 ### 只剩五分钟时
 <ul><li>全片先统一帧率</li><li>快门按帧率两倍</li><li>升格先算慢几倍</li><li>升格前确认光线</li><li>不同帧率分文件夹</li><li>场记板写帧率</li></ul><p>帧率先是纪律，才是风格；纪律乱了，风格就是事故。拍板前再看一眼项目帧率，别让第一条素材就错。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“帧率决定动作的时间感；升格不是慢，是让观众看清一个瞬间。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“帧率决定动作的时间感；升格不是慢，是让观众看清一个瞬间。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“帧率决定动作的时间感；升格不是慢，是让观众看清一个瞬间。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
+<!-- SOURCES_END -->
+

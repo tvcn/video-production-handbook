@@ -26,12 +26,10 @@ sources:
 - S03
 - S22
 - S39
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.law.insurance-equipment.en
-- formats.live-podcast.live-podcast-structure.en
-- post.color.hdr-workflow.en
+- S02
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.history.digital-cinema, context.law.documentary-ethics, formats.documentary.documentary-template]
 depth: deep
 deep_minutes: 8
 test_context: 复核环境：Windows 11 + Chrome；按公开影片、剧本与平台页面复核；不声称逐帧实测。
@@ -39,7 +37,6 @@ known_failures: 已知失败：公开案例信息不全；平台规格与片长�
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>深度伪造最容易露馅的地方不是五官，而是物理：影子方向不一致、眼镜反光不对、牙齿数量变化、头发穿过肩膀、说话时脖子不动。逐帧看这些关系，比看“像不像”可靠。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +50,12 @@ source_kind: sourced
 <h2>验收</h2><ul><li>五秒逐帧看过牙齿、耳朵和眨眼。</li><li>背景文字、招牌和眼镜反光的连续性看过。</li><li>原始来源、本人回应或第二角度三项对不上。</li></ul>
 
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“深伪识别别只看脸；看牙齿、耳朵、眨眼、背景文字和光影方向。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
+- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“深伪识别别只看脸；看牙齿、耳朵、眨眼、背景文字和光影方向。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
+- [S22] [全国人民代表大会：《民法典》](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — 2026-11-26 访问。用于核对首段“深伪识别别只看脸；看牙齿、耳朵、眨眼、背景文字和光影方向。”中的术语与公开背景（肖像、隐私、合同与场地权利的上位法文本）；不替代现场测试。
+- [S39] [W3C WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) — 2026-11-26 访问。用于核对首段“深伪识别别只看脸；看牙齿、耳朵、眨眼、背景文字和光影方向。”中的术语与公开背景（字幕、对比度与无障碍的现行标准）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“深伪识别别只看脸；看牙齿、耳朵、眨眼、背景文字和光影方向。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+<!-- SOURCES_END -->
+

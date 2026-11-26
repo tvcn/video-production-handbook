@@ -21,20 +21,18 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.method.method-shoot-alone.en
-- main.method.method-phone-only.en
-- main.method.method-deadline.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [main.method.method-no-coverage, main.method.method-no-light, context.history.16mm]
 depth: deep
 deep_minutes: 6
 sources:
 - S22
 - S23
+- S02
+- S38
 source_kind: sourced
 ---
-
 <p>零预算能拍的是小空间、少角色、自然光、短时长。把剧本压到一个房间、两个人、一个下午；不要用“低成本”当借口保留五个场景。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -75,8 +73,9 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S22] 《中华人民共和国民法典》；见 SOURCES.md 的原始链接与用途。
-- [S23] SMPTE 标准入口；见 SOURCES.md 的原始链接与用途。
-
-完整链接与用途见 [`SOURCES.md`](../../about/)。
+- [S22] [全国人民代表大会：《民法典》](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — 2026-11-26 访问。用于核对首段“零预算先砍场面，不砍结构；一个能拍完的简单故事，比一个拍不起的好故事强。”中的术语与公开背景（肖像、隐私、合同与场地权利的上位法文本）；不替代现场测试。
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“零预算先砍场面，不砍结构；一个能拍完的简单故事，比一个拍不起的好故事强。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“零预算先砍场面，不砍结构；一个能拍完的简单故事，比一个拍不起的好故事强。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S38] [国家税务总局：官方网站](https://www.chinatax.gov.cn/) — 2026-11-26 访问。用于核对首段“零预算先砍场面，不砍结构；一个能拍完的简单故事，比一个拍不起的好故事强。”中的术语与公开背景（增值税、跨境服务与代扣代缴的官方政策入口）；不替代现场测试。
 <!-- SOURCES_END -->
+

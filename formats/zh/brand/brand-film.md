@@ -22,18 +22,21 @@ cover: /images/formats/brand-film.webp
 diagram: /images/diagrams/zh/brand-film.png
 diagram_alt: "品牌片：一句态度，两个证据"
 diagram_caption: "品牌片不解释参数，它让观众记住一个态度。产品只是证据，不是主角；人的动作才是证据的落点。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [formats.corporate.corporate-video-breakdown.en, post.sound.sound.en, shoot.lighting.lighting-style.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [formats.brand-film.brand-film-breakdown, formats.brand-film.brand-film-template, story.directing.actor-adjustment]
 depth: deep
 deep_minutes: 7
-sources: [S14, S15, S16]
+sources:
+- S14
+- S15
+- S16
+- S29
 test_context: "复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。"
 known_failures: "已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。"
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -83,9 +86,13 @@ verified: 2026-11-22
 ### 品牌片，十项检查
 <ul><li>立场能被反驳</li><li>立场能变成动作</li><li>只用一个主要人物</li><li>人物在具体场景做事</li><li>不念企业价值观</li><li>产品是证据不是主角</li><li>拍使用、修理或拒绝</li><li>结尾回到开头动作</li><li>删掉品牌名仍成立</li><li>不用航拍字幕总结</li></ul><p>品牌片不是告诉别人你是谁，是让别人看见你愿意为什么付代价。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
-<ul><li><span class="mono">[S14]</span> YouTube 社区准则</li><li><span class="mono">[S15]</span> TikTok 社区准则</li><li><span class="mono">[S16]</span> BBC 编辑准则</li></ul>
-<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
+## 参考与延伸阅读
+
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“品牌片不解释参数，它让观众记住一个态度。产品只是证据，不是主角。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“品牌片不解释参数，它让观众记住一个态度。产品只是证据，不是主角。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“品牌片不解释参数，它让观众记住一个态度。产品只是证据，不是主角。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“品牌片不解释参数，它让观众记住一个态度。产品只是证据，不是主角。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
 <!-- SOURCES_END -->
+

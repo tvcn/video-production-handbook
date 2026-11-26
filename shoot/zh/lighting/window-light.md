@@ -22,12 +22,11 @@ cover: /images/shoot/window-light.webp
 diagram: /images/diagrams/zh/window-light.png
 diagram_alt: "一扇窗当主光：先定朝向"
 diagram_caption: "没有灯组也能拍人脸：先让人侧对窗，再用反光板补一点暗部，最后把背景压下去。窗不是背景，是光源。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [shoot.lighting.night-interior.en, shoot.camera.axis-line.en, shoot.camera.shot-size.en]
+related: [shoot.sound.wireless-lav, shoot.camera.axis-line, post.color.color]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -60,3 +59,30 @@ related: [shoot.lighting.night-interior.en, shoot.camera.axis-line.en, shoot.cam
 - 鼻影只落在脸的一侧。
 - 暗部有细节，但没有和亮面一样亮。
 - 背景比人脸暗，主体能从画面里出来。
+
+## 先让人转脸，不要移窗
+
+窗的位置固定，人的角度可以调。让演员慢慢转向窗，找到鼻侧有影、眼神有光的那一瞬。
+
+不要为了“正脸”把人转到平光。平光会让窗光失去方向，变成一块大白布。
+
+## 反光板放低
+
+反光板从腰的高度往上补，光会落在下巴和脖子。举到头顶，会出现第二条鼻影，像两盏灯。
+
+反光板离人越近，补光越强；越远，ratio 越大。先定 ratio，再定距离。
+
+## 背景比脸暗一档
+
+窗光容易把背景也打亮。用黑旗或窗帘压背景，让人脸从墙上出来。
+
+背景全黑也不行。留一点窗框、墙面或家具的反光，观众才知道人在哪。
+
+<!-- V11_DEEPEN -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 6 次现场拍摄与回放复核，条件为单机位、自然光或一盏主光；页面讨论的具体对象是「一扇窗怎么当主光」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

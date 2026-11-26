@@ -20,15 +20,11 @@ reviewers: [technical-reviewer]
 diagram: /images/diagrams/zh/fov.svg
 diagram_alt: "视角不是放大：画幅和焦距一起决定"
 diagram_caption: "同一焦距，画幅越小，视角越窄；视角变窄不等于把主体放大。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related:
-- main.paths.first-film
-- tools.calculator.dof-calculator
-- tools.guide.rent-camera
+related: [tools.capability.gimbal, tools.tutorial.gimbal-balance, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -79,3 +75,17 @@ related:
 ## 练习
 
 拿一支 24mm 和一支 50mm，在同一间房、同一个机位各拍一张。先算水平视角，再对照画面：24mm 能装下多少墙，50mm 把人物放大了多少。能解释“视角变宽”和“主体变大”不是同一件事，这一页才算用上。
+
+## 常见失败
+
+- 把“视角变宽”当成“主体变大”：广角装下更多墙，但人物会更小、边缘更容易变形。
+- 只按标称焦距算，不校正裁切和呼吸：同一支镜头在近距对焦时视角会变。
+- 用全画幅宽度套 APS-C 或 M4/3：画幅宽度错了，结果会差一大截。
+- 算出视角就直接定机位，不回放检查：公式给起点，画面才是验收。
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 3 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「镜头视角计算器：焦距、画幅与水平视角」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

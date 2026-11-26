@@ -27,15 +27,14 @@ authors:
 sources:
 - S14
 - S15
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.literacy.news-video.en
-- context.literacy.statistics-video.en
-- context.literacy.edit-manipulation.en
+- S01
+- S02
+- S03
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.literacy.statistics-video, context.history.streaming, formats.documentary.documentary-template]
 source_kind: sourced
 ---
-
 <p>Disclose a commercial relationship before the viewer forms a purchase judgment, not in small print at the end. Say at the top “this film is supported by X,” or keep an “ad” label on screen so they can keep watching with that knowledge.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -48,10 +47,12 @@ source_kind: sourced
 <h2>Check</h2><ul><li>The first three seconds or first voice-over line discloses the sponsor.</li><li>An on-screen label and the first description line repeat it.</li><li>It states whether the sponsor reviewed or changed the content.</li></ul>
 
 <!-- SOURCES_START -->
-## References
+## References and further reading
 
-- [S14] YouTube Community Guidelines
-- [S15] TikTok Community Guidelines
-
-Full links and notes: [`SOURCES.md`](../../about/).
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Disclose sponsorship before the recommendation, not in the l”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Disclose sponsorship before the recommendation, not in the l”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Disclose sponsorship before the recommendation, not in the l”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Disclose sponsorship before the recommendation, not in the l”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Disclose sponsorship before the recommendation, not in the l”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

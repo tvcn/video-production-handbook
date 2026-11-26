@@ -30,19 +30,19 @@ cover: /images/context/copyright.webp
 diagram: /images/diagrams/en/copyright.png
 diagram_alt: 'Rights: five separate clearances'
 diagram_caption: 'Footage, music, fonts, likeness, location: five separate clearances. CC is not commercial clearance. If you cannot produce the paper, you do not have the right.'
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
 sources:
 - S02
-related:
-- context.literacy.media-literacy.en
-- context.law.ai-label-law.en
-- context.law.contract-scope.en
+- S01
+- S03
+- S16
+- S10
+related: [context.law.data-security, context.deep.deep-ai-regulation, formats.documentary.documentary-template]
 depth: deep
 deep_minutes: 8
-source_kind: experience
+source_kind: sourced
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -76,27 +76,16 @@ Label AI generation, digital humans, and synthetic voice as required. Disclosure
 - Commercial scope for music and fonts is written down.
 - AI generation or synthetic voice is labeled per platform.
 
+
+<!-- V11_DEEPEN -->
+
 <!-- SOURCES_START -->
-## References
+## References and further reading
 
-- [S02] WIPO: Copyright FAQ
-
-Full links and notes: [`SOURCES.md`](../../../about/).
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Footage, music, fonts, likeness, and location are five separ”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Footage, music, fonts, likeness, and location are five separ”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Footage, music, fonts, likeness, and location are five separ”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Footage, music, fonts, likeness, and location are five separ”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Footage, music, fonts, likeness, and location are five separ”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 
-<!-- DEEP_DIVE_START -->
-## Deep dive
-<p><strong>About 8 minutes.</strong> Copyright protects expression, not ideas. You can take the same subject; you cannot copy the specific expression.</p>
-### Idea and expression
-<p>“A person lost in a city” is an idea anyone can use. A specific shot, edit, line, or song is expression and cannot be taken. Changing color, speed, or filters does not make it yours.</p><p>Break reference films into structure and rhythm; do not copy shot for shot. Even with different actors, a shot-for-shot remake can infringe.</p>
-### The clearance chain
-<p>Music needs composition, recording, and performance rights; fonts need commercial licenses; stock needs its original license; people need likeness releases; locations need permits. One missing link can take down the whole film.</p><p>Keep licenses, orders, emails, invoices, not just a chat screenshot. The scope must state media, term, territory, and whether it can be sublicensed.</p>
-### Fair use is not a free pass
-<p>Under US law, commentary, teaching, and news may qualify as fair use; courts weigh purpose, nature of the work, amount used, and market effect. China’s “fair use” is an enumerated list, not this four-factor test, and other jurisdictions differ. Check the law where you publish; do not treat one country’s rule as global.</p><p>“I only used ten seconds” is not a defense; ten seconds can be the core. If licensed material exists, do not gamble on fair use.</p>
-### Five-minute drill: one film's clearance list
-<p>List every asset in a three-minute film: music, fonts, drone shots, faces, locations, brands. Mark each licensed, pending, or cut. Send one email today for the pending items.</p><p>Highlight the three pending items in red. Replace what you can, cut what you cannot; do not wait until the night before publishing.</p>
-### When rights are clear
-<p>Rights are clear when every asset has a document, the scope covers your distribution, the term covers your launch window, and the territory covers your media buy. Three pass.</p><p>If one item is only a verbal yes, put it in an email and get confirmation. Do not upload before the reply.</p>
-### Ten copyright checks
-<ul><li>Ideas can be borrowed</li><li>Specific shots and lines cannot</li><li>Recolor or speed change is not original</li><li>Music: composition, recording, performance</li><li>Fonts commercially licensed</li><li>Stock has original license</li><li>Likeness releases signed</li><li>Location permit secured</li><li>License states media, term, territory</li><li>Fair use depends on jurisdiction</li></ul><p>Copyright is not a checklist before publishing. It is elimination from the first second you choose an asset.</p>
-<!-- DEEP_DIVE_END -->

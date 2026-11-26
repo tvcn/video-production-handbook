@@ -23,12 +23,11 @@ cover: /images/shoot/window-light.webp
 diagram: /images/diagrams/en/window-light.png
 diagram_alt: "One window as key: choose the angle first"
 diagram_caption: "No kit needed for a face: turn the subject to the window, bounce a little into the shadow, then bring the background down. The window is the source, not the backdrop."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [shoot.lighting.night-interior.en, shoot.camera.axis-line.en, shoot.camera.shot-size.en]
+related: [shoot.sound.wireless-lav, shoot.camera.axis-line, post.color.color]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -61,3 +60,13 @@ If the background cannot change, choose a darker angle or move the subject half 
 - The nose shadow falls on one side only.
 - The shadow side has detail without matching the bright side.
 - The background is darker than the face, so the subject separates.
+
+
+<!-- V11_DEEPEN -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 6 on-set shoot and playback review reviews under one camera, available light or one key light; it discusses “How to Use One Window as Your Key Light”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

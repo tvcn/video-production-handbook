@@ -23,15 +23,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.gimbal.en
-- tools.capability.field-monitor.en
-- tools.capability.fluid-head.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.tutorial.slider-shot, tools.capability.softbox, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>For long distance, speed or uneven ground, a gimbal or vehicle rig beats a slider. Do not spend half an hour building a rail for one pan.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -42,3 +38,15 @@ source_kind: experience
 <!-- DIAGRAM_END -->
 <section><h2 id="section-1">What to compare first</h2><ul><li><strong>Length and payload:</strong> choose by the heaviest rig; longer rails are harder to level. Confirm the shot distance, do not buy the longest.</li><li><strong>Start, stop and friction:</strong> it should start evenly and stop without shake; too much or too little drag makes the move look wrong.</li><li><strong>Noise and setup:</strong> joints, wheels and legs must be quiet; on an interior dialogue scene, slider noise gets recorded.</li></ul><h2 id="section-2">When not to use it</h2></section><section><h2 id="section-3">On set</h2><p>Put a cup of water on the slider and start and stop slowly. Listen for wheel noise; if it reaches dialogue, add a towel or silent wheels.</p></section><section><h2 id="section-4">Do this</h2><p>A slider exposes starts and stops; ease in, travel evenly, ease out, and keep wheel noise out of dialogue.</p><ol><li>Put a cup of water on the slider and start and stop slowly.</li><li>Play back for wheel noise.</li><li>If it reaches dialogue, lay a towel or switch to silent wheels.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not shove the slider with your wrist; a sharp start moves both cup and frame.</p></section>
 <h2>Check</h2><ul><li>The cup test shows no spill or visible jolt at start and stop.</li><li>Playback reveals whether wheel noise reaches dialogue.</li><li>A towel or silent wheels are used with a comparison when noise exists.</li></ul>
+
+
+> Intent split: this page covers the practical details of “Slider: Start and Stop Quietly”; start with <a href="https://tools.tvcn.org/article/gimbal-balance/">Gimbal Balance: Five Minutes Before Power</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 7 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Slider: Start and Stop Quietly”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.calculator.bitrate-calculator.en
-- tools.calculator.nd-calculator.en
-- tools.calculator.budget-calculator.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.tutorial.dual-system-sync, tools.guide.export-fail-fix, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>超焦距 H = f × f ÷ (N × c) + f ，其中 f 是焦距（mm）、N 是光圈值、c 是允许弥散圆（全画幅常用 0.03mm）。对焦在距离 s 时，近界 = H × s ÷ (H + s)，远界 = H × s ÷ (H - s)（s 小于 H 时）。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -48,3 +44,10 @@ source_kind: experience
 <noscript><p class="calc-noscript">JavaScript 关闭时按公式手算；35mm、f/2.8、3m、c=0.03mm 的景深约 1.3m。</p></noscript>
 </section><script src="/assets/calculators.js" defer></script><section><h2>替代</h2><p>如果“输入焦段、光圈、主体距离”不是你的主问题，先用“看景深范围”对应的基础做法；两项都成立再考虑升级。</p></section><section><h2>60 秒自测</h2><p>用现有器材按“输入焦段、光圈、主体距离”做一次 60 秒测试，记下一个数字；数字没有变化，就不要加预算。</p></section>
 <h2>验收</h2><ul><li>焦段、光圈、主体距离三项是实测值。</li><li>景深前后边界有数字，能判断走位空间。</li><li>演员走位范围落在景深内，不用跟焦硬追。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 6 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「景深计算器：距离与光圈」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

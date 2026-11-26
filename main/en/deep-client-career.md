@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.path.path-career.en
-- main.method.method-first-client.en
-- main.method.method-quote-low.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [main.deep.deep-first-film, main.paths.first-film, context.deep.deep-ai-regulation]
 sources:
 - S12
+- S22
+- S23
+- S02
+- S38
 source_kind: sourced
 ---
-
 <p>A client is not won by the lowest quote; scope, delivery and revisions decide whether it is a sustainable business. One page of &amp;quot;Career &amp;amp; Clients&amp;quot; solves one local problem; joining &amp;quot;Career &amp;amp; Clients&amp;quot;, &amp;quot;How to Get the First Client&amp;quot; and &amp;quot;Your Quote Is Too Low&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not mass-message “I make videos”; a specific plan beats a self…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not say “let me win it first”; the low price becomes the new s…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Only the result is kept, not the condition</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>The client profile names industry, budget range, and cadence.</li><li>The portfolio reads in thirty seconds.</li><li>The showreel uses only your shots and does not inflate roles.</li><li>The quote has four parts and a numeric revision count.</li><li>The contract has six clauses and payment dates.</li><li>Every delivery item is ticked; out-of-scope work is re-quoted.</li><li>The follow-up asks specific questions; the next plan has timing and scope.</li><li>Ten people or shops were listed and one with a real need was chosen.</li><li>A one-page plan states what, how long, what they get, and the price.</li><li>The small job was delivered on time and earned a quote or referral.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "Career & Clients", go back to <a href="https://tvcn.org/en/article/path-career/">Career & Clients</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://tvcn.org/en/article/method-first-client/">How to Get the First Client</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://tvcn.org/en/article/method-quote-low/">Your Quote Is Too Low</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A client is not won by the lowest quote; scope, delivery and”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S22] [National People's Congress: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A client is not won by the lowest quote; scope, delivery and”) against Statutory text on portrait rights, privacy, contracts and location rights; not a substitute for an on-set test.
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A client is not won by the lowest quote; scope, delivery and”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A client is not won by the lowest quote; scope, delivery and”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A client is not won by the lowest quote; scope, delivery and”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

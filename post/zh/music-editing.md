@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 后期组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.sound.foley.en
-- post.editing.fine-cut.en
-- post.vfx.keying.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.editing.parallel-editing, post.delivery.platform-deliverables, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>不要一开始就按节拍切画面。先把故事剪到成立，再把音乐铺上去；需要时移动音乐段落，而不是把画面切碎去凑拍子。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -61,3 +57,12 @@ source_kind: experience
 ### 只剩五分钟时
 <ul><li>先标出音乐重音</li><li>对白进来音乐降</li><li>转场留一个气口</li><li>结尾留两秒</li><li>该静就静</li><li>手机外放听一遍</li></ul><p>音乐进来是为了推一把，出去是为了让观众自己走一步。音乐不是填满空白，是决定哪里该有空白。留白也是配乐的一部分，让最后那一拍落在画面上，再走。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“配乐不是从头铺到尾，它要在动作转折处进入、退出、留白。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S27] [EBU R128 响度](https://tech.ebu.ch/publications/r128) — 2026-11-26 访问。用于核对首段“配乐不是从头铺到尾，它要在动作转折处进入、退出、留白。”中的术语与公开背景（广播响度目标、真峰值与测量方法）；不替代现场测试。
+- [S67] [IETF：RFC 8216：HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216) — 2026-11-26 访问。用于核对首段“配乐不是从头铺到尾，它要在动作转折处进入、退出、留白。”中的术语与公开背景（HLS 分片、清单与播放）；不替代现场测试。
+<!-- SOURCES_END -->
+

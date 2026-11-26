@@ -24,15 +24,14 @@ authors:
 sources:
 - S14
 - S15
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.literacy.news-video.en
-- context.literacy.statistics-video.en
-- context.literacy.edit-manipulation.en
+- S01
+- S02
+- S03
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.literacy.statistics-video, context.history.streaming, formats.documentary.documentary-template]
 source_kind: sourced
 ---
-
 <p>商业合作要在观众产生购买判断之前披露，不是片尾一行小字。口播开头说“这条由某某品牌支持”，或画面持续标“广告”，让观众在知道利益关系的情况下继续看。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -47,8 +46,10 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S14] YouTube 社区准则
-- [S15] TikTok 社区准则
-
-完整链接与用途见 [`SOURCES.md`](../../about/)。
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“赞助披露要在观众看到推荐之前出现，不要藏在简介最后一行。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“赞助披露要在观众看到推荐之前出现，不要藏在简介最后一行。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
+- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“赞助披露要在观众看到推荐之前出现，不要藏在简介最后一行。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“赞助披露要在观众看到推荐之前出现，不要藏在简介最后一行。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“赞助披露要在观众看到推荐之前出现，不要藏在简介最后一行。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
 <!-- SOURCES_END -->
+

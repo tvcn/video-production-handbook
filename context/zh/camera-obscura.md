@@ -24,18 +24,17 @@ authors:
 sources:
 - S07
 - S08
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.law.contract-scope.en
-- formats.interview.interview-structure.en
-- post.delivery.conform-online.en
+- S01
+- S02
+- S03
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.literacy.clickbait, context.law.contract-scope, formats.documentary.documentary-template]
 test_context: 复核环境：Windows 11 + Chrome；按公开影片、剧本与平台页面复核；不声称逐帧实测。
 known_failures: 已知失败：公开案例信息不全；平台规格与片长限制会变化；不同项目需重新验证。
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>暗箱证明图像可以先被投影、再被描绘或记录。它把“观看”变成一个可以被装置化的过程，为镜头、取景和后来的摄影提供了物理基础。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -53,3 +52,12 @@ source_kind: sourced
 <h2>验收</h2><ul><li>鞋盒暗箱能投出倒像，针孔约 0.5 毫米、屏距约 15 厘米。</li><li>能量出倒像的大小，并说清它与孔距的关系。</li><li>针孔扩大后画面变亮但变糊，这个交换被记录。</li></ul>
 
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S07] [美国国会图书馆](https://www.loc.gov/pictures/collection/dag/background.html) — 2026-11-26 访问。用于核对首段“暗箱早就知道光会成像，真正的新东西是它把“看见”变成可以复制的证据。”中的术语与公开背景（银版收藏的背景、数量与早期摄影的材料说明）；不替代现场测试。
+- [S08] [大都会博物馆](https://www.metmuseum.org/TOAH/hd/dagu/hd_dagu.htm) — 2026-11-26 访问。用于核对首段“暗箱早就知道光会成像，真正的新东西是它把“看见”变成可以复制的证据。”中的术语与公开背景（1839 年公布、银版工艺与早期传播的博物馆年表）；不替代现场测试。
+- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“暗箱早就知道光会成像，真正的新东西是它把“看见”变成可以复制的证据。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“暗箱早就知道光会成像，真正的新东西是它把“看见”变成可以复制的证据。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“暗箱早就知道光会成像，真正的新东西是它把“看见”变成可以复制的证据。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
+<!-- SOURCES_END -->
+

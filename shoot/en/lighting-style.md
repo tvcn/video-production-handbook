@@ -24,12 +24,9 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tech Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.multicam.multicam-live.en
-- story.storyboard.storyboard.en
-- tools.guide.crew-management.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.live.live-encoding, shoot.exposure.log-footage, post.color.color]
 depth: deep
 deep_minutes: 6
 sources:
@@ -37,6 +34,7 @@ sources:
 - S31
 - S32
 - S33
+- S52
 test_context: 'Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus
   and samples; lens claims follow page labels, not every lens tested.'
 known_failures: 'Known failures: menus and firmware differ; uncalibrated color temperature/monitors
@@ -44,7 +42,6 @@ known_failures: 'Known failures: menus and firmware differ; uncalibrated color t
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>Lighting style is not a preset. Set the ratio—how many stops between face highlight and shadow; then direction—where the key comes from; then color—warm, cool or mixed. With those three, the style repeats.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -72,4 +69,14 @@ source_kind: sourced
 ### Ten checks before lighting
 <ul><li>Decide how long the shadow should be</li><li>Judge softness by relative source size</li><li>Move the softbox closer for softer light</li><li>Control the nose shadow with hard light</li><li>Bounce into the dark side</li><li>Find the window and shade first</li><li>Turn off unneeded mixed sources</li><li>Shoot one frame before and after</li><li>Check skin against background</li><li>Avoid half-hard light</li></ul><p>Decide how long the shadow should be before deciding which lamp to buy.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Pick one direction first: soft, hard, or natural. All three ”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Pick one direction first: soft, hard, or natural. All three ”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
+- [S32] [Sony Pro Support](https://pro.sony/ue_US/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Pick one direction first: soft, hard, or natural. All three ”) against Support, firmware and documents for pro cameras and lenses; not a substitute for an on-set test.
+- [S33] [Canon Support](https://www.usa.canon.com/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Pick one direction first: soft, hard, or natural. All three ”) against Official support for cameras, lenses and firmware; not a substitute for an on-set test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Pick one direction first: soft, hard, or natural. All three ”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

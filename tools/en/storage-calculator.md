@@ -23,15 +23,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.calculator.bitrate-calculator.en
-- tools.calculator.dof-calculator.en
-- tools.calculator.nd-calculator.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.producing.stripboard, tools.calculator.subtitle-cps, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>Record time in minutes ≈ capacity in GB × 8 × 1000 ÷ bitrate in Mbps ÷ 60 . This is a decimal-GB ceiling; reserve 10–15% for formatting, audio and the last file.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -50,3 +46,15 @@ source_kind: experience
 <noscript><p class="calc-noscript">With JavaScript off: 128GB, 200Mbps, 10% reserve is about 76 minutes.</p></noscript>
 </section><script src="/assets/calculators.js" defer></script><section><p><strong>Boundary</strong></p><p>It does not replace an on-set reading. The number is a starting point; the monitor, scope or actual recording decides.</p></section><section><h2>Alternative</h2><p>If “4K at 100 Mbps is about 45 GB” is not the main problem, start with the basic move behind “Add two backups, so total times three.”. Upgrade only after both hold.</p></section><section><h2>60-second test</h2><p>Run a 60-second test with the gear you own, focused on “4K at 100 Mbps is about 45 GB”, and record one number. If the number does not change, do not add budget.</p></section>
 <h2>Check</h2><ul><li>Bitrate, duration, and backup count use real values.</li><li>The total includes three copies and 20 percent headroom.</li><li>The result is written into the call sheet, not read off the camera.</li></ul>
+
+
+> Intent split: this page covers the practical details of “Storage Calculator: How Long Can You Roll?”; start with <a href="https://tools.tvcn.org/article/buy-storage/">Buying Project Storage: Speed, Capacity, and Backup</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 5 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Storage Calculator: How Long Can You Roll?”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

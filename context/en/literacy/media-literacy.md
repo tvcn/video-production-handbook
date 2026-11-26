@@ -26,19 +26,19 @@ cover: /images/context/media-literacy.webp
 diagram: /images/diagrams/en/media-literacy.png
 diagram_alt: Five hands before it reaches you
 diagram_caption: Every hand removes something. The final cut is not the scene.
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
 sources:
 - S01
-related:
-- context.literacy.source-check.en
-- context.law.documentary-ethics.en
-- context.literacy.deepfake.en
+- S02
+- S03
+- S16
+- S10
+related: [context.history.montage, context.law.music-license, formats.documentary.documentary-template]
 depth: deep
 deep_minutes: 7
-source_kind: experience
+source_kind: sourced
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -74,27 +74,16 @@ Treat AI traces as an entry point for questions, not a verdict. Source and conte
 - You can find a key cut in a video.
 - You do not treat an AI trace as a truth verdict.
 
+
+<!-- V11_DEEPEN -->
+
 <!-- SOURCES_START -->
-## References
+## References and further reading
 
-- [S01] UNESCO: Media and Information Literacy
-
-Full links and notes: [`SOURCES.md`](../../../about/).
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Do not start with “is it real.” Start with: who made it, wha”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Do not start with “is it real.” Start with: who made it, wha”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Do not start with “is it real.” Start with: who made it, wha”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Do not start with “is it real.” Start with: who made it, wha”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Do not start with “is it real.” Start with: who made it, wha”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 
-<!-- DEEP_DIVE_START -->
-## Deep dive
-<p><strong>About 7 minutes.</strong> Media literacy is not doubting everything. It is asking, for every video, who made it, who paid, and what is missing.</p>
-### Ask three people
-<p>Who shot it, who paid, who benefits. They are not always the same person. The payer decides what the film must prove, the maker decides how, the platform decides who sees it.</p><p>If none of the three can be found, treat the video as “unknown source,” not evidence. Unknown is not automatically false, but it is not ready to share.</p>
-### Look for what is missing
-<p>A video shows you thirty seconds of choices. Ask what was cut: the cause, the opponent, the failure, the time span. In conflict stories, the missing side is often the answer.</p><p>Read the camera: who is shot from below, who from above, when the music enters. Form is not neutral; it takes sides before you notice.</p>
-### Why the platform pushed it
-<p>Platforms push retention, shares, comments, not accuracy. Strong emotion, clear sides, conflict in three seconds travel farther; accurate but slow work often disappears.</p><p>When a video proves exactly what you already believe, pause three seconds: did the content persuade you, or did the recommender know you would like it? That pause is media literacy.</p>
-### Five-minute drill: three questions on one video
-<p>Take one video from today and write three lines: who made it, who paid, what is missing. If unknown, write “unknown”; do not invent.</p><p>Watch it muted, then listen with the image covered. Which pass made you believe it more? Note that; next time check that channel first.</p>
-### When you understand a video
-<p>You can say in one line what it wants you to do, and in one line what it did not show you. Both lines exist, and you understand it.</p><p>If you can only say “moving” or “fake,” you are still at the reaction layer. Return to the three people and three omissions, and turn reaction into evidence.</p>
-### Ten media-literacy checks
-<ul><li>Ask who shot it</li><li>Ask who paid</li><li>Ask who benefits</li><li>Unknown source is not evidence</li><li>List the missing cause</li><li>Find the missing opponent</li><li>Read high/low angles and music</li><li>Platforms push emotion</li><li>Pause when it proves your view</li><li>Watch muted and image-covered</li></ul><p>Media literacy is not suspicion. It is being able to say, before sharing, what the video wants you to do.</p>
-<!-- DEEP_DIVE_END -->

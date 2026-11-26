@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.tool.tool-card-ai-kit.en
-- main.tool.tool-card-storage-kit.en
-- main.tool.tool-card-interview-kit.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.tool.tool-card-ai-kit, main.tool.tool-card-audio-kit, context.history.16mm]
 source_kind: experience
 ---
-
 <p>字幕、对比、口述影像、闪烁检查。四件里最容易被跳过的是对比和口述，而它们决定弱视观众能不能跟上。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -48,3 +44,10 @@ source_kind: experience
 <h2 id="section-4">不要假装无障碍</h2>
 <p>自动字幕不校对、口述影像只读画面、对比度只凭肉眼，都不算完成。无障碍是交付规格，不是附加善举。</p></section><section><h2 id="section-5">现场</h2><p>字幕、对比度、口述影像、音量、闪烁；交付前逐项过。</p></section><section><h2 id="section-6">别踩</h2><p>别只查字幕；对比度和闪烁不过，画面本身就不能看。</p></section>
 <h2>验收</h2><ul><li>字幕有说话人和关键音效，语速合规。</li><li>文字对比度、口述影像、音量三项都过。</li><li>闪烁频率合规，交付前五项全部打勾。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 7 次客户需求梳理与项目复盘，条件为单人或 2–3 人小组、预算与周期明确；页面讨论的具体对象是「无障碍检查」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

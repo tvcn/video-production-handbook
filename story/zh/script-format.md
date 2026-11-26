@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 故事组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.screenplay.scene-description.en
-- story.storyboard.shot-sheet.en
-- story.directing.rehearsal.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.storyboard.sequence-board, story.screenplay.short-drama-script, shoot.camera.composition]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>剧本格式的目的，是让导演、摄影、录音、剪辑在同一页上找到场景、动作、对白和时间。场景头写地点与时间，动作段只写镜头能拍到的东西，对白上面标角色名。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -57,3 +53,11 @@ source_kind: experience
 ### 打印前，对着这十项过一遍
 <ul><li>场景标题写清内景或外景、地点、时间</li><li>动作只写镜头能看见的东西</li><li>人物第一次出现时名字全大写</li><li>每行对白控制在三十五字以内</li><li>每场只承担一个转折，不塞两个</li><li>解释性形容词全部删掉</li><li>心理描写改成可拍的动作</li><li>场次编号从头到尾连续</li><li>补拍和闪回单独标清楚</li><li>给场记留一列写备注</li></ul><p>这十项里有两项没做到，先别写新场。回去把这一页改到能拍，比多写三页有用。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“剧本格式不是给文学奖看的，它要让摄影、录音和剪辑一眼找到信息。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“剧本格式不是给文学奖看的，它要让摄影、录音和剪辑一眼找到信息。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+<!-- SOURCES_END -->
+

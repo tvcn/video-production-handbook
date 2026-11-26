@@ -22,14 +22,13 @@ cover: /images/tools/storage.webp
 diagram: /images/diagrams/zh/storage.png
 diagram_alt: "素材管理：3-2-1 备份，命名可查"
 diagram_caption: "拍摄结束前做完备份：至少 3 份、2 种介质、1 份离开现场。文件名带日期、场次、机位和版本，找不到的素材等于没拍。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [tools.tutorial.backup-3-2-1.en, tools.delivery.publish-checklist.en, tools.camera.camera-choice.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [tools.calculator.storage-calculator, tools.producing.stripboard, shoot.camera.composition]
 depth: deep
 deep_minutes: 7
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -81,3 +80,11 @@ AI 项目还要存提示词、种子、参考图和生成记录。否则三个�
 ### 存储，十项检查
 <ul><li>现场卡一份</li><li>移动硬盘一份</li><li>第三份异地或云端</li><li>三份不放同一个包</li><li>拍完当天备份</li><li>随机播放三个文件校验</li><li>文件名带日期版本</li><li>素材代理输出分开</li><li>按码率算容量留两成</li><li>持续写入速度够</li></ul><p>存储的安全感不来自硬盘多大，来自你能说出三份分别在哪。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“拍摄结束前做完备份，文件名带日期、场次、机位。找不到的素材等于没拍。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“拍摄结束前做完备份，文件名带日期、场次、机位。找不到的素材等于没拍。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
+<!-- SOURCES_END -->
+

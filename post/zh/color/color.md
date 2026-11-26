@@ -22,12 +22,11 @@ cover: /images/post/color.webp
 diagram: /images/diagrams/zh/color.png
 diagram_alt: "调色顺序：白平衡、曝光、匹配、风格"
 diagram_caption: "先解决白平衡、曝光和镜头匹配，再谈 LUT 和风格。镜头之间不连，风格越多越乱。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [post.color.lut.en, post.color.secondary-correction.en, post.sound.sound-post.en]
+related: [post.color.color-management, post.delivery.conform-online, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -60,3 +59,35 @@ LUT 是起点，不是终点。套完之后还要回到一级校正，检查暗�
 - 同一场戏的人脸亮度与色温一致。
 - 白色物体在画面里是中性的。
 - 风格只有一个主方向，没有每个镜头换一种。
+
+## 匹配失败先回白平衡
+
+两个镜头怎么拉都不像，先别动风格。回到白平衡和曝光，把白纸或灰卡并排看；这一步不对，后面所有节点都在补救。
+
+示波器比眼睛可靠：看肤色的矢量位置、看黑位的起点、看高光有没有贴顶。眼睛会适应，示波器不会。
+
+## 肤色不是记忆色
+
+观众记得的肤色通常比真实暖一点。广告可以再暖半档，纪录片最好留在中性附近；同一场戏里，至少保证人脸之间一致。
+
+不要用“电影感”给所有人脸加青。青脸在夜景里像病人，在回忆里像鬼片，除非这是你要的叙事。
+
+## 一场戏只留一个 LUT
+
+LUT 是起点，不是风格本身。套完先回到一级校正，检查黑位、高光和肤色，再决定要不要二级。
+
+同一场戏用两个 LUT，镜头之间就会跳。要变，就在叙事转折点变，并让观众看出这是有意的。
+
+<!-- V11_DEEPEN -->
+
+
+> 意图分工：本页负责「调色：先统一，再风格」的可执行细节；同集群先读 <a href="https://post.tvcn.org/article/lut/">LUT：起点不是终点</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 5 次后期项目复盘，条件为4K 以内素材、常规平台交付；页面讨论的具体对象是「调色：先统一，再风格」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

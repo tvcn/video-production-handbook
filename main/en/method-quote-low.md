@@ -23,17 +23,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.method.method-first-client.en
-- main.method.method-deadline.en
-- main.method.method-client-revision.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [main.method.method-scene-boring, main.method.method-shoot-alone, context.history.16mm]
 depth: deep
 deep_minutes: 7
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>Split the quote into four: days, gear, post, licensing. Low quotes count only the shoot day, missing prep, revisions, delivery and archiving—plus gear depreciation and software subscriptions.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -70,3 +66,11 @@ source_kind: experience
 ### Ten quoting checks
 <ul><li>Cost floor includes gear, software, insurance, tax</li><li>Profit added separately</li><li>Workload counted in shoot days</li><li>Five usage lines separated</li><li>Organic and paid media priced differently</li><li>Revision rounds itemized</li><li>Rush and extra ratios itemized</li><li>Source files itemized</li><li>Negotiate scope, not day rate</li><li>Deposit, balance, cancellation in contract</li></ul><p>A low price buys a one-time client. A fair price buys someone who comes back.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S22] [National People's Congress: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Price days, gear, post, and revisions; low quotes repel good”) against Statutory text on portrait rights, privacy, contracts and location rights; not a substitute for an on-set test.
+- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Price days, gear, post, and revisions; low quotes repel good”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

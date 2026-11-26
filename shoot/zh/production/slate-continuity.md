@@ -22,12 +22,11 @@ cover: /images/shoot/slate-continuity.webp
 diagram: /images/diagrams/zh/slate-continuity.png
 diagram_alt: "一条戏的三个接点"
 diagram_caption: "服装、道具、光位先统一；每条留头留尾；表上写清哪条最好。场记做的是剪辑的活。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [shoot.camera.axis-line.en, shoot.production.scene-space.en, shoot.production.shot-list.en]
+related: [shoot.movement.stabilizer, shoot.exposure.waveform, post.color.color]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -66,3 +65,10 @@ related: [shoot.camera.axis-line.en, shoot.production.scene-space.en, shoot.prod
 - 每个机位都有一张连续性照片，关键道具和服装看得清。
 - 每条都有头有尾，重要动作有全景和近景两版。
 - 表上能看出最好一条，以及它为什么好。
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 4 次现场拍摄与回放复核，条件为单机位、自然光或一盏主光；页面讨论的具体对象是「场记：每条拍完，都得能接上」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

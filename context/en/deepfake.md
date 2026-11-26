@@ -28,12 +28,10 @@ sources:
 - S03
 - S22
 - S39
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.law.insurance-equipment.en
-- formats.live-podcast.live-podcast-structure.en
-- post.color.hdr-workflow.en
+- S02
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.history.digital-cinema, context.law.documentary-ethics, formats.documentary.documentary-template]
 depth: deep
 deep_minutes: 8
 test_context: 'Review setup: Windows 11 + Chrome; checked against public films, scripts
@@ -43,7 +41,6 @@ known_failures: 'Known failures: public case data is incomplete; platform specs 
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>Deepfakes usually fail on physics, not features: mismatched shadow direction, wrong glasses reflection, changing tooth count, hair passing through a shoulder, a neck that does not move with speech. Frame-by-frame relationships are more reliable than “does it look like them.”</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -56,3 +53,12 @@ source_kind: sourced
 <h2>Check</h2><ul><li>Five seconds were stepped through for teeth, ears, and blinking.</li><li>Background text, signs, and glasses reflections were checked for continuity.</li><li>Original source, a response from the person, and a second angle all fail.</li></ul>
 
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Look beyond the face: teeth, ears, blinks, background text, ”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Look beyond the face: teeth, ears, blinks, background text, ”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S22] [National People's Congress: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Look beyond the face: teeth, ears, blinks, background text, ”) against Statutory text on portrait rights, privacy, contracts and location rights; not a substitute for an on-set test.
+- [S39] [W3C WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Look beyond the face: teeth, ears, blinks, background text, ”) against Current standards for captions, contrast and accessibility; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Look beyond the face: teeth, ears, blinks, background text, ”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

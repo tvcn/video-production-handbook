@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.law.contract-scope.en
-- context.law.music-license.en
-- context.law.privacy-blur.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.deep.deep-image-history, context.deep.deep-media-literacy, formats.brand.brand-film]
 sources:
 - S02
+- S01
+- S03
+- S16
+- S10
 source_kind: sourced
 ---
-
 <p>Copyright is not a line saying cleared; copyright, contract and music licence must match use, term and territory. One page of &amp;quot;copyright&amp;quot; solves one local problem; joining &amp;quot;copyright&amp;quot;, &amp;quot;Contract Scope: Price the “One More Revision” Before It Happens&amp;quot; and &amp;quot;Music Licensing: Sync, Performance, and Platform Libraries&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Only the result is kept, not the condition</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Only the result is kept, not the condition</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Only the result is kept, not the condition</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>Deliverables have count, duration, ratio, language.</li><li>Revision rounds and overage rate are written.</li><li>Acceptance standard and one approver.</li><li>Footage/music/font/AI rights are written.</li><li>Payment covers cost.</li><li>Termination and force majeure are workable.</li><li>The condition from copyright fits on one line and can be repeated by someone else.</li><li>Only one variable changes and the other page&#x27;s result still reproduces.</li><li>A failure is recorded as condition, action and result, not a feeling.</li><li>A colleague can reproduce the same version without asking you.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "copyright", go back to <a href="https://context.tvcn.org/en/article/copyright/">copyright</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://context.tvcn.org/en/article/contract-scope/">Contract Scope: Price the “One More Revision” Before It Happens</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://context.tvcn.org/en/article/music-license/">Music Licensing: Sync, Performance, and Platform Libraries</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Copyright is not a line saying cleared; copyright, contract ”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Copyright is not a line saying cleared; copyright, contract ”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Copyright is not a line saying cleared; copyright, contract ”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Copyright is not a line saying cleared; copyright, contract ”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Copyright is not a line saying cleared; copyright, contract ”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

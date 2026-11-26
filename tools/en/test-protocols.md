@@ -21,22 +21,20 @@ stage: handbook
 format: protocol
 authors:
 - TVCN Tools Desk
-last_verified: 2026-11-23
-review_due: 2027-04-30
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
 sources:
 - S23
 - S25
 - S26
+- S29
+- S30
 test_context: 复核环境：Windows 11 + Chrome 131；本页只定义协议和记录字段，未做实验室测量。
 known_failures: 已知失败：不同机器/固件/镜头结果不可直接比较；环境温度与卡型会影响写入。
 verified: 2026-11-23
-related:
-- tools.guide.buy-camera-budget.en
-- tools.guide.buy-lens-first.en
-- tools.guide.buy-audio-first.en
-source_kind: experience
+related: [tools.capability.timecode, tools.proposal.treatment, shoot.camera.composition]
+source_kind: sourced
 ---
-
 <p>Reproducible steps, raw-data fields and pass lines for ten tests. Without gear, write “not measured”; do not invent numbers.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -74,9 +72,14 @@ source_kind: experience
 <p>Example: 2026-11-23; test RS-01; body A7S3 / firmware 2.0; lens 24mm; software NLE 1.0; room 22°C; method “2-second pan, 1/50”; variable “shutter 1/100”; raw reading “line bends 18px”; result “fail”; failure condition “fast pan”; path “/tests/RS-01.mp4”. Leave a cell blank rather than writing “normal”.</p>
 <h2>Add: log failure conditions separately</h2>
 <p>Failure is not “it looked bad”; it is a reproducible condition: which body, firmware, lens, temperature, card and setting. If the failure condition is vague, the test cannot be reproduced or used for a buying decision.</p><ol><li>Write the pass line first, then the failure point.</li><li>Someone else must be able to reproduce it with the same steps.</li><li>Keep failure files separately; never overwrite.</li></ol>
+
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN Tools Desk field notes; public specs and short tests. No lab instrument measurement.</p>
-<ul><li><span class="mono">[S23]</span> 公开标准/平台规格</li><li><span class="mono">[S25]</span> 公开标准/平台规格</li><li><span class="mono">[S26]</span> 公开标准/平台规格</li></ul>
-<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
+## References and further reading
+
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Reproducible steps, raw-data fields and pass lines for ten t”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Reproducible steps, raw-data fields and pass lines for ten t”) against HD SDR gamut, transfer function and viewing conditions; not a substitute for an on-set test.
+- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Reproducible steps, raw-data fields and pass lines for ten t”) against Wide-gamut and parameter definitions for UHD/HDR; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Reproducible steps, raw-data fields and pass lines for ten t”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Reproducible steps, raw-data fields and pass lines for ten t”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

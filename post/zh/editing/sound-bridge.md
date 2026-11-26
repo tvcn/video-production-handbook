@@ -22,12 +22,11 @@ cover: /images/post/sound-bridge.webp
 diagram: /images/diagrams/zh/sound-bridge.png
 diagram_alt: "声音可以比画面早到，也可以晚走"
 diagram_caption: "J-cut 让下一场先出声，L-cut 让上一场留在耳边。两种都只挪音频，不挪画面。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [post.editing.cutting-points.en, post.editing.transitions.en, post.sound.room-tone.en]
+related: [post.sound.sound-post, post.sound.sound-post-workflow, shoot.camera.axis-line]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -64,3 +63,10 @@ J-cut 和 L-cut 是桥，不是创可贴。画面里的穿帮、跳轴、表演�
 - 每个 J-cut 或 L-cut 都能说出：观众先听见什么，后看见什么。
 - 声音搭接不超过 2 秒，除非有明确的设计。
 - 静音看一遍，画面本身也能成立。
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 3 次后期项目复盘，条件为4K 以内素材、常规平台交付；页面讨论的具体对象是「声音先走：J-cut 与 L-cut」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

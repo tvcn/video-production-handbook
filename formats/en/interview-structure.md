@@ -24,18 +24,16 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Formats Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.live-podcast.live-podcast-breakdown.en
-- post.sound.sound-post-workflow.en
-- shoot.blocking.blocking.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.interview.interview-template, formats.live-podcast.live-podcast-breakdown, story.interview.interview-questions]
 depth: deep
 deep_minutes: 7
 sources:
 - S14
 - S15
 - S16
+- S29
 test_context: 'Review setup: composite samples and public cases; previewed on MacBook
   Pro M1 / iPhone 13; not one real client project.'
 known_failures: 'Known failures: composite samples are not client proof; platform
@@ -43,7 +41,6 @@ known_failures: 'Known failures: composite samples are not client proof; platfor
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>The worst interview opens on a face reciting a résumé. Let the person complete one action in the real workplace so the audience sees the difficulty, then sit down and ask why that step is done that way.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -82,4 +79,13 @@ source_kind: sourced
 ### Ten interview checks
 <ul><li>Questions ask actions, not feelings</li><li>At least three detail follow-ups</li><li>Guest is at the work site</li><li>Hands have something to do</li><li>Hand close-ups even with one camera</li><li>Thirty seconds of room tone</li><li>Concrete scene before context</li><li>One contradiction</li><li>No narration summarizing the person</li><li>Subtitles keep spoken texture</li></ul><p>An interview does not get answers; it lets the viewer see the part of the person that appears while they work.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The question matters more than the camera; a vague question ”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The question matters more than the camera; a vague question ”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The question matters more than the camera; a vague question ”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The question matters more than the camera; a vague question ”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

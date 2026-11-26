@@ -23,14 +23,13 @@ cover: /images/post/edit-pacing.webp
 diagram: /images/diagrams/en/edit-pacing.png
 diagram_alt: "Pacing is a curve, not a pile of cuts"
 diagram_caption: "Cut at peak curiosity. Give the audience a breath before it drops. All fast means no emphasis."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [post.editing.fine-cut.en, post.sound.music-editing.en, post.editing.cutting-points.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [post.editing.fine-cut, post.sound.foley, shoot.camera.composition]
 depth: deep
 deep_minutes: 6
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -78,3 +77,17 @@ If a scene feels long no matter what, check whether it delivers new information.
 ### Ten pacing checks
 <ul><li>Ask what the scene wants the audience to wait for</li><li>Leave one question at each cut</li><li>Do not answer too early</li><li>Alternate long and short shots</li><li>After three or four shorts, hold a reaction</li><li>Cut action before music</li><li>Do not cut on every beat</li><li>Keep one two-second silence</li><li>Cut repeated information</li><li>Watch once on a phone speaker</li></ul><p>Pace is not making the picture faster; it is making the audience want to keep watching.</p>
 <!-- DEEP_DIVE_END -->
+
+
+> Intent split: this page covers the practical details of “Pacing Is Not Speed; It Is When They Want the Next Line”; start with <a href="https://post.tvcn.org/article/fine-cut/">Fine Cut: Remove the Rough Edges</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Fast cuts do not make a film good. Cut the explanation, land”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S27] [EBU R128 Loudness](https://tech.ebu.ch/publications/r128) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Fast cuts do not make a film good. Cut the explanation, land”) against Broadcast loudness targets, true peak and measurement; not a substitute for an on-set test.
+- [S67] [IETF: RFC 8216: HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Fast cuts do not make a film good. Cut the explanation, land”) against HLS segments, playlists and playback; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

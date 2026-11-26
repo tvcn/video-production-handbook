@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 故事组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.directing.rehearsal.en
-- story.storyboard.shot-sheet.en
-- story.screenplay.script-format.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.story.scene-sequence, story.screenplay.scene-transition-writing, shoot.camera.axis-line]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>场景描述不是小说环境描写。写“桌上有一只没洗的杯子，水槽里泡着另一只”，不要写“她感到生活失控”。前者能拍，后者只能演。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -59,3 +55,11 @@ source_kind: experience
 ### 场景描述，十项检查
 <ul><li>每段只写一个动作</li><li>没有心理形容词</li><li>没有“气氛”这类空词</li><li>每个动作镜头拍得到</li><li>道具第一次出现就有用</li><li>空间关系写清楚</li><li>光线和声音能看见或听见</li><li>动作之间留空行</li><li>人名第一次出现写全</li><li>读一遍，演员知道手放哪</li></ul><p>场景描述不是散文，是给镜头和演员的施工图。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“场景描述只写镜头拍得到的东西：光、动作、物件、声音；心理活动留给演员。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“场景描述只写镜头拍得到的东西：光、动作、物件、声音；心理活动留给演员。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+<!-- SOURCES_END -->
+

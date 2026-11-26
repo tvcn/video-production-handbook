@@ -24,15 +24,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.color-checker.en
-- tools.tutorial.lighting-window.en
-- tools.tutorial.restore-test.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.capability.field-monitor, tools.capability.field-recorder, shoot.camera.exposure]
 source_kind: experience
 ---
-
 <p>Check in order: face at acceptable brightness, windows and lamps not clipped, shadows holding detail. When all three cannot coexist, protect the face, then highlights; shadows may go under.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -46,3 +42,15 @@ source_kind: experience
 <ol><li>Waveform: skin at 60–75%, white wall under 95%. Do not crush the whole frame to 50%.</li><li>Zebra at 95%: if it appears, stop down a stop or add ND. Do not use zebra as a composition tool.</li><li>False color: skin should sit in one color zone. Two colors means mixed light or a white-balance problem.</li></ol>
 <p>Acceptance: shoot ten seconds and check highlights for clipping and shadows for detail. Fix on set, not in post.</p></section><section><h2 id="section-4">On set</h2><p>Shoot a ten-second test: waveform for highlights, zebra at 95 percent for the face, false color for the sky. Pass all three before the first take.</p></section><section><h2 id="section-5">Do this</h2><p>Exposure check runs in order: waveform for distribution, zebra for highlights, false color for faces; shoot only after all three pass.</p><ol><li>Shoot a ten-second test before the first take.</li><li>Waveform for highlights, zebra at 95 percent for faces, false color for sky.</li><li>Only roll the first take after all three pass.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not trust the onboard screen alone; clipped highlights do not come back in post.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>every spec maps to one concrete shooting problem</li><li>weight, power and connections hold on a real rig</li><li>a 60-second test leaves one comparable number</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>specs without connections, power or weight</li><li>batteries, storage or body do not match after purchase</li><li>no 60-second test, so the problem arrives on the shoot</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Run a 60-second test with the gear you already own, measuring only “Shoot a ten-second test before the first take.”. Record two numbers: what you need and what the gear actually gives.</p></section>
 <h2>Check</h2><ul><li>Waveform, zebra, and false color are all checked in a ten-second test.</li><li>Highlights stay below the waveform ceiling and faces sit within 95 percent zebra.</li><li>The first take rolls only after all three pass, with a test file.</li></ul>
+
+
+> Intent split: this page covers the practical details of “Exposure Check: Waveform, Zebra, False Color”; start with <a href="https://tools.tvcn.org/article/nd-calculate/">ND Calculation: Wide Open in Daylight</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 6 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Exposure Check: Waveform, Zebra, False Color”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

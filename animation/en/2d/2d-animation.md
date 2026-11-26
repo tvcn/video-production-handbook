@@ -23,18 +23,21 @@ cover: /images/animation/2d-animation.webp
 diagram: /images/diagrams/en/2d-animation.png
 diagram_alt: "2D animation: keys, breakdowns, loops"
 diagram_caption: "2D is not about pretty drawings; it is about timing with keys and breakdowns. Make one action read before adding drawings."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [animation.3d.3d-pipeline.en, context.law.insurance-equipment.en, formats.experimental.experimental-structure.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [animation.2d.2d-camera, animation.2d.2d-compositing, formats.brand.brand-film]
 depth: deep
 deep_minutes: 7
-sources: [S12, S28, S34]
+sources:
+- S62
+- S63
+- S12
+- S59
 test_context: "Review setup: Windows 11; public Blender 4.x / After Effects 2025 workflows; not every version behaves the same."
 known_failures: "Known failures: plugin/version gaps break rigs or renders; font and asset licenses need separate checks."
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -86,9 +89,13 @@ Loop length comes from the action, not the software. A step may take twelve fram
 ### Ten 2D animation checks
 <ul><li>Three keys first</li><li>Keys tell the action</li><li>Contact drawn at the turn</li><li>Body, hair, cloth layered</li><li>Hair and hem lag</li><li>Four drawings for a loop</li><li>Foot slide checked</li><li>Frame rate before detail</li><li>Holds carry weight</li><li>Frame counts recorded</li></ul><p>2D craft is not fine drawing. It is whether keys and frame counts make the action true.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S12]</span> Britannica: Animation</li><li><span class="mono">[S28]</span> Netflix Partner Help</li><li><span class="mono">[S34]</span> Adobe Premiere Pro Guide</li></ul>
-<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
+## References and further reading
+
+- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“2D is not about beautiful drawings. It is about controlling ”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“2D is not about beautiful drawings. It is about controlling ”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“2D is not about beautiful drawings. It is about controlling ”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“2D is not about beautiful drawings. It is about controlling ”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

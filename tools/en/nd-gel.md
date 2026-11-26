@@ -23,15 +23,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.practical-bulb.en
-- tools.capability.reflector.en
-- tools.capability.softbox.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.tutorial.night-practical, tools.capability.nle-compare, shoot.camera.nd-filter]
 source_kind: experience
 ---
-
 <p>For precise, repeatable light reduction, use lens ND or electronic ND, not a guess with a gel. Gels are for color and atmosphere, not measurement.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -45,3 +41,10 @@ source_kind: experience
 <ol><li>Daylight too blue: 1/4 CTO. Tungsten too warm: 1/4 CTB. Add a quarter at a time.</li><li>Put ND on the lens or window, not against the color gel. For deep cuts, use one strong ND, not three weak ones.</li><li>Set LED color and brightness first; gels are for trim, not for fixing a bad lamp.</li></ol>
 <p>Acceptance: white-balance and check white paper and skin, not the lamp. Green cast or vignette means remove a layer.</p></section><section><h2 id="section-4">On set</h2><p>Put CTO on the window and CTB on the lamp, then check the color temperature. ND gel only cuts brightness; it does not shift color.</p></section><section><h2 id="section-5">Do this</h2><p>Lighting gels split into CTO, CTB, and ND: warm, cool, and dim; the wrong gel changes the whole set.</p><ol><li>CTO on a window, CTB on a lamp, shoot and read color temperature.</li><li>ND gel only dims without shifting color.</li><li>Label each gel with name and strength instead of judging by color.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not sort gels by eye; CTO and ND can both look orange in the dark.</p></section>
 <h2>Check</h2><ul><li>CTO and CTB each have a comparable color-temperature sample.</li><li>ND changes brightness without shifting color temperature.</li><li>Each gel carries a name and strength label.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 6 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Lighting Gel: CTO, CTB, ND”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

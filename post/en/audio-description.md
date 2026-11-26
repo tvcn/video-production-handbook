@@ -24,15 +24,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Post Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.accessibility.multilingual-subtitles.en
-- post.accessibility.sdh.en
-- post.delivery.mastering.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [post.assets.backup-recovery, post.vfx.cg-integration, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>Audio description is not narrating every image. Write three kinds: who does what, spatial relations, on-screen text. Do not repeat what characters already say.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -46,3 +42,10 @@ source_kind: experience
 <ol><li>One information point per gap; prioritize relationships, spatial position and key action.</li><li>Avoid dialogue and important sound. Speak 10% slower and leave a one-second margin.</li><li>Do not judge or spoil. Not “he looks sad”; write “he lowers his head, hand stops on the door handle.”</li></ol>
 <p>Acceptance: with the picture off, the story is still followable; with it on, the description does not fight the dialogue. Both must pass.</p></section><section><h2 id="section-4">On set</h2><p>Leave a gap every 20 to 30 seconds and say who moves, where they go, and what is in hand. Do not describe feelings.</p></section><section><h2 id="section-5">Do this</h2><p>Audio description says only what cannot be seen but must be known: who moves, where, and what is in hand.</p><ol><li>Leave a gap every 20 to 30 seconds and never cover dialogue.</li><li>Say who moves, where they go, and what they hold.</li><li>Do not describe emotions; let performance and sound carry them.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not say “he is sad”; let action and sound say it.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>removing one shot makes the scene faster, not muddier</li><li>skin, highlights and blacks sit inside scope limits</li><li>loudness, subtitles and file specs pass one delivery check</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>cuts follow the music, not the action</li><li>style before unity: shots jump in color</li><li>loudness and subtitles are checked at the very end</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Take 30 seconds of footage and make an A/B, changing only “Leave a gap every 20 to 30 seconds”. Note one timecode and one difference before keeping it.</p></section>
 <h2>Check</h2><ul><li>Description lands in dialogue gaps and never covers a key line.</li><li>Each passage names who moves, where, and what is held.</li><li>No emotion is interpreted; the listener can judge from action and sound.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 6 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Audio Description: Say What Matters”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

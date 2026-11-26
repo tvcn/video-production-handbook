@@ -23,18 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.2d.2d-camera.en
-- animation.2d.2d-compositing.en
-- animation.3d.layout.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.deep.deep-3d-light-material, animation.deep.deep-animation-qc, formats.brand.brand-film]
 sources:
+- S62
+- S63
 - S12
 - S23
+- S59
 source_kind: sourced
 ---
-
 <p>2D space is not drawn; it is built from layers, speed differences and occlusion. One page of &amp;quot;2D Camera: Pan and Multiplane&amp;quot; solves one local problem; joining &amp;quot;2D Camera: Pan and Multiplane&amp;quot;, &amp;quot;2D Compositing: Separate Background, Character, Light&amp;quot; and &amp;quot;Layout: Camera and Asset Handoff&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -54,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not pan the whole image at one speed; equal layers flatten the…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not draw everything on one layer; one change forces a full red…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not leave the camera live in layout; changing it after animati…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>Far, mid, and near layers move at different speeds near 1:2:4.</li><li>The character layer is separate and does not slide with the background.</li><li>One pan shows near-fast, far-slow parallax.</li><li>Background, character, foreground, and light are separate layers with clear structure.</li><li>Shadows live on their own layer, not baked into the character.</li><li>Changing an action moves only the character layer; background and light stay.</li><li>Camera, character scale, and asset version are locked and versioned.</li><li>The file header shows version and dependencies so animators do not guess.</li><li>Animation does not change the camera and the final shot matches layout.</li><li>The condition from 2D Camera: Pan and Multiplane fits on one line and can be repeated by someone else.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "2D Camera: Pan and Multiplane", go back to <a href="https://animation.tvcn.org/en/article/2d-camera/">2D Camera: Pan and Multiplane</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://animation.tvcn.org/en/article/2d-compositing/">2D Compositing: Separate Background, Character, Light</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://animation.tvcn.org/en/article/layout/">Layout: Camera and Asset Handoff</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“2D space is not drawn; it is built from layers, speed differ”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“2D space is not drawn; it is built from layers, speed differ”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“2D space is not drawn; it is built from layers, speed differ”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“2D space is not drawn; it is built from layers, speed differ”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“2D space is not drawn; it is built from layers, speed differ”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

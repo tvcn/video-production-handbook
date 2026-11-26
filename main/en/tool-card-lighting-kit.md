@@ -23,15 +23,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.tool.tool-card-travel-kit.en
-- main.tool.tool-card-audio-kit.en
-- main.tool.tool-card-basic-kit.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.tool.tool-card-live-kit, main.tool.tool-card-storage-kit, context.history.16mm]
 source_kind: experience
 ---
-
 <p>One light and one softbox establish where the light comes from; a reflector then opens the shadow side. Multiple lights without direction only flatten the face.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -50,3 +46,10 @@ source_kind: experience
 <h2 id="section-4">When not to add a light</h2>
 <p>If window light already has a direction, add a reflector or black flag before a second fixture. In night and documentary scenes, preserving the existing direction matters more than filling every shadow.</p></section><section><h2 id="section-5">On set</h2><p>One COB, a 90-centimeter softbox, a reflector, and two sandbags. Shoot half-body before adding a second light.</p></section><section><h2 id="section-6">Avoid</h2><p>Do not buy a second light first; without one direction, the second only fights it.</p></section>
 <h2>Check</h2><ul><li>One light and softbox produce a usable half-body setup.</li><li>Shadows are filled with a reflector before a second light.</li><li>Two sandbags keep the stand stable when nudged.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 5 client brief and project review reviews under a one- or two-to-three-person team with a fixed budget and schedule; it discusses “One-Light Kit”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

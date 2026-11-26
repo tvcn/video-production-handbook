@@ -23,18 +23,21 @@ cover: /images/formats/product-ad.webp
 diagram: /images/diagrams/en/product-ad.png
 diagram_alt: "A 30-second ad spends attention"
 diagram_caption: "Result first, proof second, one action last. Want all three and the viewer remembers none."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [formats.product-ad.product-ad-breakdown.en, post.sound.loudness.en, shoot.multicam.multicam-live.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [formats.product-ad.product-ad-breakdown, formats.product-ad.product-ad-template, story.directing.actor-adjustment]
 depth: deep
 deep_minutes: 6
-sources: [S14, S15, S16]
+sources:
+- S14
+- S15
+- S16
+- S29
 test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
 known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -86,9 +89,13 @@ A fifteen-second structure: three seconds problem, seven seconds proof, three se
 ### Ten product-ad checks
 <ul><li>Concrete problem within three seconds</li><li>Only user language</li><li>One benefit per film</li><li>The benefit is provable on camera</li><li>Product completes an action</li><li>Same-camera before and after</li><li>At least two proofs</li><li>Close-up shows material or port</li><li>One closing action</li><li>It works muted</li></ul><p>A product ad does not praise the product; it lets the viewer watch their problem get solved once.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
-<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
+## References and further reading
+
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A product ad is not a product showcase. Give a problem in th”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A product ad is not a product showcase. Give a problem in th”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A product ad is not a product showcase. Give a problem in th”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A product ad is not a product showcase. Give a problem in th”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

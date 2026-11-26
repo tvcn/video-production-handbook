@@ -23,15 +23,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.shotgun-mic.en
-- tools.capability.practical-bulb.en
-- tools.capability.lav-system.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.tutorial.lighting-one-light, tools.tutorial.lighting-window, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>For a large softbox or height above a person&#x27;s head, a small stand tips; use a heavy stand or truss. Do not use a backpack as a sandbag.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -45,3 +41,15 @@ source_kind: experience
 <ol><li>Hang bags at the base tripod, not at the end of the arm; end weight increases tipping torque.</li><li>Tie cables along the stand and leave a trip loop. Do not cross a walkway.</li><li>Lock casters before raising, lock the arm after. At wrap, lower the lamp before removing bags.</li></ol>
 <p>Acceptance: push the stand lightly; it should spring back, not keep falling. If it keeps falling, add weight or lower it.</p></section><section><h2 id="section-4">On set</h2><p>Hang two sandbags on every stand and push it gently at full height. If it moves, lower it before rolling.</p></section><section><h2 id="section-5">Do this</h2><p>Sandbag the stand before raising the light; an unweighted stand costs more when it falls than the lamp did.</p><ol><li>Hang two sandbags on each stand.</li><li>Raise to full height and push gently.</li><li>Only power on if it does not wobble; otherwise lower it or add weight.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not raise the light before finding sandbags; at full height it is already unmanageable.</p></section>
 <h2>Check</h2><ul><li>Each stand carries two sandbags with recorded weight.</li><li>A gentle push at full height does not wobble.</li><li>Any wobbling stand is lowered or weighted before power-on.</li></ul>
+
+
+> Intent split: this page covers the practical details of “Light Stand: Sandbag Everything”; start with <a href="https://tools.tvcn.org/article/buy-light-kit/">Buying a Light Kit: Soft Before Bright</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 3 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Light Stand: Sandbag Everything”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

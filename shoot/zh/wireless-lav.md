@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 拍摄组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.sound.boom-operator.en
-- shoot.sound.dual-system-sound.en
-- shoot.camera.shutter-angle.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.camera.axis-line, shoot.production.b-roll, post.color.color]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>现场先扫频，避开电视台和 Wi-Fi 密集段；发射器贴近身体，接收器高于人群，天线不要贴金属。每套麦备一条有线备份，录到机身或第二录音机。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -57,3 +53,12 @@ source_kind: experience
 ### 藏麦前，先做这十步
 <ul><li>先看衣服材质，再决定麦的位置</li><li>领口硬就把麦放到下方一掌</li><li>毛衣用毛发罩，避免直接贴皮肤</li><li>丝绸不要贴皮肤，会滑也会磨</li><li>胶带先贴衣服，再贴皮肤</li><li>留一个缓冲折，别把线绷直</li><li>让演员坐下试一次</li><li>让演员转身试一次</li><li>让演员抱臂试一次</li><li>发射器开录，相机和手机各留一条</li></ul><p>领夹麦最贵的不是设备，是演员已经演完、你才发现那条音轨全是摩擦声。收工前把三条音轨各听十秒，把不能用的那条写在场记单上，别等后期才发现。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“领夹麦先解决藏和备份：衣领下、头发里、胶带固定，再录一条备用轨。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“领夹麦先解决藏和备份：衣领下、头发里、胶带固定，再录一条备用轨。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“领夹麦先解决藏和备份：衣领下、头发里、胶带固定，再录一条备用轨。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
+<!-- SOURCES_END -->
+

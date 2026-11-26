@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 拍摄组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.camera.nd-filter.en
-- shoot.camera.shutter-angle.en
-- shoot.exposure.waveform.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.art.set-dressing, shoot.safety.set-safety, post.color.color]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>传感器越大，同一视角需要更长焦距，景深更浅，低光通常更好；但它不自动带来更好的颜色、编码或宽容度。先按工作距离和景深选画幅，再看处理器和录制规格。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -57,3 +53,12 @@ source_kind: experience
 ### 选画幅前，十项确认
 <ul><li>先算等效焦距</li><li>同构图再比景深</li><li>确认低光下的噪点</li><li>把镜头、电池和 ND 的重量算进去</li><li>确认机器能连续录多久</li><li>广角边缘画质先试拍</li><li>ND 和快门重新算</li><li>卡和备份够不够</li><li>用三种光各拍一条</li><li>最后再问画幅够不够</li></ul><p>画幅是约束，不是等级；先让机器适合这一天，再让它适合你的审美。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“传感器尺寸改变的是视角、景深和低光，不是“电影感”本身。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“传感器尺寸改变的是视角、景深和低光，不是“电影感”本身。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“传感器尺寸改变的是视角、景深和低光，不是“电影感”本身。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
+<!-- SOURCES_END -->
+

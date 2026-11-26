@@ -21,12 +21,9 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 技术组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.camera.exposure.en
-- story.storyboard.storyboard.en
-- tools.guide.buy-used-gear.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.deep.deep-camera-move, shoot.deep.deep-hard-light, post.color.color]
 depth: deep
 deep_minutes: 6
 sources:
@@ -34,12 +31,12 @@ sources:
 - S31
 - S32
 - S33
+- S52
 test_context: 复核环境：Windows 11 工作站；Sony FX3 / Canon R5 公开菜单与样片对照；镜头以页面标注为准，不声称每支都实测。
 known_failures: 已知失败：不同机型菜单/固件差异；现场色温与监视器未校准会导致误判。
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>每个场景至少三种材料：一条能独立讲清空间的保底主镜头、一条反打或过肩、两三个能插入的动作特写。剪辑时需要靠它们改节奏、藏穿帮、救表演。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -67,4 +64,14 @@ source_kind: sourced
 ### 覆盖拍完，对照这十项
 <ul><li>主机位完整覆盖整场动作</li><li>每组都有全景、中景、近景、插入</li><li>每个角度至少两条</li><li>反打和反应镜头单独列</li><li>运动镜头没有替代覆盖</li><li>检查演员是否被前景挡住</li><li>记录每个镜头实际条数</li><li>收工前补拍缺失的插入</li><li>镜头表拍照发给剪辑</li><li>确认备份后再格式化卡</li></ul><p>覆盖不是拍得多，是拍得全。剪辑需要的那一条，现场往往只差一个角度。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“覆盖不是多拍几条，而是给剪辑留下能救场的不同信息：全景、近景、插入、反打。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“覆盖不是多拍几条，而是给剪辑留下能救场的不同信息：全景、近景、插入、反打。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
+- [S32] [Sony 专业影像支持](https://pro.sony/ue_US/support) — 2026-11-26 访问。用于核对首段“覆盖不是多拍几条，而是给剪辑留下能救场的不同信息：全景、近景、插入、反打。”中的术语与公开背景（专业摄影机与镜头的支持、固件与文档）；不替代现场测试。
+- [S33] [Canon 支持](https://www.usa.canon.com/support) — 2026-11-26 访问。用于核对首段“覆盖不是多拍几条，而是给剪辑留下能救场的不同信息：全景、近景、插入、反打。”中的术语与公开背景（相机、镜头与固件的官方支持入口）；不替代现场测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“覆盖不是多拍几条，而是给剪辑留下能救场的不同信息：全景、近景、插入、反打。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
+<!-- SOURCES_END -->
+

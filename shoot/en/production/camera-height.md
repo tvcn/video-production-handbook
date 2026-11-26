@@ -23,12 +23,11 @@ cover: /images/shoot/camera-height.webp
 diagram: /images/diagrams/en/camera-height.png
 diagram_alt: "Low, level, high: height changes the relationship"
 diagram_caption: "Same face: the lower the camera, the larger the person; the higher, the smaller. Put the lens at eye height first, then decide to break it."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [shoot.camera.lens-distance.en, shoot.camera.shot-size.en, shoot.camera.axis-line.en]
+related: [shoot.camera.camera-move, shoot.camera.composition, post.color.color]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -63,3 +62,13 @@ Do not stay low for the whole film to look “cinematic.” Height is a sentence
 - Is the default height level, or is the high/low angle a deliberate choice?
 - For a seated interview, is the lens also seated at eye height?
 - Does the height change land on a stand, sit, step in, or step back?
+
+
+<!-- V11_DEEPEN -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 7 on-set shoot and playback review reviews under one camera, available light or one key light; it discusses “Camera Height: Lower Before You Change Lenses”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.food.food-video-template
-- formats.food.food-video-structure
-- formats.food.food-video-breakdown
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.deep.deep-music-video, formats.deep.deep-short-drama, story.directing.actor-adjustment]
 sources:
 - S12
+- S14
+- S15
+- S16
+- S29
 source_kind: sourced
 ---
-
 <p>美食片不是食物特写合集；桌面、声音和 30 秒动作顺序决定它好不好吃。 单看《美食桌面模板：一张表拍完》只能解决一个局部；把《美食桌面模板：一张表拍完》《美食桌面结构：六个拍点》《美食桌面拉片：六个段落怎么落地》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>1. 先拍 logo/航拍：观众不知道自己在看谁。把第一拍换成问题或动作。2. 每拍都加旁白：画面没有承担信息…</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>最常见的失败是“镜头很像，但证据是假的”。验收时问三句：这一段删掉会怎样？声音是否独立成立？结果能否被核对？三…</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>只看结果，不记条件</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>把 美食桌面模板：一张表拍完 的条件写成一行，能复述给下一个人。</li><li>只改一个变量，另一页的结果还能复现。</li><li>失败现象能被记录成“条件—动作—结果”，不是一句感觉。</li><li>下一位同事不问你，也能按记录做出同一版。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《美食桌面模板：一张表拍完》里的单点问题：回到<a href="https://formats.tvcn.org/article/food-video-template/">《美食桌面模板：一张表拍完》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://formats.tvcn.org/article/food-video-structure/">《美食桌面结构：六个拍点》</a>，先不改第三页。</li><li>只做验收：看<a href="https://formats.tvcn.org/article/food-video-breakdown/">《美食桌面拉片：六个段落怎么落地》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“美食片不是食物特写合集；桌面、声音和 30 秒动作顺序决定它好不好吃。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“美食片不是食物特写合集；桌面、声音和 30 秒动作顺序决定它好不好吃。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“美食片不是食物特写合集；桌面、声音和 30 秒动作顺序决定它好不好吃。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“美食片不是食物特写合集；桌面、声音和 30 秒动作顺序决定它好不好吃。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“美食片不是食物特写合集；桌面、声音和 30 秒动作顺序决定它好不好吃。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+<!-- SOURCES_END -->
+

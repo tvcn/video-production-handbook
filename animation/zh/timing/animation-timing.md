@@ -22,14 +22,13 @@ cover: /images/animation/animation-timing.webp
 diagram: /images/diagrams/zh/animation-timing.png
 diagram_alt: "间距就是重量"
 diagram_caption: "同样的总距离，中间帧的间隔一改，观众就读出它是乒乓球还是铅球。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [animation.2d.animation-walk.en, animation.2d.2d-animation.en, animation.3d.blockout.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [animation.2d.animation-walk, animation.principles.anticipation, formats.documentary.documentary-template]
 depth: deep
 deep_minutes: 6
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -81,3 +80,11 @@ deep_minutes: 6
 ### 动画时间，十项检查
 <ul><li>中间帧间距先调</li><li>一个动作至少两种速度</li><li>启动慢过程快落地停</li><li>匀速只用于机械</li><li>停顿前读得清上一张</li><li>停顿长短逐帧看</li><li>重物慢起快落</li><li>轻物快起慢停</li><li>弹性有回弹</li><li>曲线由重量决定</li></ul><p>时间做对，观众会相信一个球有重量；时间做错，再细的画也像纸片。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“一个球从桌上掉下来，画几张中间帧、每张隔多远，观众就能感觉到它是乒乓球还是铅球。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“一个球从桌上掉下来，画几张中间帧、每张隔多远，观众就能感觉到它是乒乓球还是铅球。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+<!-- SOURCES_END -->
+

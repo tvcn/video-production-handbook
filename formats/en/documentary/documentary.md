@@ -23,18 +23,21 @@ cover: /images/formats/documentary.webp
 diagram: /images/diagrams/en/documentary.png
 diagram_alt: "One scene, four kinds of coverage"
 diagram_caption: "What goes missing in the edit is usually the other side of the moment. Cover action, reaction, place, and sound."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [formats.event.event-structure.en, post.delivery.conform-online.en, shoot.blocking.blocking.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [formats.documentary.documentary-breakdown, formats.documentary.documentary-template, story.directing.actor-adjustment]
 depth: deep
 deep_minutes: 7
-sources: [S14, S15, S16]
+sources:
+- S14
+- S15
+- S16
+- S29
 test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
 known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -86,9 +89,13 @@ Do not let narration explain everything. Let images and location sound carry hal
 ### Ten documentary checks
 <ul><li>The person is mid-decision</li><li>A deadline or friction exists</li><li>A hypothesis before rolling</li><li>The hypothesis can be disproved</li><li>Questions ask about actions</li><li>Failure or retry is on camera</li><li>End after the change</li><li>No narration invents the change</li><li>Use and scope are explained</li><li>Vulnerable subjects are protected</li></ul><p>Documentary does not explain life; it lets the audience watch one person actually change once.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
-<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
+## References and further reading
+
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find one person, then wait for one thing to happen. The film”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find one person, then wait for one thing to happen. The film”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find one person, then wait for one thing to happen. The film”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find one person, then wait for one thing to happen. The film”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

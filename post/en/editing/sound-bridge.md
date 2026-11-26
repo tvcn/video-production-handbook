@@ -23,12 +23,11 @@ cover: /images/post/sound-bridge.webp
 diagram: /images/diagrams/en/sound-bridge.png
 diagram_alt: "Sound can arrive early or leave late"
 diagram_caption: "A J-cut lets the next scene speak first; an L-cut lets the last scene stay in the ear. Both move audio, not picture."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [post.editing.cutting-points.en, post.editing.transitions.en, post.sound.room-tone.en]
+related: [post.sound.sound-post, post.sound.sound-post-workflow, shoot.camera.axis-line]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -65,3 +64,10 @@ J-cuts and L-cuts are bridges, not bandages. If the picture has a continuity err
 - For every J-cut or L-cut, you can say what the audience hears first and sees second.
 - The audio overlap stays under two seconds unless there is a deliberate design.
 - Watch it muted. The picture still works.
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 3 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Let Sound Cross the Cut: J-cuts and L-cuts”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

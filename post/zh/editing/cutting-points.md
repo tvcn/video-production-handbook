@@ -22,12 +22,11 @@ cover: /images/post/cutting-points.webp
 diagram: /images/diagrams/zh/cutting-points.png
 diagram_alt: "三种接法：动作、视线、声音"
 diagram_caption: "每个切点都要有一样东西接住注意力。动作最稳，视线最顺，声音最自由；三样都没有，切口就会跳。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [post.editing.sound-bridge.en, post.sound.room-tone.en, post.editing.transitions.en]
+related: [post.deep.deep-asset-management, post.deep.deep-color-pipeline, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -68,3 +67,15 @@ A 看向画外，切到 B 的反应，观众会自然跟着视线走。这不是
 - 每个切点能说出靠的是动作、视线还是声音。
 - 动作切在动势里，不等动作停稳。
 - 声音桥接不抢对白，也不靠音乐硬盖。
+
+
+> 意图分工：本页负责「剪辑点：让注意力过去」的可执行细节；同集群先读 <a href="https://post.tvcn.org/article/fine-cut/">细剪：把粗剪的毛边修掉</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 4 次后期项目复盘，条件为4K 以内素材、常规平台交付；页面讨论的具体对象是「剪辑点：让注意力过去」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

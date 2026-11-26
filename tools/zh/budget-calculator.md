@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.calculator.bitrate-calculator.en
-- tools.calculator.subtitle-cps.en
-- tools.calculator.dof-calculator.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.producing.budget-contingency, tools.producing.budget-map, shoot.camera.axis-line]
 source_kind: experience
 ---
-
 <p>把总预算先分成四块，再谈具体报价： 拍摄 50% / 后期 25% / 器材与场地 15% / 预备 10% 。预备金不是利润，是给改期、补拍和超时的缓冲。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -48,3 +44,10 @@ source_kind: experience
 <noscript><p class="calc-noscript">JavaScript 关闭时按公式手算；2 万元、30/30/15/10% 后未分配 3,000 元。</p></noscript>
 </section><script src="/assets/calculators.js" defer></script><section><h2>替代</h2><p>如果“总预算分四块：人 40%、设备 25…”不是你的主问题，先用“每块留 10% 缓冲”对应的基础做法；两项都成立再考虑升级。</p></section><section><h2>60 秒自测</h2><p>用现有器材按“总预算分四块：人 40%、设备 25…”做一次 60 秒测试，记下一个数字；数字没有变化，就不要加预算。</p></section>
 <h2>验收</h2><ul><li>人、设备、场地、后期四块比例明确。</li><li>每块都有 10% 缓冲，且未被提前花掉。</li><li>超支在同一块内调整，没有跨块借。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 3 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「预算计算器：四块怎么分」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

@@ -22,12 +22,11 @@ cover: /images/tools/location-scout.webp
 diagram: /images/diagrams/zh/location-scout.png
 diagram_alt: "场地五问：任何一项空着，别开机"
 diagram_caption: "授权、电力、声音、邻居与许可、损坏与保险。看景看的是能不能工作，不是好不好看。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [tools.producing.budget-contingency.en, tools.workflow.first-shoot-day.en, tools.producing.call-sheet.en]
+related: [tools.capability.lto-archive, tools.capability.matte-box, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -68,3 +67,10 @@ related: [tools.producing.budget-contingency.en, tools.workflow.first-shoot-day.
 - 拿到书面许可，日期、时段、人数、用电和恢复都写清。
 - 搬运路线、电源和底噪都现场测过。
 - 公共许可、保险和备用场地都有安排。
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 7 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「场地：开拍前先问清五件事」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

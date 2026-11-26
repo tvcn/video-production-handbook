@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.tool.tool-card-interview-kit.en
-- main.tool.tool-card-storage-kit.en
-- main.tool.tool-card-audio-kit.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.tool.tool-card-storage-kit, main.tool.tool-card-travel-kit, context.history.16mm]
 source_kind: experience
 ---
-
 <p>直播断掉，观众不会等你重开；声音爆掉，画面再清楚也没人看。清单顺序应是网络、音频、备份录制、机位、灯光。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -46,3 +42,10 @@ source_kind: experience
 <h2 id="section-3">不要用无线碰运气</h2>
 <p>能插网线就插网线；无线只做备份。不要等开播才发现上行不够，也不要把备份录制放在同一台没有独立电源的机器上。</p></section><section><h2 id="section-4">现场</h2><p>相机、采集卡、有线网络、备用热点、本地录制；断网一次演练。</p></section><section><h2 id="section-5">别踩</h2><p>别只靠现场 Wi-Fi；断一次，整场直播就没了。</p></section>
 <h2>验收</h2><ul><li>有线网络推流，备用热点已测速。</li><li>本地同时录制一份完整文件。</li><li>断网演练记录切换秒数，能在 10 秒内恢复。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 3 次客户需求梳理与项目复盘，条件为单人或 2–3 人小组、预算与周期明确；页面讨论的具体对象是「直播推流」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

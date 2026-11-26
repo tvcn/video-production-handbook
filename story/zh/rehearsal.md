@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 故事组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.directing.actor-adjustment.en
-- story.screenplay.scene-description.en
-- story.storyboard.shot-sheet.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.screenplay.rewrite-pass, story.screenplay.scene-description, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>现场排练只做三件事：走位、道具交接、台词接点。不要从头到尾演一遍，把情绪用光；把力气留给正式条。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -59,3 +55,11 @@ source_kind: experience
 ### 排练结束，十项确认
 <ul><li>演员不拿台词走了一遍</li><li>起点、终点、转身点标好</li><li>坐下和起身都试过</li><li>每个道具都碰过一次</li><li>只给动词不给形容词</li><li>一次只改一个动作</li><li>广角回放看过遮挡</li><li>确认演员不出画</li><li>最后按正式机位走一遍</li><li>走位图拍照存档</li></ul><p>排练把意外留在排练，不留在开机。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“排练先走位，台词可以拿在手上；身体站对了，话才有地方落。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“排练先走位，台词可以拿在手上；身体站对了，话才有地方落。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+<!-- SOURCES_END -->
+

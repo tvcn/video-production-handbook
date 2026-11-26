@@ -23,14 +23,13 @@ cover: /images/tools/call-sheet.webp
 diagram: /images/diagrams/en/call-sheet.png
 diagram_alt: "Call sheet: three blocks, no guessing"
 diagram_caption: "A navigable first line, an hourly schedule, and changes back on the page. Not a notice: the one shared version of the day."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [tools.workflow.first-shoot-day.en, tools.guide.crew-management.en, tools.producing.location-scout.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [tools.tutorial.camera-black-balance, tools.camera.camera-choice, shoot.camera.composition]
 depth: deep
 deep_minutes: 7
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -90,3 +89,11 @@ The sheet does not need to be beautiful. It needs to be executable. One clear A4
 ### Ten call-sheet checks
 <ul><li>Filename has date and version</li><li>Call time separate from roll time</li><li>Each row is a time block</li><li>Six columns complete: time, scene, cast, owner, phone, notes</li><li>Address includes street number and entrance</li><li>Parking, toilet, hospital stated</li><li>Buffer after every stage</li><li>Exteriors scheduled backward from sunset</li><li>Change states what, why, who</li><li>Next-day confirmed version sent before wrap</li></ul><p>If the call sheet is unclear, the set spends phone-call time making decisions that ten minutes of writing could have settled.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A call sheet is not paperwork. It decides who arrives when, ”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A call sheet is not paperwork. It decides who arrives when, ”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

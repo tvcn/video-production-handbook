@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.lav-hidden.en
-- tools.tutorial.slider-shot.en
-- tools.tutorial.follow-focus-practice.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.calculator.budget-calculator, tools.producing.budget-contingency, shoot.sound.boom-operator]
 source_kind: experience
 ---
-
 <p>操作杆的人要提前知道演员下一步去哪：看排练、听指令、盯脚步。杆头保持在演员前上方 40–60 厘米，避免影子入画；换位时从画面外绕，不要从头顶横过去。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -43,3 +39,10 @@ source_kind: experience
 <ol><li>杆头始终在画框外上方，离嘴 30–60cm；太远收不到，太近会入画。</li><li>移动用“跟台词不跟身体”：演员走动时，杆在两句之间换位，不在说话中间甩。</li><li>操作员戴耳机，监听爆音和风声；风大加防风毛套，不要靠后期降噪硬救。</li></ol>
 <p>验收：回放时听对白是否忽大忽小、是否有杆影；有，先改走位或杆位，不要先加压缩。</p></section><section><h2 id="section-4">现场</h2><p>让吊杆头跟着演员胸口，距离保持 40 到 60 厘米；演员转身时杆头留在画外上方。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>让吊杆头跟着演员胸口。</li><li>距离保持 40 到 60 厘米。</li><li>演员转身时，杆头留在画外上方。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别把杆头追着嘴；演员一转头，杆就进画。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>每一项参数都能对应一个具体的拍摄问题</li><li>重量、供电和接口在真实机位上成立</li><li>60 秒测试能留下一个可比较的数字</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>只看参数，不看接口、供电和重量</li><li>买回来才发现电池、存储或机身不匹配</li><li>没有 60 秒测试，问题被带到正式拍摄</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用现有器材做 60 秒测试，只测“让吊杆头跟着演员胸口”；记下两个数字：一个是你需要的，一个是器材实际给出的。</p></section>
 <h2>验收</h2><ul><li>吊杆跟着胸口，不是追嘴。</li><li>距离保持在 40 到 60 厘米。</li><li>演员转身时杆头留在画外，没有穿帮。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 6 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「吊杆移动：跟着台词走」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

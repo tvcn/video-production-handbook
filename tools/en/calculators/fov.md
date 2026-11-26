@@ -25,15 +25,11 @@ reviewers:
 diagram: /images/diagrams/en/fov.svg
 diagram_alt: 'Field of view: frame and focal length together'
 diagram_caption: 'Same focal length: a smaller frame is a narrower view. Narrower is not a zoom.'
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related:
-- main.paths.first-film
-- tools.calculator.dof-calculator.en
-- tools.guide.rent-camera.en
+related: [tools.capability.gimbal, tools.tutorial.gimbal-balance, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -81,3 +77,10 @@ This is horizontal field of view. It does not include distortion, focus breathin
 ## Practice
 
 Take a 24mm and a 50mm lens into the same room, from the same tripod position. Calculate each horizontal angle first, then compare the frames: how much wall does the 24mm hold, and how much larger is the person at 50mm? If you can explain why a wider angle is not the same as a bigger subject, you have used this page.
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 3 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Lens Field-of-View Calculator: Focal Length, Sensor, and Horizontal Angle”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

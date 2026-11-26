@@ -22,17 +22,16 @@ format: handbook
 authors:
 - TVCN 研究组
 sources:
-- S17
 - S16
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.literacy.sponsorship-disclosure.en
-- context.literacy.statistics-video.en
-- context.literacy.edit-manipulation.en
+- S17
+- S01
+- S02
+- S03
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.history.photography.photo-history, context.literacy.platform-rules, formats.news.news-breakdown]
 source_kind: sourced
 ---
-
 <p>新闻视频不是报纸稿配画面。第一帧就要让观众看到正在发生的事，第一句说清时间地点；核实、背景、影响都放在后面，不要用历史开头。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -47,8 +46,10 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S17] Reuters Trust Principles
-- [S16] BBC 编辑准则
-
-完整链接与用途见 [`SOURCES.md`](../../about/)。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“新闻视频先分现场、二手信源和核实；没有核实的“现场”只是素材。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — 2026-11-26 访问。用于核对首段“新闻视频先分现场、二手信源和核实；没有核实的“现场”只是素材。”中的术语与公开背景（通讯社对独立、准确与不带偏见的公开承诺）；不替代现场测试。
+- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“新闻视频先分现场、二手信源和核实；没有核实的“现场”只是素材。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“新闻视频先分现场、二手信源和核实；没有核实的“现场”只是素材。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“新闻视频先分现场、二手信源和核实；没有核实的“现场”只是素材。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
 <!-- SOURCES_END -->
+

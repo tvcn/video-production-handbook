@@ -23,14 +23,13 @@ cover: /images/tools/delivery-specs.webp
 diagram: /images/diagrams/en/delivery-specs.png
 diagram_alt: "Three delivery columns: picture, sound, file"
 diagram_caption: "Write the spec into a sheet and check it line by line. The last step is not export; it is watching the file from start to finish."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [tools.delivery.publish-checklist.en, tools.workflow.storage.en, tools.tutorial.backup-3-2-1.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [tools.calculator.dof-calculator, tools.tutorial.dual-system-sync, shoot.camera.composition]
 depth: deep
 deep_minutes: 7
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -91,3 +90,11 @@ Name the file with project, version, date, and resolution, like “project_v3_20
 ### Ten delivery checks
 <ul><li>One row per destination</li><li>Ratio, resolution, frame rate stated</li><li>Codec and bitrate stated</li><li>Color labeled Rec.709 or HDR</li><li>Channels and loudness stated</li><li>Filename has project, version, date, spec</li><li>One subtitle type, not both</li><li>Played on phone, computer, TV</li><li>Package contains only what is needed now</li><li>Delivery is done only after a receipt</li></ul><p>Delivery does not end when the file uploads. It ends when the other person opens it and sees the film you saw.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Delivery is not hitting export. Ask what the platform needs:”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Delivery is not hitting export. Ask what the platform needs:”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

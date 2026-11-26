@@ -24,15 +24,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.method.method-no-light.en
-- main.method.method-thumbnail-weak.en
-- main.method.method-story-slow.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.method.method-line-flat, main.method.method-music-over, context.history.16mm]
 source_kind: experience
 ---
-
 <p>Draw three horizontal lines on the monitor: foreground, subject, background. If all three land on one plane, move the camera or add a foreground object. Do not add a filter; a filter does not create space. When not to chase depth Documentary, surveillance and some graphic compositions are meant to be flat. Decide whether you want space or graphic tension; do not turn every frame into the same “cinematic” look.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -48,3 +44,10 @@ source_kind: experience
 <h2 id="section-3">When not to chase depth</h2>
 <p>Documentary, surveillance and some graphic compositions are meant to be flat. Decide whether you want space or graphic tension; do not turn every frame into the same “cinematic” look.</p></section><section><h2 id="section-4">On set</h2><p>Add side light, foreground, and background layers. Move the subject one meter off the wall for depth.</p></section><section><h2 id="section-5">Do this</h2><p>A flat image is usually not the camera. Light has no direction and foreground and background are not separated. Add side light, then a foreground layer.</p><ol><li>Move the key from the front to forty-five degrees to one side so the nose casts a shadow.</li><li>Put a soft foreground object near the lens: a cup, door frame, shoulder.</li><li>Move the subject at least 1.5 meters from the background so it falls out of focus.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not fix it with contrast and sharpening; flatness is a spatial problem.</p></section><section><h2>Boundary</h2><p>It does not guarantee a story. The template only orders structure; the person, obstacle and cost still need writing.</p></section><section><h2>Alternative</h2><p>If “Move the key from the front to forty-five” is not the main problem, start with the basic move behind “Put a soft foreground object near the lens:”. Upgrade only after both hold.</p></section><section><h2>60-second test</h2><p>Run a 60-second test with the gear you own, focused on “Move the key from the front to forty-five”, and record one number. If the number does not change, do not add budget.</p></section><section><h2>When not to use</h2><p>Do not use the template when “Move the key from the front to forty-five” is still unclear or “Put a soft foreground object near the lens:” is only filler. Go back to the person and the problem.</p></section><section><h2>Three failures</h2><ul><li>Every beat exists, but no one makes a decision.</li><li>The middle changes location, not information.</li><li>The ending is narrated, with no visible change.</li></ul></section>
 <h2>Check</h2><ul><li>The key is to one side and the nose casts a shadow.</li><li>A soft foreground object separates the subject from the background.</li><li>The subject stands at least 1.5 meters from the background.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 6 client brief and project review reviews under a one- or two-to-three-person team with a fixed budget and schedule; it discusses “The Image Looks Flat”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

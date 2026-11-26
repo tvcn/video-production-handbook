@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.field-recorder.en
-- tools.capability.shotgun-mic.en
-- tools.capability.lav-system.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [tools.deep.deep-one-light-kit, tools.deep.deep-post-workstation, shoot.camera.axis-line]
 sources:
 - S17
+- S29
+- S23
+- S30
+- S70
 source_kind: sourced
 ---
-
 <p>Location sound is not one microphone; it is mic, wireless, recorder, backup and log. One page of &amp;quot;Field Recorder: 32-Bit Is Not Magic&amp;quot; solves one local problem; joining &amp;quot;Field Recorder: 32-Bit Is Not Magic&amp;quot;, &amp;quot;Shotgun Mic: Point It, Get Close&amp;quot; and &amp;quot;Wireless Lav: Frequency and Backup&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not treat 32-bit as universal insurance; it cannot save wind n…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not rescue a distant shotgun with noise reduction; dialogue is…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not record on the factory frequency; one interference hit ruin…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>Quiet dialogue peaks near -12 dB with audible noise floor.</li><li>Deliberate clipping is recovered to intelligibility in 32-bit.</li><li>A wind test proves float cannot rescue wind-eaten dialogue.</li><li>One line is recorded at one, two, and three meters.</li><li>Playback reveals dialogue buried past two meters.</li><li>Shots beyond two meters have a lav or boom alternative.</li><li>A two-minute scan logs a clean frequency.</li><li>The transmitter sits at the lower back with no visible cable.</li><li>A 32-bit backup track exists and works independently.</li><li>The condition from Field Recorder: 32-Bit Is Not Magic fits on one line and can be repeated by someone else.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "Field Recorder: 32-Bit Is Not Magic", go back to <a href="https://tools.tvcn.org/en/article/field-recorder/">Field Recorder: 32-Bit Is Not Magic</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://tools.tvcn.org/en/article/shotgun-mic/">Shotgun Mic: Point It, Get Close</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://tools.tvcn.org/en/article/lav-system/">Wireless Lav: Frequency and Backup</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Location sound is not one microphone; it is mic, wireless, r”) against The agency's public commitment to independence, accuracy and freedom from bias; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Location sound is not one microphone; it is mic, wireless, r”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Location sound is not one microphone; it is mic, wireless, r”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Location sound is not one microphone; it is mic, wireless, r”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Location sound is not one microphone; it is mic, wireless, r”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

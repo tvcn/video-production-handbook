@@ -23,14 +23,13 @@ cover: /images/animation/animation-timing.webp
 diagram: /images/diagrams/en/animation-timing.png
 diagram_alt: "Spacing is weight"
 diagram_caption: "Same total distance. Change the spacing of the in-betweens and the audience reads a ping-pong ball or a shot put."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [animation.2d.animation-walk.en, animation.2d.2d-animation.en, animation.3d.blockout.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [animation.2d.animation-walk, animation.principles.anticipation, formats.documentary.documentary-template]
 depth: deep
 deep_minutes: 6
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -82,3 +81,11 @@ For a walk, watch the feet. If the planted foot slides, the character looks like
 ### Ten timing checks
 <ul><li>Spacing adjusted first</li><li>At least two speeds per action</li><li>Slow start, fast middle, held landing</li><li>Constant speed only for machines</li><li>Hold lets the last drawing read</li><li>Hold length checked frame by frame</li><li>Heavy: slow launch, fast landing</li><li>Light: fast launch, slow settle</li><li>Elastic rebounds</li><li>Curve decided by weight</li></ul><p>Right timing makes an audience believe a ball has weight. Wrong timing makes the finest drawing look like paper.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A ball falls off a table. How many in-betweens you draw, and”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A ball falls off a table. How many in-betweens you draw, and”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

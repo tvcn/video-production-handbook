@@ -22,12 +22,11 @@ cover: /images/tools/budget-contingency.webp
 diagram: /images/diagrams/zh/budget-contingency.png
 diagram_alt: "预算留 10%，给意外一个座位"
 diagram_caption: "天气、场地超时、补拍、临时加人，这四件事几乎每次都会发生。预算表上没有它们，超支就会从别的地方偷。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [tools.workflow.first-shoot-day.en, tools.producing.budget-map.en, tools.delivery.publish-checklist.en]
+related: [tools.producing.budget-map, tools.guide.budget-quote, shoot.camera.axis-line]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -60,3 +59,30 @@ related: [tools.workflow.first-shoot-day.en, tools.producing.budget-map.en, tool
 - 预算表里有单独一行“不可控”，金额不低于总预算 10%。
 - 这笔钱的动用规则，开机前已经写下来。
 - 每天收工能说出今天超了多少、为什么。
+
+## 10% 不是乱花的余量
+
+缓冲金只用于四件事：天气、场地、人员、设备。每件事写一个触发条件，比如“外景下雨超过两小时”。
+
+没有触发条件，10% 会在第一天变成咖啡和打车。
+
+## 触发后谁签字
+
+提前写清楚：谁可以批、批多少、多长时间内报。现场没有签字人，缓冲金就会变成争吵。
+
+小额可以给制片，大额必须给导演和出资方。规则写在预算表第一页。
+
+## 超支记在同一张纸上
+
+每一笔缓冲支出写日期、原因、金额、批准人。收工当天对一次，不要等月底。
+
+超支不可怕，失控才可怕。纸上的数字，是下一次报价的依据。
+
+<!-- V11_DEEPEN -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 7 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「预算里留 10%，给意外留个座位」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

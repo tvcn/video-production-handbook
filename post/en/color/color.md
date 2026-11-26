@@ -23,12 +23,11 @@ cover: /images/post/color.webp
 diagram: /images/diagrams/en/color.png
 diagram_alt: "Color order: balance, exposure, match, style"
 diagram_caption: "Fix white balance, exposure, and shot matching before LUTs and style. If shots do not match, more style only adds noise."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [post.color.lut.en, post.color.secondary-correction.en, post.sound.sound-post.en]
+related: [post.color.color-management, post.delivery.conform-online, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -61,3 +60,18 @@ A LUT is a starting point, not a finish. After applying it, return to primary co
 - Face brightness and temperature match within a scene.
 - White objects read neutral.
 - The look has one main direction, not a new one per shot.
+
+
+<!-- V11_DEEPEN -->
+
+
+> Intent split: this page covers the practical details of “Color: Match First, Style Second”; start with <a href="https://post.tvcn.org/article/lut/">LUT: A Starting Point, Not a Finish</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 5 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Color: Match First, Style Second”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

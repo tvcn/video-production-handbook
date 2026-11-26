@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.path.path-career
-- main.method.method-first-client
-- main.method.method-quote-low
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [main.deep.deep-first-film, main.paths.first-film, context.deep.deep-ai-regulation]
 sources:
 - S12
+- S22
+- S23
+- S02
+- S38
 source_kind: sourced
 ---
-
 <p>接客户不是报价越低越容易；范围、交付和修改次数决定这是不是一门能持续的生意。 单看《职业与接单》只能解决一个局部；把《职业与接单》《第一个客户怎么接》《报价太低》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别群发“我会拍视频”；具体方案比自我介绍有用</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别用“先接住再说”；低价会变成长期标准</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>只看结果，不记条件</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>客户画像具体到行业、预算带、交付频率。</li><li>作品集 30 秒能看懂你会做什么。</li><li>showreel 只放你负责的镜头，角色不夸大。</li><li>报价四项拆开，修改次数是数字。</li><li>合同六项齐全，付款有日期。</li><li>交付表每一项打勾，超范围另报价。</li><li>回访问具体问题，下一次方案有时间和范围。</li><li>列了十个可能认识的人或店，选了一个真有需求的。</li><li>给了一页方案：拍什么、多久、交什么、多少钱。</li><li>小单按时交付，拿到一句评价或转介绍。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《职业与接单》里的单点问题：回到<a href="https://tvcn.org/article/path-career/">《职业与接单》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://tvcn.org/article/method-first-client/">《第一个客户怎么接》</a>，先不改第三页。</li><li>只做验收：看<a href="https://tvcn.org/article/method-quote-low/">《报价太低》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“接客户不是报价越低越容易；范围、交付和修改次数决定这是不是一门能持续的生意。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S22] [全国人民代表大会：《民法典》](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — 2026-11-26 访问。用于核对首段“接客户不是报价越低越容易；范围、交付和修改次数决定这是不是一门能持续的生意。”中的术语与公开背景（肖像、隐私、合同与场地权利的上位法文本）；不替代现场测试。
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“接客户不是报价越低越容易；范围、交付和修改次数决定这是不是一门能持续的生意。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“接客户不是报价越低越容易；范围、交付和修改次数决定这是不是一门能持续的生意。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S38] [国家税务总局：官方网站](https://www.chinatax.gov.cn/) — 2026-11-26 访问。用于核对首段“接客户不是报价越低越容易；范围、交付和修改次数决定这是不是一门能持续的生意。”中的术语与公开背景（增值税、跨境服务与代扣代缴的官方政策入口）；不替代现场测试。
+<!-- SOURCES_END -->
+

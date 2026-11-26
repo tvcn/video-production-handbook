@@ -27,18 +27,17 @@ cover: /images/context/photo-history.webp
 diagram: /images/diagrams/zh/photo-history.png
 diagram_alt: 摄影的五次转身
 diagram_caption: 1839 年要坐着不动几十秒，1888 年柯达把相机交给普通人，1975 年传感器把光变成文件，2007 年手机让拍照变成默认动作。
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
 sources:
 - S07
 - S08
-related:
-- context.history.photography.1839.en
-- context.history.film.1895.en
-- context.history.animation.animation-history.en
-source_kind: experience
+- S01
+- S02
+- S03
+related: [context.literacy.platform-rules, context.law.portrait-rights, formats.documentary.documentary-template]
+source_kind: sourced
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -87,8 +86,10 @@ iPhone 之后，相机不再是一个目的地，而是说话的一部分。计�
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S07] 美国国会图书馆：达盖尔银版收藏
-- [S08] 大都会博物馆：达盖尔与摄影的发明
-
-完整链接与用途见 [`SOURCES.md`](../../../../about/)。
+- [S07] [美国国会图书馆](https://www.loc.gov/pictures/collection/dag/background.html) — 2026-11-26 访问。用于核对首段“1839 年要坐着不动几十秒，1888 年柯达把相机交给普通人，1975 年传感器把光变成文件，2007 年手机让拍照变”中的术语与公开背景（银版收藏的背景、数量与早期摄影的材料说明）；不替代现场测试。
+- [S08] [大都会博物馆](https://www.metmuseum.org/TOAH/hd/dagu/hd_dagu.htm) — 2026-11-26 访问。用于核对首段“1839 年要坐着不动几十秒，1888 年柯达把相机交给普通人，1975 年传感器把光变成文件，2007 年手机让拍照变”中的术语与公开背景（1839 年公布、银版工艺与早期传播的博物馆年表）；不替代现场测试。
+- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“1839 年要坐着不动几十秒，1888 年柯达把相机交给普通人，1975 年传感器把光变成文件，2007 年手机让拍照变”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“1839 年要坐着不动几十秒，1888 年柯达把相机交给普通人，1975 年传感器把光变成文件，2007 年手机让拍照变”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“1839 年要坐着不动几十秒，1888 年柯达把相机交给普通人，1975 年传感器把光变成文件，2007 年手机让拍照变”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
 <!-- SOURCES_END -->
+

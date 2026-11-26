@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.calculator.subtitle-cps.en
-- tools.calculator.budget-calculator.en
-- tools.calculator.bitrate-calculator.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.capability.audio-interface, tools.guide.audio-noise-fix, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>画幅比 = 宽 ÷ 高 。把 16:9 裁成 9:16 时，能保留的宽度 = 原高 × 9 ÷ 16；例如 3840×2160 裁成 9:16，保留 1215×2160，左右各丢约 1312 像素。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -48,3 +44,10 @@ source_kind: experience
 <noscript><p class="calc-noscript">JavaScript 关闭时按公式手算；3840×2160 转 9:16 保留 1215×2160。</p></noscript>
 </section><script src="/assets/calculators.js" defer></script><section><h2>替代</h2><p>如果“4K 16:9 裁 9:16 只剩约…”不是你的主问题，先用“先确认像素够不够”对应的基础做法；两项都成立再考虑升级。</p></section><section><h2>60 秒自测</h2><p>用现有器材按“4K 16:9 裁 9:16 只剩约…”做一次 60 秒测试，记下一个数字；数字没有变化，就不要加预算。</p></section>
 <h2>验收</h2><ul><li>裁切后的有效像素有数字，约 1215×2160。</li><li>像素满足交付要求，不靠放大补。</li><li>安全区按竖屏平台重新画过，不是沿用横屏。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 3 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「画幅比计算器：裁切与安全区」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

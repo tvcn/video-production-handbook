@@ -23,15 +23,15 @@ authors:
 - TVCN 研究组
 sources:
 - S10
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.history.ai-video-history.en
-- context.history.streaming.en
-- context.history.smartphone-video.en
+- S01
+- S02
+- S03
+- S16
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.history.video-tape, context.history.16mm, formats.documentary.documentary-template]
 source_kind: sourced
 ---
-
 <p>特效从玻璃绘景、模型和光学合成，走到数字绘景、CG 和实时引擎。工具变了，但核心没变：先拍一个可信的板，再让合成遵守同一套光、影、雾和镜头。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -46,7 +46,10 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S10] BFI：电影史与影像研究入口
-
-完整链接与用途见 [`SOURCES.md`](../../about/)。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“特效史从玻璃绘景、微缩模型走到 CG，工具变了，问题还是“怎么让假的东西可信”。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“特效史从玻璃绘景、微缩模型走到 CG，工具变了，问题还是“怎么让假的东西可信”。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“特效史从玻璃绘景、微缩模型走到 CG，工具变了，问题还是“怎么让假的东西可信”。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“特效史从玻璃绘景、微缩模型走到 CG，工具变了，问题还是“怎么让假的东西可信”。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“特效史从玻璃绘景、微缩模型走到 CG，工具变了，问题还是“怎么让假的东西可信”。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
 <!-- SOURCES_END -->
+

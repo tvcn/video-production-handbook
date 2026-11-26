@@ -21,24 +21,21 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 片型组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.brand.brand-film.en
-- post.color.hdr-workflow.en
-- shoot.safety.set-safety.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.wedding.wedding-template, formats.brand.brand-film, story.screenplay.logline]
 depth: deep
 deep_minutes: 7
 sources:
 - S14
 - S15
 - S16
+- S29
 test_context: 复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。
 known_failures: 已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>婚礼片的结构从“今天发生了什么”开始：早晨的一个动作、两个人各自准备、仪式完整发生、仪式后的第一个拥抱。每个段落只选一个动作，不要把所有环节平均收录。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -66,4 +63,13 @@ source_kind: sourced
 ### 婚礼影像，十项检查
 <ul><li>誓言完整录到</li><li>交换戒指有画面</li><li>父母反应有镜头</li><li>机位不挡过道</li><li>新人各有一个领夹</li><li>台口有独立录音</li><li>找到一个安静瞬间</li><li>安静瞬间有动作和关系</li><li>准备段不超过三分之一</li><li>音乐不盖誓言</li></ul><p>婚礼片不是证明你拍到了多少，是证明你看见两个人怎么照顾彼此。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“婚礼片先保仪式和誓言，再谈慢动作和调色；仪式没拍到，风格救不回来。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“婚礼片先保仪式和誓言，再谈慢动作和调色；仪式没拍到，风格救不回来。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“婚礼片先保仪式和誓言，再谈慢动作和调色；仪式没拍到，风格救不回来。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“婚礼片先保仪式和誓言，再谈慢动作和调色；仪式没拍到，风格救不回来。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+<!-- SOURCES_END -->
+

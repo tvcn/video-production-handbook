@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.field-monitor.en
-- tools.capability.video-assist.en
-- tools.capability.slider.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.capability.zoom-lens, tools.capability.ai-audio-tool, shoot.sound.wireless-lav]
 source_kind: experience
 ---
-
 <p>关键直播、长距离或强干扰环境，优先有线或本地录制；无线图传是便利，不是可靠性保证。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -40,3 +36,10 @@ source_kind: experience
 <!-- DIAGRAM_END -->
 <section><h2 id="section-1">选型先看什么</h2><ul><li><strong>延迟：</strong>确认端到端延迟，不看“低延迟”广告；跟焦和直播对延迟要求不同。</li><li><strong>频段与干扰：</strong>确认可用频段、自动跳频和天线；现场 Wi-Fi 和人群会挤占。</li><li><strong>供电与备份：</strong>发射端和接收端都要能热插拔电池；没有有线备份，不要用于关键直播。</li></ul><h2 id="section-2">什么时候不要用</h2></section><section><h2 id="section-3">现场</h2><p>在拍摄点走一圈，测延迟和断点；给导演的信号和跟焦的信号分开，别共用。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>在拍摄点走一圈，测延迟和断点。</li><li>给导演的信号和跟焦的信号分开。</li><li>断点位置记下来，加天线或换频段。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别让导演和跟焦共用一路图传；一断，两个人都停。</p></section>
 <h2>验收</h2><ul><li>走遍拍摄点，延迟和断点有记录。</li><li>导演监看和跟焦监看是两路独立信号。</li><li>断点位置有应对，比如加天线或换频段。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 7 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「无线图传：延迟与干扰」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

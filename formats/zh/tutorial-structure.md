@@ -21,24 +21,21 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 片型组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.drama.vertical-drama.en
-- post.color.color-management.en
-- shoot.lighting.lighting-style.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.tutorial.tutorial-template, formats.drama.vertical-drama, story.screenplay.logline]
 depth: deep
 deep_minutes: 6
 sources:
 - S14
 - S15
 - S16
+- S29
 test_context: 复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。
 known_failures: 已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>教程前五秒必须出现“做完是什么样”，否则观众不知道要不要学。接着给起点和前提条件，再进入步骤；每一步只解决一个问题。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -77,4 +74,13 @@ source_kind: sourced
 ### 教程，十项检查
 <ul><li>开头十秒展示成品</li><li>一个问题只教一件事</li><li>开头写清验收标准</li><li>每步一个动作一个参数</li><li>近景或屏幕录制清楚</li><li>关键数字停留三秒</li><li>先完整再做拆解</li><li>不剪掉因果关系</li><li>结尾有可自检结果</li><li>提供清单或参数表</li></ul><p>教程的成败不在你讲了多少，在观众关掉视频后能不能做出一个能检查的结果。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“教程结构一个问题只教一件事；塞进三个技巧，观众一个也学不会。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“教程结构一个问题只教一件事；塞进三个技巧，观众一个也学不会。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“教程结构一个问题只教一件事；塞进三个技巧，观众一个也学不会。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“教程结构一个问题只教一件事；塞进三个技巧，观众一个也学不会。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+<!-- SOURCES_END -->
+

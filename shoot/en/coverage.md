@@ -24,12 +24,9 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tech Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.camera.exposure.en
-- story.storyboard.storyboard.en
-- tools.guide.buy-used-gear.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.deep.deep-camera-move, shoot.deep.deep-hard-light, post.color.color]
 depth: deep
 deep_minutes: 6
 sources:
@@ -37,6 +34,7 @@ sources:
 - S31
 - S32
 - S33
+- S52
 test_context: 'Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus
   and samples; lens claims follow page labels, not every lens tested.'
 known_failures: 'Known failures: menus and firmware differ; uncalibrated color temperature/monitors
@@ -44,7 +42,6 @@ known_failures: 'Known failures: menus and firmware differ; uncalibrated color t
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>Every scene needs at least three kinds of material: a safe master that explains the space, a reverse or over-the-shoulder, and two or three insertable action details. The edit uses them to change pace, hide cheats and rescue performance.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -72,4 +69,14 @@ source_kind: sourced
 ### Ten checks after coverage
 <ul><li>Master covers the whole action</li><li>Every group has wide, medium, close, insert</li><li>At least two takes per angle</li><li>Reverse and reaction shots listed separately</li><li>Movement did not replace coverage</li><li>Check whether actors are blocked by foreground</li><li>Log actual takes per shot</li><li>Pick up missing inserts before wrap</li><li>Photograph the sheet and send it to edit</li><li>Confirm backup before formatting cards</li></ul><p>Coverage is not shooting more; it is shooting complete. The take the edit needs is often one angle you skipped.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Coverage is not more takes; it gives the edit different info”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Coverage is not more takes; it gives the edit different info”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
+- [S32] [Sony Pro Support](https://pro.sony/ue_US/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Coverage is not more takes; it gives the edit different info”) against Support, firmware and documents for pro cameras and lenses; not a substitute for an on-set test.
+- [S33] [Canon Support](https://www.usa.canon.com/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Coverage is not more takes; it gives the edit different info”) against Official support for cameras, lenses and firmware; not a substitute for an on-set test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Coverage is not more takes; it gives the edit different info”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

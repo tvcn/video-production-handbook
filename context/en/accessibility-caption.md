@@ -28,12 +28,12 @@ authors:
 sources:
 - S06
 - S39
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.law.ai-label-law.en
-- formats.food.food-video-structure.en
-- post.assets.archive-reuse.en
+- S01
+- S02
+- S03
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.law.ai-label-law, context.history.ai-video-history, formats.documentary.documentary-template]
 test_context: 'Review setup: Windows 11 + Chrome; checked against public films, scripts
   and platform pages; not frame-by-frame testing.'
 known_failures: 'Known failures: public case data is incomplete; platform specs and
@@ -41,7 +41,6 @@ known_failures: 'Known failures: public case data is incomplete; platform specs 
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>Accessible captions need contrast, placement off the subject and readable speed. White with a black edge or translucent box; no thin or low-contrast gray. Two lines max on mobile, timing at roughly 12–15 characters per second.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -54,3 +53,12 @@ source_kind: sourced
 <h2>Check</h2><ul><li>Speaker labels appear when voices change.</li><li>At least three key sounds are bracketed.</li><li>Rate stays under nine characters per second and tone is written.</li></ul>
 
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S06] [Captions and subtitles](https://www.w3.org/WAI/media/av/captions/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Accessible captions tell Deaf viewers who speaks, what happe”) against 1.2.4。 / Accessibility requirements for prerecorded and live captions; WCAG 1.2.2 / 1.2.4; not a substitute for an on-set test.
+- [S39] [W3C WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Accessible captions tell Deaf viewers who speaks, what happe”) against Current standards for captions, contrast and accessibility; not a substitute for an on-set test.
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Accessible captions tell Deaf viewers who speaks, what happe”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Accessible captions tell Deaf viewers who speaks, what happe”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Accessible captions tell Deaf viewers who speaks, what happe”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

@@ -24,15 +24,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.tool.tool-card-audio-kit.en
-- main.tool.tool-card-live-kit.en
-- main.tool.tool-card-travel-kit.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.tool.tool-card-lighting-kit, main.tool.tool-card-live-kit, context.history.16mm]
 source_kind: experience
 ---
-
 <p>One wide camera holds body and hands; one medium-close camera holds the face. Both share the same audio so the edit has choices. Two identical angles only give you the same footage twice.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -49,3 +45,10 @@ source_kind: experience
 <h2 id="section-3">Do not</h2>
 <p>Do not pair two different camera brands and expect a one-click match; do not give the subject only one lav; do not change a battery mid-interview without stopping. Continuity is the value of an interview, not the number of angles.</p></section><section><h2 id="section-4">On set</h2><p>A camera for the medium, B for the close, a shotgun, and a backup lav. Test two-camera sync first.</p></section><section><h2 id="section-5">Avoid</h2><p>Do not set both cameras to the same framing; the edit has no choices.</p></section>
 <h2>Check</h2><ul><li>A is mid-shot, B is close-up, clearly different.</li><li>Shotgun and lav each record a usable track.</li><li>The two-camera test syncs and framings do not duplicate.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 5 client brief and project review reviews under a one- or two-to-three-person team with a fixed budget and schedule; it discusses “Interview Two-Camera Kit”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

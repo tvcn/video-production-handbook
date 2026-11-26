@@ -24,15 +24,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.tool.tool-card-live-kit.en
-- main.tool.tool-card-ai-kit.en
-- main.tool.tool-card-interview-kit.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.tool.tool-card-travel-kit, main.case.case-brand-product-composite, context.literacy.media-literacy]
 source_kind: experience
 ---
-
 <p>Three copies, two media types, one off-site. RAID is not backup; a sync folder is not backup either. Deletion syncs, and ransomware encrypts the sync target too.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -49,3 +45,10 @@ source_kind: experience
 <h2 id="section-3">Restore drill</h2>
 <p>Once a month, restore one random project to an empty machine and record the time and failure points. A backup without a restore drill is only reassurance.</p></section><section><h2 id="section-4">On set</h2><p>Card reader, SSD, and hard drive. Copy, verify, and move offsite the same day. Confirm three copies before formatting.</p></section><section><h2 id="section-5">Avoid</h2><p>Do not format the card after one copy; at that moment you have no backup.</p></section>
 <h2>Check</h2><ul><li>SSD and hard drive each hold a copy with matching file counts.</li><li>Verification happens the same day and is logged.</li><li>Three copies exist before formatting, one offsite.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 3 client brief and project review reviews under a one- or two-to-three-person team with a fixed budget and schedule; it discusses “Backup Three-Piece Kit”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

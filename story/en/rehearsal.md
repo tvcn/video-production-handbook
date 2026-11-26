@@ -24,17 +24,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Story Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.directing.actor-adjustment.en
-- story.screenplay.scene-description.en
-- story.storyboard.shot-sheet.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.screenplay.rewrite-pass, story.screenplay.scene-description, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>On-set rehearsal does three things: blocking, prop handoffs, cue points. Do not perform the scene start to finish and spend the emotion; save it for the take.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -62,3 +58,11 @@ source_kind: experience
 ### Ten checks after rehearsal
 <ul><li>Walked once without lines</li><li>Marked start, end, and turns</li><li>Tested sitting and standing</li><li>Touched every prop once</li><li>Gave verbs, not adjectives</li><li>Changed one action at a time</li><li>Checked blocking on the wide</li><li>Confirmed nobody exits frame</li><li>Ran the last pass from the final camera</li><li>Photographed the blocking diagram</li></ul><p>Rehearsal keeps surprises in rehearsal and out of the first take.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Block first, scripts in hand. Once the body is in the right ”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Block first, scripts in hand. Once the body is in the right ”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

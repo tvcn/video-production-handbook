@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.method.method-budget-overrun.en
-- main.method.method-ai-uncanny.en
-- main.method.method-thumbnail-weak.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.method.method-dark-footage, main.method.method-deadline, context.history.16mm]
 source_kind: experience
 ---
-
 <p>开拍前让每个组长说一句：今天最重要的一个镜头、最可能失败的一个环节、需要谁配合。只记录行动，不评价人。冲突发生时，先复述对方的要求，再给一个可执行的选择。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -58,3 +54,10 @@ source_kind: experience
 <p>先停 5 分钟，把事实写成三行：发生了什么、影响什么、需要谁决定。不要在组员面前指责个人。若客户和导演僵住，制片按“时间/预算/安全”三条排序给方案，让客户选，不替客户选。</p>
 <p>收工后 10 分钟复盘：今天有没有一次决定被推翻、为什么、下次写进哪条规则。只写“沟通不畅”没有用，要写“产品特写由客户拍板，导演不现场改”。</p></section><section><h2 id="section-5">现场</h2><p>停十分钟，把问题写成谁在等谁；不在人前分对错。</p></section><section><h2 id="section-6">怎么做</h2><ol><li>让双方各写一句“我在等什么、我卡在哪”。</li><li>把问题改成任务和顺序：谁先做、谁后做、几点要。</li><li>指定一个决策人，其他人执行；收工后复盘，不现场审判。</li></ol></section><section><h2 id="section-7">别踩</h2><p>别用“都是为片子好”压人；不解决等待，还会再吵。</p></section><section><h2>边界</h2><p>它不保证故事成立；模板只管结构顺序，人物、障碍和代价仍要单独写。</p></section><section><h2>替代</h2><p>如果“让双方各写一句“我在等什么、我卡在哪…”不是你的主问题，先用“把问题改成任务和顺序：谁先做、谁后做…”对应的基础做法；两项都成立再考虑升级。</p></section><section><h2>60 秒自测</h2><p>用现有器材按“让双方各写一句“我在等什么、我卡在哪…”做一次 60 秒测试，记下一个数字；数字没有变化，就不要加预算。</p></section><section><h2>什么时候不该用</h2><p>当“让双方各写一句“我在等什么、我卡在哪…”还没写清，或“把问题改成任务和顺序：谁先做、谁后做…”只是凑数时，不要套模板；先回到人物和问题。</p></section><section><h2>三个失败</h2><ul><li>模板每段都有，但人物没有决定。</li><li>中段只换场景，没有新信息。</li><li>结尾靠旁白总结，画面没有变化。</li></ul></section>
 <h2>验收</h2><ul><li>双方各写了“我在等什么、我卡在哪”。</li><li>问题改成了任务和顺序。</li><li>有一个决策人，收工后复盘。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 6 次客户需求梳理与项目复盘，条件为单人或 2–3 人小组、预算与周期明确；页面讨论的具体对象是「现场吵架」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

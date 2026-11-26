@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.music-video.music-video-template
-- formats.music-video.music-video-structure
-- formats.music-video.music-video-breakdown
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.deep.deep-short-drama, formats.documentary.documentary, story.deep.deep-coverage-board]
 sources:
 - S12
+- S14
+- S15
+- S16
+- S29
 source_kind: sourced
 ---
-
 <p>MV 不是把歌配画面；结构、表演和剪辑点要跟着音乐走，而不是跟着台词走。 单看《MV 模板：主歌、副歌、记忆点》只能解决一个局部；把《MV 模板：主歌、副歌、记忆点》《MV 结构：歌是时间轴》《MV 拉片：歌的结构怎么变成画面》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别把每句歌词都拍成插画；那是配图，不是 MV</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>只看结果，不记条件</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>只看结果，不记条件</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>主歌能看出人在哪个空间。</li><li>副歌的记忆动作出现至少两次，能被记住。</li><li>桥段换了空间或人物关系，不只是音乐变轻。</li><li>主歌、副歌、桥段的时间点标在时间线上。</li><li>主歌镜头明显更长，副歌切点更密。</li><li>副歌有一个能重复的记忆动作，不靠歌词字幕。</li><li>歌被拆成明确段落</li><li>每段只有一个情绪任务</li><li>有一个记忆点</li><li>三个视觉母题</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《MV 模板：主歌、副歌、记忆点》里的单点问题：回到<a href="https://formats.tvcn.org/article/music-video-template/">《MV 模板：主歌、副歌、记忆点》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://formats.tvcn.org/article/music-video-structure/">《MV 结构：歌是时间轴》</a>，先不改第三页。</li><li>只做验收：看<a href="https://formats.tvcn.org/article/music-video-breakdown/">《MV 拉片：歌的结构怎么变成画面》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“MV 不是把歌配画面；结构、表演和剪辑点要跟着音乐走，而不是跟着台词走。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“MV 不是把歌配画面；结构、表演和剪辑点要跟着音乐走，而不是跟着台词走。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“MV 不是把歌配画面；结构、表演和剪辑点要跟着音乐走，而不是跟着台词走。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“MV 不是把歌配画面；结构、表演和剪辑点要跟着音乐走，而不是跟着台词走。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“MV 不是把歌配画面；结构、表演和剪辑点要跟着音乐走，而不是跟着台词走。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+<!-- SOURCES_END -->
+

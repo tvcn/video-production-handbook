@@ -28,17 +28,17 @@ cover: /images/context/screen-size.webp
 diagram: /images/diagrams/zh/screen-size.png
 diagram_alt: 同一张脸：银幕、电视、手机
 diagram_caption: 屏幕越小，观众离得越近，景别就得越紧。不是审美变了，是阅读条件变了。
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
 sources:
 - S10
-related:
-- context.history.film.1895.en
-- context.history.photography.photo-history.en
-- context.history.animation.animation-history.en
-source_kind: experience
+- S01
+- S02
+- S03
+- S16
+related: [context.history.smartphone-video, context.history.sound-era, formats.documentary.documentary-template]
+source_kind: sourced
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -79,7 +79,10 @@ source_kind: experience
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S10] BFI：电影史与影像研究入口
-
-完整链接与用途见 [`SOURCES.md`](../../../about/)。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“景别不是导演突然爱拍特写，是屏幕变了。影院银幕能装下一张脸，电视只给你一个客厅，手机只给你拇指宽。观众离画面越近，脸就得”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“景别不是导演突然爱拍特写，是屏幕变了。影院银幕能装下一张脸，电视只给你一个客厅，手机只给你拇指宽。观众离画面越近，脸就得”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“景别不是导演突然爱拍特写，是屏幕变了。影院银幕能装下一张脸，电视只给你一个客厅，手机只给你拇指宽。观众离画面越近，脸就得”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“景别不是导演突然爱拍特写，是屏幕变了。影院银幕能装下一张脸，电视只给你一个客厅，手机只给你拇指宽。观众离画面越近，脸就得”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“景别不是导演突然爱拍特写，是屏幕变了。影院银幕能装下一张脸，电视只给你一个客厅，手机只给你拇指宽。观众离画面越近，脸就得”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
 <!-- SOURCES_END -->
+

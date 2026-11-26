@@ -23,12 +23,11 @@ cover: /images/post/vfx-composite.webp
 diagram: /images/diagrams/en/vfx-composite.png
 diagram_alt: "Match four things before the edge"
 diagram_caption: "Wrong direction or softness makes a clean edge look pasted. Test ten seconds before the full shot."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [post.vfx.cg-integration.en, post.color.color.en, post.editing.sound-bridge.en]
+related: [post.delivery.archive, post.assets.archive-reuse, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -59,3 +58,18 @@ Do a ten-second test: one turn, one occlusion, one highlight pass. If ten second
 - You can name the key direction in both layers, and they agree.
 - Feet and hands have contact shadows; the subject does not float.
 - The ten-second test has no obvious sticker edge.
+
+
+<!-- V11_DEEPEN -->
+
+
+> Intent split: this page covers the practical details of “Compositing: Make Both Layers Believe the Same Light”; start with <a href="https://post.tvcn.org/article/tracking/">Tracking: Put the Point on Something Real</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 3 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Compositing: Make Both Layers Believe the Same Light”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

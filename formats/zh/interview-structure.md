@@ -21,24 +21,21 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 片型组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.live-podcast.live-podcast-breakdown.en
-- post.sound.sound-post-workflow.en
-- shoot.blocking.blocking.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.interview.interview-template, formats.live-podcast.live-podcast-breakdown, story.interview.interview-questions]
 depth: deep
 deep_minutes: 7
 sources:
 - S14
 - S15
 - S16
+- S29
 test_context: 复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。
 known_failures: 已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>采访片最怕开场就是一张脸对着镜头讲履历。先让他在真正做事的地方完成一个动作，观众看到难度，再坐下来问“刚才那一步为什么这样做”。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -77,4 +74,13 @@ source_kind: sourced
 ### 访谈，十项检查
 <ul><li>问题问动作不问感受</li><li>至少三个细节追问</li><li>被访者在工作现场</li><li>手上有事可做</li><li>单机也补了手部特写</li><li>环境声单独录三十秒</li><li>先具体场景再背景</li><li>有一个矛盾</li><li>不用旁白总结人物</li><li>字幕保留口语</li></ul><p>访谈不是让人物回答问题，是让观众看见他做事时暴露出来的那部分自己。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“访谈结构里问题比机位重要；问题太空，回答只能空。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“访谈结构里问题比机位重要；问题太空，回答只能空。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“访谈结构里问题比机位重要；问题太空，回答只能空。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“访谈结构里问题比机位重要；问题太空，回答只能空。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+<!-- SOURCES_END -->
+

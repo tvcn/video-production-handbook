@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 拍摄组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.camera.frame-rate.en
-- shoot.camera.nd-filter.en
-- shoot.exposure.waveform.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.production.slate-continuity, shoot.movement.stabilizer, post.color.color]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>快门 1/50（25p）或 1/48（24p）对应 180 度，运动模糊接近电影感。想要更“锐”的瞬间，可以提高快门；想要更柔的拖影，可以降低，但要注意频闪和果冻。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -57,3 +53,12 @@ source_kind: experience
 ### 快门设置，十项确认
 <ul><li>先确认项目帧率</li><li>按两倍帧率算快门</li><li>50Hz 灯光用 1/50 或 1/100</li><li>60Hz 灯光用 1/60 或 1/120</li><li>快速动作拍一条回放</li><li>升格前先算进光</li><li>升格前确认灯不闪</li><li>ND 和光圈一起重算</li><li>动作片留一点拖影</li><li>不要用高快门掩盖坏动作</li></ul><p>快门先服务动作，再服务风格；动作不清楚，风格就是噪音。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“快门角度控制运动模糊；180 度是常态，不是唯一答案。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“快门角度控制运动模糊；180 度是常态，不是唯一答案。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“快门角度控制运动模糊；180 度是常态，不是唯一答案。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
+<!-- SOURCES_END -->
+

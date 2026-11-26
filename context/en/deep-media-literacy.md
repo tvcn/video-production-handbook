@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.literacy.source-check.en
-- context.literacy.algorithm-feed.en
-- context.literacy.deepfake.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.literacy.deepfake, context.history.digital-cinema, formats.deep.deep-brand-film]
 sources:
 - S14
+- S01
+- S02
+- S03
+- S16
 source_kind: sourced
 ---
-
 <p>Media literacy is not do not trust the internet; sources, algorithms and emotional triggers become checks. One page of &amp;quot;media-literacy&amp;quot; solves one local problem; joining &amp;quot;media-literacy&amp;quot;, &amp;quot;Source Check: Who Posted It First?&amp;quot; and &amp;quot;Algorithm Feed: Why the Same Thing Again?&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not treat “many people shared it” as evidence; sharing is only…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not mistake the feed for the world; it reflects your watch tim…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Only the result is kept, not the condition</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>The earliest account, original file, and timestamp are saved.</li><li>Reverse image or keyframe search found a second independent source.</li><li>At least three of four match: time, place, weather, signage.</li><li>A screenshot is not the original</li><li>Find the earliest publisher</li><li>Find the original file and full version</li><li>Check account history and time</li><li>Shadows, weather, signs match place</li><li>Two accounts watched the same topic for ten minutes each and logged twenty posts.</li><li>Repeated accounts, viewpoints, and emotions are marked.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "media-literacy", go back to <a href="https://context.tvcn.org/en/article/media-literacy/">media-literacy</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://context.tvcn.org/en/article/source-check/">Source Check: Who Posted It First?</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://context.tvcn.org/en/article/algorithm-feed/">Algorithm Feed: Why the Same Thing Again?</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Media literacy is not do not trust the internet; sources, al”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Media literacy is not do not trust the internet; sources, al”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Media literacy is not do not trust the internet; sources, al”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Media literacy is not do not trust the internet; sources, al”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Media literacy is not do not trust the internet; sources, al”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

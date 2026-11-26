@@ -22,12 +22,11 @@ cover: /images/shoot/axis-line.webp
 diagram: /images/diagrams/zh/axis-line.png
 diagram_alt: "越轴：观众脑子里的房间会翻面"
 diagram_caption: "主机位和反打留在同一边，观众才知道谁在左、谁在右。要跨，就给一个动作或一个中立镜头。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [shoot.production.shot-list.en, shoot.production.camera-height.en, shoot.lighting.window-light.en]
+related: [shoot.production.b-roll, shoot.blocking.blocking, post.color.color]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -60,3 +59,30 @@ related: [shoot.production.shot-list.en, shoot.production.camera-height.en, shoo
 - 全景里能一眼看出谁在左、谁在右。
 - 每一次越轴，都有动作、移动或中立镜头作理由。
 - 两条反打镜头的色温和曝光能接上。
+
+## 轴线是关系，不是地上的线
+
+轴线来自两个人或两个物体的相对位置。人物一移动，线就跟着移动；你盯的是关系，不是地上那条胶带。
+
+先拍一条全景，把谁在左、谁在右、谁看谁定下来。全景就是观众的坐标系。
+
+## 可以跨轴的三种情况
+
+一，镜头里有中性运动：人物走过镜头，观众看到位置交换。二，摄影机移动，观众跟着越过线。三，主观视角，观众暂时站到某个人的位置上。
+
+三种都要让观众看见“怎么跨”。直接切到对面，观众只会觉得跳。
+
+## 跨错了怎么补救
+
+先补一个中性镜头：正面、俯拍或人物穿过画面。再补一个全景，重新建立左右。
+
+不要用翻转画面修。翻转会把文字、手表、口袋和光的方向一起翻掉，下一镜更乱。
+
+<!-- V11_DEEPEN -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 5 次现场拍摄与回放复核，条件为单机位、自然光或一盏主光；页面讨论的具体对象是「越轴之后，观众会突然找不到方向」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

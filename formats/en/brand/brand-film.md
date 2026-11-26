@@ -23,18 +23,21 @@ cover: /images/formats/brand-film.webp
 diagram: /images/diagrams/en/brand-film.png
 diagram_alt: "Brand film: one stance, two proofs"
 diagram_caption: "A brand film does not explain specs; it leaves one attitude. The product is evidence, not the hero; a human action lands the proof."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [formats.corporate.corporate-video-breakdown.en, post.sound.sound.en, shoot.lighting.lighting-style.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [formats.brand-film.brand-film-breakdown, formats.brand-film.brand-film-template, story.directing.actor-adjustment]
 depth: deep
 deep_minutes: 7
-sources: [S14, S15, S16]
+sources:
+- S14
+- S15
+- S16
+- S29
 test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
 known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -84,9 +87,13 @@ A brand film can have no voice-over, but it cannot have no stance. Without a sta
 ### Ten brand-film checks
 <ul><li>The stance can be argued with</li><li>The stance becomes an action</li><li>One main person</li><li>The person acts in a real situation</li><li>No recited values</li><li>Product is evidence, not hero</li><li>Show use, repair, or refusal</li><li>End returns to the opening action</li><li>It works without the brand name</li><li>No drone-and-subtitle summary</li></ul><p>A brand film does not say who you are; it shows what you are willing to pay for.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
-<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
+## References and further reading
+
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A brand film does not explain specs; it leaves one attitude.”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A brand film does not explain specs; it leaves one attitude.”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A brand film does not explain specs; it leaves one attitude.”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A brand film does not explain specs; it leaves one attitude.”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

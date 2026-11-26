@@ -27,12 +27,12 @@ authors:
 sources:
 - S14
 - S15
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.law.portrait-rights.en
-- formats.product-ad.product-ad-breakdown.en
-- post.editing.rough-cut.en
+- S01
+- S02
+- S03
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.law.portrait-rights, context.law.privacy-blur, formats.documentary.documentary-template]
 test_context: 'Review setup: Windows 11 + Chrome; checked against public films, scripts
   and platform pages; not frame-by-frame testing.'
 known_failures: 'Known failures: public case data is incomplete; platform specs and
@@ -40,7 +40,6 @@ known_failures: 'Known failures: public case data is incomplete; platform specs 
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>Platform rules are not mystical algorithms. Start with four hard lines: whether image and title mislead, whether music and footage are licensed, whether the category is allowed, and whether minors are being exploited. Each line has text in the community guidelines.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -53,3 +52,12 @@ source_kind: sourced
 <h2>Check</h2><ul><li>Reposted or re-edited material now carries narration, original footage, or verifiable material.</li><li>Absolute and promise-based claims are replaced with testable statements.</li><li>Engagement bait is gone and sensitive images are masked or explained.</li></ul>
 
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Platform limits are not magic: reposts, exaggerated promises”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Platform limits are not magic: reposts, exaggerated promises”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Platform limits are not magic: reposts, exaggerated promises”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Platform limits are not magic: reposts, exaggerated promises”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Platform limits are not magic: reposts, exaggerated promises”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

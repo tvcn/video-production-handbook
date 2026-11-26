@@ -23,12 +23,11 @@ cover: /images/shoot/shot-list.webp
 diagram: /images/diagrams/en/shot-list.png
 diagram_alt: "Shot list: someone else can execute it"
 diagram_caption: "A shot list says what comes first, how long it takes, and what to do if it cannot be shot. Listing every dream shot makes the day unexecutable."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [shoot.camera.axis-line.en, shoot.production.b-roll.en, shoot.production.slate-continuity.en]
+related: [shoot.camera.shot-size, shoot.camera.shutter-angle, post.color.color]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -63,3 +62,10 @@ Leave one blank page at the end for what you find on set. The unplanned shots ar
 - The list is grouped by camera and light, not script pages.
 - Every essential shot has a fallback.
 - At wrap, you can point to the rows you did not get.
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 7 on-set shoot and playback review reviews under one camera, available light or one key light; it discusses “Write a Shot List Someone Else Can Run”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

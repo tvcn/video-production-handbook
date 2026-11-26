@@ -22,12 +22,11 @@ cover: /images/story/voice-over.webp
 diagram: /images/diagrams/zh/voice-over.png
 diagram_alt: "旁白只做三件事"
 diagram_caption: "画面已经说了，旁白就闭嘴；画面说不了，旁白给事实；人物有偏见，旁白给判断。能拍出来就别念。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [story.screenplay.dialogue.en, story.screenplay.character-arc.en, story.screenplay.conflict.en]
+related: [story.story.want-stakes, story.directing.actor-adjustment, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -67,3 +66,10 @@ related: [story.screenplay.dialogue.en, story.screenplay.character-arc.en, story
 - 这一句是谁在说：作者、人物，还是人物的内心？
 - 读出来，有没有绕口或书面腔？
 - 旁白进来和出去的地方，画面有没有被盖住？
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 3 次剧本围读与拍摄前排练，条件为3–8 页场景、单一主视角；页面讨论的具体对象是「旁白：别替观众总结」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

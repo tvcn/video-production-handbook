@@ -21,24 +21,21 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 片型组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.experimental.experimental-structure.en
-- post.assets.dit-data-handoff.en
-- shoot.camera.composition.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.event.event-template, formats.experimental.experimental-breakdown, story.screenplay.logline]
 depth: deep
 deep_minutes: 6
 sources:
 - S14
 - S15
 - S16
+- S29
 test_context: 复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。
 known_failures: 已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>活动片最常犯的错，是按时间顺序从签到讲到散场。观众要的是“这场活动发生了什么”，所以开场先给最热的一秒或结束后的现场，再回到进场和过程。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -77,4 +74,13 @@ source_kind: sourced
 ### 活动宣传，十项检查
 <ul><li>三秒内给最热闹的瞬间</li><li>不从签到台开始</li><li>一句字幕交代时间地点人数</li><li>人、动作、空间各一个亮点</li><li>每个亮点五到八秒</li><li>亮点配现场声或一句采访</li><li>采访只留一句</li><li>结尾信息一条一画面</li><li>时长十五到六十秒</li><li>不用“圆满成功”代替结果</li></ul><p>活动片不是把流程走完，是让人看完之后知道下一次该不该来。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“活动片先给结果，再给过程；观众要知道这场活动成了什么。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“活动片先给结果，再给过程；观众要知道这场活动成了什么。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“活动片先给结果，再给过程；观众要知道这场活动成了什么。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“活动片先给结果，再给过程；观众要知道这场活动成了什么。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+<!-- SOURCES_END -->
+

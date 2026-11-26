@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.law.contract-scope
-- context.law.music-license
-- context.law.privacy-blur
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.deep.deep-image-history, context.deep.deep-media-literacy, formats.brand.brand-film]
 sources:
 - S02
+- S01
+- S03
+- S16
+- S10
 source_kind: sourced
 ---
-
 <p>版权不是一句“已授权”；版权、合同和音乐许可要能对上使用场景、期限和地域。 单看《copyright》只能解决一个局部；把《copyright》《合同范围：把“再改一版”写进价格之前》《音乐授权：同步权、表演权与平台曲库》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>只看结果，不记条件</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>只看结果，不记条件</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>只看结果，不记条件</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>交付物有数量、时长、比例、语言。</li><li>修改轮次与超范围单价写明。</li><li>验收标准与审片人唯一。</li><li>素材/音乐/字体/AI 授权写明。</li><li>付款节点覆盖成本。</li><li>终止与不可抗力可执行。</li><li>用途、媒介、地区、期限写清。</li><li>词曲与录音分别授权。</li><li>平台曲库范围已确认。</li><li>改编/投流/海外单独确认。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《copyright》里的单点问题：回到<a href="https://context.tvcn.org/article/copyright/">《copyright》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://context.tvcn.org/article/contract-scope/">《合同范围：把“再改一版”写进价格之前》</a>，先不改第三页。</li><li>只做验收：看<a href="https://context.tvcn.org/article/music-license/">《音乐授权：同步权、表演权与平台曲库》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“版权不是一句“已授权”；版权、合同和音乐许可要能对上使用场景、期限和地域。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“版权不是一句“已授权”；版权、合同和音乐许可要能对上使用场景、期限和地域。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
+- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“版权不是一句“已授权”；版权、合同和音乐许可要能对上使用场景、期限和地域。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“版权不是一句“已授权”；版权、合同和音乐许可要能对上使用场景、期限和地域。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“版权不是一句“已授权”；版权、合同和音乐许可要能对上使用场景、期限和地域。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+<!-- SOURCES_END -->
+

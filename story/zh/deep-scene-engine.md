@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.story.scene-sequence
-- story.story.want-stakes
-- story.story.obstacle-escalation
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.deep.deep-scene-stitch, story.deep.deep-structure-turn, shoot.camera.axis-line]
 sources:
 - S12
+- S41
+- S10
+- S42
+- S16
 source_kind: sourced
 ---
-
 <p>场景不是信息交换，而是一个人想要东西、被挡住、被迫改变。 单看《场景序列：三场戏推一个变化》只能解决一个局部；把《场景序列：三场戏推一个变化》《欲望与赌注：输了会失去什么》《障碍升级：同一堵墙越收越紧》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别让三场戏都在重复同一个信息；没有条件变化，段落推不动</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别用人物小传代替一场戏；观众看不到过去，只能看到现在</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别每次都换新障碍；不升级，压力就不会累积</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>三场各有一个变化，能用“从什么变成什么”说清。</li><li>每场结尾都改变了下一场的条件。</li><li>删掉任意一场，段落会断，而不是只少一点热闹。</li><li>每场只回答一个主问题</li><li>结尾处境和开头不同</li><li>第一场建立常态</li><li>第二场打破旧办法</li><li>第三场做出新选择</li><li>两格里都是可拍的名词和动作，没有“尊严”“安全感”这类抽象词。</li><li>想要的东西和失去的代价在同一场里发生，不靠旁白补充。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《场景序列：三场戏推一个变化》里的单点问题：回到<a href="https://story.tvcn.org/article/scene-sequence/">《场景序列：三场戏推一个变化》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://story.tvcn.org/article/want-stakes/">《欲望与赌注：输了会失去什么》</a>，先不改第三页。</li><li>只做验收：看<a href="https://story.tvcn.org/article/obstacle-escalation/">《障碍升级：同一堵墙越收越紧》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“场景不是信息交换，而是一个人想要东西、被挡住、被迫改变。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“场景不是信息交换，而是一个人想要东西、被挡住、被迫改变。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“场景不是信息交换，而是一个人想要东西、被挡住、被迫改变。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S42] [Khan Academy：Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对首段“场景不是信息交换，而是一个人想要东西、被挡住、被迫改变。”中的术语与公开背景（故事结构、角色与视觉叙事教学）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“场景不是信息交换，而是一个人想要东西、被挡住、被迫改变。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+<!-- SOURCES_END -->
+

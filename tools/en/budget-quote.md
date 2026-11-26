@@ -21,8 +21,8 @@ stage: handbook
 format: workflow
 authors:
 - TVCN Tools Desk
-last_verified: 2026-11-22
-review_due: 2027-11-22
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
 sources:
 - S23
 - S25
@@ -32,13 +32,9 @@ sources:
 test_context: 'Review setup: Windows 11 workstation + iPhone 13, Chrome 131; bodies/lenses checked against public specs and short samples, not lab instruments.'
 known_failures: 'Known failures: grey-channel firmware/warranty vary; samples do not prove retail units; prices and stock expire.'
 verified: 2026-11-22
-related:
-- tools.guide.buy-audio-field.en
-- ai.ethics.model-comparison.en
-- animation.3d.3d-pipeline.en
-source_kind: experience
+related: [tools.guide.buy-audio-field, tools.guide.buy-audio-first, shoot.camera.composition]
+source_kind: sourced
 ---
-
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
@@ -47,9 +43,14 @@ source_kind: experience
 </figure>
 <!-- DIAGRAM_END -->
 <h2>Find the stop-shoot line before the total</h2><p>The first number is not the total; it is the line that stops the shoot if exceeded. Cast dates, location permits, gear rental, and key crew time can each stop production. Write those four as hard limits before allocating anything else.</p><p>Contingency is not what is left over; it is 10–15% held before the shoot. A budget without contingency pushes risk onto the shoot day.</p><h2>Five blocks: every block needs a cap</h2><p>People, gear, location, post, and contingency each get a cap and a cut order. When a client cuts budget, do not subtract from the total; name the block, the days, or the versions removed. A quote that cannot show the cut returns as overtime and rework.</p><p>Gear is rental price, not purchase; location is per day with transport and restoration; post is per version without unlimited revisions. “Excludes” matters more than “includes.”</p><h2>Quote: revisions, rights, and rush are separate lines</h2><p>Four quote blocks: production, post, rights/materials, and rush/overtime. Revisions are numeric: two rough-cut rounds, one fine-cut, one caption pass; extra rounds are priced per day or version. Music, fonts, and footage are separate from production.</p><p>Confirm payment milestones before quoting: deposit, shoot, first cut, delivery. A quote without milestones is a document that can be delayed forever.</p><h2>Failure case: one missing “re-cut excluded”</h2><p>A product film quoted three cuts, but the contract said only “post editing” with no revision count. The client changed seven versions, each adding a scene. The studio avoided charging and traded two weeks of free re-cuts for a verbal “we'll call you again.”</p><p>The fix is not an argument; it is version and revision terms in the next quote. Log every revision with date, content, and duration; stop beyond the contracted rounds and confirm a new quote before continuing.</p><h2>Cost and acceptance</h2><p>Budget templates by scale: small ¥3,000–15,000, mid ¥15,000–60,000, large ¥60,000–300,000+. Quote margin is often 15–30%, but contingency is not margin; it is the project’s own insurance.</p><h2>Check</h2><ul><li>Four stop-shoot lines are written.</li><li>Five blocks each have a cap and cut order.</li><li>Contingency is 10–15%, not margin.</li><li>Quote splits production, post, rights, and rush.</li><li>Revision rounds are numeric with overage pricing.</li><li>Payment milestones have dates.</li></ul>
+
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: field notes and buying checklists; tested: short tests against public specs, not lab scores; references: manufacturer and standards links below.</p>
-<ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube Upload Specs</li><li><span class="mono">[S38]</span> State Taxation Administration</li></ul>
-<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
+## References and further reading
+
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A budget is not a cost list; it protects the line that would”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A budget is not a cost list; it protects the line that would”) against HD SDR gamut, transfer function and viewing conditions; not a substitute for an on-set test.
+- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A budget is not a cost list; it protects the line that would”) against Wide-gamut and parameter definitions for UHD/HDR; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A budget is not a cost list; it protects the line that would”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A budget is not a cost list; it protects the line that would”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

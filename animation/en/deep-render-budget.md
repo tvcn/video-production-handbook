@@ -23,17 +23,16 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.3d.render.en
-- tools.capability.cloud-render.en
-- animation.pipeline.asset-handoff.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.deep.deep-rig-handoff, animation.3d.layout, formats.deep.deep-brand-film]
 sources:
+- S62
+- S63
 - S12
+- S59
 source_kind: sourced
 ---
-
 <p>Render time is not a final-stage surprise; resolution, samples, layers and retries are a budget. One page of &amp;quot;Render: Samples and Noise&amp;quot; solves one local problem; joining &amp;quot;Render: Samples and Noise&amp;quot;, &amp;quot;Cloud Render: Cost and Transfer&amp;quot; and &amp;quot;Asset Handoff: Names, Versions, Cache&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +52,13 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not brute-force noise with total samples; without the source, …</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not look at price per frame alone; uploading 10 GB can take lo…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not leave assets on a personal desktop; the next person cannot…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>A 50 percent low-sample pass shows whether noise comes from light or material.</li><li>Light and material samples were adjusted separately.</li><li>Final noise is traced to a specific source, not brute-forced.</li><li>A 10 GB upload is timed.</li><li>Local and cloud costs are compared over 100 frames.</li><li>Upload time is compared with render time and a conclusion is stated.</li><li>Asset names include project, asset, and version and sort cleanly.</li><li>The shared drive holds a dependency list and cache path.</li><li>The next person opens the asset from the list without asking the original artist.</li><li>The condition from Render: Samples and Noise fits on one line and can be repeated by someone else.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "Render: Samples and Noise", go back to <a href="https://animation.tvcn.org/en/article/render/">Render: Samples and Noise</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://tools.tvcn.org/en/article/cloud-render/">Cloud Render: Cost and Transfer</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://animation.tvcn.org/en/article/asset-handoff/">Asset Handoff: Names, Versions, Cache</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Render time is not a final-stage surprise; resolution, sampl”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Render time is not a final-stage surprise; resolution, sampl”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Render time is not a final-stage surprise; resolution, sampl”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Render time is not a final-stage surprise; resolution, sampl”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

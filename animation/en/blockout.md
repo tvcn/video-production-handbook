@@ -24,17 +24,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Animation Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.3d.modeling.en
-- animation.2d.2d-camera.en
-- animation.pipeline.animatic-pipeline.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.deep.deep-2d-layer-depth, animation.deep.deep-3d-light-material, formats.documentary.documentary-template]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>A blockout solves three things: character-to-set scale, camera placement and how long the action takes. Use spheres, boxes and simple props; do not add detail yet.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -65,3 +61,11 @@ source_kind: experience
 ### Ten blockout checks
 <ul><li>Boxes set person and door height</li><li>Distance relationship first</li><li>Composition at real focal length</li><li>Main, reverse, detail cameras</li><li>Proxy walks the shot</li><li>Start, turn, end marked</li><li>One action per beat</li><li>Phone live-action comparison</li><li>No material or light in gray box</li><li>Muted, viewer knows who, where, wants what</li></ul><p>The only job of blockout is to stop everyone downstream from guessing the space.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Blockout sets scale, camera, and timing before detail. Get i”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Blockout sets scale, camera, and timing before detail. Get i”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

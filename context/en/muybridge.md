@@ -26,15 +26,15 @@ authors:
 - TVCN Research Desk
 sources:
 - S07
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.history.edison-kinetoscope.en
-- context.history.lumiere.en
-- context.history.streaming.en
+- S01
+- S02
+- S03
+- S16
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.literacy.news-video, context.history.photography.photo-history, formats.documentary.documentary-template]
 source_kind: sourced
 ---
-
 <p>Muybridge used multiple cameras in sequence to break a galloping horse into comparable instants. For the first time motion could be inspected frame by frame, feeding later cinema, animation and motion study.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -47,9 +47,12 @@ source_kind: sourced
 <h2>Check</h2><ul><li>Twenty-four cameras line the track and each fires once.</li><li>The background grid aligns leg positions frame by frame.</li><li>Sequential playback identifies when all four hooves leave the ground.</li></ul>
 
 <!-- SOURCES_START -->
-## References
+## References and further reading
 
-- [S07] Library of Congress: Daguerreotypes
-
-Full links and notes: [`SOURCES.md`](../../about/).
+- [S07] [Daguerreotypes](https://www.loc.gov/pictures/collection/dag/background.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Muybridge lined up cameras to split a horse's gait and showe”) against Collection background, scale and material notes on early photography; not a substitute for an on-set test.
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Muybridge lined up cameras to split a horse's gait and showe”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Muybridge lined up cameras to split a horse's gait and showe”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Muybridge lined up cameras to split a horse's gait and showe”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Muybridge lined up cameras to split a horse's gait and showe”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

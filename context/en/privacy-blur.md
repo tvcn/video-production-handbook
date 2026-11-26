@@ -26,17 +26,17 @@ authors:
 - TVCN Research Desk
 sources:
 - S03
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.law.documentary-ethics.en
-- context.literacy.source-check.en
-- context.law.location-release.en
+- S01
+- S02
+- S16
+- S10
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.viewing.screen-size, context.history.smartphone-video, formats.documentary.documentary-template]
 depth: deep
 deep_minutes: 7
 source_kind: sourced
 ---
-
 <p>Blurring is not a static box. Track faces, plates, house numbers and screens frame by frame; check edges through motion, turns and occlusion. Use enough radius that the outline is not recognizable.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -49,26 +49,12 @@ source_kind: sourced
 <h2>Check</h2><ul><li>Addresses, plates, records, and minors are checked frame by frame.</li><li>Reflections and mirrored surfaces are covered too.</li><li>Playback reveals no readable sensitive information.</li></ul>
 
 <!-- SOURCES_START -->
-## References
+## References and further reading
 
-- [S03] China's Personal Information Protection Law (PIPL)
-
-Full links and notes: [`SOURCES.md`](../../about/).
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Blurring is not politeness; addresses, plates, medical recor”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Blurring is not politeness; addresses, plates, medical recor”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Blurring is not politeness; addresses, plates, medical recor”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Blurring is not politeness; addresses, plates, medical recor”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Blurring is not politeness; addresses, plates, medical recor”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 
-<!-- DEEP_DIVE_START -->
-## Deep dive
-<p><strong>About 7 minutes.</strong> Blurring is not smudging a face. It is keeping only what the audience needs and removing personal identity.</p>
-### Ask whether they need to appear
-<p>Passersby, minors, patients, parties in a case: first ask whether they need to be in the shot. If you cannot avoid them, then ask whether to blur. Blur is a remedy, not consent.</p><p>Public space still carries reasonable privacy expectations. Hospitals, schools, residential entrances, plates, badges are identity clues, not background.</p>
-### Blur cleanly
-<p>Check face, plate, door number, badge, tattoo, distinctive clothing, voice. The blur must cover the whole feature, not half. Track it through movement; do not miss frames.</p><p>After blurring, check reflections, glass, mirrors, phone screens. Identity often leaks from there.</p>
-### Sound and metadata leak too
-<p>Pitch-shift voices; lowering volume is not enough. Remove names, addresses, phone numbers, hospital announcements in the background. Subtitles with real names, schools, employers need handling too.</p><p>File metadata can carry GPS, device ID, and shoot time. Strip it before publishing. Keep screenshots and originals separate; do not send everything together.</p>
-### Five-minute drill: find identity in one frame
-<p>Take one frame with people and circle five identity clues: face, plate, door number, badge, tattoo. Then circle three reflective surfaces.</p><p>Decide keep, blur, or crop for each, with a reason. If you cannot write the reason, blur. Blurring is risk management, not aesthetics.</p>
-### When privacy is clean
-<p>Watch frame by frame, pause on every person, reflection, and subtitle. When you cannot find a real name, full face, plate, or address, it is clean.</p><p>Show it to someone who does not know the subject and ask if they can guess who it is. If yes, keep working; do not gamble on “nobody will recognize them.”</p>
-### Ten privacy-blur checks
-<ul><li>Ask whether they need to be shot</li><li>Blur is not consent</li><li>Face, plate, door, badge checked</li><li>Tattoos and distinctive clothes too</li><li>Pitch-shift voice, not just lower volume</li><li>Remove background names, addresses, phones</li><li>Handle real names, schools, employers in subtitles</li><li>Check reflections, glass, mirrors, screens</li><li>Strip metadata before publishing</li><li>A stranger cannot guess who</li></ul><p>The purpose of blurring is not a prettier frame. It is that the person in the frame cannot be identified.</p>
-<!-- DEEP_DIVE_END -->

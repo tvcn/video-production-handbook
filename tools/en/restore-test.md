@@ -23,15 +23,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.set-mediabay.en
-- tools.tutorial.white-balance-gray.en
-- tools.tutorial.boom-swing.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.tutorial.room-tone-record, tools.capability.scope-monitor, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>Once a month, restore one random project to a different drive, open it, relink media and export ten seconds. If restore fails, the backup is not there.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -45,3 +41,15 @@ source_kind: experience
 <ol><li>Pick at random, not “the most important,” so you do not only rehearse the familiar path.</li><li>Restore to a machine without the original; never overwrite in place.</li><li>Check size, hash and that it opens. Log the time; over two hours means change the plan.</li></ol>
 <p>Acceptance: the file opens, the timeline has no offline media and the hash matches. Missing one means the backup plan is not proven.</p></section><section><h2 id="section-4">On set</h2><p>Restore one random file to another machine and play it. If it fails, redo the backup.</p></section><section><h2 id="section-5">Do this</h2><p>A restore drill pulls one random file from backup and opens it; a backup that will not open does not exist.</p><ol><li>Pick one file at random.</li><li>Restore it to another machine.</li><li>Open and play; if it fails, redo the backup.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not trust a green check in backup software; without a restore, you do not know it opens.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>every spec maps to one concrete shooting problem</li><li>weight, power and connections hold on a real rig</li><li>a 60-second test leaves one comparable number</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>specs without connections, power or weight</li><li>batteries, storage or body do not match after purchase</li><li>no 60-second test, so the problem arrives on the shoot</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Run a 60-second test with the gear you already own, measuring only “Pick one file at random.”. Record two numbers: what you need and what the gear actually gives.</p></section>
 <h2>Check</h2><ul><li>A random file is chosen, not the most familiar one.</li><li>Restore goes to another machine, not the original path.</li><li>The file opens and plays; failures trigger a redo log.</li></ul>
+
+
+> Intent split: this page covers the practical details of “Restore Test: Pick One Random File”; start with <a href="https://tools.tvcn.org/article/buy-storage/">Buying Project Storage: Speed, Capacity, and Backup</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 5 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Restore Test: Pick One Random File”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

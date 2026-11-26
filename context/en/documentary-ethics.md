@@ -26,17 +26,17 @@ authors:
 - TVCN Research Desk
 sources:
 - S18
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.law.privacy-blur.en
-- context.law.location-release.en
-- context.literacy.source-check.en
+- S01
+- S02
+- S03
+- S16
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.history.dslr-video, context.history.edison-kinetoscope, formats.documentary.documentary]
 depth: deep
 deep_minutes: 8
 source_kind: sourced
 ---
-
 <p>Consent with a real person is not a signature. They need to know who will see the film, what trouble it may bring, and whether they can watch it before the cut. Be extra careful with people who cannot carry the consequences.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -49,26 +49,12 @@ source_kind: sourced
 <h2>Check</h2><ul><li>Release scope and consequences are explained in plain language.</li><li>Withdrawal is written and available at any time.</li><li>At least one potential harm and response are written; if unclear, no shoot.</li></ul>
 
 <!-- SOURCES_START -->
-## References
+## References and further reading
 
-- [S18] Dangerous Documentaries (CMSI)
-
-Full links and notes: [`SOURCES.md`](../../about/).
+- [S18] [Dangerous Documentaries (CMSI)](https://cmsimpact.org/wp-content/uploads/2015/12/dangerousdocs-feb2015.pdf) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Ask three things: does he know the consequence, can he withd”) against Informed consent, risk and ethical decisions in documentary production; not a substitute for an on-set test.
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Ask three things: does he know the consequence, can he withd”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Ask three things: does he know the consequence, can he withd”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Ask three things: does he know the consequence, can he withd”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Ask three things: does he know the consequence, can he withd”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 
-<!-- DEEP_DIVE_START -->
-## Deep dive
-<p><strong>About 8 minutes.</strong> Documentary ethics is not “I got the shot.” It is “do I have the right to shoot it, cut it, and release it this way.”</p>
-### Informed consent is specific
-<p>Tell them what the film is about, where it will appear, who might see it, and the worst outcome. Do not say “just a video.” Consent must be withdrawable, especially for minors, patients, and people in distress.</p><p>Consent is not permanent after one signature. If they change their mind after the rough cut, respect it. Cutting a scene may hurt the film; keeping it may hurt a person.</p>
-### Power asymmetry
-<p>You hold the camera; they are filmed. You leave; they stay with the consequences. Before shooting ask who carries more risk, who has fewer choices, whose voice is easier to cut.</p><p>Money, resources, and promises can become pressure. Do not trade “fame” for sensitive material. Reconfirm consent with vulnerable subjects when the camera is off.</p>
-### Editing is shooting
-<p>Which segment, whose reaction follows, what music plays: all define character. Do not cut words into a sentence they never said, and do not let music pass the verdict.</p><p>Serious accusations need a chance to respond. If no response, say so in the film. Writing “could not be reached” is more honest than pretending balance.</p>
-### Five-minute drill: three questions for one subject
-<p>Write three questions: what worries you most after this airs, which line would you remove, and can you still change your mind now? Put the answers in the consent record.</p><p>If one cannot be answered, pause the shoot. Do not trade “we will see” for a shot that cannot be taken back.</p>
-### When ethics clears
-<p>Ethics clears when the subject has seen the film, knows where it goes, and still consents; the person at greatest risk was not sacrificed; accusations got a response; sensitive information was minimized. Four pass.</p><p>If one fails, do not convince yourself with “art needs it.” The film can be late; a person's life cannot be redone.</p>
-### Ten documentary-ethics checks
-<ul><li>Say what the film is about before consent</li><li>Say where it will appear</li><li>Say the worst outcome</li><li>Consent can be withdrawn</li><li>Extra protection for minors and patients</li><li>Ask who carries more risk</li><li>No promises for content on camera</li><li>Edit does not invent speech</li><li>Accusations get a response</li><li>Subject saw it and still consents</li></ul><p>The floor of documentary is not getting the truth. It is not treating a person as a tool while getting it.</p>
-<!-- DEEP_DIVE_END -->

@@ -21,20 +21,19 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 拍摄组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.sound.boom-operator.en
-- shoot.sound.wireless-lav.en
-- shoot.movement.handheld.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.camera.exposure, shoot.exposure.false-color, post.color.color]
 depth: deep
 deep_minutes: 6
 sources:
 - S31
 - S32
+- S23
+- S52
+- S53
 source_kind: sourced
 ---
-
 <p>相机自带麦克风只做参考，外接录音机录干净对白。开机前拍手或报镜号，让两条文件有共同同步点；不要只靠相机声对齐。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -64,8 +63,10 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S31] ARRI Cine Systems；见 SOURCES.md 的原始链接与用途。
-- [S32] Sony 专业影像支持；见 SOURCES.md 的原始链接与用途。
-
-完整链接与用途见 [`SOURCES.md`](../../about/)。
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“双系统录音要么拍手合板，要么时间码同步；两样都没有，后期只能猜。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
+- [S32] [Sony 专业影像支持](https://pro.sony/ue_US/support) — 2026-11-26 访问。用于核对首段“双系统录音要么拍手合板，要么时间码同步；两样都没有，后期只能猜。”中的术语与公开背景（专业摄影机与镜头的支持、固件与文档）；不替代现场测试。
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“双系统录音要么拍手合板，要么时间码同步；两样都没有，后期只能猜。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“双系统录音要么拍手合板，要么时间码同步；两样都没有，后期只能猜。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“双系统录音要么拍手合板，要么时间码同步；两样都没有，后期只能猜。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
 <!-- SOURCES_END -->
+

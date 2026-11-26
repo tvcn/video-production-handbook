@@ -22,12 +22,11 @@ cover: /images/story/dialogue-table.webp
 diagram: /images/diagrams/zh/dialogue.png
 diagram_alt: "台词下面还有一层"
 diagram_caption: "说出口的话负责表面，动作负责真正的争抢。写对白时把这两层分开看，句子就不容易变成说明。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [story.interview.interview-questions.en, story.screenplay.conflict.en, story.screenplay.voice-over.en]
+related: [story.directing.directing-debut, story.directing.directing-nonactors, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -64,3 +63,15 @@ related: [story.interview.interview-questions.en, story.screenplay.conflict.en, 
 - 每句台词旁边能写出人物想要的动作。
 - 解释性台词已经删掉，背景由画面或动作接住。
 - 听的人有反应镜头，沉默有作用。
+
+
+> 意图分工：本页负责「对白：让人物用嘴争，不用嘴解释」的可执行细节；同集群先读 <a href="https://story.tvcn.org/article/want-stakes/">欲望与赌注：输了会失去什么</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 7 次剧本围读与拍摄前排练，条件为3–8 页场景、单一主视角；页面讨论的具体对象是「对白：让人物用嘴争，不用嘴解释」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

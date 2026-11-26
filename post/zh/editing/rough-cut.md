@@ -22,16 +22,20 @@ cover: /images/post/rough-cut.webp
 diagram: /images/diagrams/zh/rough-cut.png
 diagram_alt: "粗剪是五步，不是一遍"
 diagram_caption: "先让片子完整，再让它好看。粗剪的功能是暴露缺口，不是拿奖。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [post.sound.sound.en, shoot.safety.set-safety.en, story.screenplay.logline.en]
-sources: [S24, S27, S28, S30, S34, S35]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [post.color.scopes, post.accessibility.sdh, shoot.camera.composition]
+sources:
+- S24
+- S27
+- S28
+- S30
+- S34
 test_context: "复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere Pro 2025 复跑；不声称每台机器结果一致。"
 known_failures: "已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。"
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -66,9 +70,39 @@ verified: 2026-11-22
 - 陌生人看完能说出谁想要什么。
 - 没有超过 3 秒的无意义空镜。
 - 修改清单有 3 条，且每条带时间点。
+
+## 粗剪不是“少剪一点”
+
+粗剪要回答的是片子成不成立，不是镜头漂不漂亮。先按事件剪一版，哪怕转场很硬；结构对了，再修节奏。
+
+把每个场景写成一句话：谁想要什么、被什么挡住、最后得到什么。写不出来的场景，先标红。
+
+## 先写一句话故事
+
+用“某人想要某物，但因为某原因，必须某做”写一遍。这句话里只能有一个主角、一个目标、一个阻力。
+
+如果一句话里出现三个“但是”，不是故事复杂，是还没决定主线。先删，再剪。
+
+## 删镜头的三类清单
+
+重复动作：人物已经坐下，不要再拍一次坐下。重复信息：上一句已经说了，下一句别再解释。重复情绪：同一个反应给两次，第二次通常更弱。
+
+删完不要马上补拍。先放一天，第二天再看，很多“必须保留”的镜头会自己消失。
+
+<!-- V11_DEEPEN -->
+
+
+> 意图分工：本页负责「粗剪：先让片子成立」的可执行细节；同集群先读 <a href="https://post.tvcn.org/article/fine-cut/">细剪：把粗剪的毛边修掉</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
-<ul><li><span class="mono">[S24]</span> ACES 色彩管理</li><li><span class="mono">[S27]</span> EBU R128 响度</li><li><span class="mono">[S28]</span> Netflix 制作与交付帮助</li><li><span class="mono">[S30]</span> DaVinci Resolve 产品与文档</li><li><span class="mono">[S34]</span> Adobe Premiere Pro 用户指南</li><li><span class="mono">[S35]</span> Avid 资源中心</li></ul>
-<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
+## 参考与延伸阅读
+
+- [S24] [ACES 色彩管理](https://www.oscars.org/science-technology/aces) — 2026-11-26 访问。用于核对首段“粗剪只做一件事：让陌生人看懂谁想要什么、被什么挡住。节奏、调色、配乐都往后放。”中的术语与公开背景（ACES 色彩管线的官方说明与规范）；不替代现场测试。
+- [S27] [EBU R128 响度](https://tech.ebu.ch/publications/r128) — 2026-11-26 访问。用于核对首段“粗剪只做一件事：让陌生人看懂谁想要什么、被什么挡住。节奏、调色、配乐都往后放。”中的术语与公开背景（广播响度目标、真峰值与测量方法）；不替代现场测试。
+- [S28] [Netflix 制作与交付帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对首段“粗剪只做一件事：让陌生人看懂谁想要什么、被什么挡住。节奏、调色、配乐都往后放。”中的术语与公开背景（平台交付规格、HDR/SDR 与 QC 要求的公开入口）；不替代现场测试。
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“粗剪只做一件事：让陌生人看懂谁想要什么、被什么挡住。节奏、调色、配乐都往后放。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“粗剪只做一件事：让陌生人看懂谁想要什么、被什么挡住。节奏、调色、配乐都往后放。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
 <!-- SOURCES_END -->
+

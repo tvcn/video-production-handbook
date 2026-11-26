@@ -23,12 +23,11 @@ cover: /images/story/character-arc.webp
 diagram: /images/diagrams/en/character-arc.png
 diagram_alt: "Three choices: old habit, failure, payment"
 diagram_caption: "An arc is not a new personality label. Under the same pressure, the third choice differs from the first, and the character knows what it will cost."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [story.screenplay.conflict.en, story.screenplay.voice-over.en, story.story.theme-through-action.en]
+related: [story.directing.child-actors, story.screenplay.comedy-writing, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -67,3 +66,15 @@ The audience reads the change from the cost, not the line. The more concrete the
 - The character has a default reaction that can repeat.
 - The change fails once at the midpoint, and the old habit returns.
 - The final choice costs something visible, without a speech explaining it.
+
+
+> Intent split: this page covers the practical details of “Character Arc: Not Better, Different Choices”; start with <a href="https://story.tvcn.org/article/want-stakes/">Want and Stakes: What Does Losing Cost?</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 6 table read and pre-shoot rehearsal reviews under a three-to-eight-page scene with one primary point of view; it discusses “Character Arc: Not Better, Different Choices”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

@@ -21,17 +21,13 @@ stage: field-note
 format: learning-path
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.path.path-live-film.en
-- main.path.path-career.en
-- main.path.path-post.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [main.path.path-story, main.tool.tool-card-accessibility, context.literacy.media-literacy]
 depth: deep
 deep_minutes: 7
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>先拿一个真实项目：有演员、场地、器材、预算和交付日期。没有项目，就用一个你接下来三个月内真要拍的片子，不要用假想案例。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -57,3 +53,11 @@ source_kind: experience
 ### 制片，十项检查
 <ul><li>预算分四块</li><li>备用金至少百分之十</li><li>授权单独列一行</li><li>预算能回答先砍哪块</li><li>剧本拆成条</li><li>同场景同一天拍</li><li>每天留补拍窗口</li><li>通告单提前一天发</li><li>风险评估全组读一遍</li><li>交付有唯一母版和三份备份</li></ul><p>制片不是让所有人听你，是让所有人在同一天知道钱在哪、时间在哪、下一步谁做。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S22] [全国人民代表大会：《民法典》](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — 2026-11-26 访问。用于核对首段“制片不是订盒饭，是把范围、钱、人、时间、许可和风险锁在同一张表上，知道哪一项超了会停拍。”中的术语与公开背景（肖像、隐私、合同与场地权利的上位法文本）；不替代现场测试。
+- [S38] [国家税务总局：官方网站](https://www.chinatax.gov.cn/) — 2026-11-26 访问。用于核对首段“制片不是订盒饭，是把范围、钱、人、时间、许可和风险锁在同一张表上，知道哪一项超了会停拍。”中的术语与公开背景（增值税、跨境服务与代扣代缴的官方政策入口）；不替代现场测试。
+<!-- SOURCES_END -->
+

@@ -24,18 +24,16 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Formats Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.wedding.wedding-structure.en
-- post.assets.dit-data-handoff.en
-- shoot.lighting.ratio.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.vlog.vlog-template, formats.wedding.wedding-breakdown, story.screenplay.logline]
 depth: deep
 deep_minutes: 6
 sources:
 - S14
 - S15
 - S16
+- S29
 test_context: 'Review setup: composite samples and public cases; previewed on MacBook
   Pro M1 / iPhone 13; not one real client project.'
 known_failures: 'Known failures: composite samples are not client proof; platform
@@ -43,7 +41,6 @@ known_failures: 'Known failures: composite samples are not client proof; platfor
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>A vlog opens with “why I came here,” not an aerial landscape. State the reason in one line, then cut to the first action. Once the audience has a question, they tolerate the empty stretches of travel.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -71,4 +68,13 @@ source_kind: sourced
 ### Ten travel-vlog checks
 <ul><li>Why you came is clear up front</li><li>One concrete task for the day</li><li>The place has variables</li><li>All five beats are present</li><li>The turn is a human response</li><li>No long narration in the quiet beat</li><li>The exit answers the opening question</li><li>Main shot and detail at each location</li><li>Cut on action or sound</li><li>Music does not cover ambience</li></ul><p>A travel vlog is not where you went; it is what got done while you were there.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Give the place a reason before making it pretty; without rea”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Give the place a reason before making it pretty; without rea”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Give the place a reason before making it pretty; without rea”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Give the place a reason before making it pretty; without rea”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

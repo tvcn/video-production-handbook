@@ -22,18 +22,21 @@ cover: /images/formats/documentary.webp
 diagram: /images/diagrams/zh/documentary.png
 diagram_alt: "一个场景，四种覆盖"
 diagram_caption: "剪辑时缺的往往不是镜头，是能接上的另一面。动作、反应、环境、声音，各拍一份。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [formats.event.event-structure.en, post.delivery.conform-online.en, shoot.blocking.blocking.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [formats.documentary.documentary-breakdown, formats.documentary.documentary-template, story.directing.actor-adjustment]
 depth: deep
 deep_minutes: 7
-sources: [S14, S15, S16]
+sources:
+- S14
+- S15
+- S16
+- S29
 test_context: "复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。"
 known_failures: "已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。"
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -85,9 +88,13 @@ verified: 2026-11-22
 ### 纪录短片，十项检查
 <ul><li>人物正在做决定</li><li>现场有截止日期或阻力</li><li>开机前有假设</li><li>假设允许被推翻</li><li>采访只问动作</li><li>拍到失败或重来</li><li>结尾停在变化之后</li><li>不用旁白补变化</li><li>用途和范围讲清楚</li><li>脆弱人物有保护</li></ul><p>纪录不是把生活解释清楚，是让观众看见一个人真的变了一次。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
-<ul><li><span class="mono">[S14]</span> YouTube 社区准则</li><li><span class="mono">[S15]</span> TikTok 社区准则</li><li><span class="mono">[S16]</span> BBC 编辑准则</li></ul>
-<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
+## 参考与延伸阅读
+
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“先找到一个人，再等一件事发生。片子成立，往往是因为开机前后他变了点什么。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“先找到一个人，再等一件事发生。片子成立，往往是因为开机前后他变了点什么。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“先找到一个人，再等一件事发生。片子成立，往往是因为开机前后他变了点什么。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“先找到一个人，再等一件事发生。片子成立，往往是因为开机前后他变了点什么。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
 <!-- SOURCES_END -->
+

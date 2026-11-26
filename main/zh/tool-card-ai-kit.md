@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.tool.tool-card-accessibility.en
-- main.tool.tool-card-storage-kit.en
-- main.tool.tool-card-live-kit.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.tool.tool-card-audio-kit, main.tool.tool-card-basic-kit, context.history.16mm]
 source_kind: experience
 ---
-
 <p>AI 工作流不是“写一句提示词就出片”。先锁剧本、人物设定、镜头清单、授权范围和交付规格，再决定哪几个镜头交给生成。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -48,3 +44,10 @@ source_kind: experience
 <h2 id="section-4">什么时候不要用</h2>
 <p>新闻、纪录片、证词、真实人物代言和需要明确作者署名的项目，不要用生成画面冒充现场。没有授权链的素材，不进交付。</p></section><section><h2 id="section-5">现场</h2><p>脚本、参考图、生成工具、放大、合成、标注；每一步保留可回退版本。</p></section><section><h2 id="section-6">别踩</h2><p>别在生成里反复抽卡；没有脚本和参考，抽到也不能用。</p></section>
 <h2>验收</h2><ul><li>脚本和参考图在第一次生成前就存在。</li><li>生成、放大、合成三步各有版本号，可回退。</li><li>交付版本带 AI 标注，能指出版本链。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 3 次客户需求梳理与项目复盘，条件为单人或 2–3 人小组、预算与周期明确；页面讨论的具体对象是「AI 工作流」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

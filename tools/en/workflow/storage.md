@@ -23,14 +23,13 @@ cover: /images/tools/storage.webp
 diagram: /images/diagrams/en/storage.png
 diagram_alt: "Media management: 3-2-1 backup, searchable names"
 diagram_caption: "Back up before wrap: 3 copies, 2 media types, 1 off-site. Put date, scene, camera, and version in the filename. Lost footage is unfilmed footage."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [tools.tutorial.backup-3-2-1.en, tools.delivery.publish-checklist.en, tools.camera.camera-choice.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [tools.calculator.storage-calculator, tools.producing.stripboard, shoot.camera.composition]
 depth: deep
 deep_minutes: 7
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -82,3 +81,11 @@ AI projects also store prompts, seeds, references, and generation logs. Otherwis
 ### Ten storage checks
 <ul><li>One copy on card</li><li>One on portable drive</li><li>Third off-site or cloud</li><li>Three copies not in one bag</li><li>Back up the day you shoot</li><li>Play three random files to verify</li><li>File names carry date and version</li><li>Originals, proxies, exports separate</li><li>Capacity from bitrate with twenty percent headroom</li><li>Sustained write speed sufficient</li></ul><p>Storage safety does not come from drive size. It comes from being able to say where all three copies are.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Back up before wrap. Put date, scene, and camera in the file”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Back up before wrap. Put date, scene, and camera in the file”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

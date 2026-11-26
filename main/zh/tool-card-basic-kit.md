@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.tool.tool-card-audio-kit.en
-- main.tool.tool-card-lighting-kit.en
-- main.tool.tool-card-travel-kit.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.tool.tool-card-interview-kit, main.tool.tool-card-lighting-kit, context.history.16mm]
 source_kind: experience
 ---
-
 <p>先补声音，再补光，最后才补镜头。观众能容忍画面平，但忍不了对白听不清。机身决定上限，录音和布光决定下限。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -47,3 +43,10 @@ source_kind: experience
 <h2 id="section-4">什么情况下不要升级</h2>
 <p>如果现在的瓶颈是脚本、调度或剪辑，不要买第四支镜头。先用现有器材拍完三条完整短片，再按失败点补设备。</p></section><section><h2 id="section-5">现场</h2><p>机身、标准变焦、三脚架、领夹麦；总预算先留 20% 买存储和电池。</p></section><section><h2 id="section-6">别踩</h2><p>别先选机身型号；先写它要完成哪四件事。</p></section>
 <h2>验收</h2><ul><li>四件设备各对应一项能力，能说出来。</li><li>预算里存储和电池占约 20%，没有被机身吃光。</li><li>每件缺失都有可执行的替代方案。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 5 次客户需求梳理与项目复盘，条件为单人或 2–3 人小组、预算与周期明确；页面讨论的具体对象是「最低设备组合」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

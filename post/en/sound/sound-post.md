@@ -23,12 +23,11 @@ cover: /images/post/sound-post.webp
 diagram: /images/diagrams/en/sound-post.png
 diagram_alt: "Sound post: fix discomfort before atmosphere"
 diagram_caption: "When sound is uncomfortable, viewers do not say “bad audio”; they say “I cannot watch this.” Fix noise, levels, sync first; music last."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [post.sound.room-tone.en, post.editing.mix-dialogue.en, post.color.color.en]
+related: [post.sound.sound-post-workflow, post.editing.subtitles, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -61,3 +60,18 @@ Do not sync by eye. Clap at the head of every take and match the waveform. Witho
 - The problem list separates hiss, clipping, echo, and level jumps.
 - Dialogue peaks sit between -6 and -3 dB, room tone 12 to 18 dB below.
 - With the picture off, the voice is still clear.
+
+
+<!-- V11_DEEPEN -->
+
+
+> Intent split: this page covers the practical details of “Fix the Noise Before You Build a Mood”; start with <a href="https://post.tvcn.org/article/loudness/">Loudness: Platform Target and True Peak</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 4 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Fix the Noise Before You Build a Mood”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

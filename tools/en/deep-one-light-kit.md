@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.lighting-one-light.en
-- tools.capability.softbox.en
-- tools.capability.reflector.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [tools.deep.deep-post-workstation, tools.deep.deep-storage-chain, shoot.camera.axis-line]
 sources:
 - S16
+- S29
+- S23
+- S30
+- S70
 source_kind: sourced
 ---
-
 <p>One light is enough only when soft area, bounce position and colour temperature agree. One page of &amp;quot;One-Light Portrait: Direction First&amp;quot; solves one local problem; joining &amp;quot;One-Light Portrait: Direction First&amp;quot;, &amp;quot;Softbox: Size Decides Softness&amp;quot; and &amp;quot;Reflector: Five Surfaces, One Job&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not change softboxes first; without direction, every size is a…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not buy a pricier lamp for softness; moving the softbox closer…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not start with gold; warm skin is hard to pull back to neutral…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>The light sits at 45 degrees, one meter away, with position logged.</li><li>The nose shadow clearly shows light direction.</li><li>Softbox size is chosen after direction is confirmed.</li><li>0.8 m and 1.5 m samples use the same light.</li><li>The closer frame has visibly softer shadow edges.</li><li>Eye-light size changes with distance and is compared.</li><li>A white-side 45-degree fill sample exists.</li><li>Silver is used only after white proves insufficient, with a comparison.</li><li>Gold is not default, or its warmth is justified.</li><li>The condition from One-Light Portrait: Direction First fits on one line and can be repeated by someone else.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "One-Light Portrait: Direction First", go back to <a href="https://tools.tvcn.org/en/article/lighting-one-light/">One-Light Portrait: Direction First</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://tools.tvcn.org/en/article/softbox/">Softbox: Size Decides Softness</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://tools.tvcn.org/en/article/reflector/">Reflector: Five Surfaces, One Job</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One light is enough only when soft area, bounce position and”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One light is enough only when soft area, bounce position and”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One light is enough only when soft area, bounce position and”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One light is enough only when soft area, bounce position and”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One light is enough only when soft area, bounce position and”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

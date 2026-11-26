@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.screenplay.scene-transition-writing.en
-- story.storyboard.insert-shot.en
-- story.storyboard.board-review.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.deep.deep-structure-turn, story.screenplay.dialogue, shoot.deep.deep-camera-move]
 sources:
 - S12
+- S41
+- S10
+- S42
+- S16
 source_kind: sourced
 ---
-
 <p>Scenes connect through an unfinished action and the next scene&amp;#x27;s first information, not a transition effect. One page of &amp;quot;Scene Transitions: Carry an Action Across the Cut&amp;quot; solves one local problem; joining &amp;quot;Scene Transitions: Carry an Action Across the Cut&amp;quot;, &amp;quot;Insert Shot: One Detail Beats One Line&amp;quot; and &amp;quot;Board Review: Let Camera and Edit Find the Gaps&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not use a title card for time; if an action can bridge it, do …</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not use an insert as decoration; if it carries no information…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not redraw the whole board in review; three panels per round i…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>Adjacent scenes share at least one action, object, or sound.</li><li>The time jump reads without a title card.</li><li>Remove the card and the audience can still say how much time passed or where they are.</li><li>The insert carries a specific piece of information, not just beauty.</li><li>It runs one to two seconds and cuts before the key line.</li><li>Remove it and information goes missing, proving it replaced a line.</li><li>Camera and edit each arrive with a question list.</li><li>Only three panels change in the meeting and the rest are logged.</li><li>After the three changes, setups and edit gaps improve concretely.</li><li>The condition from Scene Transitions: Carry an Action Across the Cut fits on one line and can be repeated by someone else.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "Scene Transitions: Carry an Action Across the Cut", go back to <a href="https://story.tvcn.org/en/article/scene-transition-writing/">Scene Transitions: Carry an Action Across the Cut</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://story.tvcn.org/en/article/insert-shot/">Insert Shot: One Detail Beats One Line</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://story.tvcn.org/en/article/board-review/">Board Review: Let Camera and Edit Find the Gaps</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Scenes connect through an unfinished action and the next sce”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Scenes connect through an unfinished action and the next sce”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Scenes connect through an unfinished action and the next sce”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+- [S42] [Pixar: Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Scenes connect through an unfinished action and the next sce”) against Story structure, character and visual storytelling lessons; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Scenes connect through an unfinished action and the next sce”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

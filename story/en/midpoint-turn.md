@@ -24,17 +24,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Story Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.story.scene-sequence.en
-- story.story.theme-through-action.en
-- story.story.want-stakes.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.screenplay.monologue, story.directing.notes-to-actor, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>The midpoint is not a plot twist; it is the hero discovering that the old method fails and choosing a different approach. The goal remains, the cost rises, and the audience sees a choice rather than a writer pushing.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -62,3 +58,11 @@ source_kind: experience
 ### Ten midpoint checks
 <ul><li>Method changes, not goal</li><li>The old method worked first</li><li>The midpoint proves it fails</li><li>The new method has a learning cost</li><li>The cost is filmable</li><li>An ally or resource is lost</li><li>The old method cannot return</li><li>The new method grows from the old goal</li><li>Pace changes after the midpoint</li><li>No missing line in the four-line sheet</li></ul><p>The midpoint is not there to complicate the story; it closes the road the character was using.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The midpoint is not a plot twist; it is the character changi”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The midpoint is not a plot twist; it is the character changi”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

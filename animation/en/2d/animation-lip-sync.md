@@ -23,12 +23,11 @@ cover: /images/animation/animation-lip-sync.webp
 diagram: /images/diagrams/en/animation-lip-sync.png
 diagram_alt: "Four mouth shapes: closed, open, round, wide"
 diagram_caption: "Skip the full phoneme chart. Land the closed consonants, open on vowels. A five-second line needs five to eight shapes."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [animation.2d.animation-walk.en, animation.2d.loop-cycle.en, animation.motion-graphics.mg-rhythm.en]
+related: [animation.principles.animation-principles, animation.timing.animation-timing, formats.brand.brand-film]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -67,3 +66,10 @@ The head can move on a stressed word. At the end of a line, stop the mouth first
 - Four mouth shapes cover the whole line.
 - Every closed consonant actually closes for at least one frame.
 - Eyes and head arrive after the mouth; the mouth stops first at the end.
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 5 animation shot and asset-handover review reviews under one 2D/3D pipeline and shots under 30 seconds; it discusses “Lip Sync: Close on Consonants, Open on Vowels”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.music-video.music-video-template.en
-- formats.music-video.music-video-structure.en
-- formats.music-video.music-video-breakdown.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.deep.deep-short-drama, formats.documentary.documentary, story.deep.deep-coverage-board]
 sources:
 - S12
+- S14
+- S15
+- S16
+- S29
 source_kind: sourced
 ---
-
 <p>A music video is not images over a song; structure, performance and cuts follow the music, not dialogue. One page of &amp;quot;Music Video Template: Verse, Chorus, Memory&amp;quot; solves one local problem; joining &amp;quot;Music Video Template: Verse, Chorus, Memory&amp;quot;, &amp;quot;Music Video Structure: The Song Is the Timeline&amp;quot; and &amp;quot;Music Video Breakdown: Map Song Structure to Image&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not make the bridge just a volume drop; without a visual turn…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not illustrate every lyric; that is a slideshow, not an MV.</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Only the result is kept, not the condition</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>The verse establishes where the person is.</li><li>The chorus hook appears at least twice and is memorable.</li><li>The bridge changes space or relationship, not just volume.</li><li>Verse, chorus, and bridge times are marked on the timeline.</li><li>Verse shots run longer and chorus cuts denser.</li><li>The chorus has a repeatable memory action, not lyric subtitles.</li><li>Track split into clear sections</li><li>One emotional job per section</li><li>One memory point</li><li>Three visual motifs</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "Music Video Template: Verse, Chorus, Memory", go back to <a href="https://formats.tvcn.org/en/article/music-video-template/">Music Video Template: Verse, Chorus, Memory</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://formats.tvcn.org/en/article/music-video-structure/">Music Video Structure: The Song Is the Timeline</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://formats.tvcn.org/en/article/music-video-breakdown/">Music Video Breakdown: Map Song Structure to Image</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A music video is not images over a song; structure, performa”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A music video is not images over a song; structure, performa”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A music video is not images over a song; structure, performa”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A music video is not images over a song; structure, performa”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A music video is not images over a song; structure, performa”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

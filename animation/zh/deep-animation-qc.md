@@ -23,17 +23,16 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.case.animation-case
-- animation.pipeline.asset-handoff
-- animation.3d.layout
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.deep.deep-blockout-to-animatic, animation.deep.deep-compositing-2d3d, formats.brand.brand-film]
 sources:
+- S62
+- S63
 - S12
+- S59
 source_kind: sourced
 ---
-
 <p>动画 QC 不是只看画面漂不漂亮，而是镜头、绑定、资产和交付命名都能被复现。 单看《短片复盘：从分镜到成片》只能解决一个局部；把《短片复盘：从分镜到成片》《资产交接：命名、版本、缓存》《Layout：镜头与资产交接》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +52,13 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别只看成片；成片看不到返工</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别把资产放在个人桌面；下一个人找不到</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别在 layout 里留活机位；动画一开做，改机位就是返工</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>六个阶段都有对照，不只贴成片截图。</li><li>每个阶段记了一个决定和一处返工。</li><li>至少写出一个可复用的步骤，别人能照着做。</li><li>资产名包含项目、资产和版本，能直接排序。</li><li>共享盘里有依赖清单和缓存路径。</li><li>下一个人按清单能打开资产，不需要问原作者。</li><li>机位、角色比例、资产版本三项都锁死并有版本号。</li><li>文件头能看到版本和依赖，动画师不用猜。</li><li>动画段没有擅自改机位，最终镜头和 layout 一致。</li><li>把 短片复盘：从分镜到成片 的条件写成一行，能复述给下一个人。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《短片复盘：从分镜到成片》里的单点问题：回到<a href="https://animation.tvcn.org/article/animation-case/">《短片复盘：从分镜到成片》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://animation.tvcn.org/article/asset-handoff/">《资产交接：命名、版本、缓存》</a>，先不改第三页。</li><li>只做验收：看<a href="https://animation.tvcn.org/article/layout/">《Layout：镜头与资产交接》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“动画 QC 不是只看画面漂不漂亮，而是镜头、绑定、资产和交付命名都能被复现。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“动画 QC 不是只看画面漂不漂亮，而是镜头、绑定、资产和交付命名都能被复现。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“动画 QC 不是只看画面漂不漂亮，而是镜头、绑定、资产和交付命名都能被复现。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“动画 QC 不是只看画面漂不漂亮，而是镜头、绑定、资产和交付命名都能被复现。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
+<!-- SOURCES_END -->
+

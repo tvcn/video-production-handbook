@@ -23,18 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.short-drama.short-drama-template
-- formats.short-drama.short-drama-breakdown
-- story.screenplay.short-drama-script
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.documentary.documentary, formats.documentary.documentary-breakdown, story.deep.deep-coverage-board]
 sources:
 - S12
 - S15
+- S14
+- S16
+- S29
 source_kind: sourced
 ---
-
 <p>短剧不是把长片剪短；模板、拆解和剧本要围绕一个 30 秒钩子重新排。 单看《短剧模板：30 秒一个钩子》只能解决一个局部；把《短剧模板：30 秒一个钩子》《短剧拉片：30 秒一个反转》《短剧剧本：30 秒一个钩子》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -54,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>只看结果，不记条件</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>只看结果，不记条件</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>只看结果，不记条件</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>0–5、5–35、35–60 三段各有一次新信息或新阻碍。</li><li>信息差在前五秒建立，观众知道谁不知道什么。</li><li>结尾留的问题能在前一分钟找到依据。</li><li>前 2 秒有异常动作。</li><li>前 25 秒只服务一个假答案。</li><li>设定只用三个信息。</li><li>升级是一个错误动作，不是新角色。</li><li>线索在画面里出现两次。</li><li>反转靠动作，不靠台词解释。</li><li>结尾停在反应，没有旁白复盘。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《短剧模板：30 秒一个钩子》里的单点问题：回到<a href="https://formats.tvcn.org/article/short-drama-template/">《短剧模板：30 秒一个钩子》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://formats.tvcn.org/article/short-drama-breakdown/">《短剧拉片：30 秒一个反转》</a>，先不改第三页。</li><li>只做验收：看<a href="https://story.tvcn.org/article/short-drama-script/">《短剧剧本：30 秒一个钩子》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“短剧不是把长片剪短；模板、拆解和剧本要围绕一个 30 秒钩子重新排。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“短剧不是把长片剪短；模板、拆解和剧本要围绕一个 30 秒钩子重新排。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“短剧不是把长片剪短；模板、拆解和剧本要围绕一个 30 秒钩子重新排。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“短剧不是把长片剪短；模板、拆解和剧本要围绕一个 30 秒钩子重新排。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“短剧不是把长片剪短；模板、拆解和剧本要围绕一个 30 秒钩子重新排。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+<!-- SOURCES_END -->
+

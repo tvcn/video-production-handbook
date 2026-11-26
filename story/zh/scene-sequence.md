@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 故事组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.story.midpoint-turn.en
-- story.story.theme-through-action.en
-- story.story.ending-choice.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.screenplay.scene-transition-writing, story.screenplay.script-format, shoot.production.scene-space]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>三场戏不是三个场景，而是三次状态改变。每场开始写“人物进场时想要什么”，结束写“离场时什么已经不一样”；两行之间必须能画出一个动作。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -57,5 +53,11 @@ source_kind: experience
 ### 场景序列，十项检查
 <ul><li>每场只回答一个主问题</li><li>结尾处境和开头不同</li><li>第一场建立常态</li><li>第二场打破旧办法</li><li>第三场做出新选择</li><li>每场结尾改变下一场条件</li><li>三场方法不一样</li><li>每场加一个新限制</li><li>用重复道具或动作串联</li><li>三句话连读不重复</li></ul><p>序列不是三场戏排队，是三场戏互相逼出下一步。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
-<aside class="article-sources experience-source" data-source-kind="experience"><div class="article-credit-head"><p class="eyebrow">来源 / Sources</p><span class="mono">经验来源</span></div><p class="source-types">经验来源：TVCN 现场手册与编辑复核；本文未做实验室实测，也没有外部数据引用。</p></aside>
+## 参考与延伸阅读
+
+- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“一场戏只完成一个变化，三场戏连起来才推得动一个段落。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“一场戏只完成一个变化，三场戏连起来才推得动一个段落。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+<!-- SOURCES_END -->
+

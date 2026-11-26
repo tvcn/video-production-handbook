@@ -22,18 +22,21 @@ cover: /images/animation/3d-pipeline.webp
 diagram: /images/diagrams/zh/3d-pipeline.png
 diagram_alt: "3D 管线：六道门，越往后越贵"
 diagram_caption: "blockout 阶段改站位几乎不要钱；渲染完再改，烧的是整组人的时间。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [animation.principles.animation-principles.en, context.law.invoice-tax-cross-border.en, formats.fashion.fashion-beauty-video-breakdown.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [animation.pipeline.animatic-pipeline, animation.case.animation-case, formats.documentary.documentary-template]
 depth: deep
 deep_minutes: 7
-sources: [S12, S28, S34]
+sources:
+- S62
+- S63
+- S12
+- S59
 test_context: "复核环境：Windows 11；Blender 4.x / After Effects 2025 公开流程；不声称所有版本一致。"
 known_failures: "已知失败：插件/版本差异导致绑定或渲染失败；字体授权与素材版权需单独核对。"
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -83,9 +86,13 @@ Layout 定构图、焦距、运动路径。机位没锁，动画师会在错误�
 ### 三维流程，十项检查
 <ul><li>先 blockout 再建模</li><li>blockout 用方盒圆柱</li><li>相机先放进场景</li><li>用实际焦距看构图</li><li>绑定前定关节和命名</li><li>交接录测试动作</li><li>低模上做动画</li><li>灰模先定主光</li><li>低分辨率低采样试渲染</li><li>每阶段存版本</li></ul><p>三维流程省时间的办法不是少做一步，是每一步都能退回上一步。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
-<ul><li><span class="mono">[S12]</span> Britannica：动画</li><li><span class="mono">[S28]</span> Netflix 制作与交付帮助</li><li><span class="mono">[S34]</span> Adobe Premiere Pro 用户指南</li></ul>
-<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
+## 参考与延伸阅读
+
+- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“3D 不是建模完就动画。先 blockout 定时间，再 layout、animation、lighting、rende”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“3D 不是建模完就动画。先 blockout 定时间，再 layout、animation、lighting、rende”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“3D 不是建模完就动画。先 blockout 定时间，再 layout、animation、lighting、rende”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“3D 不是建模完就动画。先 blockout 定时间，再 layout、animation、lighting、rende”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
 <!-- SOURCES_END -->
+

@@ -24,18 +24,17 @@ authors:
 sources:
 - S14
 - S15
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.law.portrait-rights.en
-- formats.product-ad.product-ad-breakdown.en
-- post.editing.rough-cut.en
+- S01
+- S02
+- S03
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.law.portrait-rights, context.law.privacy-blur, formats.documentary.documentary-template]
 test_context: 复核环境：Windows 11 + Chrome；按公开影片、剧本与平台页面复核；不声称逐帧实测。
 known_failures: 已知失败：公开案例信息不全；平台规格与片长限制会变化；不同项目需重新验证。
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>平台规则不是玄学算法，首先看四类硬线：画面与标题是否误导、版权与音乐是否授权、敏感类别是否允许、未成年人是否被消费。每条硬线都能在社区规范里找到原文。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -48,3 +47,12 @@ source_kind: sourced
 <h2>验收</h2><ul><li>搬运或二剪加了自述、实拍或可核查素材。</li><li>绝对化和承诺性用语删了，改成可验证说法。</li><li>诱导互动去掉，敏感画面做了遮挡或说明。</li></ul>
 
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“平台规则不是玄学；重复搬运、夸大承诺、诱导互动和敏感画面，是最常见的限流点。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“平台规则不是玄学；重复搬运、夸大承诺、诱导互动和敏感画面，是最常见的限流点。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
+- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“平台规则不是玄学；重复搬运、夸大承诺、诱导互动和敏感画面，是最常见的限流点。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“平台规则不是玄学；重复搬运、夸大承诺、诱导互动和敏感画面，是最常见的限流点。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“平台规则不是玄学；重复搬运、夸大承诺、诱导互动和敏感画面，是最常见的限流点。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
+<!-- SOURCES_END -->
+

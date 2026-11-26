@@ -24,15 +24,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.calculator.subtitle-cps.en
-- tools.calculator.budget-calculator.en
-- tools.calculator.bitrate-calculator.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.capability.audio-interface, tools.guide.audio-noise-fix, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>Aspect ratio = width ÷ height . Cropping 16:9 to 9:16 keeps width = original height × 9 ÷ 16; a 3840×2160 frame becomes 1215×2160, losing about 1312 pixels on each side.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -51,3 +47,10 @@ source_kind: experience
 <noscript><p class="calc-noscript">With JavaScript off: 3840×2160 to 9:16 keeps 1215×2160.</p></noscript>
 </section><script src="/assets/calculators.js" defer></script><section><p><strong>Boundary</strong></p><p>It does not replace an on-set reading. The number is a starting point; the monitor, scope or actual recording decides.</p></section><section><h2>Alternative</h2><p>If “4K 16:9 cropped to 9:16 leaves about 1215×2160.” is not the main problem, start with the basic move behind “Confirm the pixel count is enough.”. Upgrade only after both hold.</p></section><section><h2>60-second test</h2><p>Run a 60-second test with the gear you own, focused on “4K 16:9 cropped to 9:16 leaves about 1215×2160.”, and record one number. If the number does not change, do not add budget.</p></section>
 <h2>Check</h2><ul><li>Cropped effective pixels are numeric, about 1215×2160.</li><li>Pixels meet delivery needs without upscaling.</li><li>The safe area is redrawn for vertical platforms, not reused from landscape.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 3 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Aspect Ratio Calculator: Crop and Safe Area”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

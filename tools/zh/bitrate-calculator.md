@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.calculator.dof-calculator.en
-- tools.calculator.budget-calculator.en
-- tools.calculator.storage-calculator.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.tutorial.boom-swing, tools.calculator.budget-calculator, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>文件体积（GB）≈ 码率（Mbps）× 时长（秒）÷ 8 ÷ 1000 。码率是每秒多少兆比特，硬盘按字节算，所以要除以 8；再除以 1000 换成 GB（按十进制）。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -48,3 +44,10 @@ source_kind: experience
 <noscript><p class="calc-noscript">JavaScript 关闭时按公式手算；10 分钟 4GB 约 53.3 Mbps。</p></noscript>
 </section><script src="/assets/calculators.js" defer></script><section><h2>替代</h2><p>如果“输入分钟和 Mbps”不是你的主问题，先用“算 GB，加 20% 余量”对应的基础做法；两项都成立再考虑升级。</p></section><section><h2>60 秒自测</h2><p>用现有器材按“输入分钟和 Mbps”做一次 60 秒测试，记下一个数字；数字没有变化，就不要加预算。</p></section>
 <h2>验收</h2><ul><li>分钟和 Mbps 输入正确，单位换算成 GB。</li><li>结果加了 20% 余量。</li><li>与卡和硬盘剩余空间对照过，够用再交付。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 5 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「码率体积计算器：文件多大」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

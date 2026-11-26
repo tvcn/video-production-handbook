@@ -22,12 +22,11 @@ cover: /images/story/directing-nonactors.webp
 diagram: /images/diagrams/zh/directing-nonactors.png
 diagram_alt: "拍不演戏的人：给动作，不给形容词"
 diagram_caption: "越说“自然一点”越僵。给他一件具体的事做、一句他自己的话，摄影机往后退一点；不要让他演，让他做。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [story.interview.interview-questions.en, story.directing.actor-adjustment.en, story.directing.ensemble-scene.en]
+related: [story.story.ending-choice, story.directing.ensemble-scene, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -60,3 +59,35 @@ related: [story.interview.interview-questions.en, story.directing.actor-adjustme
 - 人物在画面里有具体动作，不是干坐着。
 - 他说的是自己的词，不是念稿。
 - 至少有一条素材是在喊卡之后拍到的。
+
+## 给动作，不给情绪
+
+不要说“你很难过”，说“你把杯子放回桌上，再擦一下水”。动作会带来情绪，情绪指令只会让人僵。
+
+一次只给一个动作。两个动作叠在一起，非职业演员会先想第二个，第一个就假了。
+
+## 把台词换成他会说的话
+
+台词拗口，就让他用自己的话说一遍。意思对、动作对，词可以变。
+
+不要让他背整段。只给关键词，让他接。接不上，就停，不要催。
+
+## 机器往后退
+
+非职业演员面对镜头会紧。把机器放远一点，用长焦，给他一个真实的任务，比如开门、泡茶、找钥匙。
+
+不要喊“看镜头”。看镜头是表演，做事才是生活。
+
+<!-- V11_DEEPEN -->
+
+
+> 意图分工：本页负责「拍不演戏的人：别让他演，给他一件事做」的可执行细节；同集群先读 <a href="https://story.tvcn.org/article/rehearsal/">排练：先走位，再给台词</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 6 次剧本围读与拍摄前排练，条件为3–8 页场景、单一主视角；页面讨论的具体对象是「拍不演戏的人：别让他演，给他一件事做」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

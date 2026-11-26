@@ -22,12 +22,11 @@ cover: /images/shoot/camera-move.webp
 diagram: /images/diagrams/zh/camera-move.png
 diagram_alt: "三种运动，各有各的理由"
 diagram_caption: "跟随、揭示、压迫，一个镜头只做一种。动完停住，剪辑才有地方落。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [shoot.camera.shot-size.en, shoot.camera.lens-distance.en, shoot.production.camera-height.en]
+related: [shoot.camera.composition, shoot.coverage.coverage, post.color.color]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -62,3 +61,35 @@ related: [shoot.camera.shot-size.en, shoot.camera.lens-distance.en, shoot.produc
 - 每个运动镜头都能写出一句理由。
 - 一个镜头只有一种主要运动。
 - 动完有停顿，观众有时间读画面。
+
+## 先问“不动行不行”
+
+固定机位能说清楚，就先别动。运动要么改变信息，要么改变情绪；两样都不改变，就是摄影机在抢戏。
+
+试拍时先拍一条固定版，再拍一条运动版。并排放，哪条更清楚，用哪条。
+
+## 三种动法，一次只做一种
+
+跟随是跟着人走，揭示是先藏后露，压迫是慢慢靠近。一个镜头里同时跟、摇、推，观众会失去方向。
+
+如果要换运动，就在剪辑点换，不要在一个镜头里换。
+
+## 动完要停
+
+镜头到位后停两秒，让观众读完画面。停下来的那一刻，就是后期最稳的剪辑点。
+
+不要为了“流畅”一直动。一直动，剪辑只能硬切，观众也会累。
+
+<!-- V11_DEEPEN -->
+
+
+> 意图分工：本页负责「运镜：先问为什么动，再问怎么动」的可执行细节；同集群先读 <a href="https://shoot.tvcn.org/article/stabilizer/">稳定器：走路的节奏</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 5 次现场拍摄与回放复核，条件为单机位、自然光或一盏主光；页面讨论的具体对象是「运镜：先问为什么动，再问怎么动」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

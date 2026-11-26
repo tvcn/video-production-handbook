@@ -23,15 +23,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.lto-archive.en
-- tools.capability.nle-compare.en
-- tools.capability.cfexpress.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.tutorial.nd-calculate, tools.calculator.nd-calculator, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>For one person and one project, power and management cost exceed a direct SSD. Do not buy complex storage early for a “team” feeling.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -45,3 +41,15 @@ source_kind: experience
 <ol><li>Permissions by project: editors read/write, clients read-only; remove departing staff the same day.</li><li>Enable snapshots for 7–30 days. Check a snapshot before deleting; do not empty the recycle bin first.</li><li>Use at least 2.5GbE for multi-track editing; gigabit is enough for proxies only.</li></ol>
 <p>Acceptance: restore last week's version from a snapshot; unplug the NAS and confirm an offline copy opens. Both must pass before you call it a backup.</p></section><section><h2 id="section-4">On set</h2><p>Create user groups, read-only permissions, and a recycle bin. Have two people write the same file and test the conflict warning.</p></section><section><h2 id="section-5">Do this</h2><p>NAS shares media across the team, but naming, permissions, and recycle rules come first; otherwise sharing means overwriting.</p><ol><li>Create user groups and read-only permissions.</li><li>Enable the recycle bin.</li><li>Have two people write the same file and test the conflict warning.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not give everyone read-write; two simultaneous edits erase a version.</p></section>
 <h2>Check</h2><ul><li>Groups and read-only permissions are set, not open write for all.</li><li>The recycle bin is on and deleted files are recoverable.</li><li>A two-writer test produces a conflict warning or lock.</li></ul>
+
+
+> Intent split: this page covers the practical details of “NAS: Shared Storage, Shared Rules”; start with <a href="https://tools.tvcn.org/article/buy-storage/">Buying Project Storage: Speed, Capacity, and Backup</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 6 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “NAS: Shared Storage, Shared Rules”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

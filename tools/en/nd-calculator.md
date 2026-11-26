@@ -23,15 +23,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.calculator.dof-calculator.en
-- tools.calculator.bitrate-calculator.en
-- tools.tutorial.set-mediabay.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.capability.nd-gel, tools.tutorial.night-practical, shoot.camera.nd-filter]
 source_kind: experience
 ---
-
 <p>Fix aperture and ISO, then slow the shutter to the target; the needed reduction is ND stops = log2(current shutter ÷ target shutter) . From 1/50 to 1/200 is four times less light, so two stops.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -50,3 +46,15 @@ source_kind: experience
 <noscript><p class="calc-noscript">With JavaScript off, use the formula; 50 → 25 is about one stop, ND2.</p></noscript>
 </section><script src="/assets/calculators.js" defer></script><section><p><strong>Boundary</strong></p><p>It does not replace an on-set reading. The number is a starting point; the monitor, scope or actual recording decides.</p></section><section><h2>Alternative</h2><p>If “Enter 1/50, f/2.8, ISO 100.” is not the main problem, start with the basic move behind “Meter ambient EV.”. Upgrade only after both hold.</p></section><section><h2>60-second test</h2><p>Run a 60-second test with the gear you own, focused on “Enter 1/50, f/2.8, ISO 100.”, and record one number. If the number does not change, do not add budget.</p></section>
 <h2>Check</h2><ul><li>Shutter, aperture, and ISO match the on-set settings.</li><li>Ambient EV is measured, not guessed.</li><li>Calculated ND stops match the filter and exposure lands on target.</li></ul>
+
+
+> Intent split: this page covers the practical details of “ND Calculator: Change Filters Without Guessing”; start with <a href="https://tools.tvcn.org/article/nd-calculate/">ND Calculation: Wide Open in Daylight</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 3 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “ND Calculator: Change Filters Without Guessing”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

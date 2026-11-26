@@ -25,15 +25,15 @@ authors:
 - TVCN Research Desk
 sources:
 - S22
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.law.data-security.en
-- context.literacy.news-video.en
-- context.history.vfx-history.en
+- S01
+- S02
+- S03
+- S16
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.history.lumiere, context.literacy.media-literacy, formats.documentary.documentary-template]
 source_kind: sourced
 ---
-
 <p>One page: address and exact area, dates and hours, crew size and gear, commercial use, permission to edit and publish, damage and restoration, contact.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -46,9 +46,12 @@ source_kind: sourced
 <h2>Check</h2><ul><li>The release states dates, hours, and exact areas.</li><li>Disruption has numbers, such as passages closed.</li><li>Damage liability, footage use, and an on-site contact are present.</li></ul>
 
 <!-- SOURCES_START -->
-## References
+## References and further reading
 
-- [S22] China's Civil Code
-
-Full links and notes: [`SOURCES.md`](../../about/).
+- [S22] [National People's Congress: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A location release states hours, areas, disruption, damage, ”) against Statutory text on portrait rights, privacy, contracts and location rights; not a substitute for an on-set test.
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A location release states hours, areas, disruption, damage, ”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A location release states hours, areas, disruption, damage, ”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A location release states hours, areas, disruption, damage, ”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A location release states hours, areas, disruption, damage, ”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

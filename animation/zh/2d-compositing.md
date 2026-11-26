@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 动画组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.2d.2d-camera.en
-- animation.2d.loop-cycle.en
-- animation.2d.run-cycle.en
-source_kind: experience
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.3d.3d-pipeline, animation.pipeline.animatic-pipeline, formats.documentary.documentary-template]
+source_kind: sourced
 ---
-
 <p>二维合成最容易露馅的是线宽和颜色不一致。先统一线稿粗细、抗锯齿和色阶，再谈光影；每个图层单独调，不要全局加滤镜。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -50,5 +46,12 @@ source_kind: experience
 <ol><li>把每个元素单独开关，做一张“元素清单”；缺一个影子或接触阴影，画面就浮。</li><li>修边用最小参数，多次轻修，不要一次拉满；拉满会把细节吃掉。</li><li>色彩统一先看中性灰，再看肤色；只靠眼睛在彩色背景上判断会偏。</li><li>光效层放在最上，但要用遮罩挡住前景物体；否则光会穿墙。</li></ol>
 <p>交付前让另一个人看 10 秒，只问“哪里浮”。自己盯久了会看不见接缝。</p></section><section><h2 id="section-4">现场</h2><p>背景、角色、前景、光效分四层；每层单独调色，别把影子画在角色层。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>背景、角色、前景、光效分四层。</li><li>每层单独调色，别把影子画在角色层。</li><li>合成时先对位置，再对光和影。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别把所有东西画在一层；改一笔就要重画全图。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>前景、中景、背景的速度差能在一次 pan 里看出来</li><li>动作在 0.5 秒内能读出重量或预备</li><li>关掉任意一层，空间感仍然成立</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>层数堆上去了，但每层速度一样，空间还是扁的</li><li>动作有预备却没有跟随，重量只做了一半</li><li>资产没锁就进渲染，返工从合成端一路补</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用 24 fps 画 3 个关键帧，只改“每层单独调色，别把影子画在角色层”，导出 2 秒；如果重量仍读不出来，先加预备帧，不要加模糊。</p></section>
 <h2>验收</h2><ul><li>背景、角色、前景、光效四层分开，文件结构清楚。</li><li>影子在独立层，没有画死在角色身上。</li><li>改角色动作时只动角色层，背景和光效不用重画。</li></ul>
+
 <!-- SOURCES_START -->
-<aside class="article-sources experience-source" data-source-kind="experience"><div class="article-credit-head"><p class="eyebrow">来源 / Sources</p><span class="mono">经验来源</span></div><p class="source-types">经验来源：TVCN 现场手册与编辑复核；本文未做实验室实测，也没有外部数据引用。</p></aside>
+## 参考与延伸阅读
+
+- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“二维合成把背景、人物、光效分层；全压在一张图里，改一个动作就要重画全部。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“二维合成把背景、人物、光效分层；全压在一张图里，改一个动作就要重画全部。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“二维合成把背景、人物、光效分层；全压在一张图里，改一个动作就要重画全部。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
+<!-- SOURCES_END -->
+

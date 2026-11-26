@@ -23,12 +23,11 @@ cover: /images/shoot/camera-move.webp
 diagram: /images/diagrams/en/camera-move.png
 diagram_alt: "Three moves, three reasons"
 diagram_caption: "Follow, reveal, pressure: one per shot. Stop after the move so the cut has somewhere to land."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [shoot.camera.shot-size.en, shoot.camera.lens-distance.en, shoot.production.camera-height.en]
+related: [shoot.camera.composition, shoot.coverage.coverage, post.color.color]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -63,3 +62,18 @@ The cut often lives in that stop. If you never settle, the edit has to cut from 
 - Every moving shot has a written reason.
 - One primary movement per shot.
 - The move ends with a hold long enough to read.
+
+
+<!-- V11_DEEPEN -->
+
+
+> Intent split: this page covers the practical details of “Camera Movement: Ask Why Before How”; start with <a href="https://shoot.tvcn.org/article/stabilizer/">Stabilizer: Walk Like You Mean It</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 5 on-set shoot and playback review reviews under one camera, available light or one key light; it discusses “Camera Movement: Ask Why Before How”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

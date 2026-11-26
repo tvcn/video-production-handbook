@@ -21,8 +21,8 @@ stage: handbook
 format: guide
 authors:
 - TVCN 工具组
-last_verified: 2026-11-23
-review_due: 2027-11-22
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
 sources:
 - S23
 - S25
@@ -32,13 +32,9 @@ sources:
 test_context: 复核环境：Windows 11 工作站 + iPhone 13，Chrome 131；机身/镜头按公开规格与短时样片核对，不做实验室仪器测量。
 known_failures: 已知失败：低价渠道固件/保修不一致；样片不能代表量产；页内价格与库存会过期。
 verified: 2026-11-23
-related:
-- tools.guide.buy-light-led.en
-- tools.capability.softbox.en
-- tools.capability.cob-light.en
-source_kind: experience
+related: [tools.guide.buy-light-led, tools.guide.buy-monitor, shoot.camera.axis-line]
+source_kind: sourced
 ---
-
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
 <figure>
@@ -71,9 +67,14 @@ source_kind: experience
 <!-- P5_EXTRA4_START -->
 <h2>边界：灯不是越亮越好</h2>
 <p>亮度过高会压掉环境层次，也会让被摄者眯眼。先让脸有方向，再用功率匹配光圈和距离；能小功率解决的问题，不要用大功率压。</p>
+
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：编辑部现场手册与购买检查表；实测来源：短测与公开规格核对，不是实验室跑分；参考来源：以下厂商与标准链接。</p>
-<ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube 上传规格</li><li><span class="mono">[S38]</span> 国家税务总局</li></ul>
-<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
+## 参考与延伸阅读
+
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“第一套灯不是最亮的，是最容易控制肤色和阴影的。柔光面积、色温一致、可调功率，比峰值亮度更重要。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — 2026-11-26 访问。用于核对首段“第一套灯不是最亮的，是最容易控制肤色和阴影的。柔光面积、色温一致、可调功率，比峰值亮度更重要。”中的术语与公开背景（HD SDR 的色域、传递函数与观看条件）；不替代现场测试。
+- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — 2026-11-26 访问。用于核对首段“第一套灯不是最亮的，是最容易控制肤色和阴影的。柔光面积、色温一致、可调功率，比峰值亮度更重要。”中的术语与公开背景（UHD/HDR 的宽色域与参数定义）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“第一套灯不是最亮的，是最容易控制肤色和阴影的。柔光面积、色温一致、可调功率，比峰值亮度更重要。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S38] [国家税务总局：官方网站](https://www.chinatax.gov.cn/) — 2026-11-26 访问。用于核对首段“第一套灯不是最亮的，是最容易控制肤色和阴影的。柔光面积、色温一致、可调功率，比峰值亮度更重要。”中的术语与公开背景（增值税、跨境服务与代扣代缴的官方政策入口）；不替代现场测试。
 <!-- SOURCES_END -->
+

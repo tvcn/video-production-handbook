@@ -23,12 +23,11 @@ cover: /images/post/transitions.webp
 diagram: /images/diagrams/en/transitions.png
 diagram_alt: "Hard cut, dissolve, sound first"
 diagram_caption: "A transition is not decoration; it answers “how long, where.” If it cannot, hard cut. If time needs to stretch, dissolve. If the answer is in sound, let sound cross first."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [post.editing.sound-bridge.en, post.sound.room-tone.en, post.editing.mix-dialogue.en]
+related: [post.editing.versioning, post.vfx.vfx-composite, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -63,3 +62,15 @@ The reverse works too: the picture has cut to the new scene while the old room's
 - Does this transition answer “how long, where”?
 - If it were a hard cut, would the audience misunderstand? If not, cut.
 - Do the two images share composition, action, or sound?
+
+
+> Intent split: this page covers the practical details of “Transitions: Mark Time, Do Not Hide It”; start with <a href="https://post.tvcn.org/article/fine-cut/">Fine Cut: Remove the Rough Edges</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 3 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Transitions: Mark Time, Do Not Hide It”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

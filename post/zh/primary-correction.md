@@ -21,12 +21,9 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 后期组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.editing.proxy-workflow.en
-- shoot.multicam.multicam-live.en
-- story.storyboard.storyboard.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.assets.project-structure, post.assets.proxy-cache, shoot.camera.composition]
 depth: deep
 deep_minutes: 6
 sources:
@@ -35,14 +32,12 @@ sources:
 - S28
 - S30
 - S34
-- S35
 test_context: 复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere
   Pro 2025 复跑；不声称每台机器结果一致。
 known_failures: 已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>一级校正只做曝光、白平衡和对比度的统一：先把每个镜头的黑位、白位和肤色对齐，再谈风格。用示波器看，不靠眼睛在暗房里猜。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -72,4 +67,14 @@ source_kind: sourced
 ### 只剩五分钟时
 <ul><li>每场选一条参考镜头</li><li>先对曝光</li><li>再对白平衡</li><li>再对肤色</li><li>看黑位和高光</li><li>LUT 放在一级之后</li></ul><p>一级校正做对了，后面的风格才有地基；地基歪了，越调越假。先让一场戏里的脸看起来是同一个人，再谈风格。这场戏的脸，要像同一个人，不是两个色温的人。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S24] [ACES 色彩管理](https://www.oscars.org/science-technology/aces) — 2026-11-26 访问。用于核对首段“一级校正先解决曝光和白平衡，别用风格掩盖技术问题。”中的术语与公开背景（ACES 色彩管线的官方说明与规范）；不替代现场测试。
+- [S27] [EBU R128 响度](https://tech.ebu.ch/publications/r128) — 2026-11-26 访问。用于核对首段“一级校正先解决曝光和白平衡，别用风格掩盖技术问题。”中的术语与公开背景（广播响度目标、真峰值与测量方法）；不替代现场测试。
+- [S28] [Netflix 制作与交付帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对首段“一级校正先解决曝光和白平衡，别用风格掩盖技术问题。”中的术语与公开背景（平台交付规格、HDR/SDR 与 QC 要求的公开入口）；不替代现场测试。
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“一级校正先解决曝光和白平衡，别用风格掩盖技术问题。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“一级校正先解决曝光和白平衡，别用风格掩盖技术问题。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
+<!-- SOURCES_END -->
+

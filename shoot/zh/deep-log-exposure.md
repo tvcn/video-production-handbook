@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.exposure.log-footage
-- shoot.exposure.false-color
-- shoot.camera.nd-filter
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.deep.deep-multicam, shoot.deep.deep-set-safety, post.delivery.archive]
 sources:
 - S16
+- S23
+- S31
+- S52
+- S53
 source_kind: sourced
 ---
-
 <p>Log 不是万能；曝光、ND 和假色要一起定，否则后期只剩一张灰片。 单看《Log 素材：拍的时候想后期》只能解决一个局部；把《Log 素材：拍的时候想后期》《伪色：一眼看高光》《ND 滤镜：白天大光圈怎么拍》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别把灰片当风格；曝光不对、没有色彩管理，Log 只会更难救</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别把伪色当滤镜；红色是警告，不是风格</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别用 ND 压暗后不回调光圈或快门；可变 ND 也别一拧到最黑</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>人脸略高于中灰，暗部没有死黑，高光没有贴顶。</li><li>每个场景都拍了色卡，后期能按同一 Transform 还原。</li><li>回放时能说出这张 Log 素材的曝光意图，而不是“先拍了再说”。</li><li>人脸在伪色里落在肤色区，没有红色斑块；鼻尖和额头不先爆。</li><li>窗户、灯泡、白墙保留层次；高光不是一片纯白。</li><li>暗部黑衣服还能看到褶子，不糊成一块。</li><li>记录 EI、ND 档位、光位、监视器型号；换镜头后重新看一遍。</li><li>白天大光圈下快门仍在 1/50 左右，没有为了曝光牺牲景深。</li><li>可变 ND 没有出现十字暗纹或偏色。</li><li>高光没有爆，画面也不是整体欠曝。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《Log 素材：拍的时候想后期》里的单点问题：回到<a href="https://shoot.tvcn.org/article/log-footage/">《Log 素材：拍的时候想后期》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://shoot.tvcn.org/article/false-color/">《伪色：一眼看高光》</a>，先不改第三页。</li><li>只做验收：看<a href="https://shoot.tvcn.org/article/nd-filter/">《ND 滤镜：白天大光圈怎么拍》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“Log 不是万能；曝光、ND 和假色要一起定，否则后期只剩一张灰片。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“Log 不是万能；曝光、ND 和假色要一起定，否则后期只剩一张灰片。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“Log 不是万能；曝光、ND 和假色要一起定，否则后期只剩一张灰片。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“Log 不是万能；曝光、ND 和假色要一起定，否则后期只剩一张灰片。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“Log 不是万能；曝光、ND 和假色要一起定，否则后期只剩一张灰片。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
+<!-- SOURCES_END -->
+

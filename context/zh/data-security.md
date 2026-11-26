@@ -23,15 +23,15 @@ authors:
 - TVCN 研究组
 sources:
 - S03
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.law.location-release.en
-- context.history.digital-cinema.en
-- context.history.video-tape.en
+- S01
+- S02
+- S16
+- S10
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.deep.deep-ai-regulation, context.deep.deep-copyright-chain, formats.documentary.documentary-template]
 source_kind: sourced
 ---
-
 <p>把素材分三级：可公开、仅客户、含个人信息。含个人信息的素材单独加密盘、单独权限、单独归档；不要和宣传素材混在一个共享文件夹。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -46,7 +46,10 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S03] 《中华人民共和国个人信息保护法》
-
-完整链接与用途见 [`SOURCES.md`](../../about/)。
+- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“素材安全包括硬盘、云盘、聊天记录和转发权限；客户隐私不是只有正片。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
+- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“素材安全包括硬盘、云盘、聊天记录和转发权限；客户隐私不是只有正片。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“素材安全包括硬盘、云盘、聊天记录和转发权限；客户隐私不是只有正片。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“素材安全包括硬盘、云盘、聊天记录和转发权限；客户隐私不是只有正片。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“素材安全包括硬盘、云盘、聊天记录和转发权限；客户隐私不是只有正片。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
 <!-- SOURCES_END -->
+

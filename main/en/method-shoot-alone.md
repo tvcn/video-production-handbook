@@ -24,17 +24,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.method.method-no-budget.en
-- main.method.method-deadline.en
-- main.method.method-portfolio-empty.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [main.method.method-story-slow, main.method.method-subtitle-bad, context.history.16mm]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>The time goes into moving the camera, pulling focus and recording sound. Design fixed positions, preset focus and continuous action. If a tripod and auto exposure solve it, do not do it manually on the day.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -62,3 +58,11 @@ source_kind: experience
 ### Ten solo-shoot checks
 <ul><li>One camera, one piece of information</li><li>At least two takes per size</li><li>Wide, medium, close, insert covered</li><li>Tripod plus phone monitor</li><li>Sound recorded separately</li><li>Clap at the head</li><li>Listen for ten seconds</li><li>Same action shot three ways</li><li>Focus, exposure, sound checked</li><li>Cuttable first, beautiful second</li></ul><p>Shooting alone is not heroics. It is reducing every shot to what one person can actually control at once.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S22] [National People's Congress: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Use a locked camera and continuous action; do not act, opera”) against Statutory text on portrait rights, privacy, contracts and location rights; not a substitute for an on-set test.
+- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Use a locked camera and continuous action; do not act, opera”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

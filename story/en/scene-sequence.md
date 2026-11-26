@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Story Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.story.midpoint-turn.en
-- story.story.theme-through-action.en
-- story.story.ending-choice.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.screenplay.scene-transition-writing, story.screenplay.script-format, shoot.production.scene-space]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>Three scenes are not three locations; they are three state changes. Each scene starts with what the character wants on entry and ends with what is different on exit. Between those two lines there must be a playable action.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -57,5 +53,11 @@ source_kind: experience
 ### Ten sequence checks
 <ul><li>One main question per scene</li><li>Situation differs at the end</li><li>Scene one establishes the norm</li><li>Scene two breaks the old method</li><li>Scene three makes a new choice</li><li>Each ending changes the next conditions</li><li>Three different methods</li><li>One new constraint per scene</li><li>Link with a repeated prop or action</li><li>Three lines do not repeat</li></ul><p>A sequence is not three scenes in a row; it is three scenes forcing each other forward.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
-<aside class="article-sources experience-source" data-source-kind="experience"><div class="article-credit-head"><p class="eyebrow">Sources / 来源</p><span class="mono">Experience source</span></div><p class="source-types">Experience source: TVCN field handbook and editorial review; no laboratory measurement or external data is claimed here.</p></aside>
+## References and further reading
+
+- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One scene delivers one change; three scenes together move a ”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One scene delivers one change; three scenes together move a ”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

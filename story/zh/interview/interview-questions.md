@@ -22,12 +22,11 @@ cover: /images/story/interview-questions.webp
 diagram: /images/diagrams/zh/interview-questions.png
 diagram_alt: "采访：把“感受”换成动作"
 diagram_caption: "一个人回忆不起“感受”，但记得那天先迈了哪只脚。问题越具体，回答越像人话。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [story.directing.directing-nonactors.en, story.screenplay.dialogue.en, story.screenplay.conflict.en]
+related: [story.screenplay.logline, story.story.midpoint-turn, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -60,3 +59,35 @@ related: [story.directing.directing-nonactors.en, story.screenplay.dialogue.en, 
 - 前三个问题都能用一句话回答，而且带动作。
 - 至少留了一次三秒以上的沉默没有剪掉。
 - 人名、地名、数字当场核对过。
+
+## 先问那天发生了什么
+
+“你当时在哪、先看到什么、下一步做了什么”比“你有什么感受”更容易得到细节。
+
+细节会带来感受，感受不会带来细节。先要动作，再要判断。
+
+## 让沉默留三秒
+
+对方说完，不要马上接话。数三秒，很多重要的补充会在沉默后出来。
+
+这三秒也会让被访者知道，你在听，不是在等下一个问题。
+
+## 收工前核对名字和数字
+
+把人物、地点、时间、金额、职位当面念一遍，让对方确认。不要回酒店再猜。
+
+录一条空镜：门牌、工牌、桌面。后期对不上时，这些空镜能救整段。
+
+<!-- V11_DEEPEN -->
+
+
+> 意图分工：本页负责「采访别问“你有什么感受”：把问题换成动作」的可执行细节；同集群先读 <a href="https://formats.tvcn.org/article/interview-structure/">访谈结构：问题比机位重要</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 3 次剧本围读与拍摄前排练，条件为3–8 页场景、单一主视角；页面讨论的具体对象是「采访别问“你有什么感受”：把问题换成动作」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

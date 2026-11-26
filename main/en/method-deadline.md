@@ -23,17 +23,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.method.method-shoot-alone.en
-- main.method.method-client-revision.en
-- main.method.method-no-budget.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [main.method.method-ending-weak, main.method.method-first-client, context.history.16mm]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>Fix the delivery date and immovable gates: client review, platform launch, event date. Then count back through post, shoot, prep and recce, leaving rework time—not “probably enough.”</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -74,3 +70,11 @@ source_kind: experience
 ### Ten deadline checks
 <ul><li>Schedule backward from delivery</li><li>Seven stages with dates</li><li>Twenty percent buffer each</li><li>Buffer before the shoot</li><li>Shoot day means material can enter edit</li><li>Cut locations, cameras, versions first</li><li>Must-have and nice-to-have separated</li><li>Visible deliverable every day</li><li>Restore structure before polish</li><li>Every row has an owner</li></ul><p>A deadline is not for staying up late. It is for deciding what does not get made this time.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S22] [National People's Congress: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cut shots and locations, not sound or backup; post can be le”) against Statutory text on portrait rights, privacy, contracts and location rights; not a substitute for an on-set test.
+- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cut shots and locations, not sound or backup; post can be le”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

@@ -22,12 +22,11 @@ cover: /images/post/transitions.webp
 diagram: /images/diagrams/zh/transitions.png
 diagram_alt: "硬切 / 叠化 / 声音先走"
 diagram_caption: "转场不是装饰，它要回答“过了多久、去了哪里”。答不清就硬切；答案需要时间，才用叠化；答案在声音里，就让声音先过。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [post.editing.sound-bridge.en, post.sound.room-tone.en, post.editing.mix-dialogue.en]
+related: [post.editing.versioning, post.vfx.vfx-composite, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -62,3 +61,15 @@ related: [post.editing.sound-bridge.en, post.sound.room-tone.en, post.editing.mi
 - 这个转场回答了“过了多久、去了哪里”吗？
 - 如果换成硬切，观众会误解吗？不会，就硬切。
 - 前后两个画面有共享的构图、动作或声音吗？
+
+
+> 意图分工：本页负责「转场：不是遮住时间，是交代时间」的可执行细节；同集群先读 <a href="https://post.tvcn.org/article/fine-cut/">细剪：把粗剪的毛边修掉</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 3 次后期项目复盘，条件为4K 以内素材、常规平台交付；页面讨论的具体对象是「转场：不是遮住时间，是交代时间」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

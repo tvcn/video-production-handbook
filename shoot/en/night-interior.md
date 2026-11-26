@@ -23,17 +23,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Shoot Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.lighting.mixed-light.en
-- shoot.lighting.practical-light.en
-- shoot.exposure.waveform.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.safety.permit, shoot.lighting.practical-light, post.color.color]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>At least one practical must motivate the light: lamp, window, TV, hallway. Fill the face from that direction, not flat from camera. Protect the shade and window; keep some shadow detail.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -63,3 +59,12 @@ source_kind: experience
 ### When you have five minutes
 <ul><li>Find one practical in frame</li><li>Window three stops over the room</li><li>Face one stop over background</li><li>Flag the background down</li><li>Do not underexpose log</li><li>Play back for shadow noise</li></ul><p>Night needs a reason before a mood: the reason is one lamp, the mood is a visible face.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find a practical light the room can believe, then add one sm”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find a practical light the room can believe, then add one sm”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find a practical light the room can believe, then add one sm”) against Body specifications, recording formats and interfaces; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

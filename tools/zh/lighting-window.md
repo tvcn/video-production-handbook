@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.lighting-one-light.en
-- tools.tutorial.night-practical.en
-- tools.tutorial.color-checker.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.producing.location-scout, tools.capability.lto-archive, shoot.lighting.lighting-style]
 source_kind: experience
 ---
-
 <p>窗光不是固定光源，它会随时间变冷、变弱、变方向。先定拍摄时段，再用纱帘、百叶或反光板控制硬度和方向；不要在同一天混用早晨和下午的光。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -43,3 +39,15 @@ source_kind: experience
 <ol><li>白色板最通用；银色板更硬，适合需要眼神光但不想加灯的场景。</li><li>板的角度低于视线，避免把光打到鼻孔和下巴；需要柔一点就用布面或柔光布。</li><li>先拍一张只靠窗光的画面，再加板；对比暗部是否出现细节但不发灰。</li></ol>
 <p>验收：暗部有细节、亮部不过曝、皮肤不发灰。如果板一拿开画面就“死”，说明主光其实不够，先调整窗边位置。</p></section><section><h2 id="section-4">现场</h2><p>反光板放阴影侧，距人脸 1 米，角度 45 度；看暗部是否提亮而不过曝。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>反光板放阴影侧，距人脸 1 米。</li><li>角度 45 度。</li><li>看暗部是否提亮而不过曝。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别把反光板放窗边；那只是把亮部更亮，暗部还是黑的。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>每一项参数都能对应一个具体的拍摄问题</li><li>重量、供电和接口在真实机位上成立</li><li>60 秒测试能留下一个可比较的数字</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>只看参数，不看接口、供电和重量</li><li>买回来才发现电池、存储或机身不匹配</li><li>没有 60 秒测试，问题被带到正式拍摄</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用现有器材做 60 秒测试，只测“反光板放阴影侧，距人脸 1 米”；记下两个数字：一个是你需要的，一个是器材实际给出的。</p></section>
 <h2>验收</h2><ul><li>反光板在阴影侧，距人脸 1 米、约 45 度。</li><li>暗部提亮，亮部没有过曝。</li><li>有反光板前后对比，阴影细节增加。</li></ul>
+
+
+> 意图分工：本页负责「窗光补光：反光板位置」的可执行细节；同集群先读 <a href="https://tools.tvcn.org/article/buy-light-kit/">购买灯光套装：先买柔，再买亮</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 3 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「窗光补光：反光板位置」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

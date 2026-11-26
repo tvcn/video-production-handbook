@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.camera-black-balance.en
-- tools.tutorial.follow-focus-practice.en
-- tools.tutorial.color-checker.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.capability.wireless-video, tools.capability.zoom-lens, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>白平衡不是对着天空或白墙点一下。把灰卡放在人物脸的位置，朝摄影机，确保它和人物受同一束光；混合光下，灰卡只能代表一个方向。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -40,3 +36,15 @@ source_kind: experience
 <!-- DIAGRAM_END -->
 <section><h2 id="section-1">灰卡要放在“主体受光”的位置</h2><p>每换一个光位或色温拍一张；后期用它校准，再用肤色微调。</p><h2 id="section-2">边界</h2><p>灰卡不能把两种色温变成一种。窗光偏冷、台灯偏暖时，先决定保留哪种，再用补光或 gel 统一。</p></section><section><h2 id="section-3">现场</h2><p>把灰卡放在主体位置，让光落在卡上；手动白平衡后拍一张，再看肤色。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>把灰卡放在主体位置，让光落在卡上。</li><li>手动白平衡后拍一张。</li><li>再看肤色，确认没有偏色。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别在灯下对灰卡再拍窗边的人；位置不同，混合光也不同。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>每一项参数都能对应一个具体的拍摄问题</li><li>重量、供电和接口在真实机位上成立</li><li>60 秒测试能留下一个可比较的数字</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>只看参数，不看接口、供电和重量</li><li>买回来才发现电池、存储或机身不匹配</li><li>没有 60 秒测试，问题被带到正式拍摄</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用现有器材做 60 秒测试，只测“把灰卡放在主体位置，让光落在卡上”；记下两个数字：一个是你需要的，一个是器材实际给出的。</p></section>
 <h2>验收</h2><ul><li>灰卡放在主体位置，不是放在灯下。</li><li>手动白平衡后有样张，肤色可判断。</li><li>混合光下的偏色被消除或明确记录。</li></ul>
+
+
+> 意图分工：本页负责「灰卡白平衡：混合光怎么对」的可执行细节；同集群先读 <a href="https://post.tvcn.org/article/lut/">LUT：起点不是终点</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 5 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「灰卡白平衡：混合光怎么对」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 故事组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.story.theme-through-action.en
-- story.story.scene-sequence.en
-- story.story.midpoint-turn.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.directing.ensemble-scene, story.storyboard.insert-shot, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>结尾不是把选择解释清楚，而是让观众看到选择带来的第一个后果。她留下，就拍她放下行李；她走，就拍门在身后关上。停在动作之后，观众自己补那句话。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -59,3 +55,16 @@ source_kind: experience
 ### 结尾检查，十项
 <ul><li>停在选择之后</li><li>观众知道他选了什么</li><li>观众知道他失去了什么</li><li>最后一个镜头拍结果</li><li>不用台词总结主题</li><li>闭合结尾回答主问题</li><li>开放结尾留下新问题</li><li>答案藏在动作里</li><li>最后比前面安静</li><li>别人能说出他失去了什么</li></ul><p>结尾不是把故事关掉，是让观众带着代价离场。</p>
 <!-- DEEP_DIVE_END -->
+
+
+> 意图分工：本页负责「结尾：停在选择之后」的可执行细节；同集群先读 <a href="https://story.tvcn.org/article/midpoint-turn/">中点转向：换方法，不换目标</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“结尾停在选择之后，别再加一段解释；观众自己补上的那句更有力。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“结尾停在选择之后，别再加一段解释；观众自己补上的那句更有力。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+<!-- SOURCES_END -->
+

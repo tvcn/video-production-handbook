@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.literacy.source-check
-- context.literacy.algorithm-feed
-- context.literacy.deepfake
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.literacy.deepfake, context.history.digital-cinema, formats.deep.deep-brand-film]
 sources:
 - S14
+- S01
+- S02
+- S03
+- S16
 source_kind: sourced
 ---
-
 <p>媒介素养不是“别信网上的”；来源、算法和情绪触发要拆成可检查的步骤。 单看《media-literacy》只能解决一个局部；把《media-literacy》《来源核查：这条视频最初是谁发的》《算法推荐：为什么你总看到同一种》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别把“很多人转发”当证据；转发只是传播</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别把推荐当世界全貌；它只反映你的停留</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>只看结果，不记条件</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>最早账号、原始文件和时间戳保存了。</li><li>反向图搜或关键帧搜索找到第二个独立来源。</li><li>时间、地点、天气、招牌至少三项一致。</li><li>截图不是原件</li><li>找最早发布者</li><li>找原始文件和完整版</li><li>看账号历史和发布时间</li><li>影子天气招牌对地点</li><li>两个账号同话题各刷十分钟，记录了前二十条。</li><li>标出重复账号、观点和情绪。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《media-literacy》里的单点问题：回到<a href="https://context.tvcn.org/article/media-literacy/">《media-literacy》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://context.tvcn.org/article/source-check/">《来源核查：这条视频最初是谁发的》</a>，先不改第三页。</li><li>只做验收：看<a href="https://context.tvcn.org/article/algorithm-feed/">《算法推荐：为什么你总看到同一种》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“媒介素养不是“别信网上的”；来源、算法和情绪触发要拆成可检查的步骤。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“媒介素养不是“别信网上的”；来源、算法和情绪触发要拆成可检查的步骤。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“媒介素养不是“别信网上的”；来源、算法和情绪触发要拆成可检查的步骤。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“媒介素养不是“别信网上的”；来源、算法和情绪触发要拆成可检查的步骤。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“媒介素养不是“别信网上的”；来源、算法和情绪触发要拆成可检查的步骤。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+<!-- SOURCES_END -->
+

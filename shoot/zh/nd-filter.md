@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 拍摄组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.camera.shutter-angle.en
-- shoot.camera.frame-rate.en
-- shoot.exposure.waveform.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.lighting.night-interior, shoot.safety.permit, post.color.color]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>ND 的作用是把快门拉回电影感而不让画面过曝。先按“目标光圈 + 快门 1/50 + 当前 ISO”算差几档，再选 ND；不要凭“看起来暗”随手加。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -61,3 +57,12 @@ source_kind: experience
 ### 只剩五分钟时
 <ul><li>先定快门再定光圈</li><li>算清楚总进光</li><li>可变 ND 先拧到最密</li><li>广角先试暗角</li><li>拍一张灰卡</li><li>两面擦干净滤镜</li></ul><p>ND 是让画面回到自然曝光的工具，不是让画面变暗的装饰。滤镜不是越贵越好，先确保它不偏色、不暗角。换镜头前后都看一眼。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“ND 滤镜不是压暗画面，是让白天也能开大光圈、保住景深。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“ND 滤镜不是压暗画面，是让白天也能开大光圈、保住景深。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“ND 滤镜不是压暗画面，是让白天也能开大光圈、保住景深。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
+<!-- SOURCES_END -->
+

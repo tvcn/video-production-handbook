@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 故事组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.story.ending-choice.en
-- story.story.want-stakes.en
-- story.story.scene-sequence.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.screenplay.three-act, story.screenplay.voice-over, shoot.camera.composition]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>“主题”不是一句旁白，而是一个反复出现、每次含义不同的动作。比如一个人每次紧张就擦桌子：第一次是习惯，第二次是掩饰，第三次是告别。观众从动作的变化读到主题。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -59,3 +55,11 @@ source_kind: experience
 ### 主题检查，十项
 <ul><li>主题能写成一个动词</li><li>主题能被镜头拍到</li><li>三个动作跨三场戏</li><li>反主题人物有道理</li><li>反主题也有代价</li><li>不用台词判对错</li><li>开头和结尾同一情境</li><li>结尾用动作回答</li><li>不解释成长</li><li>反证站得住</li></ul><p>主题不是观众听到的话，是观众看到一个人反复做的事。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“主题不要让人物讲出来，让他在压力下做一个能暴露价值观的选择。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“主题不要让人物讲出来，让他在压力下做一个能暴露价值观的选择。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+<!-- SOURCES_END -->
+

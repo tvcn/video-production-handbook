@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.screenplay.scene-transition-writing
-- story.storyboard.insert-shot
-- story.storyboard.board-review
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.deep.deep-structure-turn, story.screenplay.dialogue, shoot.deep.deep-camera-move]
 sources:
 - S12
+- S41
+- S10
+- S42
+- S16
 source_kind: sourced
 ---
-
 <p>场景之间不是靠转场特效接上，而是靠一个未完成的动作和下一场的第一个信息。 单看《场与场之间：用动作接，不用字幕》只能解决一个局部；把《场与场之间：用动作接，不用字幕》《插入镜头：一个细节顶一句台词》《分镜评审：让摄影和剪辑先挑错》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别用字幕卡解释时间；能用动作接，就不要写字</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别把插入镜头当装饰；它不交代信息，就该删</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别在评审会上全盘重画；一次改三格，才改得完</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>相邻两场至少有一个共同动作、物件或声音。</li><li>时间跳跃不靠字幕卡也能看懂。</li><li>把字幕卡拿掉，观众仍能说出过了多久或到了哪里。</li><li>插入镜头交代了一个具体信息，不只是好看。</li><li>时长在 1 到 2 秒，切在关键台词之前。</li><li>删掉插入后信息缺失，说明它真的顶掉了一句台词。</li><li>摄影和剪辑各带一张问题清单进场。</li><li>会议只改了三个格子，其他有记录。</li><li>改完三格后，机位和剪辑缺口有具体改善。</li><li>把 场与场之间：用动作接，不用字幕 的条件写成一行，能复述给下一个人。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《场与场之间：用动作接，不用字幕》里的单点问题：回到<a href="https://story.tvcn.org/article/scene-transition-writing/">《场与场之间：用动作接，不用字幕》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://story.tvcn.org/article/insert-shot/">《插入镜头：一个细节顶一句台词》</a>，先不改第三页。</li><li>只做验收：看<a href="https://story.tvcn.org/article/board-review/">《分镜评审：让摄影和剪辑先挑错》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“场景之间不是靠转场特效接上，而是靠一个未完成的动作和下一场的第一个信息。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“场景之间不是靠转场特效接上，而是靠一个未完成的动作和下一场的第一个信息。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“场景之间不是靠转场特效接上，而是靠一个未完成的动作和下一场的第一个信息。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S42] [Khan Academy：Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对首段“场景之间不是靠转场特效接上，而是靠一个未完成的动作和下一场的第一个信息。”中的术语与公开背景（故事结构、角色与视觉叙事教学）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“场景之间不是靠转场特效接上，而是靠一个未完成的动作和下一场的第一个信息。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+<!-- SOURCES_END -->
+

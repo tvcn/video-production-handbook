@@ -22,12 +22,11 @@ cover: /images/tools/casting.webp
 diagram: /images/diagrams/zh/casting.png
 diagram_alt: "选角：三道门，不是一张简历"
 diagram_caption: "先看外形和声音站不站得住，再看两个人之间有没有事，最后才看动作和台词。三道门都过了，才谈档期。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [tools.producing.stripboard.en, tools.producing.budget-map.en, tools.proposal.treatment.en]
+related: [tools.capability.cfexpress, tools.capability.cine-camera, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -67,3 +66,15 @@ related: [tools.producing.stripboard.en, tools.producing.budget-map.en, tools.pr
 - 试读给的是一个动作，不是一段独白？
 - 两个人站在一起，画面里有没有事发生？
 - 档期、替换和角色资料，是否都落到纸上？
+
+
+> 意图分工：本页负责「选人：先站得住，再看戏」的可执行细节；同集群先读 <a href="https://story.tvcn.org/article/rehearsal/">排练：先走位，再给台词</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 7 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「选人：先站得住，再看戏」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

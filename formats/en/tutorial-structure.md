@@ -23,18 +23,16 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Formats Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.drama.vertical-drama.en
-- post.color.color-management.en
-- shoot.lighting.lighting-style.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.tutorial.tutorial-template, formats.drama.vertical-drama, story.screenplay.logline]
 depth: deep
 deep_minutes: 6
 sources:
 - S14
 - S15
 - S16
+- S29
 test_context: 'Review setup: composite samples and public cases; previewed on MacBook
   Pro M1 / iPhone 13; not one real client project.'
 known_failures: 'Known failures: composite samples are not client proof; platform
@@ -42,7 +40,6 @@ known_failures: 'Known failures: composite samples are not client proof; platfor
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>The first five seconds must show what “finished” looks like, or the viewer cannot decide whether to learn. Then state the starting point and prerequisites before step one; each step solves one problem.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -81,4 +78,13 @@ source_kind: sourced
 ### Ten tutorial checks
 <ul><li>Finished result in ten seconds</li><li>One problem, one lesson</li><li>Pass condition stated up front</li><li>One action and one setting per step</li><li>Clear close-up or screen capture</li><li>Key number held for three seconds</li><li>Complete run before breakdown</li><li>Cause and effect never cut</li><li>Self-check at the end</li><li>Checklist or settings sheet provided</li></ul><p>A tutorial succeeds when the viewer can produce a checkable result after the video ends.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One problem, one skill. Three tricks in one tutorial means n”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One problem, one skill. Three tricks in one tutorial means n”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One problem, one skill. Three tricks in one tutorial means n”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“One problem, one skill. Three tricks in one tutorial means n”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

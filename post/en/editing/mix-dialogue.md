@@ -23,12 +23,11 @@ cover: /images/post/mix-dialogue.webp
 diagram: /images/diagrams/en/mix-dialogue.png
 diagram_alt: "Dialogue, music, and the quiet between"
 diagram_caption: "Where the dialogue is, the music gives way. It does not need to disappear, only sit 6–10 dB lower. Leave a little quiet around the important line."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [post.sound.room-tone.en, post.sound.sound-post.en, post.editing.transitions.en]
+related: [post.accessibility.multilingual-subtitles, post.sound.music-editing, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -63,3 +62,18 @@ At the end, let the music leave before the picture does. The last bit of quiet i
 - Every line is clear without relying on subtitles.
 - Music clearly gives way under dialogue, not just turned down once.
 - There is at least one deliberate pause that is not filled with music.
+
+
+<!-- V11_DEEPEN -->
+
+
+> Intent split: this page covers the practical details of “Mixing: Land the Dialogue Before the Music”; start with <a href="https://post.tvcn.org/article/loudness/">Loudness: Platform Target and True Peak</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 5 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Mixing: Land the Dialogue Before the Music”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

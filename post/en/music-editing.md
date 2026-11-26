@@ -24,17 +24,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Post Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.sound.foley.en
-- post.editing.fine-cut.en
-- post.vfx.keying.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.editing.parallel-editing, post.delivery.platform-deliverables, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>Do not cut picture to the beat from the start. Make the story work, then lay the music; move the track&#x27;s sections when needed instead of chopping picture to fit.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -64,3 +60,12 @@ source_kind: experience
 ### When you have five minutes
 <ul><li>Mark the musical accents</li><li>Drop music under dialogue</li><li>Leave a breath at transitions</li><li>Hold two seconds at the end</li><li>Be silent when silence is right</li><li>Listen on a phone speaker</li></ul><p>Music enters to push, and leaves so the audience can take a step alone. It does not fill silence; it decides where silence belongs. Silence is part of the score; let the last beat land on the picture before it leaves.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Music does not run wall to wall; it enters, exits, and leave”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S27] [EBU R128 Loudness](https://tech.ebu.ch/publications/r128) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Music does not run wall to wall; it enters, exits, and leave”) against Broadcast loudness targets, true peak and measurement; not a substitute for an on-set test.
+- [S67] [IETF: RFC 8216: HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Music does not run wall to wall; it enters, exits, and leave”) against HLS segments, playlists and playback; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

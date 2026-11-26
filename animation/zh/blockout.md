@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 动画组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.3d.modeling.en
-- animation.2d.2d-camera.en
-- animation.pipeline.animatic-pipeline.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.deep.deep-2d-layer-depth, animation.deep.deep-3d-light-material, formats.documentary.documentary-template]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>Blockout 只解决三件事：角色和场景的比例、摄影机放在哪、动作占多少时间。用球体、方块和简单道具，不要先做细节。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -62,3 +58,11 @@ source_kind: experience
 ### Blockout，十项检查
 <ul><li>方盒定人和门的高度</li><li>先定距离关系</li><li>用实际焦距看构图</li><li>主镜头反打细节三个机位</li><li>代理人物走一遍</li><li>标出起点转折终点</li><li>每段写一个动作</li><li>手机拍真人走位对比</li><li>灰模不加材质灯光</li><li>静音能说出谁在哪要做什么</li></ul><p>blockout 的唯一任务，是让后面的人不用猜空间。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“Blockout 先定比例、机位和时长，不建模细节；这一步错了，后面全返工。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“Blockout 先定比例、机位和时长，不建模细节；这一步错了，后面全返工。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+<!-- SOURCES_END -->
+

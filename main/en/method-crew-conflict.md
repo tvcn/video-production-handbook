@@ -24,15 +24,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.method.method-budget-overrun.en
-- main.method.method-ai-uncanny.en
-- main.method.method-thumbnail-weak.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.method.method-dark-footage, main.method.method-deadline, context.history.16mm]
 source_kind: experience
 ---
-
 <p>Before rolling, each lead states the most important shot, the most likely failure and who they need. Record actions only, not judgments. In a conflict, repeat the other person&#x27;s request first, then offer one executable option.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -61,3 +57,10 @@ source_kind: experience
 <p>Stop for five minutes and write three lines: what happened, what it affects, who decides. Do not blame a person in front of the crew. If client and director are stuck, the producer ranks options by time, budget and safety, then lets the client choose; do not choose for them.</p>
 <p>Ten minutes after wrap, review: which decision was overturned, why, and which rule it becomes. “Poor communication” is not a lesson; “product close-ups are the client's call; the director does not change them on set” is.</p></section><section><h2 id="section-5">On set</h2><p>Stop for ten minutes and write who is waiting on whom. Do not assign blame in front of the crew.</p></section><section><h2 id="section-6">Do this</h2><p>On-set conflict: stop for ten minutes and write the problem as “who is waiting for whom.” Do not judge right and wrong in front of the crew.</p><ol><li>Have each side write one line: what I am waiting for, where I am stuck.</li><li>Turn it into tasks and order: who goes first, who follows, by what time.</li><li>Name one decision maker; everyone else executes. Review after wrap, not in the moment.</li></ol></section><section><h2 id="section-7">Avoid</h2><p>Do not smooth it over with “we all want the film to be good”; unresolved waiting starts the fight again.</p></section><section><h2>Boundary</h2><p>It does not guarantee a story. The template only orders structure; the person, obstacle and cost still need writing.</p></section><section><h2>Alternative</h2><p>If “Have each side write one line: what I” is not the main problem, start with the basic move behind “Turn it into tasks and order: who goes”. Upgrade only after both hold.</p></section><section><h2>60-second test</h2><p>Run a 60-second test with the gear you own, focused on “Have each side write one line: what I”, and record one number. If the number does not change, do not add budget.</p></section><section><h2>When not to use</h2><p>Do not use the template when “Have each side write one line: what I” is still unclear or “Turn it into tasks and order: who goes” is only filler. Go back to the person and the problem.</p></section><section><h2>Three failures</h2><ul><li>Every beat exists, but no one makes a decision.</li><li>The middle changes location, not information.</li><li>The ending is narrated, with no visible change.</li></ul></section>
 <h2>Check</h2><ul><li>Each side wrote “what I am waiting for, where I am stuck.”</li><li>The problem became tasks and an order.</li><li>One decision maker is named and the review happens after wrap.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 6 client brief and project review reviews under a one- or two-to-three-person team with a fixed budget and schedule; it discusses “The Crew Is Fighting”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

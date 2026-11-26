@@ -23,15 +23,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.night-practical.en
-- tools.tutorial.lighting-window.en
-- tools.tutorial.proxy-create.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.guide.crew-management, tools.capability.davinci-node, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>The chart is not an opening ritual; it is an anchor for post. At each scene, lamp change or color-temperature change, fill one third of frame with the chart, sharp and correctly exposed. Do not shoot it only on take one.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -45,3 +41,15 @@ source_kind: experience
 <ol><li>Shoot gray first, then the chart. Expose gray to 50–60% on the waveform, not clipped.</li><li>Reshoot for every scene or color-temperature change; one chart cannot cover the day.</li><li>Match cameras first, then add the look. The style LUT goes after the match.</li></ol>
 <p>Acceptance: compare chart frame and final; neutral gray should be neutral and skin natural. Green or magenta cast means check on-set white balance.</p></section><section><h2 id="section-4">On set</h2><p>Shoot the color chart at the head, filling a third of the frame. Match with the chart in post; do not grade from memory.</p></section><section><h2 id="section-5">Do this</h2><p>Shoot a color chart under the scene light for a post reference; shooting it later means the light has changed.</p><ol><li>Shoot the chart at the start.</li><li>Fill about one third of the frame.</li><li>Match in post from the chart, not memory.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not shoot the chart at wrap; the light no longer matches the first take.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>every spec maps to one concrete shooting problem</li><li>weight, power and connections hold on a real rig</li><li>a 60-second test leaves one comparable number</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>specs without connections, power or weight</li><li>batteries, storage or body do not match after purchase</li><li>no 60-second test, so the problem arrives on the shoot</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Run a 60-second test with the gear you already own, measuring only “Shoot the chart at the start.”. Record two numbers: what you need and what the gear actually gives.</p></section>
 <h2>Check</h2><ul><li>The chart is shot at the start under scene light.</li><li>It fills about a third of frame with no glare on patches.</li><li>Post matching uses the chart, not memory.</li></ul>
+
+
+> Intent split: this page covers the practical details of “Color Checker: Shoot It Before the Scene”; start with <a href="https://post.tvcn.org/article/lut/">LUT: A Starting Point, Not a Finish</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 3 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Color Checker: Shoot It Before the Scene”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

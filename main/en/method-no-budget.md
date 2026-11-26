@@ -24,20 +24,18 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.method.method-shoot-alone.en
-- main.method.method-phone-only.en
-- main.method.method-deadline.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [main.method.method-no-coverage, main.method.method-no-light, context.history.16mm]
 depth: deep
 deep_minutes: 6
 sources:
 - S22
 - S23
+- S02
+- S38
 source_kind: sourced
 ---
-
 <p>Zero budget can shoot a small space, few characters, natural light, short runtime. Compress the script to one room, two people, one afternoon; do not keep five locations and call it low budget.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -76,10 +74,11 @@ source_kind: sourced
 <!-- DEEP_DIVE_END -->
 
 <!-- SOURCES_START -->
-## Sources
+## References and further reading
 
-- [S22] 《中华人民共和国民法典》; see the original link and use note in SOURCES.md.
-- [S23] SMPTE 标准入口; see the original link and use note in SOURCES.md.
-
-Full links and use notes: [`SOURCES.md`](../../about/).
+- [S22] [National People's Congress: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cut scale, not structure; a simple film you can finish beats”) against Statutory text on portrait rights, privacy, contracts and location rights; not a substitute for an on-set test.
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cut scale, not structure; a simple film you can finish beats”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cut scale, not structure; a simple film you can finish beats”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Cut scale, not structure; a simple film you can finish beats”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

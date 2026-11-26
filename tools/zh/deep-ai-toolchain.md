@@ -23,18 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.ai-video-tool
-- tools.capability.ai-audio-tool
-- tools.capability.cloud-render
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [tools.deep.deep-backup-321, tools.deep.deep-camera-lens-kit, shoot.camera.axis-line]
 sources:
 - S14
 - S15
+- S29
+- S23
+- S30
 source_kind: sourced
 ---
-
 <p>AI 工具不是一键出片；生成、配音、渲染和人工复核必须排成一条可追溯的链。 单看《AI 视频工具：先看可控性》只能解决一个局部；把《AI 视频工具：先看可控性》《AI 音频工具：授权与音质》《云渲染：成本与传输》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -54,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别被样片骗；样片只展示成功，不展示角色漂移</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别只听音色像不像；授权只限个人使用，商用一样不能用</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别只看每帧单价；上传 10 GB 的时间可能比渲染还长</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>同一条提示下角色在三个镜头里保持一致。</li><li>镜头运动和时长能被具体参数控制。</li><li>失败案例有保存，知道边界在哪里。</li><li>30 秒台词里齿音、断句、尾音有评估。</li><li>商用授权和克隆范围有书面条款。</li><li>输出能用于当前项目，不需要额外授权。</li><li>10 GB 上传时间有实测数字。</li><li>100 帧本地与云端成本有对比。</li><li>上传时间与渲染时间比较过，结论明确。</li><li>把 AI 视频工具：先看可控性 的条件写成一行，能复述给下一个人。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《AI 视频工具：先看可控性》里的单点问题：回到<a href="https://tools.tvcn.org/article/ai-video-tool/">《AI 视频工具：先看可控性》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://tools.tvcn.org/article/ai-audio-tool/">《AI 音频工具：授权与音质》</a>，先不改第三页。</li><li>只做验收：看<a href="https://tools.tvcn.org/article/cloud-render/">《云渲染：成本与传输》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“AI 工具不是一键出片；生成、配音、渲染和人工复核必须排成一条可追溯的链。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“AI 工具不是一键出片；生成、配音、渲染和人工复核必须排成一条可追溯的链。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“AI 工具不是一键出片；生成、配音、渲染和人工复核必须排成一条可追溯的链。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“AI 工具不是一键出片；生成、配音、渲染和人工复核必须排成一条可追溯的链。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“AI 工具不是一键出片；生成、配音、渲染和人工复核必须排成一条可追溯的链。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+<!-- SOURCES_END -->
+

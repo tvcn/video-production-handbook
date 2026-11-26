@@ -23,17 +23,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.method.method-portfolio-empty.en
-- main.method.method-deadline.en
-- main.method.method-first-client.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [main.method.method-color-cast, main.method.method-continuity-break, context.history.16mm]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>When the client says “one more version,” ask which problem it solves: pacing, information or emotion. Then offer two options with their costs. Let them choose rather than redefine at the next meeting.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -74,3 +70,11 @@ source_kind: experience
 ### Ten client-revision checks
 <ul><li>Brief has five items</li><li>Client confirms on paper</li><li>References marked structure or style</li><li>Bug fixes free</li><li>Scope changes quoted</li><li>Taste changes use the round</li><li>Every revision numbered</li><li>Clear cutoff time</li><li>Timecoded review link</li><li>Contradictions return to the brief</li></ul><p>Revisions are not a fight. They are proof that two people still lack the same one-page answer to “what is this film.”</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S22] [National People's Congress: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Write the objective in one sentence and test every revision ”) against Statutory text on portrait rights, privacy, contracts and location rights; not a substitute for an on-set test.
+- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Write the objective in one sentence and test every revision ”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

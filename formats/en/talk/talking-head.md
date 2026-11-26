@@ -23,14 +23,13 @@ cover: /images/formats/talking-head.webp
 diagram: /images/diagrams/en/talking-head.png
 diagram_alt: "Talking head: keep the ear with you"
 diagram_caption: "Short sentences, concrete examples, eyes on the lens. The viewer cannot hear punctuation, only whether a sentence lands."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [formats.drama.vertical-drama.en, formats.ad.product-ad.en, formats.vlog.vlog-structure.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [formats.talking-head.talking-head-breakdown, formats.talking-head.talking-head-template, story.directing.actor-adjustment]
 depth: deep
 deep_minutes: 6
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -86,3 +85,11 @@ Keep your hands visible. Rest them on the table, at chest height, or at your sid
 ### Ten talking-head checks
 <ul><li>Judgment or conflict in three seconds</li><li>One idea per sentence</li><li>Something new every ten seconds</li><li>At least three concrete examples or numbers</li><li>Eye-level half-body as the main shot</li><li>Hands or product visible</li><li>Change form every twenty to thirty seconds</li><li>Jump cuts remove pauses only</li><li>Two subtitle lines max</li><li>A real question at the end</li></ul><p>Talking head is not reading. It is cutting one argument into pieces the viewer can swallow.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A talking-head piece is not an article read aloud. The viewe”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A talking-head piece is not an article read aloud. The viewe”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

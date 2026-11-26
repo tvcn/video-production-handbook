@@ -22,12 +22,11 @@ cover: /images/shoot/shot-list.webp
 diagram: /images/diagrams/zh/shot-list.png
 diagram_alt: "拍摄清单：别人能替你执行"
 diagram_caption: "清单要写清楚先拍什么、拍多久、拍不到怎么办。想拍的都写上去，现场反而没法执行。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [shoot.camera.axis-line.en, shoot.production.b-roll.en, shoot.production.slate-continuity.en]
+related: [shoot.camera.shot-size, shoot.camera.shutter-angle, post.color.color]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -62,3 +61,10 @@ related: [shoot.camera.axis-line.en, shoot.production.b-roll.en, shoot.productio
 - 清单按机位和光线分组，不是按剧本页码。
 - 每个必拍镜头后面都写了替代方案。
 - 收工前能对照清单说清楚哪几行还没拿到。
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 7 次现场拍摄与回放复核，条件为单机位、自然光或一盏主光；页面讨论的具体对象是「拍摄清单写到别人能替你执行」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

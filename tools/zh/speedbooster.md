@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.matte-box.en
-- tools.capability.anamorphic.en
-- tools.capability.softbox.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.capability.ssd-raid, tools.workflow.storage, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>需要原生自动对焦、防抖或轻量时，直接买对应卡口的镜头更可靠。增光减焦是转接方案，不是无代价升级。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -40,3 +36,15 @@ source_kind: experience
 <!-- DIAGRAM_END -->
 <section><h2 id="section-1">选型先看什么</h2><ul><li><strong>画幅与倍率：</strong>确认全画幅镜头到 APS-C/M43 的倍率，以及是否覆盖传感器；错误倍率会暗角。</li><li><strong>光圈与对焦：</strong>增光会改变等效光圈和景深；自动对焦速度与兼容性要实测。</li><li><strong>卡口与间隙：</strong>确认镜头后组不碰增光片；某些广角镜头无法使用。</li></ul><h2 id="section-2">什么时候不要用</h2></section><section><h2 id="section-3">现场</h2><p>同机位同镜头，装与不装各拍一张；比较视角、进光量和四角锐度，边缘软就降一档。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>同机位同镜头，装与不装各拍一张。</li><li>比较视角、进光量和四角锐度。</li><li>边缘软就降一档，别硬开。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别把增光减焦当免费光圈；边缘软和暗角是它的账。</p></section>
 <h2>验收</h2><ul><li>装与不装各有一张同机位对比。</li><li>视角变宽和进光量提升能被指出。</li><li>四角锐度有检查，软了有降一档的对照。</li></ul>
+
+
+> 意图分工：本页负责「增光减焦：画幅与光圈」的可执行细节；同集群先读 <a href="https://tools.tvcn.org/article/buy-lens-first/">先买镜头：焦段、光圈与呼吸</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 4 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「增光减焦：画幅与光圈」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

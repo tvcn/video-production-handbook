@@ -22,12 +22,11 @@ cover: /images/shoot/lens-distance.webp
 diagram: /images/diagrams/zh/lens-distance.png
 diagram_alt: "广角 / 标准 / 长焦：观众站哪儿"
 diagram_caption: "广角把前后景拉开，长焦把人和背景压成一层。先决定观众站在门口、桌边还是街对面，再换镜头。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [shoot.camera.shot-size.en, shoot.production.camera-height.en, shoot.camera.camera-move.en]
+related: [shoot.lighting.lighting-style, shoot.live.live-encoding, post.color.color]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -62,3 +61,15 @@ related: [shoot.camera.shot-size.en, shoot.production.camera-height.en, shoot.ca
 - 广角贴脸时，脸的变形是不是你要的？
 - 长焦有没有把空间压成一张纸，观众还知道人在哪吗？
 - 换镜头之前，机位是不是已经试过能走的位置？
+
+
+> 意图分工：本页负责「焦距：先决定观众站多远」的可执行细节；同集群先读 <a href="https://shoot.tvcn.org/article/camera-height/">机位高度：蹲下比换镜头有用</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 6 次现场拍摄与回放复核，条件为单机位、自然光或一盏主光；页面讨论的具体对象是「焦距：先决定观众站多远」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

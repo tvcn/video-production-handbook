@@ -24,15 +24,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.calculator.budget-calculator.en
-- tools.calculator.aspect-calculator.en
-- tools.calculator.bitrate-calculator.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.tutorial.subtitle-srt, tools.tutorial.sync-multicam, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>CPS (characters per second) = characters ÷ display seconds . Chinese should stay under 9–12 CPS, English under 15–20; if over, split the line or hold it longer.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -51,3 +47,10 @@ source_kind: experience
 <noscript><p class="calc-noscript">With JavaScript off: 24 characters in 2 seconds = 12 CPS.</p></noscript>
 </section><script src="/assets/calculators.js" defer></script><aside class="regional-note"><p><strong>Regional note for US / UK / EU readers</strong></p><p>This English page keeps mainland-China examples where they are part of the method. Read platform names as examples, not as the only market: Douyin ↔ TikTok/Reels, Bilibili ↔ YouTube, Xiaohongshu ↔ Instagram/Pinterest; RMB figures are not converted here. Voltage, plug, warranty, import duty and radio certification differ by market; check the local spec sheet before ordering gear or batteries.</p></aside><section><p><strong>Boundary</strong></p><p>It does not replace an on-set reading. The number is a starting point; the monitor, scope or actual recording decides.</p></section><section><h2>Alternative</h2><p>If “Chinese under nine characters per second, English under” is not the main problem, start with the basic move behind “Split the sentence if over.”. Upgrade only after both hold.</p></section><section><h2>60-second test</h2><p>Run a 60-second test with the gear you own, focused on “Chinese under nine characters per second, English under”, and record one number. If the number does not change, do not add budget.</p></section>
 <h2>Check</h2><ul><li>Every caption stays under nine Chinese characters or fifteen English characters per second.</li><li>Over-limit lines are split or extended, not shrunk.</li><li>At playback speed, each caption reads in one pass without pausing.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 4 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Subtitle CPS: Can They Read It?”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

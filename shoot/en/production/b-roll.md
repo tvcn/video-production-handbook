@@ -28,17 +28,13 @@ cover: /images/shoot/b-roll.webp
 diagram: /images/diagrams/en/b-roll.png
 diagram_alt: 'B-roll: turn one line into four shots'
 diagram_caption: When the subject says “I set up at five every morning” and the camera stays on the face, the audience can only listen. B-roll makes the line visible.
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related:
-- shoot.coverage.coverage.en
-- shoot.production.shot-list.en
-- shoot.production.slate-continuity.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [shoot.blocking.blocking, shoot.sound.boom-operator, post.color.color]
 depth: deep
 deep_minutes: 5
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -86,3 +82,12 @@ Play it back in the car before you leave. If something is missing, go back while
 ### Ten b-roll checks
 <ul><li>Shoot hands, feet, backs first</li><li>Every action has a full and a detail take</li><li>Every b-roll shot answers a question</li><li>One group each for space, detail, change</li><li>At least two takes per group</li><li>B-roll has an in and an out</li><li>Keep each shot under three seconds</li><li>Color and movement do not overpower the story</li><li>Sound does not bury dialogue</li><li>Pick up missing details before wrap</li></ul><p>B-roll is not extra; it is the edit’s way out.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“When someone says “I set up at five every morning” and the c”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“When someone says “I set up at five every morning” and the c”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“When someone says “I set up at five every morning” and the c”) against Body specifications, recording formats and interfaces; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

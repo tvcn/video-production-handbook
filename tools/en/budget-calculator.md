@@ -24,15 +24,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.calculator.bitrate-calculator.en
-- tools.calculator.subtitle-cps.en
-- tools.calculator.dof-calculator.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.producing.budget-contingency, tools.producing.budget-map, shoot.camera.axis-line]
 source_kind: experience
 ---
-
 <p>Split the total before quoting line items: shoot 50% / post 25% / gear and location 15% / contingency 10% . Contingency is not profit; it absorbs reschedules, pickups and overtime.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -51,3 +47,10 @@ source_kind: experience
 <noscript><p class="calc-noscript">With JavaScript off: 20,000 at 30/30/15/10% leaves 3,000 unallocated.</p></noscript>
 </section><script src="/assets/calculators.js" defer></script><section><p><strong>Boundary</strong></p><p>It does not replace an on-set reading. The number is a starting point; the monitor, scope or actual recording decides.</p></section><section><h2>Alternative</h2><p>If “Split total: people 40, gear 25, location 15,” is not the main problem, start with the basic move behind “Keep 10 percent buffer in each block.”. Upgrade only after both hold.</p></section><section><h2>60-second test</h2><p>Run a 60-second test with the gear you own, focused on “Split total: people 40, gear 25, location 15,”, and record one number. If the number does not change, do not add budget.</p></section>
 <h2>Check</h2><ul><li>People, gear, location, and post have explicit shares.</li><li>Each block holds a 10 percent buffer that is not pre-spent.</li><li>Overspend adjusts within its block, not borrowed across.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 3 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Budget Calculator: Four Buckets”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

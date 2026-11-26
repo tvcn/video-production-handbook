@@ -26,15 +26,15 @@ authors:
 - TVCN Research Desk
 sources:
 - S01
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.literacy.algorithm-feed.en
-- context.literacy.clickbait.en
-- context.literacy.sponsorship-disclosure.en
+- S02
+- S03
+- S16
+- S10
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.law.insurance-equipment, context.law.invoice-tax-cross-border, formats.documentary.documentary-template]
 source_kind: sourced
 ---
-
 <p>Look for three cuts first: picture jump, sound break, lip mismatch. Watch two seconds before and after each and ask what is missing.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -47,9 +47,12 @@ source_kind: sourced
 <h2>Check</h2><ul><li>The unedited footage or full interview was found and ten seconds on each side watched.</li><li>The removed premise, opposing view, and time gap are marked.</li><li>You can say whether the conclusion changes without that line.</li></ul>
 
 <!-- SOURCES_START -->
-## References
+## References and further reading
 
-- [S01] UNESCO: Media and Information Literacy
-
-Full links and notes: [`SOURCES.md`](../../about/).
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Editing manipulation often removes one sentence; cut the pre”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Editing manipulation often removes one sentence; cut the pre”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Editing manipulation often removes one sentence; cut the pre”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Editing manipulation often removes one sentence; cut the pre”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Editing manipulation often removes one sentence; cut the pre”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

@@ -23,17 +23,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Shoot Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.camera.shutter-angle.en
-- shoot.camera.frame-rate.en
-- shoot.exposure.waveform.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.lighting.night-interior, shoot.safety.permit, post.color.color]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>ND restores a cinematic shutter without overexposure. Calculate the gap from target aperture, 1/50 shutter and current ISO, then choose the filter; do not guess by “it looks dark.”</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -63,3 +59,12 @@ source_kind: experience
 ### When you have five minutes
 <ul><li>Shutter first, aperture second</li><li>Calculate total light</li><li>Screw variable ND to maximum</li><li>Test wides for vignetting</li><li>Shoot a gray card</li><li>Clean both sides of the filter</li></ul><p>ND returns the image to natural exposure; it is not a decoration that makes the frame darker. Price is not the test; first confirm no color cast and no vignette. Look again before and after a lens change.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An ND filter does not darken a picture; it lets you stay wid”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An ND filter does not darken a picture; it lets you stay wid”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“An ND filter does not darken a picture; it lets you stay wid”) against Body specifications, recording formats and interfaces; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.night-practical.en
-- tools.tutorial.lighting-window.en
-- tools.tutorial.proxy-create.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.guide.crew-management, tools.capability.davinci-node, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>色卡不是开机仪式，是后期校正的锚点。每个场景、每次换灯或换色温，拍一张色卡占画面 1/3，焦点清楚，曝光正常；不要只在第一条拍。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -43,3 +39,15 @@ source_kind: experience
 <ol><li>先拍灰卡，再拍色卡；灰卡曝光到波形 50–60%，不要过曝。</li><li>每换一个场景或色温，重拍一次；不要一个场景用整场的卡。</li><li>后期先做相机匹配，再做风格；风格 LUT 放在匹配之后。</li></ol>
 <p>验收：把色卡帧和成片对比，中性灰不偏色、肤色自然；偏绿或偏品红，先查现场白平衡。</p></section><section><h2 id="section-4">现场</h2><p>开机先拍色卡，充满画面三分之一；后期用色卡匹配，别凭记忆调。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>开机先拍色卡。</li><li>色卡充满画面三分之一。</li><li>后期用色卡匹配，别凭记忆调。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别在收工前补拍色卡；那时的光和开机时不一样。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>每一项参数都能对应一个具体的拍摄问题</li><li>重量、供电和接口在真实机位上成立</li><li>60 秒测试能留下一个可比较的数字</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>只看参数，不看接口、供电和重量</li><li>买回来才发现电池、存储或机身不匹配</li><li>没有 60 秒测试，问题被带到正式拍摄</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用现有器材做 60 秒测试，只测“开机先拍色卡”；记下两个数字：一个是你需要的，一个是器材实际给出的。</p></section>
 <h2>验收</h2><ul><li>色卡在开机时、场景光下拍摄。</li><li>色卡占画面约三分之一，色块没有反光。</li><li>后期匹配用了色卡，没有凭记忆调色。</li></ul>
+
+
+> 意图分工：本页负责「色卡拍摄：后期对色」的可执行细节；同集群先读 <a href="https://post.tvcn.org/article/lut/">LUT：起点不是终点</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 3 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「色卡拍摄：后期对色」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 后期组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.sound.music-editing.en
-- post.color.scopes.en
-- post.vfx.keying.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.color.hdr, post.color.hdr-workflow, shoot.camera.composition]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>Foley 的第一关是同步：脚步落地的帧、衣服摩擦的帧、杯子放下的帧。先把动作对上，再加重量和材质；不同步的 Foley 比没有更假。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -64,3 +60,12 @@ source_kind: experience
 ### 只剩五分钟时
 <ul><li>先录房间声</li><li>脚步分鞋底、地面、节奏</li><li>衣服摩擦单独录</li><li>录的时候看画面</li><li>动作起点对齐</li><li>混音前 solo 检查</li></ul><p>Foley 不是音效库，是演员不在场时，身体留下的那点重量。先让脚步落在地上，再让声音变好听。脚步先落地。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“Foley 不是配背景音，它把画面里的动作重新做成声音：脚步、衣服、门把手。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S27] [EBU R128 响度](https://tech.ebu.ch/publications/r128) — 2026-11-26 访问。用于核对首段“Foley 不是配背景音，它把画面里的动作重新做成声音：脚步、衣服、门把手。”中的术语与公开背景（广播响度目标、真峰值与测量方法）；不替代现场测试。
+- [S67] [IETF：RFC 8216：HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216) — 2026-11-26 访问。用于核对首段“Foley 不是配背景音，它把画面里的动作重新做成声音：脚步、衣服、门把手。”中的术语与公开背景（HLS 分片、清单与播放）；不替代现场测试。
+<!-- SOURCES_END -->
+

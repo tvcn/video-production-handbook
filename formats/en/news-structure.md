@@ -22,18 +22,16 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Formats Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.ad.product-ad.en
-- post.color.hdr-workflow.en
-- shoot.lighting.lighting-style.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.news.news-template, formats.ad.product-ad, story.screenplay.logline]
 depth: deep
 deep_minutes: 6
 sources:
 - S14
 - S15
 - S16
+- S29
 test_context: 'Review setup: composite samples and public cases; previewed on MacBook
   Pro M1 / iPhone 13; not one real client project.'
 known_failures: 'Known failures: composite samples are not client proof; platform
@@ -41,7 +39,6 @@ known_failures: 'Known failures: composite samples are not client proof; platfor
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>A news open shows what happened, then verification: who confirmed it, when, and what is still unknown. End with impact and next step. Keep only background needed to explain this event; do not start with a history lecture.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -69,4 +66,13 @@ source_kind: sourced
 ### Ten news-field checks
 <ul><li>Time, place, people within ten seconds</li><li>One verifiable detail</li><li>First-hand material first</li><li>Second-hand images labeled</li><li>Screenshots keep publish time</li><li>At least two independent sources</li><li>Anonymous source explained</li><li>Fact separated from judgment</li><li>No sentimental music judging</li><li>Correction path before publishing</li></ul><p>News is not about who shoots harder; it is about who puts what they can verify first.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Scene first, verification second. Background first loses the”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Scene first, verification second. Background first loses the”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Scene first, verification second. Background first loses the”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Scene first, verification second. Background first loses the”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

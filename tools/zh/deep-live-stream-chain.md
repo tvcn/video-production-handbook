@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.wireless-video
-- tools.capability.video-assist
-- tools.capability.timecode
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [tools.deep.deep-location-sound-chain, tools.deep.deep-one-light-kit, shoot.camera.axis-line]
 sources:
 - S17
+- S29
+- S23
+- S30
+- S70
 source_kind: sourced
 ---
-
 <p>直播不是把相机接上电脑；无线、监看、时码和备份任何一环断了，现场就停。 单看《无线图传：延迟与干扰》只能解决一个局部；把《无线图传：延迟与干扰》《视频助理：现场回放》《时间码：多机同步》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别让导演和跟焦共用一路图传；一断，两个人都停</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别只备份不标记；导演要回放时，全场陪你翻卡</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别只对一次时间码就拍一整天；漂移会在下午出现</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>走遍拍摄点，延迟和断点有记录。</li><li>导演监看和跟焦监看是两路独立信号。</li><li>断点位置有应对，比如加天线或换频段。</li><li>每条素材有好坏、场次、镜号标记。</li><li>卡在拍摄间隙完成备份，有校验记录。</li><li>导演点一条，能在 30 秒内放到。</li><li>录音机和摄影机显示同一时间码。</li><li>10 秒测试素材在后期合板偏差小于 1 帧。</li><li>拍摄中途有第二次对码记录，不是只对一次。</li><li>把 无线图传：延迟与干扰 的条件写成一行，能复述给下一个人。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《无线图传：延迟与干扰》里的单点问题：回到<a href="https://tools.tvcn.org/article/wireless-video/">《无线图传：延迟与干扰》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://tools.tvcn.org/article/video-assist/">《视频助理：现场回放》</a>，先不改第三页。</li><li>只做验收：看<a href="https://tools.tvcn.org/article/timecode/">《时间码：多机同步》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — 2026-11-26 访问。用于核对首段“直播不是把相机接上电脑；无线、监看、时码和备份任何一环断了，现场就停。”中的术语与公开背景（通讯社对独立、准确与不带偏见的公开承诺）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“直播不是把相机接上电脑；无线、监看、时码和备份任何一环断了，现场就停。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“直播不是把相机接上电脑；无线、监看、时码和备份任何一环断了，现场就停。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“直播不是把相机接上电脑；无线、监看、时码和备份任何一环断了，现场就停。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“直播不是把相机接上电脑；无线、监看、时码和备份任何一环断了，现场就停。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
+<!-- SOURCES_END -->
+

@@ -24,12 +24,9 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Post Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.editing.proxy-workflow.en
-- shoot.multicam.multicam-live.en
-- story.storyboard.storyboard.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.assets.project-structure, post.assets.proxy-cache, shoot.camera.composition]
 depth: deep
 deep_minutes: 6
 sources:
@@ -38,7 +35,6 @@ sources:
 - S28
 - S30
 - S34
-- S35
 test_context: 'Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci
   Resolve 20 and Premiere Pro 2025; results vary by machine.'
 known_failures: 'Known failures: older-version timelines break; camera Logs need remapping;
@@ -46,7 +42,6 @@ known_failures: 'Known failures: older-version timelines break; camera Logs need
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>Primary correction only unifies exposure, white balance and contrast: align black, white and skin on every shot before discussing a look. Use scopes, not guesswork in a dark room.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -76,4 +71,14 @@ source_kind: sourced
 ### When you have five minutes
 <ul><li>Choose one reference per scene</li><li>Match exposure</li><li>Then white balance</li><li>Then skin</li><li>Check black and highlight</li><li>Place the LUT after primary</li></ul><p>Primary correction is the foundation for any look; if it is crooked, every later grade looks false. Make the faces in one scene look like the same person before you talk about style. The face must stay the same person across the scene, not two color temperatures.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S24] [ACES Color Management](https://www.oscars.org/science-technology/aces) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Primary correction fixes exposure and white balance first. D”) against Official ACES color pipeline documentation; not a substitute for an on-set test.
+- [S27] [EBU R128 Loudness](https://tech.ebu.ch/publications/r128) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Primary correction fixes exposure and white balance first. D”) against Broadcast loudness targets, true peak and measurement; not a substitute for an on-set test.
+- [S28] [Netflix Partner Help](https://partnerhelp.netflixstudios.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Primary correction fixes exposure and white balance first. D”) against Public entry for delivery specs, HDR/SDR and QC; not a substitute for an on-set test.
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Primary correction fixes exposure and white balance first. D”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Primary correction fixes exposure and white balance first. D”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

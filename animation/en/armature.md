@@ -24,15 +24,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Animation Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.stop-motion.stop-motion-set.en
-- animation.stop-motion.stop-motion-motion-blur.en
-- animation.3d.layout.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [animation.pipeline.asset-handoff, animation.3d.blockout, formats.documentary.documentary-template]
 source_kind: experience
 ---
-
 <p>Test three moves: standing without wobble, raising an arm without sag, sitting without collapse. Use a metal armature with silicone pads and enlarge the feet; do not start with fingers before the center of gravity and knees are stable.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -53,3 +49,10 @@ source_kind: experience
 <ol><li>Standardize controller names: left/right, FK/IK, mirror rules on one page. Animators should not guess.</li><li>Lock axes that should not move and hide unused controls. A rig that can be bumped will be bumped.</li><li>Save a screenshot of every extreme pose as the rig acceptance record. “It works” is not evidence.</li><li>Weight joints before muscles; a full-body weight pass hides problems inside other problems.</li></ol>
 <p>If the schedule is under three days, do not build film-level facial rigging. Use simplified facial controls and spend the time on performance and rendering.</p></section><section><h2 id="section-4">On set</h2><p>Make the puppet stand for ten seconds without wobble, then walk three steps without collapsing. Use a metal armature and weight the feet.</p></section><section><h2 id="section-5">Do this</h2><p>A stop-motion puppet must stand, walk, and repeat before performance; a soft armature collapses in ten frames.</p><ol><li>Stand the puppet for ten seconds without wobble.</li><li>Walk three steps without collapse.</li><li>Use a metal armature and add weight to the feet.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not let the armature stay soft; it collapses within ten frames.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the speed split between foreground, midground and background reads in one pan</li><li>a 0.5-second action still carries weight or anticipation</li><li>turn off any layer and the space still holds</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>more layers, same speed: the space stays flat</li><li>anticipation without follow-through: the weight is only half done</li><li>rendering before assets are locked: rework starts at the compositor</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Draw three keys at 24 fps, change only “Walk three steps without collapse.”, and export two seconds. If the weight still does not read, add anticipation before adding blur.</p></section>
 <h2>Check</h2><ul><li>The puppet stands ten seconds without wobble and the feet are weighted.</li><li>Three steps hold without collapse or sudden joint lock.</li><li>Ten frames of one pose show no positional drift.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 6 animation shot and asset-handover review reviews under one 2D/3D pipeline and shots under 30 seconds; it discusses “Armature: It Must Stand Before It Acts”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

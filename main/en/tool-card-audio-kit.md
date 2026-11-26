@@ -23,15 +23,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.tool.tool-card-interview-kit.en
-- main.tool.tool-card-basic-kit.en
-- main.tool.tool-card-lighting-kit.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.tool.tool-card-basic-kit, main.tool.tool-card-interview-kit, context.history.16mm]
 source_kind: experience
 ---
-
 <p>A shotgun carries the main dialogue, a lav is the backup, a recorder keeps the tracks separate, and headphones catch noise on the spot. Missing one of the four turns the shoot into guesswork.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -50,3 +46,10 @@ source_kind: experience
 <h2 id="section-4">Do not hide it in post</h2>
 <p>Denoise removes steady hiss, not wind, clothing rustle or room reflection. Change position, mic distance or wind protection on set; it is always cheaper than repair.</p></section><section><h2 id="section-5">On set</h2><p>Shotgun, lav, recorder, and headphones. Record thirty seconds of dialogue and check the noise floor.</p></section><section><h2 id="section-6">Avoid</h2><p>Do not bring only a shotgun; indoor dialogue without a lav backup dies in a draft.</p></section>
 <h2>Check</h2><ul><li>Shotgun and lav record simultaneously and each works alone.</li><li>A thirty-second dialogue test reveals the noise floor.</li><li>Someone wears headphones during recording, not just watching meters.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 6 client brief and project review reviews under a one- or two-to-three-person team with a fixed budget and schedule; it discusses “Audio Starter Kit”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

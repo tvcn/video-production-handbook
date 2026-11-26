@@ -23,15 +23,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.calculator.bitrate-calculator.en
-- tools.calculator.nd-calculator.en
-- tools.calculator.budget-calculator.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.tutorial.dual-system-sync, tools.guide.export-fail-fix, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>Hyperfocal H = f × f ÷ (N × c) + f , where f is focal length in mm, N is f-number and c is the circle of confusion (0.03mm for full frame). At focus distance s, near = H × s ÷ (H + s), far = H × s ÷ (H - s) when s is below H.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -50,3 +46,10 @@ source_kind: experience
 <noscript><p class="calc-noscript">With JavaScript off, use the formula; 35mm, f/2.8, 3m, c=0.03mm gives about 1.3m DOF.</p></noscript>
 </section><script src="/assets/calculators.js" defer></script><section><p><strong>Boundary</strong></p><p>It does not replace an on-set reading. The number is a starting point; the monitor, scope or actual recording decides.</p></section><section><h2>Alternative</h2><p>If “Enter focal length, aperture, and subject distance.” is not the main problem, start with the basic move behind “Read the depth range.”. Upgrade only after both hold.</p></section><section><h2>60-second test</h2><p>Run a 60-second test with the gear you own, focused on “Enter focal length, aperture, and subject distance.”, and record one number. If the number does not change, do not add budget.</p></section>
 <h2>Check</h2><ul><li>Focal length, aperture, and distance are measured values.</li><li>Near and far depth limits are numeric and show blocking room.</li><li>Blocking stays inside depth without desperate focus pulls.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 6 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Depth of Field Calculator: Distance and Aperture”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

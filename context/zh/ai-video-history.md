@@ -24,15 +24,14 @@ authors:
 sources:
 - S19
 - S20
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.history.vfx-history.en
-- context.history.streaming.en
-- context.literacy.edit-manipulation.en
+- S01
+- S02
+- S03
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.literacy.algorithm-feed, context.history.animation.animation-history, formats.documentary.documentary-template]
 source_kind: sourced
 ---
-
 <p>AI 影像不是从生成开始的。它先经过滤镜、风格迁移、超分、抠像和补帧，最后才进入文生视频。每一步都在把“后期修复”变成“前期生成”，也把作者、授权和证据问题推到台前。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -47,8 +46,10 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S19] GAN 原始论文（2014）
-- [S20] DDPM 原始论文（2020）
-
-完整链接与用途见 [`SOURCES.md`](../../about/)。
+- [S19] [GAN 原始论文（2014）](https://arxiv.org/abs/1406.2661) — 2026-11-26 访问。用于核对首段“AI 影像不是从生成视频开始；滤镜、修复、抠像、换脸，每一步都在训练“自动修改画面”。”中的术语与公开背景（生成对抗网络：生成模型与判别模型互相博弈）；不替代现场测试。
+- [S20] [DDPM 原始论文（2020）](https://arxiv.org/abs/2006.11239) — 2026-11-26 访问。用于核对首段“AI 影像不是从生成视频开始；滤镜、修复、抠像、换脸，每一步都在训练“自动修改画面”。”中的术语与公开背景（扩散模型：从加噪到去噪的生成路径）；不替代现场测试。
+- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“AI 影像不是从生成视频开始；滤镜、修复、抠像、换脸，每一步都在训练“自动修改画面”。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“AI 影像不是从生成视频开始；滤镜、修复、抠像、换脸，每一步都在训练“自动修改画面”。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“AI 影像不是从生成视频开始；滤镜、修复、抠像、换脸，每一步都在训练“自动修改画面”。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
 <!-- SOURCES_END -->
+

@@ -22,12 +22,11 @@ cover: /images/post/subtitles.webp
 diagram: /images/diagrams/zh/subtitles.png
 diagram_alt: "字幕的三条线：字数、行数、停留时间"
 diagram_caption: "字幕不是逐字记录。中文一行 12–16 字，英文 32–42 字符，最多两行；读不完就删，不要加速。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [post.editing.sound-bridge.en, post.editing.mix-dialogue.en, post.editing.cutting-points.en]
+related: [post.titles.title-design, post.vfx.tracking, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -68,3 +67,10 @@ related: [post.editing.sound-bridge.en, post.editing.mix-dialogue.en, post.editi
 - 中文每行不超过 16 字，英文不超过 42 个字符，最多两行。
 - 数字、名字、否定词没有被拆行或删掉。
 - 字幕不挡嘴和手，竖屏留在底部安全区。
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 5 次后期项目复盘，条件为4K 以内素材、常规平台交付；页面讨论的具体对象是「字幕：让观众读完，不是逐字抄」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

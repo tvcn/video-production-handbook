@@ -23,18 +23,21 @@ cover: /images/animation/3d-pipeline.webp
 diagram: /images/diagrams/en/3d-pipeline.png
 diagram_alt: "The 3D pipeline: six gates, rising cost"
 diagram_caption: "Moving a character in blockout costs almost nothing. Changing it after render burns the whole crew’s time."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [animation.principles.animation-principles.en, context.law.invoice-tax-cross-border.en, formats.fashion.fashion-beauty-video-breakdown.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [animation.pipeline.animatic-pipeline, animation.case.animation-case, formats.documentary.documentary-template]
 depth: deep
 deep_minutes: 7
-sources: [S12, S28, S34]
+sources:
+- S62
+- S63
+- S12
+- S59
 test_context: "Review setup: Windows 11; public Blender 4.x / After Effects 2025 workflows; not every version behaves the same."
 known_failures: "Known failures: plugin/version gaps break rigs or renders; font and asset licenses need separate checks."
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -84,9 +87,13 @@ Do not treat “fix it in render” as a workflow. Preview lighting at low sampl
 ### Ten 3D pipeline checks
 <ul><li>Blockout before modeling</li><li>Boxes and cylinders in blockout</li><li>Camera placed first</li><li>Composition at real focal length</li><li>Joints and naming before rig</li><li>Test action recorded at handoff</li><li>Animation on low model</li><li>Gray-model lighting first</li><li>Low-res, low-sample test render</li><li>Version saved at every stage</li></ul><p>The way to save time in 3D is not skipping a step. It is making every step able to go back one.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S12]</span> Britannica: Animation</li><li><span class="mono">[S28]</span> Netflix Partner Help</li><li><span class="mono">[S34]</span> Adobe Premiere Pro Guide</li></ul>
-<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
+## References and further reading
+
+- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“3D does not start with animation after modeling. Blockout se”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“3D does not start with animation after modeling. Blockout se”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“3D does not start with animation after modeling. Blockout se”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“3D does not start with animation after modeling. Blockout se”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

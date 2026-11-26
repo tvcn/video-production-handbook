@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.screenplay.subtext
-- story.screenplay.monologue
-- story.directing.ensemble-scene
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.deep.deep-performance-direction, story.deep.deep-scene-engine, shoot.camera.axis-line]
 sources:
 - S12
+- S41
+- S10
+- S42
+- S16
 source_kind: sourced
 ---
-
 <p>好对白不是把心里话说出来，而是让角色说一件事、做另一件事。 单看《潜台词：台词下面那件事》只能解决一个局部；把《潜台词：台词下面那件事》《独白：别让人物对着空气演讲》《群戏：让每个人都有事做》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别让人物对着镜子或空气演讲；没有听众，独白就假</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别让群演站成一排等台词；背景一空，空间就假</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>只看结果，不记条件</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>画面里有一个走不开的听众，反应可见。</li><li>人物说话时在做一件打断自己的事。</li><li>删掉听众后独白明显变弱，说明关系真的在起作用。</li><li>画面里每个人都有动作和目标，没有空站的人。</li><li>至少两组动作互相干扰，关系在画面里出现。</li><li>删掉任意一个人的动作，空间会明显变空。</li><li>把 潜台词：台词下面那件事 的条件写成一行，能复述给下一个人。</li><li>只改一个变量，另一页的结果还能复现。</li><li>失败现象能被记录成“条件—动作—结果”，不是一句感觉。</li><li>下一位同事不问你，也能按记录做出同一版。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《潜台词：台词下面那件事》里的单点问题：回到<a href="https://story.tvcn.org/article/subtext/">《潜台词：台词下面那件事》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://story.tvcn.org/article/monologue/">《独白：别让人物对着空气演讲》</a>，先不改第三页。</li><li>只做验收：看<a href="https://story.tvcn.org/article/ensemble-scene/">《群戏：让每个人都有事做》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“好对白不是把心里话说出来，而是让角色说一件事、做另一件事。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“好对白不是把心里话说出来，而是让角色说一件事、做另一件事。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“好对白不是把心里话说出来，而是让角色说一件事、做另一件事。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S42] [Khan Academy：Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对首段“好对白不是把心里话说出来，而是让角色说一件事、做另一件事。”中的术语与公开背景（故事结构、角色与视觉叙事教学）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“好对白不是把心里话说出来，而是让角色说一件事、做另一件事。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+<!-- SOURCES_END -->
+

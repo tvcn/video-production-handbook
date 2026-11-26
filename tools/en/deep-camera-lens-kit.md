@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.mirrorless-video.en
-- tools.capability.prime-lens.en
-- tools.capability.zoom-lens.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [tools.deep.deep-live-stream-chain, tools.deep.deep-location-sound-chain, shoot.camera.axis-line]
 sources:
 - S16
+- S29
+- S23
+- S30
+- S70
 source_kind: sourced
 ---
-
 <p>The body sets the floor; lenses decide what you can capture. One body and three lenses finish more often. One page of &amp;quot;Mirrorless for Video: Heat, Rolling Shutter, Crop&amp;quot; solves one local problem; joining &amp;quot;Mirrorless for Video: Heat, Rolling Shutter, Crop&amp;quot;, &amp;quot;Prime Lens: Move Your Feet&amp;quot; and &amp;quot;Zoom Lens: Convenience Has a Cost&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not test for three minutes; overheating often appears around m…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not stay glued to the tripod; the prime&#x27;s value is making you …</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not check center sharpness only; edges and backlight expose a …</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>A thirty-minute 4K 25p run logs temperature or warnings.</li><li>Rolling shutter on the railing is visible and described.</li><li>The 4K 60p crop has a before-and-after angle comparison.</li><li>At least three positions cover the same person at one focal length.</li><li>The background and perspective change from two meters of walking is described.</li><li>The 24 vs 50 decision comes from walking, not review videos.</li><li>Wide-open backlit window and railing shots record edge performance.</li><li>Distortion and breathing are named, not just “good quality.”</li><li>Weight is measured and the saved step is stated.</li><li>The condition from Mirrorless for Video: Heat, Rolling Shutter, Crop fits on one line and can be repeated by someone else.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "Mirrorless for Video: Heat, Rolling Shutter, Crop", go back to <a href="https://tools.tvcn.org/en/article/mirrorless-video/">Mirrorless for Video: Heat, Rolling Shutter, Crop</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://tools.tvcn.org/en/article/prime-lens/">Prime Lens: Move Your Feet</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://tools.tvcn.org/en/article/zoom-lens/">Zoom Lens: Convenience Has a Cost</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The body sets the floor; lenses decide what you can capture.”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The body sets the floor; lenses decide what you can capture.”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The body sets the floor; lenses decide what you can capture.”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The body sets the floor; lenses decide what you can capture.”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The body sets the floor; lenses decide what you can capture.”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

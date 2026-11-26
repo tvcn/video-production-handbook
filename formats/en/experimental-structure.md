@@ -24,18 +24,16 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Formats Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.fashion.fashion-beauty-video-breakdown.en
-- post.color.hdr-workflow.en
-- shoot.coverage.coverage.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.fashion.fashion-beauty-video-breakdown, formats.fashion.fashion-beauty-video-structure, story.screenplay.logline]
 depth: deep
 deep_minutes: 6
 sources:
 - S14
 - S15
 - S16
+- S29
 test_context: 'Review setup: composite samples and public cases; previewed on MacBook
   Pro M1 / iPhone 13; not one real client project.'
 known_failures: 'Known failures: composite samples are not client proof; platform
@@ -43,7 +41,6 @@ known_failures: 'Known failures: composite samples are not client proof; platfor
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>An experimental film is not random cutting. Write one rule first: fixed camera, fixed duration, fixed color, or one action per shot. The whole piece varies that rule so the strangeness has a logic.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -84,4 +81,13 @@ source_kind: sourced
 ### Ten experimental-film checks
 <ul><li>The rule fits in one sentence</li><li>The rule is simple and repeatable</li><li>The rule breaks once</li><li>Sound or cut changes at the break</li><li>No pile of effects</li><li>Sound carries structure</li><li>Not wall-to-wall music</li><li>One to five minutes</li><li>The ending has a reason to stop</li><li>No story is fine, no ending is not</li></ul><p>Experimental freedom is not “shoot anything.” It is setting one rule and daring to break it once.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Set rules first: locked camera, repeated action, one color. ”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Set rules first: locked camera, repeated action, one color. ”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Set rules first: locked camera, repeated action, one color. ”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Set rules first: locked camera, repeated action, one color. ”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

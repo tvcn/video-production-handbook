@@ -21,22 +21,19 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 动画组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.3d.rigging.en
-- context.law.music-license.en
-- formats.fashion.fashion-beauty-video-template.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.3d.modeling, animation.3d.render, formats.documentary.documentary-template]
 sources:
+- S62
+- S63
 - S12
-- S28
-- S34
+- S59
 test_context: 复核环境：Windows 11；Blender 4.x / After Effects 2025 公开流程；不声称所有版本一致。
 known_failures: 已知失败：插件/版本差异导致绑定或渲染失败；字体授权与素材版权需单独核对。
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>文字动画最容易犯的错，是每个字飞入、旋转、变形，观众读不完。先保一行字停留足够时间，再做入场；入场不超过 0.3 秒，停留至少 1.5 秒。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -57,4 +54,13 @@ source_kind: sourced
 <ol><li>字体授权先查商用范围；标题字和正文字分开授权，不要默认“下载就能用”。</li><li>动画只做 2–3 种运动：位移、遮罩、字重变化；不要每个字都飞。</li><li>中英混排时，英文用中文基线的 80%–90% 字号，视觉才齐。</li><li>输出前在手机尺寸看一遍，最小字号不小于 24px（按 1080 宽）。</li></ol>
 <p>如果客户要求“所有字都动”，先给一条 5 秒样片；动效过多时，信息会被动画吃掉。</p></section><section><h2 id="section-4">现场</h2><p>先做静止版，手机宽度下读清；再做 6 帧入场，只动位置和透明度，别同时旋转、缩放、发光。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>先做静止版，手机宽度下读清。</li><li>再做 6 帧入场，只动位置和透明度。</li><li>不要同时旋转、缩放、发光，先保信息。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别用白闪和推拉当万能转场；字没读清，动效再花也白费。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>前景、中景、背景的速度差能在一次 pan 里看出来</li><li>动作在 0.5 秒内能读出重量或预备</li><li>关掉任意一层，空间感仍然成立</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>层数堆上去了，但每层速度一样，空间还是扁的</li><li>动作有预备却没有跟随，重量只做了一半</li><li>资产没锁就进渲染，返工从合成端一路补</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用 24 fps 画 3 个关键帧，只改“再做 6 帧入场，只动位置和透明度”，导出 2 秒；如果重量仍读不出来，先加预备帧，不要加模糊。</p></section>
 <h2>验收</h2><ul><li>静止版在手机宽度下能读清，最长一行不出画。</li><li>入场只动了位置和透明度，没有同时旋转缩放。</li><li>静音看一遍，能说出信息出现的顺序。</li></ul>
+
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“字效先保证静止时读得清，再决定怎么动；边动边读，阅读速度会掉一半。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“字效先保证静止时读得清，再决定怎么动；边动边读，阅读速度会掉一半。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“字效先保证静止时读得清，再决定怎么动；边动边读，阅读速度会掉一半。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“字效先保证静止时读得清，再决定怎么动；边动边读，阅读速度会掉一半。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
+<!-- SOURCES_END -->
+

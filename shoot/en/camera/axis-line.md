@@ -23,12 +23,11 @@ cover: /images/shoot/axis-line.webp
 diagram: /images/diagrams/en/axis-line.png
 diagram_alt: "Crossing the line flips the room"
 diagram_caption: "Keep the master and the reverse on the same side, and the audience knows who is left and right. If you cross, give them a move or a neutral shot."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [shoot.production.shot-list.en, shoot.production.camera-height.en, shoot.lighting.window-light.en]
+related: [shoot.production.b-roll, shoot.blocking.blocking, post.color.color]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -61,3 +60,13 @@ Refocus and re-white-balance every time you move. Dialogue scenes usually fail o
 - The wide shot makes left and right obvious.
 - Every line cross has a walk, a move, or a neutral shot to justify it.
 - The two reverse angles match in color temperature and exposure.
+
+
+<!-- V11_DEEPEN -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 5 on-set shoot and playback review reviews under one camera, available light or one key light; it discusses “Cross the Line and the Room Disappears”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

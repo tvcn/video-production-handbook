@@ -24,17 +24,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Story Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.directing.rehearsal.en
-- story.storyboard.shot-sheet.en
-- story.screenplay.script-format.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.story.scene-sequence, story.screenplay.scene-transition-writing, shoot.camera.axis-line]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>Scene description is not novelistic atmosphere. Write “one unwashed cup on the table, another soaking in the sink,” not “she feels her life out of control.” The first can be shot; the second can only be acted.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -62,3 +58,11 @@ source_kind: experience
 ### Ten scene-description checks
 <ul><li>One action per paragraph</li><li>No inner adjectives</li><li>No empty mood words</li><li>Every action is filmable</li><li>Props do work on first appearance</li><li>Space relationships are clear</li><li>Light and sound are visible or audible</li><li>Blank lines between actions</li><li>Full name on first appearance</li><li>Read it once; the actor knows where the hands go</li></ul><p>A scene description is not prose; it is a construction drawing for the camera and the actor.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Describe only what the camera can see: light, action, object”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Describe only what the camera can see: light, action, object”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

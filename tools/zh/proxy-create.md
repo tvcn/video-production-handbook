@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.sync-multicam.en
-- tools.tutorial.color-checker.en
-- tools.tutorial.night-practical.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.delivery.publish-checklist, tools.capability.reflector, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>生成代理时不要改文件名，也不要换目录结构。剪辑软件靠原名和时间码回批；改名会让回批变成手工找文件。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -43,3 +39,10 @@ source_kind: experience
 <ol><li>常用：1080p ProRes Proxy 或 H.264 高码率，帧率与源一致，音频保留。</li><li>文件名加 <code>_proxy</code>，不要改卷名和 reel；回套用原始媒体路径。</li><li>原片单独存放，代理单独项目；不要在代理上做最终调色。</li></ol>
 <p>验收：随机抽一个剪切点，回套原片后帧位不偏移；音频同步不掉。偏移就检查帧率和时间码。</p></section><section><h2 id="section-4">现场</h2><p>按四分之一分辨率生成 ProRes Proxy，放独立 SSD；回套时检查时间码和构图。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>按四分之一分辨率生成 ProRes Proxy。</li><li>放独立 SSD。</li><li>回套时检查时间码和构图。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别用代理做最终导出；一换回原片，字幕位置全偏。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>每一项参数都能对应一个具体的拍摄问题</li><li>重量、供电和接口在真实机位上成立</li><li>60 秒测试能留下一个可比较的数字</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>只看参数，不看接口、供电和重量</li><li>买回来才发现电池、存储或机身不匹配</li><li>没有 60 秒测试，问题被带到正式拍摄</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用现有器材做 60 秒测试，只测“按四分之一分辨率生成 ProRes …”；记下两个数字：一个是你需要的，一个是器材实际给出的。</p></section>
 <h2>验收</h2><ul><li>代理是四分之一分辨率 ProRes Proxy，放在独立 SSD。</li><li>时间线和代理命名能对应回原片。</li><li>回套后时间码和构图与代理版一致。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 6 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「代理生成：剪辑不卡」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

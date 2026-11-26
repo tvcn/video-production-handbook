@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.nle-compare
-- tools.tutorial.proxy-create
-- tools.capability.davinci-node
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [tools.deep.deep-storage-chain, tools.delivery.delivery-specs, shoot.deep.deep-camera-move]
 sources:
 - S19
+- S29
+- S23
+- S30
+- S70
 source_kind: sourced
 ---
-
 <p>工作站不是配置单，而是 NLE、代理、缓存和节点在同一个项目里不打架。 单看《剪辑软件怎么选：项目先定》只能解决一个局部；把《剪辑软件怎么选：项目先定》《代理生成：剪辑不卡》《达芬奇节点：节点不是滤镜》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别按教程数量选软件；你的项目缺协作，教程再多也补不上</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别用代理做最终导出；一换回原片，字幕位置全偏</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别叠二十个节点；出问题时，你不知道该关哪一个</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>同一段素材在三个软件里各剪了 1 分钟。</li><li>代理、协作、字幕、导出四项有对比记录。</li><li>选择理由来自项目最缺的一项，不是软件热度。</li><li>代理是四分之一分辨率 ProRes Proxy，放在独立 SSD。</li><li>时间线和代理命名能对应回原片。</li><li>回套后时间码和构图与代理版一致。</li><li>五个节点各自只做一件事，命名清楚。</li><li>逐个关闭时能看到对应变化。</li><li>没有超过十个节点，问题能定位到单个节点。</li><li>把 剪辑软件怎么选：项目先定 的条件写成一行，能复述给下一个人。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《剪辑软件怎么选：项目先定》里的单点问题：回到<a href="https://tools.tvcn.org/article/nle-compare/">《剪辑软件怎么选：项目先定》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://tools.tvcn.org/article/proxy-create/">《代理生成：剪辑不卡》</a>，先不改第三页。</li><li>只做验收：看<a href="https://tools.tvcn.org/article/davinci-node/">《达芬奇节点：节点不是滤镜》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S19] [GAN 原始论文（2014）](https://arxiv.org/abs/1406.2661) — 2026-11-26 访问。用于核对首段“工作站不是配置单，而是 NLE、代理、缓存和节点在同一个项目里不打架。”中的术语与公开背景（生成对抗网络：生成模型与判别模型互相博弈）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“工作站不是配置单，而是 NLE、代理、缓存和节点在同一个项目里不打架。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“工作站不是配置单，而是 NLE、代理、缓存和节点在同一个项目里不打架。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“工作站不是配置单，而是 NLE、代理、缓存和节点在同一个项目里不打架。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“工作站不是配置单，而是 NLE、代理、缓存和节点在同一个项目里不打架。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
+<!-- SOURCES_END -->
+

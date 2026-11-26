@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.backup-3-2-1
-- tools.capability.nas
-- tools.capability.lto-archive
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [tools.deep.deep-camera-lens-kit, tools.deep.deep-live-stream-chain, shoot.camera.axis-line]
 sources:
 - S17
+- S29
+- S23
+- S30
+- S70
 source_kind: sourced
 ---
-
 <p>备份不是复制一份；三份、两种介质、一份异地，才算把素材从现场带回来。 单看《3-2-1 备份：当天做完》只能解决一个局部；把《3-2-1 备份：当天做完》《NAS：团队共享》《LTO 归档：长期冷备》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别把“明天再备份”当计划；卡一丢，三份都来不及</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别给全组读写权限；两个人同时改一个文件，版本就没了</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别把 LTO 当剪辑盘；恢复 1 TB 要几小时，今天剪不完</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>当天完成三份拷贝，文件数一致。</li><li>使用两种介质，其中一份在异地或云端。</li><li>卡格式化发生在三份确认之后。</li><li>先确认卡上素材能正常回放</li><li>拷到第一块工作盘</li><li>用校验工具比对文件数量和解码</li><li>改名为日期_项目_机位_卡号</li><li>拷到第二块备份盘</li><li>用户组和只读权限已配置，不是全员可写。</li><li>回收站开启，删除的文件能找回。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《3-2-1 备份：当天做完》里的单点问题：回到<a href="https://tools.tvcn.org/article/backup-3-2-1/">《3-2-1 备份：当天做完》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://tools.tvcn.org/article/nas/">《NAS：团队共享》</a>，先不改第三页。</li><li>只做验收：看<a href="https://tools.tvcn.org/article/lto-archive/">《LTO 归档：长期冷备》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — 2026-11-26 访问。用于核对首段“备份不是复制一份；三份、两种介质、一份异地，才算把素材从现场带回来。”中的术语与公开背景（通讯社对独立、准确与不带偏见的公开承诺）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“备份不是复制一份；三份、两种介质、一份异地，才算把素材从现场带回来。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“备份不是复制一份；三份、两种介质、一份异地，才算把素材从现场带回来。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“备份不是复制一份；三份、两种介质、一份异地，才算把素材从现场带回来。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“备份不是复制一份；三份、两种介质、一份异地，才算把素材从现场带回来。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
+<!-- SOURCES_END -->
+

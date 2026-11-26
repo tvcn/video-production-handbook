@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 拍摄组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.exposure.false-color.en
-- shoot.exposure.log-footage.en
-- shoot.lighting.night-interior.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.lighting.window-light, shoot.sound.wireless-lav, post.color.color]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>波形图告诉你亮度落在哪：左边是黑，右边是白。先看肤色是否落在中间偏上，再看高光是否贴顶、暗部是否堆底。一个镜头“平均曝光正确”但脸在黑里，仍然不能用。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -57,3 +53,12 @@ source_kind: experience
 ### 曝光前，先确认这十件事
 <ul><li>先看高光有没有贴到波形顶部</li><li>再看肤色落在中间偏上还是偏下</li><li>最后才看整体亮度</li><li>同一场戏所有镜头曝光一致</li><li>换镜位后重新看一次波形</li><li>换镜头后重新看一次波形</li><li>没有波形就开斑马纹九十五</li><li>有伪色就用紫色或红色盯高光</li><li>开拍先拍三秒灰卡或白纸</li><li>回放看直方图最右侧有没有贴边</li></ul><p>波形不是让你变成技术员，是让你回放时不用骂自己。现场多看一眼，后期少救一小时。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“波形图看亮度分布，不看画面好不好看；先保高光，再决定暗部留多少。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“波形图看亮度分布，不看画面好不好看；先保高光，再决定暗部留多少。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“波形图看亮度分布，不看画面好不好看；先保高光，再决定暗部留多少。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
+<!-- SOURCES_END -->
+

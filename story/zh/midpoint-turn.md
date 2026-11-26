@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 故事组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.story.scene-sequence.en
-- story.story.theme-through-action.en
-- story.story.want-stakes.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.screenplay.monologue, story.directing.notes-to-actor, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>中点不是“剧情反转”，而是主角发现旧办法无效，主动换一种做法。目标还在，代价变高，观众才感到他在做选择，而不是编剧在推他。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -59,3 +55,11 @@ source_kind: experience
 ### 中点检查，十项
 <ul><li>中点换的是方法不是目标</li><li>前半段的方法先有效</li><li>中点证明旧方法失效</li><li>新方法有学习成本</li><li>代价能拍出来</li><li>旧盟友或旧资源失去</li><li>后半段不能用旧方法</li><li>新方法从旧目标长出来</li><li>中点后节奏明显改变</li><li>四行表没有缺行</li></ul><p>中点不是让故事更复杂，是让人物不能再走原来的路。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“中点不是反转剧情，而是人物换一种办法去要同一个东西。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“中点不是反转剧情，而是人物换一种办法去要同一个东西。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+<!-- SOURCES_END -->
+

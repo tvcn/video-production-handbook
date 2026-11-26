@@ -22,14 +22,13 @@ cover: /images/tools/call-sheet.webp
 diagram: /images/diagrams/zh/call-sheet.png
 diagram_alt: "通告单：三块写清，现场不用猜"
 diagram_caption: "第一行写到能导航，时间按小时排，变更写回纸上。通告单不是通知，是当天唯一共同版本。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [tools.workflow.first-shoot-day.en, tools.guide.crew-management.en, tools.producing.location-scout.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [tools.tutorial.camera-black-balance, tools.camera.camera-choice, shoot.camera.composition]
 depth: deep
 deep_minutes: 7
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -89,3 +88,11 @@ deep_minutes: 7
 ### 通告单，十项检查
 <ul><li>文件名带日期和版本号</li><li>集合时间与开机时间分开</li><li>每行是一个时间块</li><li>六列齐全：时间场景人物负责人电话备注</li><li>地址写到门牌和入口</li><li>停车厕所医院写清</li><li>每个阶段留缓冲</li><li>外景按日落倒排</li><li>改动写清改了什么为什么谁受影响</li><li>收工前发第二天确认版</li></ul><p>通告单写不清，现场就会用打电话的时间，替你做本来十分钟能做完的决定。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“通告单不是形式。它决定谁几点到、去哪、带什么、找谁。写不清，现场的电话就会比拍摄还忙。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“通告单不是形式。它决定谁几点到、去哪、带什么、找谁。写不清，现场的电话就会比拍摄还忙。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
+<!-- SOURCES_END -->
+

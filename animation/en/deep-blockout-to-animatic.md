@@ -23,17 +23,16 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.3d.blockout.en
-- animation.pipeline.animatic-pipeline.en
-- animation.3d.modeling.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.deep.deep-compositing-2d3d, animation.deep.deep-loop-cycle-design, formats.brand.brand-film]
 sources:
+- S62
+- S63
 - S12
+- S59
 source_kind: sourced
 ---
-
 <p>Space and duration first, performance second; blockout and animatic are two different review gates. One page of &amp;quot;Blockout: Proportions and Camera First&amp;quot; solves one local problem; joining &amp;quot;Blockout: Proportions and Camera First&amp;quot;, &amp;quot;Animatic Pipeline: Voice, Timing, Board&amp;quot; and &amp;quot;Modeling: Silhouette Before Polygons&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +52,13 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not animate performance before the camera is locked; it will b…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not draw everything before voice; a pace change re-times every…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not fix a silhouette with subdivision; more polygons will not …</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>The box figure reads head, chest, and pelvis proportions.</li><li>Camera and ten-second duration are locked with screenshots and settings.</li><li>The final shot matches the blockout camera without a composition change.</li><li>Boxes set person and door height</li><li>Distance relationship first</li><li>Composition at real focal length</li><li>Main, reverse, detail cameras</li><li>Proxy walks the shot</li><li>Voice is recorded at real speed and every shot duration comes from it.</li><li>Total stays within 110 percent of target and timing is locked first.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "Blockout: Proportions and Camera First", go back to <a href="https://animation.tvcn.org/en/article/blockout/">Blockout: Proportions and Camera First</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://animation.tvcn.org/en/article/animatic-pipeline/">Animatic Pipeline: Voice, Timing, Board</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://animation.tvcn.org/en/article/modeling/">Modeling: Silhouette Before Polygons</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Space and duration first, performance second; blockout and a”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Space and duration first, performance second; blockout and a”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Space and duration first, performance second; blockout and a”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Space and duration first, performance second; blockout and a”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

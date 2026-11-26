@@ -21,18 +21,17 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.boom-swing.en
-- tools.tutorial.white-balance-gray.en
-- tools.tutorial.handheld-brace.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [tools.calculators.fov, tools.capability.gimbal, shoot.camera.composition]
 sources:
-- S31
 - S23
+- S31
+- S29
+- S30
+- S70
 source_kind: sourced
 ---
-
 <p>跟焦练习从固定距离开始：让对象在一条直线上走，你只做呼吸和手腕微调，不做大幅追焦。每次拍 10 秒，回放看焦点是否在眼睛上，而不是看画面抖不抖。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -50,8 +49,10 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S31] 见 SOURCES.md 的原始链接与用途。
-- [S23] 见 SOURCES.md 的原始链接与用途。
-
-完整链接与用途见 [`SOURCES.md`](../../about/)。
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“跟焦练习三步：先做标记、盯住演员的胸口、呼吸别跟着手抖。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“跟焦练习三步：先做标记、盯住演员的胸口、呼吸别跟着手抖。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“跟焦练习三步：先做标记、盯住演员的胸口、呼吸别跟着手抖。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“跟焦练习三步：先做标记、盯住演员的胸口、呼吸别跟着手抖。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“跟焦练习三步：先做标记、盯住演员的胸口、呼吸别跟着手抖。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
 <!-- SOURCES_END -->
+

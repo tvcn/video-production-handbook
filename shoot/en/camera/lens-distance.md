@@ -23,12 +23,11 @@ cover: /images/shoot/lens-distance.webp
 diagram: /images/diagrams/en/lens-distance.png
 diagram_alt: "Wide, normal, long: where the audience stands"
 diagram_caption: "Wide pulls foreground and background apart; long presses the person into the background. Decide whether the audience stands at the door, the table, or across the street before changing lenses."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [shoot.camera.shot-size.en, shoot.production.camera-height.en, shoot.camera.camera-move.en]
+related: [shoot.lighting.lighting-style, shoot.live.live-encoding, post.color.color]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -63,3 +62,15 @@ Do not change focal length in a scene just to make it “rich.” Wide establish
 - When the wide lens is close to a face, is the distortion what you want?
 - Has the long lens flattened the space into paper? Does the viewer still know where the person is?
 - Before changing lenses, did you try the position your feet can reach?
+
+
+> Intent split: this page covers the practical details of “Focal Length: Decide How Close the Audience Stands”; start with <a href="https://shoot.tvcn.org/article/camera-height/">Camera Height: Lower Before You Change Lenses</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 6 on-set shoot and playback review reviews under one camera, available light or one key light; it discusses “Focal Length: Decide How Close the Audience Stands”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

@@ -23,15 +23,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.nd-gel.en
-- tools.capability.light-stand.en
-- tools.capability.reflector.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.capability.prime-lens, tools.tutorial.proxy-create, shoot.lighting.practical-light]
 source_kind: experience
 ---
-
 <p>For repeatable output, long shoots or mixing with film lights, do not use an uncontrolled household bulb. It works as an in-frame practical, not as a key light.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -45,3 +41,10 @@ source_kind: experience
 <ol><li>Look through the viewfinder for flicker; banding means change the bulb or set shutter to a multiple of local mains frequency.</li><li>Use 2700K or 3200K, within half a stop of the key. A big mismatch reads as two rooms.</li><li>Dim it below clipping; shape the pool with a flag, not with post.</li></ol>
 <p>Acceptance: shoot ten seconds and check flicker around the bulb and green skin. Flicker means change the lamp, not fix it in post.</p></section><section><h2 id="section-4">On set</h2><p>Use a tunable bulb at 3200K on a dimmer at 30 percent and check whether it still reads as the motive.</p></section><section><h2 id="section-5">Do this</h2><p>A practical bulb must dim and shift color, or the lamp in frame is only a prop, not a source.</p><ol><li>Use a tunable bulb and set it to 3200K.</li><li>Put it on a dimmer at 30 percent.</li><li>Shoot and see whether it still motivates the light in frame.</li></ol></section><section><h2 id="section-6">Avoid</h2><p>Do not use a fixed household bulb; it blows out and becomes a prop only.</p></section>
 <h2>Check</h2><ul><li>The bulb reaches 3200K and runs on a dimmer.</li><li>At 30 percent the lamp in frame does not blow out.</li><li>It motivates the nearby key light.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 7 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Practical Bulb: Color Temperature and Dimming”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

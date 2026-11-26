@@ -23,15 +23,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.fluid-head.en
-- tools.capability.audio-interface.en
-- tools.capability.gimbal.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.guide.used-gear-check, tools.capability.video-assist, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>For fast movement, tight spaces or low angles, a monopod, tabletop rig or gimbal beats a tripod. Do not trade “can shoot it” for “steady.”</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -42,3 +38,15 @@ source_kind: experience
 <!-- DIAGRAM_END -->
 <section><h2 id="section-1">What to compare first</h2><ul><li><strong>Payload:</strong> calculate body, lens, battery, monitor and head, with at least 30% headroom.</li><li><strong>Height and stability:</strong> do not buy by maximum height; raising it amplifies shake, test at your working height.</li><li><strong>Legs and head:</strong> test leg locks, leveling and head return; a sandbag hook is more useful than a spec.</li></ul><h2 id="section-2">When not to use it</h2></section><section><h2 id="section-3">On set</h2><p>Mount the body, lens, monitor, and battery and lock the head. Push it three times and check the legs and head for spring.</p></section><section><h2 id="section-4">Do this</h2><p>A tripod is judged by payload and head, not maximum height; body, lens, and accessories usually weigh more than the rating.</p><ol><li>Mount body, lens, monitor, and batteries.</li><li>Lock the head and push three times.</li><li>Check whether legs and head rebound.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not size the tripod to a bare body; with lens and batteries the payload may already be over.</p></section><figure class="article-audio"><audio controls preload="none" src="../../../assets/audio/en/tool-tripod.en.mp3"></audio><figcaption>20-second audio demo: one check point and the most common failure. Transcript and steps are in the article.</figcaption></figure>
 <h2>Check</h2><ul><li>Full rig weight is measured against the tripod rating.</li><li>Three pushes with the head locked show no leg slip or rebound.</li><li>Maximum height is not the main reason to buy; stability comes first.</li></ul>
+
+
+> Intent split: this page covers the practical details of “Tripod: Load and Head”; start with <a href="https://tools.tvcn.org/article/gimbal-balance/">Gimbal Balance: Five Minutes Before Power</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 7 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Tripod: Load and Head”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

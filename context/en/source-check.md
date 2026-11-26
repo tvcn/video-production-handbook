@@ -25,19 +25,18 @@ format: handbook
 authors:
 - TVCN Research Desk
 sources:
-- S17
 - S16
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.literacy.edit-manipulation.en
-- context.literacy.deepfake.en
-- context.literacy.news-video.en
+- S17
+- S01
+- S02
+- S03
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.literacy.sponsorship-disclosure, context.literacy.statistics-video, formats.documentary.documentary-template]
 depth: deep
 deep_minutes: 8
 source_kind: sourced
 ---
-
 <p>A claim needs at least two independent sources, or one verifiable original document. Reposts, screenshots and reaction videos are not independent; they may all come from the same first post.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -50,27 +49,12 @@ source_kind: sourced
 <h2>Check</h2><ul><li>The earliest account, original file, and timestamp are saved.</li><li>Reverse image or keyframe search found a second independent source.</li><li>At least three of four match: time, place, weather, signage.</li></ul>
 
 <!-- SOURCES_START -->
-## References
+## References and further reading
 
-- [S17] Reuters Trust Principles
-- [S16] BBC Editorial Guidelines
-
-Full links and notes: [`SOURCES.md`](../../about/).
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find the first poster and the original file; a hundred thous”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find the first poster and the original file; a hundred thous”) against The agency's public commitment to independence, accuracy and freedom from bias; not a substitute for an on-set test.
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find the first poster and the original file; a hundred thous”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find the first poster and the original file; a hundred thous”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Find the first poster and the original file; a hundred thous”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
 <!-- SOURCES_END -->
 
-<!-- DEEP_DIVE_START -->
-## Deep dive
-<p><strong>About 8 minutes.</strong> Source checking is not finding a link that supports you. It is finding the earliest original record.</p>
-### Find the original
-<p>A screenshot, screen recording, or repost is not the original. Find the earliest publisher, the original file, the full version. Check publish time, account history, location; do not judge by whether it looks right.</p><p>If the original is deleted, look for archives, mirrors, and another angle of the same event. At least two independent sources pointing to the same time and place before it stands.</p>
-### Time and place must match
-<p>Check shadow direction, weather, sign language, plates, sockets, shop names. If a video claims Beijing and the street sign is traditional Chinese, stop.</p><p>Match the location on a map and street view. If it does not match, do not fill the gap with “maybe.” Source checking is elimination, not rescuing the video.</p>
-### Source checking in the AI era
-<p>The cleaner the image, the more you check the source. AI skies, skin, and text often look “too smooth.” Zoom into edges, teeth, ears, fingers, background lettering, then check metadata.</p><p>Metadata can be forged, so it is a clue, not a conclusion. Return to independent sources, time, and place. Detection gives probability; editorial judgment carries responsibility.</p>
-### Five-minute drill: trace one repost
-<p>Take one unattributed repost. Find the earliest publisher, the original link, and a second independent source. If none, write “unverified,” not “fake.”</p><p>Write the three pieces of evidence in three lines with timestamps. If one line says “it is said,” delete it and check again.</p>
-### When a source is verified
-<p>Verified means the original file exists, the publish time exists, the location matches, and a second independent source points to the same event. Four pass.</p><p>One is a lead, two is possible, three is pending, four is citable. Do not publish a lead as a conclusion.</p>
-### Ten source checks
-<ul><li>A screenshot is not the original</li><li>Find the earliest publisher</li><li>Find the original file and full version</li><li>Check account history and time</li><li>Shadows, weather, signs match place</li><li>Map and street view match</li><li>At least two independent sources</li><li>Zoom into edges, teeth, ears, fingers</li><li>Metadata is a clue only</li><li>All four pass before citing</li></ul><p>Source checking is not finding evidence for a video. It is deciding whether the video is citable at all.</p>
-<!-- DEEP_DIVE_END -->

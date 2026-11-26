@@ -24,15 +24,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.tool.tool-card-lighting-kit.en
-- main.tool.tool-card-interview-kit.en
-- main.tool.tool-card-audio-kit.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.case.case-brand-product-composite, main.case.case-corporate-composite, context.literacy.media-literacy]
 source_kind: experience
 ---
-
 <p>The first constraint on a travel shoot is the bag and the walk, not the number of lenses. If body, two lenses, audio and tripod exceed what you can lift after an hour, you start missing shots.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -49,3 +45,10 @@ source_kind: experience
 <h2 id="section-3">Field test</h2>
 <p>Before leaving, wear the final bag, walk ten minutes and climb one floor, then shoot 30 seconds. If a strap cuts, the tripod wobbles or an audio cable is missing, remove gear at the table, not at the destination.</p></section><section><h2 id="section-4">On set</h2><p>One body, one lens, a small gimbal, two batteries, ND, and a waist bag. Weigh it and walk a day before going.</p></section><section><h2 id="section-5">Avoid</h2><p>Do not carry three lenses “just in case”; after half a day you cannot shoot anything.</p></section>
 <h2>Check</h2><ul><li>Total weight is measured and survives a full-day walk.</li><li>One body and one lens only, no extra optics.</li><li>Batteries, ND, and gimbal sit in the waist bag for one-hand access.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 5 client brief and project review reviews under a one- or two-to-three-person team with a fixed budget and schedule; it discusses “Travel Kit”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

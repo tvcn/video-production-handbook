@@ -23,17 +23,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Story Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.story.theme-through-action.en
-- story.story.scene-sequence.en
-- story.story.midpoint-turn.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.directing.actor-adjustment, story.screenplay.adaptation, shoot.camera.composition]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>“Wants recognition” is abstract; “needs that signature by Friday” is playable. Loss must also be concrete: the job, the apartment, someone&#x27;s trust. Abstract desire cannot drive action; specific loss can.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -61,3 +57,11 @@ source_kind: experience
 ### Ten checks before the story works
 <ul><li>The want is filmable</li><li>The goal has a deadline</li><li>The cost appears in the first scene</li><li>The stake is money, a relationship, or status</li><li>The opposition wants the opposite</li><li>Every escalation changes the choice</li><li>The hero cannot win by luck</li><li>Each failure costs more</li><li>The ending stops after a choice</li><li>The audience can name what he fears losing</li></ul><p>The audience is not tense about a premise; it is tense about what a person is about to lose.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“What a character wants matters less than what losing it cost”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“What a character wants matters less than what losing it cost”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

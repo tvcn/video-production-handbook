@@ -24,18 +24,16 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Formats Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.brand.brand-film.en
-- post.color.hdr-workflow.en
-- shoot.safety.set-safety.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.wedding.wedding-template, formats.brand.brand-film, story.screenplay.logline]
 depth: deep
 deep_minutes: 7
 sources:
 - S14
 - S15
 - S16
+- S29
 test_context: 'Review setup: composite samples and public cases; previewed on MacBook
   Pro M1 / iPhone 13; not one real client project.'
 known_failures: 'Known failures: composite samples are not client proof; platform
@@ -43,7 +41,6 @@ known_failures: 'Known failures: composite samples are not client proof; platfor
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>A wedding film starts from what happened today: one morning action, two separate preparations, the ceremony whole, the first embrace after. One action per section, not equal coverage of every ritual.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -71,4 +68,13 @@ source_kind: sourced
 ### Ten wedding-film checks
 <ul><li>Vows recorded complete</li><li>Ring exchange covered</li><li>Parents’ reactions captured</li><li>Camera not blocking the aisle</li><li>One lav per partner</li><li>Independent recorder at the front</li><li>One quiet moment found</li><li>That moment has action and relationship</li><li>Preparation under one third</li><li>Music never covers vows</li></ul><p>A wedding film does not prove how much you covered; it proves you saw how two people care for each other.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Protect ceremony and vows before slow motion and grading; st”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Protect ceremony and vows before slow motion and grading; st”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Protect ceremony and vows before slow motion and grading; st”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Protect ceremony and vows before slow motion and grading; st”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

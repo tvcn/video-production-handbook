@@ -28,18 +28,17 @@ cover: /images/context/photo-history.webp
 diagram: /images/diagrams/en/photo-history.png
 diagram_alt: Five turns in photography
 diagram_caption: 1839 meant sitting still for seconds; 1888 put a camera in ordinary hands; 1975 turned light into a file; 2007 made taking a picture the default.
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
 sources:
 - S07
 - S08
-related:
-- context.history.photography.1839.en
-- context.history.film.1895.en
-- context.history.animation.animation-history.en
-source_kind: experience
+- S01
+- S02
+- S03
+related: [context.literacy.platform-rules, context.law.portrait-rights, formats.documentary.documentary-template]
+source_kind: sourced
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -86,10 +85,12 @@ Everyone now carries a camera that shoots, edits, and publishes immediately. Pho
 - You know phones changed not only gear but publishing speed.
 
 <!-- SOURCES_START -->
-## References
+## References and further reading
 
-- [S07] Library of Congress: Daguerreotypes
-- [S08] The Met: Daguerre and the Invention of Photography
-
-Full links and notes: [`SOURCES.md`](../../../../about/).
+- [S07] [Daguerreotypes](https://www.loc.gov/pictures/collection/dag/background.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“In 1839 you sat still for dozens of seconds. In 1888 Kodak h”) against Collection background, scale and material notes on early photography; not a substitute for an on-set test.
+- [S08] [Daguerre and the Invention of Photography](https://www.metmuseum.org/TOAH/hd/dagu/hd_dagu.htm) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“In 1839 you sat still for dozens of seconds. In 1888 Kodak h”) against Museum timeline for the 1839 announcement, the process and its early circulation; not a substitute for an on-set test.
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“In 1839 you sat still for dozens of seconds. In 1888 Kodak h”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“In 1839 you sat still for dozens of seconds. In 1888 Kodak h”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“In 1839 you sat still for dozens of seconds. In 1888 Kodak h”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

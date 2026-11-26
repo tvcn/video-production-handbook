@@ -21,20 +21,19 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.restore-test.en
-- tools.tutorial.set-mediabay.en
-- tools.workflow.storage.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [tools.calculator.bitrate-calculator, tools.tutorial.boom-swing, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
 sources:
-- S31
 - S23
+- S31
+- S29
+- S30
+- S70
 source_kind: sourced
 ---
-
 <p>3-2-1 不是“上传云就完事”。拍摄当天至少做三份：卡/机身一份、现场硬盘一份、另一块可离线硬盘或云一份；其中一份不在同一栋楼。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -61,11 +60,18 @@ source_kind: sourced
 <ul><li>先确认卡上素材能正常回放</li><li>拷到第一块工作盘</li><li>用校验工具比对文件数量和解码</li><li>改名为日期_项目_机位_卡号</li><li>拷到第二块备份盘</li><li>让其中一份离开这台机器</li><li>随机打开三个文件确认能播</li><li>确认两份都在，再格式化卡</li><li>把恢复步骤写在项目盘根目录</li><li>每月抽一个项目做一次恢复演练</li></ul><p>备份不是把文件拖过去，是确保明天还能打开、还能导出、还能交片。格式化卡之前，把两份备份各打开一次；能打开、能播放、能导出，才算备份完成。</p>
 <!-- DEEP_DIVE_END -->
 
+
+> 意图分工：本页负责「3-2-1 备份：当天做完」的可执行细节；同集群先读 <a href="https://tools.tvcn.org/article/buy-storage/">购买项目存储：速度、容量与备份</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S31] ARRI Cine Systems；见 SOURCES.md 的原始链接与用途。
-- [S23] SMPTE 标准入口；见 SOURCES.md 的原始链接与用途。
-
-完整链接与用途见 [`SOURCES.md`](../../about/)。
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“3-2-1 备份当天做完：三份、两种介质、一份异地；拖到明天，素材就可能没了。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“3-2-1 备份当天做完：三份、两种介质、一份异地；拖到明天，素材就可能没了。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“3-2-1 备份当天做完：三份、两种介质、一份异地；拖到明天，素材就可能没了。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“3-2-1 备份当天做完：三份、两种介质、一份异地；拖到明天，素材就可能没了。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“3-2-1 备份当天做完：三份、两种介质、一份异地；拖到明天，素材就可能没了。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
 <!-- SOURCES_END -->
+

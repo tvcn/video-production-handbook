@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.practical-bulb.en
-- tools.capability.reflector.en
-- tools.capability.softbox.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.tutorial.night-practical, tools.capability.nle-compare, shoot.camera.nd-filter]
 source_kind: experience
 ---
-
 <p>需要精确、可重复的减光时，用镜头 ND 或电子 ND，不要靠灯前色纸猜档位。色纸适合调色温和氛围，不适合当计量工具。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -43,3 +39,10 @@ source_kind: experience
 <ol><li>日光偏蓝：加 1/4 CTO；钨丝灯偏黄：加 1/4 CTB。一次只加 1/4，逐步试。</li><li>ND 优先放在镜头前或窗上，不要和色纸贴在一起；需要大档位时用一片高 ND，不叠三片低 ND。</li><li>LED 灯先调色温和亮度，色纸只做微调；不要用色纸救不准的灯。</li></ol>
 <p>验收：白平衡后看白纸和肤色，不要只看灯；出现偏绿或暗角，先减片数。</p></section><section><h2 id="section-4">现场</h2><p>把 CTO 贴窗、CTB 贴灯，拍一张看色温；ND 色纸只减亮，不改变色温。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>CTO 贴窗、CTB 贴灯，拍一张看色温。</li><li>ND 色纸只减亮，不改变色温。</li><li>每张色纸标名称和档数，别靠颜色认。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别靠肉眼分色纸；CTO 和 ND 在暗处看起来都像橙色。</p></section>
 <h2>验收</h2><ul><li>CTO 和 CTB 各有一个可对比的色温样张。</li><li>ND 色纸前后色温不变，只有亮度变化。</li><li>每张色纸有名称和档数标签。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 6 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「灯光色纸：CTO、CTB、ND」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

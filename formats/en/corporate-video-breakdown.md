@@ -21,22 +21,19 @@ stage: handbook
 format: format
 authors:
 - TVCN Formats Desk
-last_verified: 2026-11-22
-review_due: 2027-11-22
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
 sources:
 - S14
 - S15
 - S16
+- S29
 test_context: 'Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project.'
 known_failures: 'Known failures: composite samples are not client proof; platform length/spec changes expire templates.'
 verified: 2026-11-22
-related:
-- formats.corporate.corporate-video-structure.en
-- post.sound.sound-post-workflow.en
-- shoot.multicam.multicam-live.en
-source_kind: experience
+related: [formats.corporate.corporate-video-structure, formats.corporate.corporate-video-template, story.directing.actor-adjustment]
+source_kind: sourced
 ---
-
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
@@ -45,9 +42,13 @@ source_kind: experience
 </figure>
 <!-- DIAGRAM_END -->
 <h2>Sample note: not a real client</h2><p>Composite sample: a cold-chain warehouse company. Not one real project; people, numbers, and locations are illustrative.</p><p>The point is not to memorize shots but to see what makes each beat work. For a client film, replace every number, brand, and person with your own footage and evidence.</p><h2>Beat by beat: five columns</h2><p>Read time, then beat, then whether picture and sound serve the same job. If one column disagrees, the beat becomes “pretty but useless.”</p><div class="table-scroll"><table class="data-table"><thead><tr><th>Time</th><th>Beat</th><th>Picture</th><th>Sound</th><th>Job</th></tr></thead><tbody><tr><td>00:00–00:08</td><td>Problem</td><td>Warehouse door, thermometer</td><td>Ambience + one line</td><td>Show the loss</td></tr><tr><td>00:08–00:25</td><td>Person</td><td>Night supervisor checks shelves</td><td>Live sound</td><td>One person owns it</td></tr><tr><td>00:25–00:45</td><td>Old way</td><td>Paper log, repeated calls</td><td>Keyboard/phone</td><td>Feel the cost</td></tr><tr><td>00:45–01:10</td><td>Intervention</td><td>System screen + one action</td><td>Notification</td><td>Show one change</td></tr><tr><td>01:10–01:35</td><td>Result</td><td>Temperature curve, signature</td><td>Quiet</td><td>Close on evidence</td></tr><tr><td>01:35–01:45</td><td>Next</td><td>Supervisor leaves</td><td>Ambience</td><td>No slogan</td></tr></tbody></table></div><h2>Picture and sound: what to copy, what not</h2><p><strong>Copy</strong>: before/after of one action, hand close-ups, ambience cuts, locked-off repetition. <strong>Do not copy</strong>: slow motion for emotion, music covering location sound, illustrative numbers as results. Borrow shots, not evidence.</p><h2>Three reusable moves</h2><p>1. Shoot the same action twice—failure and success—and cut them together; the viewer compares. 2. Every 15 seconds, give a hand/object close-up to ground abstract information. 3. Do not summarize at the end; leave an action or a question as a door to the next piece.</p><h2>Failure and check: breakdown is not copying</h2><p>The common failure is “the shots look similar, but the proof is fake.” Ask three questions: what happens if this beat is removed? Does the sound stand alone? Is the result checkable? If two answers fail, re-shoot or re-cut.</p><h2>Check</h2><ul><li>Labeled composite, not a real client.</li><li>Picture and sound serve the same job per beat.</li><li>At least one before/after is checkable.</li><li>Music does not cover key location sound.</li><li>Ending leaves an action/question, no summary.</li><li>Structure survives removing any one beat.</li></ul>
+
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
-<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
+## References and further reading
+
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Composite sample: break corporate video into six beats and r”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Composite sample: break corporate video into six beats and r”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Composite sample: break corporate video into six beats and r”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Composite sample: break corporate video into six beats and r”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

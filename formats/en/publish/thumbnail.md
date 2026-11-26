@@ -23,14 +23,13 @@ cover: /images/formats/thumbnail.webp
 diagram: /images/diagrams/en/thumbnail.png
 diagram_alt: "At 200 px, can you still tell?"
 diagram_caption: "On a phone the cover is thumb-sized. Secure one face, one action, one contrast before adding type. Lose one and the thumbnail becomes a color block."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [formats.talk.talking-head.en, formats.drama.vertical-drama.en, formats.ad.product-ad.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [formats.tutorial.tutorial-breakdown, formats.tutorial.tutorial-structure, story.screenplay.logline]
 depth: deep
 deep_minutes: 5
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -78,3 +77,11 @@ Make three covers for the same film and test them in the feed. Do not ask a coll
 ### Ten thumbnail checks
 <ul><li>Readable at thumb size</li><li>A face or an action is visible</li><li>Face fills at least a third</li><li>Title does not repeat the image</li><li>Clean background</li><li>Eight percent margin around the subject</li><li>Two lines of type at most</li><li>Subject survives 16:9, 1:1, and 9:16</li><li>Test on a phone with five people</li><li>The film delivers the promise</li></ul><p>The cover only makes people stop; the film makes them stay.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“On a phone, a cover is the size of a thumb. Secure one face,”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“On a phone, a cover is the size of a thumb. Secure one face,”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

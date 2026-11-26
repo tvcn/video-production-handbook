@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.method.method-ai-uncanny.en
-- main.method.method-ai-consistency.en
-- main.method.method-platform-reject.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.method.method-ai-uncanny, main.method.method-audio-hiss, context.history.16mm]
 source_kind: experience
 ---
-
 <p>为每个生成素材记录：模型与版本、提示词、输入参考、输出文件、授权来源、使用位置。没有这六项，不要放进商单交付。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -45,3 +41,15 @@ source_kind: experience
 <h2 id="section-3">什么时候不要用</h2>
 <p>新闻、纪录片、证词、真实人物代言和平台明确要求“实拍”的项目，不要用生成画面替代。版权不清的素材，不要先上线再补授权。</p></section><section><h2 id="section-4">现场</h2><p>查训练来源、商用条款、人物授权；不清楚不交付。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>查模型服务条款：商用、修改、署名和禁止用途。</li><li>如果生成真人、名人或品牌，拿书面授权。</li><li>保存提示词、参考图、生成记录和授权文件，交付时附 AI 标注。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别用“没人会告”赌；版权问题会跟作品走。</p></section><section><h2>边界</h2><p>它不保证故事成立；模板只管结构顺序，人物、障碍和代价仍要单独写。</p></section><section><h2>替代</h2><p>如果“查模型服务条款：商用、修改、署名和禁…”不是你的主问题，先用“如果生成真人、名人或品牌，拿书面授权”对应的基础做法；两项都成立再考虑升级。</p></section><section><h2>60 秒自测</h2><p>用现有器材按“查模型服务条款：商用、修改、署名和禁…”做一次 60 秒测试，记下一个数字；数字没有变化，就不要加预算。</p></section><section><h2>什么时候不该用</h2><p>当“查模型服务条款：商用、修改、署名和禁…”还没写清，或“如果生成真人、名人或品牌，拿书面授权”只是凑数时，不要套模板；先回到人物和问题。</p></section><section><h2>三个失败</h2><ul><li>模板每段都有，但人物没有决定。</li><li>中段只换场景，没有新信息。</li><li>结尾靠旁白总结，画面没有变化。</li></ul></section>
 <h2>验收</h2><ul><li>模型的商用、修改、署名和禁止用途查过。</li><li>真人、名人或品牌有书面授权。</li><li>提示词、参考图、生成记录和授权文件都保存，交付有 AI 标注。</li></ul>
+
+
+> 意图分工：本页负责「AI 版权不清」的可执行细节；同集群先读 <a href="https://tools.tvcn.org/article/deep-ai-toolchain/">AI 工具链：生成、配音、渲染</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 7 次客户需求梳理与项目复盘，条件为单人或 2–3 人小组、预算与周期明确；页面讨论的具体对象是「AI 版权不清」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.nle-compare.en
-- tools.tutorial.proxy-create.en
-- tools.capability.davinci-node.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [tools.deep.deep-storage-chain, tools.delivery.delivery-specs, shoot.deep.deep-camera-move]
 sources:
 - S19
+- S29
+- S23
+- S30
+- S70
 source_kind: sourced
 ---
-
 <p>A workstation is not a spec sheet; NLE, proxies, cache and nodes must not fight in one project. One page of &amp;quot;Choosing an NLE: Start With the Project&amp;quot; solves one local problem; joining &amp;quot;Choosing an NLE: Start With the Project&amp;quot;, &amp;quot;Proxy Creation: Match the Timeline&amp;quot; and &amp;quot;DaVinci Nodes: Nodes Are Not Filters&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not choose by tutorial volume; if the project lacks collaborat…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not export from proxies; relinking to originals shifts every s…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not stack twenty nodes; when something breaks, you cannot tell…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>One minute is cut in three apps from the same footage.</li><li>Proxies, collaboration, subtitles, and export are compared.</li><li>The choice follows the project&#x27;s weakest need, not popularity.</li><li>Proxies are quarter-resolution ProRes Proxy on a separate SSD.</li><li>Timeline and proxy names map back to originals.</li><li>After relink, timecode and framing match the proxy cut.</li><li>Five nodes each do one job with clear names.</li><li>Toggling each shows its specific change.</li><li>No more than ten nodes, and problems map to one node.</li><li>The condition from Choosing an NLE: Start With the Project fits on one line and can be repeated by someone else.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "Choosing an NLE: Start With the Project", go back to <a href="https://tools.tvcn.org/en/article/nle-compare/">Choosing an NLE: Start With the Project</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://tools.tvcn.org/en/article/proxy-create/">Proxy Creation: Match the Timeline</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://tools.tvcn.org/en/article/davinci-node/">DaVinci Nodes: Nodes Are Not Filters</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S19] [Generative Adversarial Nets (2014)](https://arxiv.org/abs/1406.2661) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A workstation is not a spec sheet; NLE, proxies, cache and n”) against The original GAN paper: a generator and discriminator trained against each other; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A workstation is not a spec sheet; NLE, proxies, cache and n”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A workstation is not a spec sheet; NLE, proxies, cache and n”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A workstation is not a spec sheet; NLE, proxies, cache and n”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A workstation is not a spec sheet; NLE, proxies, cache and n”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

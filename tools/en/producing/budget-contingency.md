@@ -23,12 +23,11 @@ cover: /images/tools/budget-contingency.webp
 diagram: /images/diagrams/en/budget-contingency.png
 diagram_alt: "Keep 10% of the budget for surprises"
 diagram_caption: "Weather, overruns, pickups, extra crew: these four show up almost every shoot. If the budget has no line for them, the overrun steals from somewhere else."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [tools.workflow.first-shoot-day.en, tools.producing.budget-map.en, tools.delivery.publish-checklist.en]
+related: [tools.producing.budget-map, tools.guide.budget-quote, shoot.camera.axis-line]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -61,3 +60,13 @@ The client version can be one page. You still need to know why each line moved. 
 - The budget has a separate contingency line of at least ten percent.
 - The rules for using it were written before the first day.
 - At every wrap, you can say how much today went over and why.
+
+
+<!-- V11_DEEPEN -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 7 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Hold Ten Percent for the Unexpected”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

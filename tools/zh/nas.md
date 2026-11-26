@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.lto-archive.en
-- tools.capability.nle-compare.en
-- tools.capability.cfexpress.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.tutorial.nd-calculate, tools.calculator.nd-calculator, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>只有一个人、一个项目时，NAS 的功耗和管理成本高于直接 SSD。不要为了“团队感”提前上复杂存储。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -43,3 +39,15 @@ source_kind: experience
 <ol><li>权限按项目分：剪辑可读写，客户只读；离职人员当天移除。</li><li>开启快照，保留 7–30 天；删除前先看快照，不要直接清空回收站。</li><li>网络至少 2.5GbE 才适合多轨剪辑；千兆只够代理。</li></ol>
 <p>验收：随机抽一个上周版本，能从快照恢复；拔掉 NAS 电源，确认还有离线副本可打开。两项都过，才叫备份。</p></section><section><h2 id="section-4">现场</h2><p>先建用户组和只读权限，开回收站；两人同时写同一文件，测试冲突提示。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>先建用户组和只读权限。</li><li>开回收站。</li><li>两人同时写同一文件，测试冲突提示。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别给全组读写权限；两个人同时改一个文件，版本就没了。</p></section>
 <h2>验收</h2><ul><li>用户组和只读权限已配置，不是全员可写。</li><li>回收站开启，删除的文件能找回。</li><li>两人同写测试出现冲突提示或锁定。</li></ul>
+
+
+> 意图分工：本页负责「NAS：团队共享」的可执行细节；同集群先读 <a href="https://tools.tvcn.org/article/buy-storage/">购买项目存储：速度、容量与备份</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 6 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「NAS：团队共享」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

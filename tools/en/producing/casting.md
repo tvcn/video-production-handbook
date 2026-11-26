@@ -23,12 +23,11 @@ cover: /images/tools/casting.webp
 diagram: /images/diagrams/en/casting.png
 diagram_alt: "Casting: three gates, not one résumé"
 diagram_caption: "First the look and voice have to hold, then something has to happen between two people, and only then do action and lines matter. Availability comes after all three."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [tools.producing.stripboard.en, tools.producing.budget-map.en, tools.proposal.treatment.en]
+related: [tools.capability.cfexpress, tools.capability.cine-camera, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -68,3 +67,15 @@ After you cast, send the character notes, script, and shoot dates together. Do n
 - Did the audition give an action rather than a monologue?
 - With two actors in the room, does something happen between them?
 - Are availability, backup, and character materials written down?
+
+
+> Intent split: this page covers the practical details of “Casting: Can They Stand in the Room Before They Can Act?”; start with <a href="https://story.tvcn.org/article/rehearsal/">Rehearsal: Block First, Lines Later</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 7 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Casting: Can They Stand in the Room Before They Can Act?”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

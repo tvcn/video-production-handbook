@@ -23,15 +23,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.tool.tool-card-audio-kit.en
-- main.tool.tool-card-lighting-kit.en
-- main.tool.tool-card-travel-kit.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.tool.tool-card-interview-kit, main.tool.tool-card-lighting-kit, context.history.16mm]
 source_kind: experience
 ---
-
 <p>Sound first, light second, lenses last. Viewers forgive a flat image; they do not forgive dialogue they cannot hear. The body sets the ceiling; sound and lighting set the floor.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -49,3 +45,10 @@ source_kind: experience
 <h2 id="section-4">When not to upgrade</h2>
 <p>If the bottleneck is script, blocking or editing, a fourth lens will not help. Finish three complete short films with the current kit, then buy against a recorded failure.</p></section><section><h2 id="section-5">On set</h2><p>A body, standard zoom, tripod, and lav. Keep 20 percent of the budget for storage and batteries.</p></section><section><h2 id="section-6">Avoid</h2><p>Do not pick a camera body first; write the four jobs it must do.</p></section>
 <h2>Check</h2><ul><li>Each of four items maps to one named capability.</li><li>Storage and batteries take about 20 percent of budget.</li><li>Every missing item has a workable substitute.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 5 client brief and project review reviews under a one- or two-to-three-person team with a fixed budget and schedule; it discusses “Minimum Kit”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

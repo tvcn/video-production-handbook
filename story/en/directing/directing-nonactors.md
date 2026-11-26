@@ -23,12 +23,11 @@ cover: /images/story/directing-nonactors.webp
 diagram: /images/diagrams/en/directing-nonactors.png
 diagram_alt: "Directing non-actors: actions, not adjectives"
 diagram_caption: "“Be natural” makes people stiffer. Give them one concrete task, their own words, and more distance. Do not ask them to act; ask them to do."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [story.interview.interview-questions.en, story.directing.actor-adjustment.en, story.directing.ensemble-scene.en]
+related: [story.story.ending-choice, story.directing.ensemble-scene, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -61,3 +60,18 @@ Keep rolling for ten seconds after “cut.” People often say the most human li
 - The subject has a concrete task, not just sitting still.
 - The words sound like theirs, not a script.
 - At least one usable moment happens after “cut.”
+
+
+<!-- V11_DEEPEN -->
+
+
+> Intent split: this page covers the practical details of “Directing Non-Actors: Give Them a Task, Not a Performance”; start with <a href="https://story.tvcn.org/article/rehearsal/">Rehearsal: Block First, Lines Later</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 6 table read and pre-shoot rehearsal reviews under a three-to-eight-page scene with one primary point of view; it discusses “Directing Non-Actors: Give Them a Task, Not a Performance”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

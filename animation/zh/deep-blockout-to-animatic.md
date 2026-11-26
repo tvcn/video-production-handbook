@@ -23,17 +23,16 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.3d.blockout
-- animation.pipeline.animatic-pipeline
-- animation.3d.modeling
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.deep.deep-compositing-2d3d, animation.deep.deep-loop-cycle-design, formats.brand.brand-film]
 sources:
+- S62
+- S63
 - S12
+- S59
 source_kind: sourced
 ---
-
 <p>先看空间和时长，再看表演；blockout 与 animatic 是两道不同的审片门。 单看《Blockout：先定比例和机位》只能解决一个局部；把《Blockout：先定比例和机位》《Animatic：配音、定时、改镜头》《建模：面数与轮廓》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +52,13 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别在机位没锁时做表演；一定返工</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别先画完再配音；语速一改，所有镜头都要重排</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别用细分救轮廓；剪影不对，面数再多也不像</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>盒子人能看出头、胸、骨盆三块比例。</li><li>机位和 10 秒时长已经锁死，有截图和参数。</li><li>最终镜头与 blockout 机位一致，没有中途换构图。</li><li>方盒定人和门的高度</li><li>先定距离关系</li><li>用实际焦距看构图</li><li>主镜头反打细节三个机位</li><li>代理人物走一遍</li><li>配音按真实语速录好，每镜秒数来自它。</li><li>总时长不超过目标 110%，时间先锁死。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《Blockout：先定比例和机位》里的单点问题：回到<a href="https://animation.tvcn.org/article/blockout/">《Blockout：先定比例和机位》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://animation.tvcn.org/article/animatic-pipeline/">《Animatic：配音、定时、改镜头》</a>，先不改第三页。</li><li>只做验收：看<a href="https://animation.tvcn.org/article/modeling/">《建模：面数与轮廓》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“先看空间和时长，再看表演；blockout 与 animatic 是两道不同的审片门。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“先看空间和时长，再看表演；blockout 与 animatic 是两道不同的审片门。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“先看空间和时长，再看表演；blockout 与 animatic 是两道不同的审片门。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“先看空间和时长，再看表演；blockout 与 animatic 是两道不同的审片门。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
+<!-- SOURCES_END -->
+

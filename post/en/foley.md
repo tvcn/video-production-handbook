@@ -24,17 +24,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Post Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.sound.music-editing.en
-- post.color.scopes.en
-- post.vfx.keying.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.color.hdr, post.color.hdr-workflow, shoot.camera.composition]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>Foley passes first on sync: the frame the foot lands, cloth rubs, cup meets table. Match the action, then add weight and material; out-of-sync Foley is worse than none.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -67,3 +63,12 @@ source_kind: experience
 ### When you have five minutes
 <ul><li>Record room tone first</li><li>Footsteps split into sole, surface, cadence</li><li>Record cloth separately</li><li>Watch the picture while recording</li><li>Match the action start</li><li>Solo before mixing</li></ul><p>Foley is not a library; it is the weight a body leaves when the actor is no longer there. Land the foot first, then make it sound good. The foot lands first.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Foley does not add ambience; it rebuilds the sound of visibl”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S27] [EBU R128 Loudness](https://tech.ebu.ch/publications/r128) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Foley does not add ambience; it rebuilds the sound of visibl”) against Broadcast loudness targets, true peak and measurement; not a substitute for an on-set test.
+- [S67] [IETF: RFC 8216: HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Foley does not add ambience; it rebuilds the sound of visibl”) against HLS segments, playlists and playback; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

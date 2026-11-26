@@ -23,17 +23,16 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.2d.2d-compositing.en
-- animation.3d.render.en
-- animation.motion-graphics.mg-transition.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.deep.deep-loop-cycle-design, animation.deep.deep-render-budget, formats.brand.brand-film]
 sources:
+- S62
+- S63
 - S12
+- S59
 source_kind: sourced
 ---
-
 <p>Compositing is not layering; depth, edge and motion must agree on the same space. One page of &amp;quot;2D Compositing: Separate Background, Character, Light&amp;quot; solves one local problem; joining &amp;quot;2D Compositing: Separate Background, Character, Light&amp;quot;, &amp;quot;Render: Samples and Noise&amp;quot; and &amp;quot;Motion Graphics Transition: Shape to Shape&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +52,13 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not draw everything on one layer; one change forces a full red…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not brute-force noise with total samples; without the source, …</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not use white flashes and pushes as universal transitions; if …</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>Background, character, foreground, and light are separate layers with clear structure.</li><li>Shadows live on their own layer, not baked into the character.</li><li>Changing an action moves only the character layer; background and light stay.</li><li>A 50 percent low-sample pass shows whether noise comes from light or material.</li><li>Light and material samples were adjusted separately.</li><li>Final noise is traced to a specific source, not brute-forced.</li><li>The same shape morphs across the transition instead of hard-cutting.</li><li>The morph completes in eight to twelve frames at a readable speed.</li><li>Without a white flash, information still connects and the audience knows where they are.</li><li>The condition from 2D Compositing: Separate Background, Character, Light fits on one line and can be repeated by someone else.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "2D Compositing: Separate Background, Character, Light", go back to <a href="https://animation.tvcn.org/en/article/2d-compositing/">2D Compositing: Separate Background, Character, Light</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://animation.tvcn.org/en/article/render/">Render: Samples and Noise</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://animation.tvcn.org/en/article/mg-transition/">Motion Graphics Transition: Shape to Shape</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Compositing is not layering; depth, edge and motion must agr”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Compositing is not layering; depth, edge and motion must agr”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Compositing is not layering; depth, edge and motion must agr”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Compositing is not layering; depth, edge and motion must agr”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

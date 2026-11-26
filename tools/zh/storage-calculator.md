@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.calculator.bitrate-calculator.en
-- tools.calculator.dof-calculator.en
-- tools.calculator.nd-calculator.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.producing.stripboard, tools.calculator.subtitle-cps, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>可录时长（分钟）≈ 容量（GB）× 8 × 1000 ÷ 码率（Mbps）÷ 60 。这是按十进制 GB 算的上限，实际要留 10%–15% 给格式化、音频和末尾文件。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -48,3 +44,15 @@ source_kind: experience
 <noscript><p class="calc-noscript">JavaScript 关闭时按公式手算；128GB、200Mbps、留 10% 约 76 分钟。</p></noscript>
 </section><script src="/assets/calculators.js" defer></script><section><h2>替代</h2><p>如果“4K 100 Mbps 约 45 G…”不是你的主问题，先用“再加两份备份，总量乘三”对应的基础做法；两项都成立再考虑升级。</p></section><section><h2>60 秒自测</h2><p>用现有器材按“4K 100 Mbps 约 45 G…”做一次 60 秒测试，记下一个数字；数字没有变化，就不要加预算。</p></section>
 <h2>验收</h2><ul><li>码率、时长、备份份数三项都填了真实值。</li><li>算出的总量包含三份拷贝和 20% 余量。</li><li>结果写进现场检查单，不靠相机剩余时间。</li></ul>
+
+
+> 意图分工：本页负责「存储时长计算器：卡能录多久」的可执行细节；同集群先读 <a href="https://tools.tvcn.org/article/buy-storage/">购买项目存储：速度、容量与备份</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 5 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「存储时长计算器：卡能录多久」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

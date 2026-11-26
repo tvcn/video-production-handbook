@@ -24,18 +24,17 @@ authors:
 sources:
 - S06
 - S39
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.law.ai-label-law.en
-- formats.food.food-video-structure.en
-- post.assets.archive-reuse.en
+- S01
+- S02
+- S03
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.law.ai-label-law, context.history.ai-video-history, formats.documentary.documentary-template]
 test_context: 复核环境：Windows 11 + Chrome；按公开影片、剧本与平台页面复核；不声称逐帧实测。
 known_failures: 已知失败：公开案例信息不全；平台规格与片长限制会变化；不同项目需重新验证。
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>无障碍字幕要高对比、位置避开主体、速度可读。白字加黑边或半透明底，不要用细字体和低对比灰；移动端每行不超过两行，停留时间按每秒 12–15 字估算。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -48,3 +47,12 @@ source_kind: sourced
 <h2>验收</h2><ul><li>换人说话时有说话人标签。</li><li>至少三个关键音效用方括号写出。</li><li>语速不超过每秒 9 字，语气有文字标注。</li></ul>
 
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S06] [W3C WAI](https://www.w3.org/WAI/media/av/captions/) — 2026-11-26 访问。用于核对首段“无障碍字幕要让听不见的人知道谁在说、发生了什么、语气是什么，不只写台词。”中的术语与公开背景（预录与直播字幕的无障碍要求，对应 WCAG 1.2.2）；不替代现场测试。
+- [S39] [W3C WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) — 2026-11-26 访问。用于核对首段“无障碍字幕要让听不见的人知道谁在说、发生了什么、语气是什么，不只写台词。”中的术语与公开背景（字幕、对比度与无障碍的现行标准）；不替代现场测试。
+- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“无障碍字幕要让听不见的人知道谁在说、发生了什么、语气是什么，不只写台词。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“无障碍字幕要让听不见的人知道谁在说、发生了什么、语气是什么，不只写台词。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“无障碍字幕要让听不见的人知道谁在说、发生了什么、语气是什么，不只写台词。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
+<!-- SOURCES_END -->
+

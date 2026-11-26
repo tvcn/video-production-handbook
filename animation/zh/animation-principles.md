@@ -21,24 +21,21 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 动画组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.motion-graphics.mg-typography.en
-- context.history.montage.en
-- formats.fashion.fashion-beauty-video-structure.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.timing.animation-timing, animation.2d.animation-walk, formats.brand.brand-film]
 depth: deep
 deep_minutes: 6
 sources:
+- S62
+- S63
 - S12
-- S28
-- S34
+- S59
 test_context: 复核环境：Windows 11；Blender 4.x / After Effects 2025 公开流程；不声称所有版本一致。
 known_failures: 已知失败：插件/版本差异导致绑定或渲染失败；字体授权与素材版权需单独核对。
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>十二原则是诊断工具，不是检查清单。一个动作先看重心、弧线和时间，再决定要不要加挤压伸展；全用会把动作变成橡皮玩具。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -68,4 +65,13 @@ source_kind: sourced
 ### 动画原则，十项检查
 <ul><li>一个镜头只挑三条</li><li>挤压拉伸说明材质</li><li>预备说明意图</li><li>跟随说明惯性</li><li>跳前蹲打前收</li><li>落地后头发衣服继续</li><li>预备两到四帧试</li><li>先画正常比例</li><li>只夸张一处</li><li>删一条看还成不成立</li></ul><p>原则用对，观众看到的是角色在想什么；原则用多，观众看到的是你在炫技。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“十二原则不是十二个滤镜；一个动作先用一个原则解释，观众才看得懂。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“十二原则不是十二个滤镜；一个动作先用一个原则解释，观众才看得懂。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“十二原则不是十二个滤镜；一个动作先用一个原则解释，观众才看得懂。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“十二原则不是十二个滤镜；一个动作先用一个原则解释，观众才看得懂。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
+<!-- SOURCES_END -->
+

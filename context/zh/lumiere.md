@@ -24,15 +24,14 @@ authors:
 sources:
 - S09
 - S10
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.history.edison-kinetoscope.en
-- context.history.muybridge.en
-- context.history.sound-era.en
+- S01
+- S02
+- S03
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.literacy.media-literacy, context.history.montage, formats.documentary.documentary-template]
 source_kind: sourced
 ---
-
 <p>卢米埃尔的“火车进站”把观众带进一个真实空间：镜头固定、景深完整、动作从远到近。它证明电影可以记录“正在发生的事”，而不只是舞台表演。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -52,8 +51,10 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S09] 卢米埃尔研究所：电影机与博物馆
-- [S10] BFI：电影史与影像研究入口
-
-完整链接与用途见 [`SOURCES.md`](../../about/)。
+- [S09] [卢米埃尔研究所](https://www.institut-lumiere.org/en/lumiere-museum) — 2026-11-26 访问。用于核对首段“卢米埃尔把火车进站投在墙上，观众第一次被“假的东西”吓到。”中的术语与公开背景（卢米埃尔兄弟、电影机与 1895 年放映的机构档案）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“卢米埃尔把火车进站投在墙上，观众第一次被“假的东西”吓到。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“卢米埃尔把火车进站投在墙上，观众第一次被“假的东西”吓到。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“卢米埃尔把火车进站投在墙上，观众第一次被“假的东西”吓到。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“卢米埃尔把火车进站投在墙上，观众第一次被“假的东西”吓到。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
 <!-- SOURCES_END -->
+

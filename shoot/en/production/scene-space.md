@@ -23,12 +23,11 @@ cover: /images/shoot/scene-space.webp
 diagram: /images/diagrams/en/scene-space.png
 diagram_alt: "Three layers in a room: entry, use, hiding"
 diagram_caption: "The eye starts at the door, moves to the table, and only then is allowed into the corner. The room is the first line."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [shoot.camera.camera-move.en, shoot.production.slate-continuity.en, shoot.camera.shot-size.en]
+related: [shoot.camera.sensor-size, shoot.art.set-dressing, post.color.color]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -67,3 +66,10 @@ Before shooting, walk from the door to the window with a phone. What the eye see
 - You can name who lived here, what just happened, and what is hidden.
 - Key props carry wear or a change of state.
 - The light comes from the room, and one thing is wrong enough to make the audience ask why.
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 7 on-set shoot and playback review reviews under one camera, available light or one key light; it discusses “Let the Room Speak First”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

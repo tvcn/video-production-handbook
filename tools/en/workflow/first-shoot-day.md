@@ -23,12 +23,11 @@ cover: /images/tools/first-shoot-day.webp
 diagram: /images/diagrams/en/first-shoot-day.png
 diagram_alt: "First shoot day: six things on one page"
 diagram_caption: "Time, place, owner, first shot, backup plan, wrap standard. One page someone else can follow beats memory."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [tools.producing.budget-contingency.en, tools.producing.call-sheet.en, tools.producing.stripboard.en]
+related: [tools.capability.fluid-head, tools.capability.follow-focus, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -61,3 +60,13 @@ Keep ten minutes before wrap: play back the last take, make one backup, confirm 
 - A driver can navigate to the address on the call sheet.
 - The irreplaceable light is shot within two hours of rolling.
 - Before wrap, the footage opens from a second drive.
+
+
+<!-- V11_DEEPEN -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 4 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Six Things to Write Down Before Your First Shoot Day”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

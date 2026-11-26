@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.brand-film.brand-film-template.en
-- formats.brand-film.brand-film-breakdown.en
-- formats.corporate.corporate-video-structure.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.deep.deep-documentary, formats.deep.deep-food-tabletop, story.directing.actor-adjustment]
 sources:
 - S12
+- S14
+- S15
+- S16
+- S29
 source_kind: sourced
 ---
-
 <p>A brand film is not a company profile; one selling point, one person and one remembered action beat ten departments. One page of &amp;quot;Brand Film Template: Stance, Evidence, Landing&amp;quot; solves one local problem; joining &amp;quot;Brand Film Template: Stance, Evidence, Landing&amp;quot;, &amp;quot;Brand Film Breakdown: Build a World in Ninety Seconds&amp;quot; and &amp;quot;Corporate Video Structure: Six Beats&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not use dream or craftsmanship as the claim; without evidence …</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Only the result is kept, not the condition</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Only the result is kept, not the condition</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>The claim can be opposed and a counterexample exists.</li><li>Evidence is specific to one person and one action.</li><li>The ending lands on an action, not a slogan.</li><li>An action is already happening in the first five seconds, not a drone.</li><li>The want is one object or action.</li><li>Obstacle comes from the real world, not a fake villain.</li><li>Turn happens through action, not slogan.</li><li>Consequence lands on one person.</li><li>Brand appears once, in the same frame as action.</li><li>End on consequence, not logo.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "Brand Film Template: Stance, Evidence, Landing", go back to <a href="https://formats.tvcn.org/en/article/brand-film-template/">Brand Film Template: Stance, Evidence, Landing</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://formats.tvcn.org/en/article/brand-film-breakdown/">Brand Film Breakdown: Build a World in Ninety Seconds</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://formats.tvcn.org/en/article/corporate-video-structure/">Corporate Video Structure: Six Beats</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A brand film is not a company profile; one selling point, on”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A brand film is not a company profile; one selling point, on”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A brand film is not a company profile; one selling point, on”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A brand film is not a company profile; one selling point, on”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A brand film is not a company profile; one selling point, on”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

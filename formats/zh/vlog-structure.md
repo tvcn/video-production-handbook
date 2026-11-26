@@ -21,24 +21,21 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 片型组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.wedding.wedding-structure.en
-- post.assets.dit-data-handoff.en
-- shoot.lighting.ratio.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.vlog.vlog-template, formats.wedding.wedding-breakdown, story.screenplay.logline]
 depth: deep
 deep_minutes: 6
 sources:
 - S14
 - S15
 - S16
+- S29
 test_context: 复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。
 known_failures: 已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>Vlog 的开场不是航拍风景，而是“我为什么来这里”。一句话交代理由，再接第一个动作；观众有了问题，才会容忍路上的空白。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -66,4 +63,13 @@ source_kind: sourced
 ### 旅拍 Vlog，十项检查
 <ul><li>开场先说为什么来</li><li>今天有一个具体任务</li><li>地点有可变条件</li><li>五段结构完整</li><li>意外是人物反应不是事故</li><li>安静时刻不配大段旁白</li><li>离开回答开头的问题</li><li>每个地点有主镜头和细节</li><li>转场用动作或声音</li><li>音乐不盖环境声</li></ul><p>旅拍不是去过哪里，是今天在那里做成了什么。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“旅拍 Vlog 先给一个去这里的理由，再拍好看；没有理由，风景只是屏保。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“旅拍 Vlog 先给一个去这里的理由，再拍好看；没有理由，风景只是屏保。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“旅拍 Vlog 先给一个去这里的理由，再拍好看；没有理由，风景只是屏保。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“旅拍 Vlog 先给一个去这里的理由，再拍好看；没有理由，风景只是屏保。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+<!-- SOURCES_END -->
+

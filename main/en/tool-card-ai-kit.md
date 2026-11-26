@@ -24,15 +24,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.tool.tool-card-accessibility.en
-- main.tool.tool-card-storage-kit.en
-- main.tool.tool-card-live-kit.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.tool.tool-card-audio-kit, main.tool.tool-card-basic-kit, context.history.16mm]
 source_kind: experience
 ---
-
 <p>An AI workflow is not “one prompt and a finished film.” Lock the script, character bible, shot list, rights scope and delivery specs before deciding which shots to generate.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -51,3 +47,10 @@ source_kind: experience
 <h2 id="section-4">When not to use it</h2>
 <p>News, documentary, testimony, real-person endorsement and projects requiring clear authorship must not use generated images as on-set evidence. Assets without a rights chain do not enter delivery.</p></section><section><h2 id="section-5">On set</h2><p>Script, reference, generator, upscale, comp, and label. Keep a rollback version at every step.</p></section><section><h2 id="section-6">Avoid</h2><p>Do not keep rerolling generations; without script and references, a good roll is still unusable.</p></section>
 <h2>Check</h2><ul><li>Script and references exist before the first generation.</li><li>Generation, upscale, and comp each carry a rollback version.</li><li>The delivered version has an AI label and a traceable version chain.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 3 client brief and project review reviews under a one- or two-to-three-person team with a fixed budget and schedule; it discusses “AI Workflow Kit”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

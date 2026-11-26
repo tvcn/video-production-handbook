@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.directing.rehearsal.en
-- story.directing.notes-to-actor.en
-- story.directing.performance-scale.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.deep.deep-scene-engine, story.deep.deep-scene-stitch, shoot.camera.axis-line]
 sources:
 - S12
+- S41
+- S10
+- S42
+- S16
 source_kind: sourced
 ---
-
 <p>Direction is not shouting one more; it turns action, intention and scale into playable notes. One page of &amp;quot;Rehearsal: Block First, Lines Later&amp;quot; solves one local problem; joining &amp;quot;Rehearsal: Block First, Lines Later&amp;quot;, &amp;quot;Notes to Actors: One Executable Sentence&amp;quot; and &amp;quot;Performance Scale: Closer Camera, Smaller Action&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not shout “be natural” from behind the monitor; the actor cann…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not give three notes at once; the actor can execute one.</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not use one performance scale for every size; the close-up mag…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>The first two passes have no lines, only positions and actions.</li><li>On the third pass, pauses still land on actions.</li><li>The actor can state what they want throughout the scene.</li><li>Walked once without lines</li><li>Marked start, end, and turns</li><li>Tested sitting and standing</li><li>Touched every prop once</li><li>Gave verbs, not adjectives</li><li>Each note contains one executable action.</li><li>The actor can do it immediately without asking “how exactly.”</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "Rehearsal: Block First, Lines Later", go back to <a href="https://story.tvcn.org/en/article/rehearsal/">Rehearsal: Block First, Lines Later</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://story.tvcn.org/en/article/notes-to-actor/">Notes to Actors: One Executable Sentence</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://story.tvcn.org/en/article/performance-scale/">Performance Scale: Closer Camera, Smaller Action</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Direction is not shouting one more; it turns action, intenti”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Direction is not shouting one more; it turns action, intenti”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Direction is not shouting one more; it turns action, intenti”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+- [S42] [Pixar: Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Direction is not shouting one more; it turns action, intenti”) against Story structure, character and visual storytelling lessons; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Direction is not shouting one more; it turns action, intenti”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

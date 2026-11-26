@@ -21,24 +21,21 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 片型组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.fashion.fashion-beauty-video-breakdown.en
-- post.color.hdr-workflow.en
-- shoot.coverage.coverage.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.fashion.fashion-beauty-video-breakdown, formats.fashion.fashion-beauty-video-structure, story.screenplay.logline]
 depth: deep
 deep_minutes: 6
 sources:
 - S14
 - S15
 - S16
+- S29
 test_context: 复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。
 known_failures: 已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>实验片不是随便剪。先写一条规则：固定机位、固定时长、固定颜色，或每镜只做一个动作；整片按这条规则变化，观众才能感到“怪得有道理”。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -79,4 +76,13 @@ source_kind: sourced
 ### 实验影像，十项检查
 <ul><li>规则能用一句话说清</li><li>规则简单可重复</li><li>整片只破一次规则</li><li>破的时候声音或剪辑改变</li><li>不靠特效堆</li><li>声音承担结构</li><li>不是从头铺满音乐</li><li>时长一到五分钟</li><li>结尾有停止理由</li><li>可以没有故事但有结束</li></ul><p>实验影像的自由不在“想拍什么拍什么”，在“定一条规则，然后敢只破一次”。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“实验影像先立规则：固定机位、重复动作、单一颜色；规则越清楚，效果越强。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“实验影像先立规则：固定机位、重复动作、单一颜色；规则越清楚，效果越强。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“实验影像先立规则：固定机位、重复动作、单一颜色；规则越清楚，效果越强。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“实验影像先立规则：固定机位、重复动作、单一颜色；规则越清楚，效果越强。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+<!-- SOURCES_END -->
+

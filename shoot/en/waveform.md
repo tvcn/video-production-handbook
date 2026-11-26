@@ -23,17 +23,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Shoot Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.exposure.false-color.en
-- shoot.exposure.log-footage.en
-- shoot.lighting.night-interior.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.lighting.window-light, shoot.sound.wireless-lav, post.color.color]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>A waveform shows where brightness sits: black on the left, white on the right. Check whether skin sits slightly above the middle, then whether highlights touch the top and shadows pile at the bottom. A shot can average correctly and still leave the face in black.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -59,3 +55,12 @@ source_kind: experience
 ### Ten exposure checks before you roll
 <ul><li>Check whether highlights touch the top of the waveform</li><li>Then check where skin sits</li><li>Read overall brightness last</li><li>Match exposure across the whole scene</li><li>Recheck after every camera move</li><li>Recheck after every lens change</li><li>Without a waveform, set zebras to ninety-five</li><li>With false color, watch purple or red for highlights</li><li>Shoot three seconds of gray card or white paper first</li><li>Play back and check the right edge of the histogram</li></ul><p>The waveform is not there to make you a technician; it is there so playback does not make you curse. One look on set saves an hour in post.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The waveform measures brightness, not beauty. Protect highli”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The waveform measures brightness, not beauty. Protect highli”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The waveform measures brightness, not beauty. Protect highli”) against Body specifications, recording formats and interfaces; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

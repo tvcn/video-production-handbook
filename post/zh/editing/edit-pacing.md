@@ -22,14 +22,13 @@ cover: /images/post/edit-pacing.webp
 diagram: /images/diagrams/zh/edit-pacing.png
 diagram_alt: "节奏是一条曲线，不是一串快切"
 diagram_caption: "好奇心升到最高时切；掉下来之前，给观众一口气。全片都快，等于全片都没有重点。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [post.editing.fine-cut.en, post.sound.music-editing.en, post.editing.cutting-points.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [post.editing.fine-cut, post.sound.foley, shoot.camera.composition]
 depth: deep
 deep_minutes: 6
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -77,3 +76,17 @@ deep_minutes: 6
 ### 节奏检查，十项
 <ul><li>先问这场戏要观众等什么</li><li>每个镜头留一个问题</li><li>回答不要提前给</li><li>长短镜头交替</li><li>每三四个短镜头留一个反应</li><li>先按动作剪再对音乐</li><li>不要每个鼓点都切</li><li>留一个无音乐的两秒</li><li>删掉重复信息</li><li>手机外放看一遍</li></ul><p>节奏不是让画面更快，是让观众更想往下看。</p>
 <!-- DEEP_DIVE_END -->
+
+
+> 意图分工：本页负责「节奏不是快，是观众什么时候想听下一句」的可执行细节；同集群先读 <a href="https://post.tvcn.org/article/fine-cut/">细剪：把粗剪的毛边修掉</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“剪得快不等于好看。先删解释，再把切点放在动作上，最后决定哪里该留安静。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S27] [EBU R128 响度](https://tech.ebu.ch/publications/r128) — 2026-11-26 访问。用于核对首段“剪得快不等于好看。先删解释，再把切点放在动作上，最后决定哪里该留安静。”中的术语与公开背景（广播响度目标、真峰值与测量方法）；不替代现场测试。
+- [S67] [IETF：RFC 8216：HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216) — 2026-11-26 访问。用于核对首段“剪得快不等于好看。先删解释，再把切点放在动作上，最后决定哪里该留安静。”中的术语与公开背景（HLS 分片、清单与播放）；不替代现场测试。
+<!-- SOURCES_END -->
+

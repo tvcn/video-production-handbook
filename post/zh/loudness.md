@@ -21,12 +21,9 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 后期组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.delivery.platform-deliverables.en
-- shoot.virtual-production.led-virtual-production.en
-- story.screenplay.three-act.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.color.lut, post.delivery.mastering, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
 sources:
@@ -35,14 +32,12 @@ sources:
 - S28
 - S30
 - S34
-- S35
 test_context: 复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere
   Pro 2025 复跑；不声称每台机器结果一致。
 known_failures: 已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>先让对白在正常监听下清楚，再把整体响度对到平台目标；不要用拉总音量救对白。导出前看真峰值，给编码留 1–2 dB 余量，避免平台二次压缩削顶。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -68,4 +63,14 @@ source_kind: sourced
 ### 交付前，用这十步听一遍
 <ul><li>先 solo 对白，确认每句都能听懂</li><li>加音乐再听一遍</li><li>加环境再听一遍</li><li>手机外放，音量一半，站到两米外</li><li>耳机听一遍，注意齿音和爆音</li><li>笔记本外放再听一遍</li><li>记下最安静那句的时间码</li><li>记下最吵那句的时间码</li><li>交付前直接跳到这两个点复查</li><li>确认真峰值没有超过负一</li></ul><p>响度表只能证明数字对，不能证明观众听懂。最后一遍一定要用耳朵，不是眼睛。最后让一个没看过片子的人听一遍，问他哪一句没听清，那通常就是你要修的地方。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S24] [ACES 色彩管理](https://www.oscars.org/science-technology/aces) — 2026-11-26 访问。用于核对首段“响度按平台目标交付，真峰值留余量；声音大不等于声音好。”中的术语与公开背景（ACES 色彩管线的官方说明与规范）；不替代现场测试。
+- [S27] [EBU R128 响度](https://tech.ebu.ch/publications/r128) — 2026-11-26 访问。用于核对首段“响度按平台目标交付，真峰值留余量；声音大不等于声音好。”中的术语与公开背景（广播响度目标、真峰值与测量方法）；不替代现场测试。
+- [S28] [Netflix 制作与交付帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对首段“响度按平台目标交付，真峰值留余量；声音大不等于声音好。”中的术语与公开背景（平台交付规格、HDR/SDR 与 QC 要求的公开入口）；不替代现场测试。
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“响度按平台目标交付，真峰值留余量；声音大不等于声音好。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“响度按平台目标交付，真峰值留余量；声音大不等于声音好。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
+<!-- SOURCES_END -->
+

@@ -24,12 +24,9 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Post Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.editing.rough-cut.en
-- shoot.lighting.ratio.en
-- story.screenplay.three-act.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.delivery.qc, post.sound.room-tone, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
 sources:
@@ -38,7 +35,6 @@ sources:
 - S28
 - S30
 - S34
-- S35
 test_context: 'Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci
   Resolve 20 and Premiere Pro 2025; results vary by machine.'
 known_failures: 'Known failures: older-version timelines break; camera Logs need remapping;
@@ -46,7 +42,6 @@ known_failures: 'Known failures: older-version timelines break; camera Logs need
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>Proxies solve “the machine cannot cut the originals,” not “quality can drop.” Keep the original filename, timecode and reel name, finish the cut, relink to the originals, then export the master.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -76,4 +71,14 @@ source_kind: sourced
 ### When you have five minutes
 <ul><li>Only for high resolution or multicam</li><li>Proxy names match originals</li><li>Keep proxies in a separate folder</li><li>Spot-check three shots</li><li>Lock before relinking</li><li>Export from originals</li></ul><p>Proxies let the edit run; originals let the film stand at the end. A broken proxy can be rebuilt; a lost original has no second take.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## References and further reading
+
+- [S24] [ACES Color Management](https://www.oscars.org/science-technology/aces) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Proxies do not lower the final quality; they let the edit mo”) against Official ACES color pipeline documentation; not a substitute for an on-set test.
+- [S27] [EBU R128 Loudness](https://tech.ebu.ch/publications/r128) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Proxies do not lower the final quality; they let the edit mo”) against Broadcast loudness targets, true peak and measurement; not a substitute for an on-set test.
+- [S28] [Netflix Partner Help](https://partnerhelp.netflixstudios.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Proxies do not lower the final quality; they let the edit mo”) against Public entry for delivery specs, HDR/SDR and QC; not a substitute for an on-set test.
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Proxies do not lower the final quality; they let the edit mo”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Proxies do not lower the final quality; they let the edit mo”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

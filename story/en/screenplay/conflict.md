@@ -23,12 +23,11 @@ cover: /images/story/conflict.webp
 diagram: /images/diagrams/en/conflict.png
 diagram_alt: "Conflict: both are right, so the audience hurts"
 diagram_caption: "Give both sides a reason they could say out loud, then remove options one by one. Someone pays at the end; tears are not payment."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [story.screenplay.character-arc.en, story.screenplay.dialogue.en, story.screenplay.voice-over.en]
+related: [story.deep.deep-coverage-board, story.deep.deep-dialogue-subtext, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -67,3 +66,15 @@ One last action is enough: sign the form, close the door, put the key on the tab
 - Both reasons fit in one sentence and both hold.
 - Each turn removes an option instead of raising the volume.
 - Someone pays a visible cost at the end.
+
+
+> Intent split: this page covers the practical details of “Conflict: Both Sides Need a Point”; start with <a href="https://story.tvcn.org/article/midpoint-turn/">Midpoint Turn: Change the Method, Not the Goal</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 5 table read and pre-shoot rehearsal reviews under a three-to-eight-page scene with one primary point of view; it discusses “Conflict: Both Sides Need a Point”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

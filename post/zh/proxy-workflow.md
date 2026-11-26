@@ -21,12 +21,9 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 后期组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.editing.rough-cut.en
-- shoot.lighting.ratio.en
-- story.screenplay.three-act.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.delivery.qc, post.sound.room-tone, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
 sources:
@@ -35,14 +32,12 @@ sources:
 - S28
 - S30
 - S34
-- S35
 test_context: 复核环境：Windows 11（RTX 3060）+ macOS 14（M1）；DaVinci Resolve 20 与 Premiere
   Pro 2025 复跑；不声称每台机器结果一致。
 known_failures: 已知失败：旧版软件时间线不兼容；不同相机 Log 需重新映射；代理丢失时需回套原片。
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>代理解决的是“机器剪不动原素材”，不是“画质可以降”。生成代理时保留原文件名、时间码和卷名，剪辑完成后回批原素材，再输出母版。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -72,4 +67,14 @@ source_kind: sourced
 ### 只剩五分钟时
 <ul><li>只在高分辨率或多机位做</li><li>代理文件名与原素材一致</li><li>代理放独立文件夹</li><li>生成后抽查三条</li><li>锁定剪辑再回套</li><li>交付用原素材</li></ul><p>代理让剪辑先跑起来，原素材让片子最后站得住。代理坏了可以重做，原素材丢了没有第二次。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S24] [ACES 色彩管理](https://www.oscars.org/science-technology/aces) — 2026-11-26 访问。用于核对首段“代理不是降低成片质量，是让剪辑先跑起来；原始素材永远留在旁边。”中的术语与公开背景（ACES 色彩管线的官方说明与规范）；不替代现场测试。
+- [S27] [EBU R128 响度](https://tech.ebu.ch/publications/r128) — 2026-11-26 访问。用于核对首段“代理不是降低成片质量，是让剪辑先跑起来；原始素材永远留在旁边。”中的术语与公开背景（广播响度目标、真峰值与测量方法）；不替代现场测试。
+- [S28] [Netflix 制作与交付帮助](https://partnerhelp.netflixstudios.com/) — 2026-11-26 访问。用于核对首段“代理不是降低成片质量，是让剪辑先跑起来；原始素材永远留在旁边。”中的术语与公开背景（平台交付规格、HDR/SDR 与 QC 要求的公开入口）；不替代现场测试。
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“代理不是降低成片质量，是让剪辑先跑起来；原始素材永远留在旁边。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“代理不是降低成片质量，是让剪辑先跑起来；原始素材永远留在旁边。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
+<!-- SOURCES_END -->
+

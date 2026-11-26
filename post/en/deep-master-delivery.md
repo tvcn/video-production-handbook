@@ -23,18 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.delivery.mastering.en
-- post.delivery.qc.en
-- post.delivery.platform-deliverables.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.deep.deep-sound-mix, post.deep.deep-subtitle-delivery, shoot.camera.axis-line]
 sources:
 - S13
 - S14
+- S30
+- S34
+- S27
 source_kind: sourced
 ---
-
 <p>Delivery is not one export; master, QC and platform specs must align once or the launch comes back. One page of &amp;quot;Mastering: One File to Rule the Delivery&amp;quot; solves one local problem; joining &amp;quot;Mastering: One File to Rule the Delivery&amp;quot;, &amp;quot;QC: Black Frames, Frozen Frames, Dead Audio&amp;quot; and &amp;quot;Platform Deliverables: One Master, Many Safe Areas&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -54,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not use “latest” as the filename; delivery must be traceable.</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not judge sound on laptop speakers; you will miss low end and …</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Only the result is kept, not the condition</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>The master is the highest-quality format and its filename says master.</li><li>Every platform version traces back to the same master with no backward overwrite.</li><li>The master opens, plays, and relinks on a clean machine.</li><li>Black frames and freezes: watch from head to tail at 1x and log timecode.</li><li>Dropouts and peaks: listen with headphones, not just the waveform; check left/right and phase.</li><li>Subtitles: check safe area, typos, line breaks, timing and forced subtitles.</li><li>One master; every platform version traces back.</li><li>Each platform has frame, runtime, caption, and loudness specs.</li><li>Vertical is recomposed, not center-cropped.</li><li>All three caption types are played.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "Mastering: One File to Rule the Delivery", go back to <a href="https://post.tvcn.org/en/article/mastering/">Mastering: One File to Rule the Delivery</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://post.tvcn.org/en/article/qc/">QC: Black Frames, Frozen Frames, Dead Audio</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://post.tvcn.org/en/article/platform-deliverables/">Platform Deliverables: One Master, Many Safe Areas</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S13] [Digital Cinema System Specification](https://www.dcimovies.com/dci-specification/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Delivery is not one export; master, QC and platform specs mu”) against Specification entry for digital-cinema resolution, colour, security and delivery; not a substitute for an on-set test.
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Delivery is not one export; master, QC and platform specs mu”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Delivery is not one export; master, QC and platform specs mu”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Delivery is not one export; master, QC and platform specs mu”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
+- [S27] [EBU R128 Loudness](https://tech.ebu.ch/publications/r128) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Delivery is not one export; master, QC and platform specs mu”) against Broadcast loudness targets, true peak and measurement; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

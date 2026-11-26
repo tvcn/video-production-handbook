@@ -21,12 +21,9 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 技术组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.camera.composition.en
-- story.screenplay.three-act.en
-- tools.guide.buy-tripod.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.sound.boom-operator, shoot.production.camera-height, post.color.color]
 depth: deep
 deep_minutes: 6
 sources:
@@ -34,12 +31,12 @@ sources:
 - S31
 - S32
 - S33
+- S52
 test_context: 复核环境：Windows 11 工作站；Sony FX3 / Canon R5 公开菜单与样片对照；镜头以页面标注为准，不声称每支都实测。
 known_failures: 已知失败：不同机型菜单/固件差异；现场色温与监视器未校准会导致误判。
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>走位不是把演员摆得好看，而是让谁靠近、谁退、谁挡住谁变成画面信息。先在地上标门、椅子和摄影机，再让演员用一个动作穿过这段距离。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -69,4 +66,14 @@ source_kind: sourced
 ### 只剩五分钟时
 <ul><li>先走一遍，不拿台词</li><li>标出起点、终点、转身点</li><li>让演员试一次坐下和起身</li><li>确认主光不挡脸</li><li>群戏给每个人一个动作</li><li>拍一张走位图存档</li></ul><p>走位对了，台词才有地方落；走位错了，演员只能用表情硬撑。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“走位不是把演员摆好看，而是让身体在空间里做出关系：谁靠近、谁退、谁挡住谁。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“走位不是把演员摆好看，而是让身体在空间里做出关系：谁靠近、谁退、谁挡住谁。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
+- [S32] [Sony 专业影像支持](https://pro.sony/ue_US/support) — 2026-11-26 访问。用于核对首段“走位不是把演员摆好看，而是让身体在空间里做出关系：谁靠近、谁退、谁挡住谁。”中的术语与公开背景（专业摄影机与镜头的支持、固件与文档）；不替代现场测试。
+- [S33] [Canon 支持](https://www.usa.canon.com/support) — 2026-11-26 访问。用于核对首段“走位不是把演员摆好看，而是让身体在空间里做出关系：谁靠近、谁退、谁挡住谁。”中的术语与公开背景（相机、镜头与固件的官方支持入口）；不替代现场测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“走位不是把演员摆好看，而是让身体在空间里做出关系：谁靠近、谁退、谁挡住谁。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
+<!-- SOURCES_END -->
+

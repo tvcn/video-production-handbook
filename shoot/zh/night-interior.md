@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 拍摄组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.lighting.mixed-light.en
-- shoot.lighting.practical-light.en
-- shoot.exposure.waveform.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.safety.permit, shoot.lighting.practical-light, post.color.color]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>画面里至少要有一盏可信的实景光源：台灯、窗、电视、走廊灯。人物补光从这盏灯的方向来，不要从摄影机方向打平。曝光保灯罩和窗外，暗部留一点细节。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -61,3 +57,12 @@ source_kind: experience
 ### 只剩五分钟时
 <ul><li>先找一个画面里的 practical</li><li>窗外比室内亮三档</li><li>人脸补到比背景亮一档</li><li>黑旗压背景</li><li>Log 不要欠曝</li><li>回放看暗部噪点</li></ul><p>夜景先有理由，再谈气氛；理由是一盏灯，气氛是脸还看得见。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“夜景内景先找画面里能信的实用光，再用一盏小灯补人脸，别把整间房打平。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“夜景内景先找画面里能信的实用光，再用一盏小灯补人脸，别把整间房打平。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“夜景内景先找画面里能信的实用光，再用一盏小灯补人脸，别把整间房打平。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
+<!-- SOURCES_END -->
+

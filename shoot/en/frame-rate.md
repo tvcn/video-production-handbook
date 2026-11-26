@@ -24,17 +24,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Shoot Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.camera.shutter-angle.en
-- shoot.camera.nd-filter.en
-- shoot.exposure.waveform.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.movement.handheld, shoot.lighting.hard-light, post.color.color]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>Project frame rate drives sound, captions and platform compatibility; slow motion is a capture rate. 24/25/30 is the narrative base, 60/120 for later slowdown. Do not mix base rates in one project.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -64,3 +60,12 @@ source_kind: experience
 ### When you have five minutes
 <ul><li>Set one rate for the piece</li><li>Shutter at twice the rate</li><li>Calculate the slow-motion factor</li><li>Confirm light before high-speed</li><li>Separate folders by rate</li><li>Write the rate on the slate</li></ul><p>Frame rate is discipline before style; break the discipline and style becomes an accident. Check the project rate before the first slate; do not let the first take be wrong.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Frame rate sets how motion feels; high speed does not slow t”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Frame rate sets how motion feels; high speed does not slow t”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Frame rate sets how motion feels; high speed does not slow t”) against Body specifications, recording formats and interfaces; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

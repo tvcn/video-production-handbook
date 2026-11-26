@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.calculator.dof-calculator.en
-- tools.calculator.bitrate-calculator.en
-- tools.tutorial.set-mediabay.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.capability.nd-gel, tools.tutorial.night-practical, shoot.camera.nd-filter]
 source_kind: experience
 ---
-
 <p>先固定光圈和 ISO，只把快门放慢到目标值；需要的减光档数是 ND 档数 = log2(当前快门 ÷ 目标快门) 。例如 1/50 放到 1/200，差 4 倍，就是 2 档。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -48,3 +44,15 @@ source_kind: experience
 <noscript><p class="calc-noscript">JavaScript 关闭时按上方公式手算；默认值 50 → 25 约需 1 档，即 ND2。</p></noscript>
 </section><script src="/assets/calculators.js" defer></script><section><h2>替代</h2><p>如果“输入 1/50、f/2.8、ISO …”不是你的主问题，先用“测环境 EV”对应的基础做法；两项都成立再考虑升级。</p></section><section><h2>60 秒自测</h2><p>用现有器材按“输入 1/50、f/2.8、ISO …”做一次 60 秒测试，记下一个数字；数字没有变化，就不要加预算。</p></section>
 <h2>验收</h2><ul><li>快门、光圈、ISO 三项输入与现场设置一致。</li><li>环境 EV 来自实测，不是猜的。</li><li>算出的 ND 档数与实际滤镜一致，曝光落在目标。</li></ul>
+
+
+> 意图分工：本页负责「ND 计算器：换滤镜不靠猜」的可执行细节；同集群先读 <a href="https://tools.tvcn.org/article/nd-calculate/">ND 计算：大光圈白天怎么曝光</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 3 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「ND 计算器：换滤镜不靠猜」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

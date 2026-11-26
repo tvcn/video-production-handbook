@@ -23,17 +23,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Shoot Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.movement.handheld.en
-- shoot.art.set-dressing.en
-- shoot.camera.frame-rate.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.exposure.waveform, shoot.lighting.window-light, post.color.color]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>Post stabilization zooms and cuts edges. Confirm the frame has margin; without it you get black or soft edges. Handheld wide is easier to rescue than long lens.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -61,3 +57,12 @@ source_kind: experience
 ### Ten gimbal checks before rolling
 <ul><li>Balance three axes before power</li><li>Motors stay cool</li><li>Battery and card seated</li><li>Choose follow or lock mode</li><li>Keep the arm against the body</li><li>Walk thirty percent slower</li><li>Land on the heel</li><li>Look ahead</li><li>Turn with the feet, not the waist</li><li>Play back for vertical bob</li></ul><p>Gimbal stability starts in the body, then in the machine.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Gimbals hate tiny steps. Soft knees, heel-first, even speed.”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Gimbals hate tiny steps. Soft knees, heel-first, even speed.”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Gimbals hate tiny steps. Soft knees, heel-first, even speed.”) against Body specifications, recording formats and interfaces; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

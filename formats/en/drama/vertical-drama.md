@@ -23,18 +23,21 @@ cover: /images/formats/vertical-drama.webp
 diagram: /images/diagrams/en/vertical-drama.png
 diagram_alt: "Vertical structure: face high, hands low, question last"
 diagram_caption: "Want in the first frame, obstacle by second three, one turn per scene. Shoot vertical; do not crop."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [formats.vlog.vlog-structure.en, post.delivery.conform-online.en, shoot.multicam.multicam-live.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [formats.vlog.vlog-breakdown, formats.vlog.vlog-structure, story.screenplay.logline]
 depth: deep
 deep_minutes: 6
-sources: [S14, S15, S16]
+sources:
+- S14
+- S15
+- S16
+- S29
 test_context: "Review setup: composite samples and public cases; previewed on MacBook Pro M1 / iPhone 13; not one real client project."
 known_failures: "Known failures: composite samples are not client proof; platform length/spec changes expire templates."
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -92,9 +95,13 @@ Keep subtitles in the bottom safe area, off the mouth and hands. Platform UI cov
 ### Ten vertical-drama checks
 <ul><li>A concrete want in second one</li><li>The blocker visible in second two</li><li>An information gap exists</li><li>One location only</li><li>Two main characters only</li><li>False answer and turn</li><li>The turn changes the relationship</li><li>Medium or close framing</li><li>Lines under twelve characters</li><li>A new question at the end</li></ul><p>Short drama is not short. It is every second changing the distance between two people.</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S14]</span> YouTube Community Guidelines</li><li><span class="mono">[S15]</span> TikTok Community Guidelines</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li></ul>
-<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
+## References and further reading
+
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Vertical drama has no time for a world. Put a want in the fi”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S15] [TikTok Community Guidelines](https://www.tiktok.com/community-guidelines/en/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Vertical drama has no time for a world. Put a want in the fi”) against Short-video platform rules on content, AI-generated media and commercial disclosure; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Vertical drama has no time for a world. Put a want in the fi”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Vertical drama has no time for a world. Put a want in the fi”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

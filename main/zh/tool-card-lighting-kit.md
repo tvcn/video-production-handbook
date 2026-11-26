@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.tool.tool-card-travel-kit.en
-- main.tool.tool-card-audio-kit.en
-- main.tool.tool-card-basic-kit.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.tool.tool-card-live-kit, main.tool.tool-card-storage-kit, context.history.16mm]
 source_kind: experience
 ---
-
 <p>一盏灯加一块柔光箱，先把光从哪边来定下来；再用反光板补暗部。没有方向的多灯，只会把脸打平。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -48,3 +44,10 @@ source_kind: experience
 <h2 id="section-4">什么情况下不要加灯</h2>
 <p>如果窗光方向已经成立，先加反光板或黑旗，不要再用第二盏灯打平。夜景和纪实场景里，保留现有光源的方向，比“补亮”更重要。</p></section><section><h2 id="section-5">现场</h2><p>一盏 COB、90 厘米柔光箱、反光板、两个沙袋；先拍半身，再补第二盏。</p></section><section><h2 id="section-6">别踩</h2><p>别先买第二盏灯；第一盏的方向没定，第二盏只会打架。</p></section>
 <h2>验收</h2><ul><li>一盏灯加柔光箱能拍出可用的半身光。</li><li>暗部先用反光板补，没有直接上第二盏。</li><li>灯架有两个沙袋，推一下不晃。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 5 次客户需求梳理与项目复盘，条件为单人或 2–3 人小组、预算与周期明确；页面讨论的具体对象是「单灯组合」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

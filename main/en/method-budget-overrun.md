@@ -24,15 +24,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.method.method-crew-conflict.en
-- main.method.method-platform-reject.en
-- main.method.method-subtitle-bad.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.method.method-client-revision, main.method.method-color-cast, context.history.16mm]
 source_kind: experience
 ---
-
 <p>Split the budget into prep, shoot, post and contingency. Keep at least 10% buffer in each. List actual and forecast overruns in two columns, then work only the top three forecast items. Do not hide the gap with “we&#x27;ll figure it out.”</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -59,3 +55,10 @@ source_kind: experience
 <ol><li>Stop new purchases and confirm what is already owed.</li><li>Classify change-sheet items as client-caused, self-caused or force majeure.</li><li>Client-caused gets a change order; self-caused comes from contingency; force majeure follows the contract.</li><li>Do not hide it as “the next job will make it up.” The next job has its own costs.</li></ol>
 <p>Run a 30-minute close-out: which line exceeded 10%, why, and which sheet it enters next time. “Control the budget” is not an action; write the specific move.</p></section><section><h2 id="section-5">On set</h2><p>Stop nonessential gear and change scope. Overruns usually come from scope, not unit price.</p></section><section><h2 id="section-6">Do this</h2><p>Over budget: stop optional gear first, then talk about people. Overruns usually come from scope, not unit price.</p><ol><li>List spending as incurred and pending; cut pending nonessentials first.</li><li>Compare with the original budget and name the scope change: extra locations, days, revision rounds.</li><li>Quote the addition to the client; do not absorb it silently.</li></ol></section><section><h2 id="section-7">Avoid</h2><p>Do not fill the hole with a lower price; the next job gets harder.</p></section><section><h2>Boundary</h2><p>It does not guarantee a story. The template only orders structure; the person, obstacle and cost still need writing.</p></section><section><h2>Alternative</h2><p>If “List spending as incurred and pending; cut pending” is not the main problem, start with the basic move behind “Compare with the original budget and name the”. Upgrade only after both hold.</p></section><section><h2>60-second test</h2><p>Run a 60-second test with the gear you own, focused on “List spending as incurred and pending; cut pending”, and record one number. If the number does not change, do not add budget.</p></section><section><h2>When not to use</h2><p>Do not use the template when “List spending as incurred and pending; cut pending” is still unclear or “Compare with the original budget and name the” is only filler. Go back to the person and the problem.</p></section><section><h2>Three failures</h2><ul><li>Every beat exists, but no one makes a decision.</li><li>The middle changes location, not information.</li><li>The ending is narrated, with no visible change.</li></ul></section>
 <h2>Check</h2><ul><li>Spending is split into incurred and pending; pending nonessentials are cut.</li><li>The scope change is named: locations, days, or revision rounds.</li><li>The addition is quoted to the client, not absorbed.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 3 client brief and project review reviews under a one- or two-to-three-person team with a fixed budget and schedule; it discusses “The Budget Is Over”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

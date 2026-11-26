@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.safety.set-safety
-- shoot.safety.risk-assessment
-- shoot.safety.permit
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.deep.deep-sound-rig, shoot.sound.dual-system-sound, post.deep.deep-asset-management]
 sources:
 - S17
+- S23
+- S31
+- S52
+- S53
 source_kind: sourced
 ---
-
 <p>现场安全不是一张签字表；风险评估、许可和收工检查要落到每一个会动的人。 单看《现场安全：电线、高处、道路》只能解决一个局部；把《现场安全：电线、高处、道路》《风险评估：开机前填一张表》《拍摄许可：公园、地铁、商铺》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别让一个人搬灯架；倒下来没人接</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别把表填完就锁进抽屉；没人听过，等于没做</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别用“拍一下就走”当许可；保安来了，机器和素材都可能保不住</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>走道上没有可绊人的电缆，灯架都有沙袋。</li><li>高处灯架有人扶，道路旁的组员穿着反光背心。</li><li>任何组员都能说出最近医院、集合点和现场联系人。</li><li>电缆全部压边</li><li>过道保持清空</li><li>不用椅子当灯架</li><li>插排不超载</li><li>梯子有人扶</li><li>四格都填了具体内容，不是“注意安全”这种空话。</li><li>每个风险点都有名字负责，组员能说出自己那一项。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《现场安全：电线、高处、道路》里的单点问题：回到<a href="https://shoot.tvcn.org/article/set-safety/">《现场安全：电线、高处、道路》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://shoot.tvcn.org/article/risk-assessment/">《风险评估：开机前填一张表》</a>，先不改第三页。</li><li>只做验收：看<a href="https://shoot.tvcn.org/article/permit/">《拍摄许可：公园、地铁、商铺》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — 2026-11-26 访问。用于核对首段“现场安全不是一张签字表；风险评估、许可和收工检查要落到每一个会动的人。”中的术语与公开背景（通讯社对独立、准确与不带偏见的公开承诺）；不替代现场测试。
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“现场安全不是一张签字表；风险评估、许可和收工检查要落到每一个会动的人。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“现场安全不是一张签字表；风险评估、许可和收工检查要落到每一个会动的人。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“现场安全不是一张签字表；风险评估、许可和收工检查要落到每一个会动的人。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“现场安全不是一张签字表；风险评估、许可和收工检查要落到每一个会动的人。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
+<!-- SOURCES_END -->
+

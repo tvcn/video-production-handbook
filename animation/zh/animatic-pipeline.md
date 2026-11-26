@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 动画组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.motion-graphics.mg-rhythm.en
-- animation.pipeline.asset-handoff.en
-- animation.3d.blockout.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.case.animation-case, animation.2d.animation-lip-sync, formats.documentary.documentary-template]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>Animatic 用临时配音、简单画面和准确时长，检查镜头能不能接、节奏是否成立。每个镜头标秒数，配音先录，不要等动画完成再配。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -64,3 +60,11 @@ source_kind: experience
 ### 动态分镜，十项检查
 <ul><li>每张故事板标秒数</li><li>临时对白自己录</li><li>音效只放关键</li><li>临时音乐标副歌</li><li>先看总时长</li><li>四秒无新信息就剪</li><li>静音能看懂</li><li>闭眼能听懂</li><li>锁定后才进动画</li><li>改台词也重算时间</li></ul><p>动态分镜的唯一目的，是在还便宜的时候发现片子不成立。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“Animatic 先放配音、定每条时长、再改分镜；没有声音，时间感是假的。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“Animatic 先放配音、定每条时长、再改分镜；没有声音，时间感是假的。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+<!-- SOURCES_END -->
+

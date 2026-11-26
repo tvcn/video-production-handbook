@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.method.method-first-client.en
-- main.method.method-deadline.en
-- main.method.method-client-revision.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [main.method.method-scene-boring, main.method.method-shoot-alone, context.history.16mm]
 depth: deep
 deep_minutes: 7
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>把报价拆成四块：人天、器材、后期、授权。低价往往只算了拍摄当天，漏掉前期、修改、交付和素材归档；也漏掉设备折旧和软件订阅。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -68,3 +64,11 @@ source_kind: experience
 ### 报价，十项检查
 <ul><li>成本底线含器材软件保险税</li><li>利润单独加</li><li>按拍摄天数算工作量</li><li>使用范围五项分开</li><li>自然流量和付费投放不同价</li><li>修改轮次单独列</li><li>加急和额外尺寸单独列</li><li>源文件单独列</li><li>谈判砍范围不砍日费</li><li>定金尾款取消写进合同</li></ul><p>低价换来的不是客户，是一次性客户；合理报价换来的才是能重复合作的人。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S22] [全国人民代表大会：《民法典》](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — 2026-11-26 访问。用于核对首段“报价太低，先算天数、设备、后期和修改次数；低价接单会赶走好客户。”中的术语与公开背景（肖像、隐私、合同与场地权利的上位法文本）；不替代现场测试。
+- [S38] [国家税务总局：官方网站](https://www.chinatax.gov.cn/) — 2026-11-26 访问。用于核对首段“报价太低，先算天数、设备、后期和修改次数；低价接单会赶走好客户。”中的术语与公开背景（增值税、跨境服务与代扣代缴的官方政策入口）；不替代现场测试。
+<!-- SOURCES_END -->
+

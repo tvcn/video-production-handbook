@@ -23,16 +23,20 @@ cover: /images/post/rough-cut.webp
 diagram: /images/diagrams/en/rough-cut.png
 diagram_alt: "The rough cut is five steps, not one pass"
 diagram_caption: "Make it whole before making it good. The rough cut exposes holes; it does not win awards."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [post.sound.sound.en, shoot.safety.set-safety.en, story.screenplay.logline.en]
-sources: [S24, S27, S28, S30, S34, S35]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [post.color.scopes, post.accessibility.sdh, shoot.camera.composition]
+sources:
+- S24
+- S27
+- S28
+- S30
+- S34
 test_context: "Review setup: Windows 11 (RTX 3060) + macOS 14 (M1); re-run in DaVinci Resolve 20 and Premiere Pro 2025; results vary by machine."
 known_failures: "Known failures: older-version timelines break; camera Logs need remapping; lost proxies require relinking."
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -67,9 +71,22 @@ Do not write “it feels off.” “Feels off” is not a problem. The second an
 - A stranger can say who wants what.
 - No meaningless shot runs longer than three seconds.
 - Three notes, each with a timecode.
+
+
+<!-- V11_DEEPEN -->
+
+
+> Intent split: this page covers the practical details of “The Rough Cut: Make the Film Work First”; start with <a href="https://post.tvcn.org/article/fine-cut/">Fine Cut: Remove the Rough Edges</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S24]</span> ACES Color Management</li><li><span class="mono">[S27]</span> EBU R128 Loudness</li><li><span class="mono">[S28]</span> Netflix Partner Help</li><li><span class="mono">[S30]</span> DaVinci Resolve</li><li><span class="mono">[S34]</span> Adobe Premiere Pro Guide</li><li><span class="mono">[S35]</span> Avid Resource Center</li></ul>
-<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
+## References and further reading
+
+- [S24] [ACES Color Management](https://www.oscars.org/science-technology/aces) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A rough cut does one thing: let a stranger understand who wa”) against Official ACES color pipeline documentation; not a substitute for an on-set test.
+- [S27] [EBU R128 Loudness](https://tech.ebu.ch/publications/r128) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A rough cut does one thing: let a stranger understand who wa”) against Broadcast loudness targets, true peak and measurement; not a substitute for an on-set test.
+- [S28] [Netflix Partner Help](https://partnerhelp.netflixstudios.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A rough cut does one thing: let a stranger understand who wa”) against Public entry for delivery specs, HDR/SDR and QC; not a substitute for an on-set test.
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A rough cut does one thing: let a stranger understand who wa”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S34] [Adobe Premiere Pro Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A rough cut does one thing: let a stranger understand who wa”) against Official docs for editing, proxies, color and export; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

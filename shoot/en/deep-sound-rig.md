@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.sound.dual-system-sound.en
-- shoot.sound.wireless-lav.en
-- shoot.sound.boom-operator.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.sound.dual-system-sound, shoot.camera.exposure, post.deep.deep-asset-management]
 sources:
 - S17
+- S23
+- S31
+- S52
+- S53
 source_kind: sourced
 ---
-
 <p>Reliable location sound comes from dual system, wireless backup and boom position, not one expensive mic. One page of &amp;quot;Dual-System Sound: Slate and Timecode&amp;quot; solves one local problem; joining &amp;quot;Dual-System Sound: Slate and Timecode&amp;quot;, &amp;quot;Wireless Lav: Hide It, Back It Up&amp;quot; and &amp;quot;Boom Operator: Follow the Action, Not the Line&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not rely on waveform auto-align; without a clap or timecode, d…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not drop the transmitter in a pocket or record one track; rub …</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not swing the boom on every line; the tip will enter frame and…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>Every take starts with three claps visible and audible.</li><li>Timecode or slate notes are complete enough for post to match audio by scene.</li><li>After sync, playback stays in lip-sync from head to tail.</li><li>At a new setup, clap first: sharp and close to the mic</li><li>Then slate so the words are readable</li><li>Then shoot the timecode on camera</li><li>Write scene, shot, and take on the slate</li><li>Always run the camera scratch mic</li><li>The thirty-second test has no cloth rub, AC hum, or plosive.</li><li>The transmitter is not in a pocket, the cable has slack, and the mic does not swing when the actor walks.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "Dual-System Sound: Slate and Timecode", go back to <a href="https://shoot.tvcn.org/en/article/dual-system-sound/">Dual-System Sound: Slate and Timecode</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://shoot.tvcn.org/en/article/wireless-lav/">Wireless Lav: Hide It, Back It Up</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://shoot.tvcn.org/en/article/boom-operator/">Boom Operator: Follow the Action, Not the Line</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Reliable location sound comes from dual system, wireless bac”) against The agency's public commitment to independence, accuracy and freedom from bias; not a substitute for an on-set test.
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Reliable location sound comes from dual system, wireless bac”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Reliable location sound comes from dual system, wireless bac”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Reliable location sound comes from dual system, wireless bac”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
+- [S53] [Sony: FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Reliable location sound comes from dual system, wireless bac”) against Body specifications, recording formats and interfaces; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

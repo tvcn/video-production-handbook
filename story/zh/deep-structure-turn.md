@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.story.midpoint-turn
-- story.story.ending-choice
-- story.screenplay.script-format
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.screenplay.dialogue, story.directing.directing-debut, shoot.deep.deep-camera-move]
 sources:
 - S12
+- S41
+- S10
+- S42
+- S16
 source_kind: sourced
 ---
-
 <p>结构不是三幕模板，而是中点把方向翻一次、结尾把选择付一次代价。 单看《中点转向：换方法，不换目标》只能解决一个局部；把《中点转向：换方法，不换目标》《结尾：停在选择之后》《剧本格式：让全组读得懂》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别把中点写成反转；目标没变，方法变了，才叫转向</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别在结尾加解释；解释一多，选择就没有余味</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别把剧本写成小说；全组找不到场号和声音提示，现场就会漏</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>中点前后目标那一行完全一样，没有偷偷换目标。</li><li>左右两栏各有三个可拍动作，方法差异看得见。</li><li>观众不看台词也能说出他换了什么办法。</li><li>中点换的是方法不是目标</li><li>前半段的方法先有效</li><li>中点证明旧方法失效</li><li>新方法有学习成本</li><li>代价能拍出来</li><li>最后一个镜头是选择后的动作，没有解释性旁白。</li><li>观众能说出人物选了什么、放弃了什么。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《中点转向：换方法，不换目标》里的单点问题：回到<a href="https://story.tvcn.org/article/midpoint-turn/">《中点转向：换方法，不换目标》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://story.tvcn.org/article/ending-choice/">《结尾：停在选择之后》</a>，先不改第三页。</li><li>只做验收：看<a href="https://story.tvcn.org/article/script-format/">《剧本格式：让全组读得懂》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“结构不是三幕模板，而是中点把方向翻一次、结尾把选择付一次代价。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“结构不是三幕模板，而是中点把方向翻一次、结尾把选择付一次代价。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“结构不是三幕模板，而是中点把方向翻一次、结尾把选择付一次代价。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S42] [Khan Academy：Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对首段“结构不是三幕模板，而是中点把方向翻一次、结尾把选择付一次代价。”中的术语与公开背景（故事结构、角色与视觉叙事教学）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“结构不是三幕模板，而是中点把方向翻一次、结尾把选择付一次代价。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+<!-- SOURCES_END -->
+

@@ -22,14 +22,13 @@ cover: /images/tools/delivery-specs.webp
 diagram: /images/diagrams/zh/delivery-specs.png
 diagram_alt: "交付三栏：画面、声音、文件"
 diagram_caption: "规格先写成表，交付前按表逐项勾。最后一步不是导出，是自己从头播一遍。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [tools.delivery.publish-checklist.en, tools.workflow.storage.en, tools.tutorial.backup-3-2-1.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [tools.calculator.dof-calculator, tools.tutorial.dual-system-sync, shoot.camera.composition]
 depth: deep
 deep_minutes: 7
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -90,3 +89,11 @@ deep_minutes: 7
 ### 交付规格，十项检查
 <ul><li>四个去处各一行</li><li>比例分辨率帧率写清</li><li>编码与码率写清</li><li>色彩标 Rec.709 或 HDR</li><li>声道与响度写清</li><li>文件名含项目版本日期规格</li><li>字幕硬软只交一种</li><li>手机电脑电视各播一遍</li><li>交付包只放现在需要的东西</li><li>拿到对方回执才算交付</li></ul><p>交付的终点不是文件传上去，是对方打开后，看见你看见的那条片子。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“交付不是点导出。先问平台要什么：比例、分辨率、帧率、码率、色彩、声道、文件名。做一个能重复的模板，交付前自己从头播一遍。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“交付不是点导出。先问平台要什么：比例、分辨率、帧率、码率、色彩、声道、文件名。做一个能重复的模板，交付前自己从头播一遍。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
+<!-- SOURCES_END -->
+

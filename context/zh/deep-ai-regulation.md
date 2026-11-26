@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.law.ai-label-law
-- context.literacy.deepfake
-- context.law.data-security
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.deep.deep-copyright-chain, context.deep.deep-image-history, formats.brand.brand-film]
 sources:
 - S14
+- S01
+- S02
+- S03
+- S16
 source_kind: sourced
 ---
-
 <p>AI 合规不是加一行免责声明；标识、深伪和数据来源要一起过。 单看《AI 内容标识：显式、隐式与平台责任》只能解决一个局部；把《AI 内容标识：显式、隐式与平台责任》《深伪识别：看脸之外看什么》《素材安全：客户隐私与泄露》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别用“看着假”当结论；说出哪几处对不上</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别把废片当没用的东西；废片里一样有客户隐私</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>只看结果，不记条件</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>显式标识用户可见/可听。</li><li>隐式标识与元数据保留。</li><li>编辑未删除/篡改标识。</li><li>二次合成重新标注。</li><li>平台申报与截图存档。</li><li>肖像/声音/音乐授权齐全。</li><li>五秒逐帧看过牙齿、耳朵和眨眼。</li><li>背景文字、招牌和眼镜反光的连续性看过。</li><li>原始来源、本人回应或第二角度三项对不上。</li><li>移动硬盘加密，云盘按项目分级授权。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《AI 内容标识：显式、隐式与平台责任》里的单点问题：回到<a href="https://context.tvcn.org/article/ai-label-law/">《AI 内容标识：显式、隐式与平台责任》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://context.tvcn.org/article/deepfake/">《深伪识别：看脸之外看什么》</a>，先不改第三页。</li><li>只做验收：看<a href="https://context.tvcn.org/article/data-security/">《素材安全：客户隐私与泄露》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“AI 合规不是加一行免责声明；标识、深伪和数据来源要一起过。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“AI 合规不是加一行免责声明；标识、深伪和数据来源要一起过。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“AI 合规不是加一行免责声明；标识、深伪和数据来源要一起过。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“AI 合规不是加一行免责声明；标识、深伪和数据来源要一起过。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“AI 合规不是加一行免责声明；标识、深伪和数据来源要一起过。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+<!-- SOURCES_END -->
+

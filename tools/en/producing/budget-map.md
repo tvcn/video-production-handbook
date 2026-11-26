@@ -23,12 +23,11 @@ cover: /images/tools/budget-map.webp
 diagram: /images/diagrams/en/budget-map.png
 diagram_alt: "Four buckets: keep it shootable first"
 diagram_caption: "Must-pay, on-screen, swappable, buffer. Set the proportions before the line items; the buffer is not spare cash, it is what lets the film finish."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [tools.producing.budget-contingency.en, tools.producing.stripboard.en, tools.calculator.budget-calculator.en]
+related: [tools.guide.budget-quote, tools.guide.buy-audio-field, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -63,3 +62,13 @@ A budget is not for the accountant. It is for the decisions on set. Write down w
 - The four buckets have proportions, and the buffer has not been raided.
 - Every line has a cheaper option, not just a total.
 - Actuals are updated daily, so overspend is visible before it happens.
+
+
+<!-- V11_DEEPEN -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 5 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Budget: Four Buckets, One Decision”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

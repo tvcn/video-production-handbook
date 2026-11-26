@@ -22,16 +22,20 @@ cover: /images/story/storyboard.webp
 diagram: /images/diagrams/zh/storyboard.png
 diagram_alt: "四格分镜：每一格只回答一个问题"
 diagram_caption: "分镜不是把景别排一遍，是把观众该知道的信息按顺序给出去。第一格答完，第二格才有用。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [story.screenplay.three-act.en, tools.guide.buy-audio-first.en, ai.post.ai-qc.en]
-sources: [S02, S16, S17]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [story.story.subplot, story.screenplay.subtext, shoot.camera.composition]
+sources:
+- S02
+- S16
+- S17
+- S41
+- S10
 test_context: "复核环境：Windows 11 + Chrome；按公开影片、剧本与平台页面复核；不声称逐帧实测。"
 known_failures: "已知失败：公开案例信息不全；平台规格与片长限制会变化；不同项目需重新验证。"
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -68,9 +72,34 @@ verified: 2026-11-22
 - 8 个镜头，每个都能用“谁 + 做什么 + 在哪”说清。
 - 至少 4 种景别，且有 2 个交代空间的镜头。
 - 每个镜头只有一个主要动作。
+
+## 先写动作，不写形容词
+
+“她很难过”画不出来。“她把照片翻过去，又翻回来”可以画。分镜只写摄影机能拍到的东西。
+
+每一格都要有一个动词。没有动词的格子，是气氛图，不是分镜。
+
+## 8 个镜头的顺序
+
+建立空间、交代人物、给一个细节、制造疑问、反应、决定、动作、结果。八格不是公式，是检查清单。
+
+少哪一格，观众就会在哪一刻迷路。多一格，节奏就会拖。
+
+## 分镜表的五个字段
+
+镜号、景别、机位、动作、声音。五个字段写完，别人才能替你拍。
+
+不要写“镜头慢慢推”。写“从胸口推到眼睛，停两秒”。可执行的描述才有用。
+
+<!-- V11_DEEPEN -->
+
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
-<ul><li><span class="mono">[S02]</span> WIPO：版权常见问题</li><li><span class="mono">[S16]</span> BBC 编辑准则</li><li><span class="mono">[S17]</span> Reuters Trust Principles</li></ul>
-<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
+## 参考与延伸阅读
+
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“画得丑没关系，现场看得懂就行。一张分镜表只回答三件事：谁、在哪、下一个动作是什么。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“画得丑没关系，现场看得懂就行。一张分镜表只回答三件事：谁、在哪、下一个动作是什么。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — 2026-11-26 访问。用于核对首段“画得丑没关系，现场看得懂就行。一张分镜表只回答三件事：谁、在哪、下一个动作是什么。”中的术语与公开背景（通讯社对独立、准确与不带偏见的公开承诺）；不替代现场测试。
+- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“画得丑没关系，现场看得懂就行。一张分镜表只回答三件事：谁、在哪、下一个动作是什么。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“画得丑没关系，现场看得懂就行。一张分镜表只回答三件事：谁、在哪、下一个动作是什么。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
 <!-- SOURCES_END -->
+

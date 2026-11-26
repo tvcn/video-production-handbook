@@ -24,15 +24,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.speedbooster.en
-- tools.capability.anamorphic.en
-- tools.capability.follow-focus.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.capability.mirrorless-video, tools.capability.nas, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>For light travel, wide lenses or fast lens changes, a matte box adds bulk and steps; use a lens hood and light filters. Do not trade mobility for “professional look.”</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -43,3 +39,10 @@ source_kind: experience
 <!-- DIAGRAM_END -->
 <section><h2 id="section-1">What to compare first</h2><ul><li><strong>Filter stages:</strong> how many slots, rotating polarizer and ND support; stage order affects vignetting.</li><li><strong>Diameter and shading:</strong> a deep matte box clips wide lenses; test the widest focal length first.</li><li><strong>Mount and light leaks:</strong> flags and top brow must lock; leaks show in long exposures and backlight.</li></ul><h2 id="section-2">When not to use it</h2></section><section><h2 id="section-3">On set</h2><p>Shoot black velvet against the light and check for leaks at the matte box edge. Add a filter and rotate it to check vignetting.</p></section><section><h2 id="section-4">Do this</h2><p>A matte box blocks stray light before holding filters; a cheap one can leak and ruin the image.</p><ol><li>Shoot black velvet in backlight and check the matte box edges for leaks.</li><li>Rotate the filter and check for vignetting.</li><li>Seal leaks with black cloth or tape.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not treat a matte box as a filter holder; check leaks before loading filters.</p></section>
 <h2>Check</h2><ul><li>A backlit black velvet test shows whether edges leak.</li><li>Filter rotation logs where vignetting appears.</li><li>Leaks are sealed with black cloth or tape, not ignored.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 7 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Matte Box: Filters and Stray Light”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.method.method-portfolio-empty.en
-- main.method.method-deadline.en
-- main.method.method-first-client.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [main.method.method-color-cast, main.method.method-continuity-break, context.history.16mm]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>客户说“再改一版”时，先问要解决哪个具体问题：节奏、信息还是情绪？然后给两个方案，分别说明代价。让他在选项里选，而不是在下一次会议里重新定义。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -72,3 +68,11 @@ source_kind: experience
 ### 客户修改，十项检查
 <ul><li>brief 有五件事</li><li>客户在纸面确认</li><li>参考片标结构或风格</li><li>bug 修复免费</li><li>范围变更另报价</li><li>口味修改算一轮</li><li>每次修改有版本号</li><li>有明确截止时间</li><li>审片链接带时间码</li><li>意见矛盾时回到 brief</li></ul><p>修改不是客户和你较劲，是两个人对“这条片是什么”还没有同一页纸。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S22] [全国人民代表大会：《民法典》](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — 2026-11-26 访问。用于核对首段“客户反复改，先把“目标”写成一句话，再让每次修改对着这句话验收。”中的术语与公开背景（肖像、隐私、合同与场地权利的上位法文本）；不替代现场测试。
+- [S38] [国家税务总局：官方网站](https://www.chinatax.gov.cn/) — 2026-11-26 访问。用于核对首段“客户反复改，先把“目标”写成一句话，再让每次修改对着这句话验收。”中的术语与公开背景（增值税、跨境服务与代扣代缴的官方政策入口）；不替代现场测试。
+<!-- SOURCES_END -->
+

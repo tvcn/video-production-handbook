@@ -23,16 +23,20 @@ cover: /images/shoot/composition.webp
 diagram: /images/diagrams/en/composition.png
 diagram_alt: "Stack the layers: who gets seen first"
 diagram_caption: "The eye lands on the subject first, then the background. Get the order wrong and the frame falls apart."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [shoot.coverage.coverage.en, story.screenplay.logline.en, tools.guide.buy-tripod-fluid.en]
-sources: [S23, S31, S32, S33]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [shoot.coverage.coverage, shoot.deep.deep-camera-move, post.color.color]
+sources:
+- S23
+- S31
+- S32
+- S33
+- S52
 test_context: "Review setup: Windows 11 workstation; Sony FX3 / Canon R5 public menus and samples; lens claims follow page labels, not every lens tested."
 known_failures: "Known failures: menus and firmware differ; uncalibrated color temperature/monitors cause misreads."
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -65,9 +69,22 @@ Landscape and vertical need different lead room. In vertical, keep the face in t
 - Pause the frame; you can name the subject in three seconds.
 - The frame has at least two layers of space.
 - There is lead room in the direction of the gaze.
+
+
+<!-- V11_DEEPEN -->
+
+
+> Intent split: this page covers the practical details of “Composition: Tell the Eye Where to Look”; start with <a href="https://shoot.tvcn.org/article/camera-height/">Camera Height: Lower Before You Change Lenses</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S31]</span> ARRI Technical Documentation</li><li><span class="mono">[S32]</span> Sony Pro Support</li><li><span class="mono">[S33]</span> Canon Support</li></ul>
-<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
+## References and further reading
+
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Who should the eye hit first, and where does it go second? C”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Who should the eye hit first, and where does it go second? C”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
+- [S32] [Sony Pro Support](https://pro.sony/ue_US/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Who should the eye hit first, and where does it go second? C”) against Support, firmware and documents for pro cameras and lenses; not a substitute for an on-set test.
+- [S33] [Canon Support](https://www.usa.canon.com/support) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Who should the eye hit first, and where does it go second? C”) against Official support for cameras, lenses and firmware; not a substitute for an on-set test.
+- [S52] [ARRI: ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Who should the eye hit first, and where does it go second? C”) against Camera specifications, Log-C and colour workflow; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

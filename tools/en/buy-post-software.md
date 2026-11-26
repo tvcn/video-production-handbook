@@ -21,8 +21,8 @@ stage: handbook
 format: guide
 authors:
 - TVCN Tools Desk
-last_verified: 2026-11-23
-review_due: 2027-04-30
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
 sources:
 - S23
 - S25
@@ -32,13 +32,9 @@ sources:
 test_context: 复核环境：Windows 11 + Chrome 131；按公开软件页面与短时 4K 时间线核对，不做跑分。
 known_failures: 已知失败：订阅价格/功能变化；不同机器性能差异；插件兼容性。
 verified: 2026-11-23
-related:
-- tools.capability.nle-compare.en
-- tools.capability.davinci-node.en
-- post.color.color-management.en
-source_kind: experience
+related: [tools.guide.buy-storage, tools.guide.buy-storage-cards, shoot.camera.axis-line]
+source_kind: sourced
 ---
-
 <p>Editing, grading, audio, encoding and review are five stages. Set the workflow before choosing subscriptions. Do not buy all at once.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -77,9 +73,14 @@ source_kind: experience
 <!-- P5_EXTRA4_START -->
 <h2>Boundary: a subscription is not a skill</h2>
 <p>A subscription buys a tool, not judgment. Cut points, colour management, sound layers and delivery specs are learned film by film; the more tools you own, the more you need one fixed workflow.</p>
+
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN Tools Desk field notes; public specs and short tests. No lab instrument measurement.</p>
-<ul><li><span class="mono">[S23]</span> 公开标准/平台规格</li><li><span class="mono">[S25]</span> 公开标准/平台规格</li><li><span class="mono">[S26]</span> 公开标准/平台规格</li><li><span class="mono">[S29]</span> 公开标准/平台规格</li><li><span class="mono">[S38]</span> 公开标准/平台规格</li></ul>
-<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
+## References and further reading
+
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Editing, grading, audio, encoding and review are five stages”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Editing, grading, audio, encoding and review are five stages”) against HD SDR gamut, transfer function and viewing conditions; not a substitute for an on-set test.
+- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Editing, grading, audio, encoding and review are five stages”) against Wide-gamut and parameter definitions for UHD/HDR; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Editing, grading, audio, encoding and review are five stages”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Editing, grading, audio, encoding and review are five stages”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

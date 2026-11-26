@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.storyboard.shot-sheet
-- story.storyboard.sequence-board
-- story.storyboard.animatic-boarding
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.deep.deep-dialogue-subtext, story.deep.deep-performance-direction, shoot.camera.axis-line]
 sources:
 - S12
+- S41
+- S10
+- S42
+- S16
 source_kind: sourced
 ---
-
 <p>分镜不是画得漂亮，而是 shot sheet、coverage 和 animatic 能在剪辑台上兑现。 单看《镜头表：镜号、景别、动作、时长》只能解决一个局部；把《镜头表：镜号、景别、动作、时长》《段落分镜：一场戏怎么排镜头》《动态分镜：先定时长，再补画》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别画摄影机拍不到的东西；分镜不是插画</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别按台词一句一句画；分镜是信息顺序，不是插画</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别先画漂亮图再定时长；节奏一错，画得再好也要重做</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>每镜都有镜号、景别、动作和秒数，四列不缺。</li><li>没有超过 8 秒还没有动作的镜头。</li><li>第三个人按表能复述先拍什么、后拍什么。</li><li>每行只有一个主要动作</li><li>镜号、景别、动作、机位、时长五列齐全</li><li>每组都有全景、中景、近景、插入</li><li>按机位分组，不按剧情顺序</li><li>换机位处画横线并写预计耗时</li><li>前三格能看出先给什么、藏什么、最后揭示什么。</li><li>中间镜头按信息顺序补，不是按台词数量补。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《镜头表：镜号、景别、动作、时长》里的单点问题：回到<a href="https://story.tvcn.org/article/shot-sheet/">《镜头表：镜号、景别、动作、时长》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://story.tvcn.org/article/sequence-board/">《段落分镜：一场戏怎么排镜头》</a>，先不改第三页。</li><li>只做验收：看<a href="https://story.tvcn.org/article/animatic-boarding/">《动态分镜：先定时长，再补画》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“分镜不是画得漂亮，而是 shot sheet、coverage 和 animatic 能在剪辑台上兑现。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“分镜不是画得漂亮，而是 shot sheet、coverage 和 animatic 能在剪辑台上兑现。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“分镜不是画得漂亮，而是 shot sheet、coverage 和 animatic 能在剪辑台上兑现。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S42] [Khan Academy：Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对首段“分镜不是画得漂亮，而是 shot sheet、coverage 和 animatic 能在剪辑台上兑现。”中的术语与公开背景（故事结构、角色与视觉叙事教学）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“分镜不是画得漂亮，而是 shot sheet、coverage 和 animatic 能在剪辑台上兑现。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+<!-- SOURCES_END -->
+

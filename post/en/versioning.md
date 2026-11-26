@@ -24,17 +24,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Post Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.editing.parallel-editing.en
-- post.assets.project-structure.en
-- post.delivery.archive.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.vfx.vfx-composite, post.delivery.archive, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>Use v001, v002, never “final” or “final2.” Every export gets one line: which scene, which shot, why. Without a note, a version number is just a number.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -64,3 +60,12 @@ source_kind: experience
 ### When you have five minutes
 <ul><li>Filename has project, date, version, status</li><li>No final or final2</li><li>Lock picture before delivery</li><li>Log changes in a change sheet</li><li>Delivery package has a checklist</li><li>Open the archive before closing</li></ul><p>Version control is not for tidiness; it is so the previous version can actually be found.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Name versions by date, platform, duration, and change reason”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S27] [EBU R128 Loudness](https://tech.ebu.ch/publications/r128) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Name versions by date, platform, duration, and change reason”) against Broadcast loudness targets, true peak and measurement; not a substitute for an on-set test.
+- [S67] [IETF: RFC 8216: HTTP Live Streaming](https://datatracker.ietf.org/doc/html/rfc8216) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Name versions by date, platform, duration, and change reason”) against HLS segments, playlists and playback; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

@@ -24,20 +24,18 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.method.method-quote-low.en
-- main.method.method-portfolio-empty.en
-- main.method.method-client-revision.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [main.method.method-first-idea, main.method.method-flat-image, context.history.16mm]
 depth: deep
 deep_minutes: 7
 sources:
 - S22
 - S23
+- S02
+- S38
 source_kind: sourced
 ---
-
 <p>Do not start with “who will pay me.” Start with “whose specific problem have I solved?” List three real outcomes: time saved, rework reduced, a process that now runs. The first client usually resembles the people in those three stories.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -75,10 +73,11 @@ source_kind: sourced
 <!-- DEEP_DIVE_END -->
 
 <!-- SOURCES_START -->
-## Sources
+## References and further reading
 
-- [S22] 《中华人民共和国民法典》; see the original link and use note in SOURCES.md.
-- [S23] SMPTE 标准入口; see the original link and use note in SOURCES.md.
-
-Full links and use notes: [`SOURCES.md`](../../about/).
+- [S22] [National People's Congress: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Start with acquaintances, community, and small shops; send a”) against Statutory text on portrait rights, privacy, contracts and location rights; not a substitute for an on-set test.
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Start with acquaintances, community, and small shops; send a”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Start with acquaintances, community, and small shops; send a”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Start with acquaintances, community, and small shops; send a”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

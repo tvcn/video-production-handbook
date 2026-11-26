@@ -23,12 +23,11 @@ cover: /images/tools/stripboard.webp
 diagram: /images/diagrams/en/stripboard.png
 diagram_alt: "Strip it: same color, same place; same actor, same day"
 diagram_caption: "Break the script into strips, then group by location and cast. The company moves and actor calls show up on the table before the shoot."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [tools.producing.budget-map.en, tools.producing.casting.en, tools.workflow.first-shoot-day.en]
+related: [tools.calculator.subtitle-cps, tools.tutorial.subtitle-srt, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -63,3 +62,10 @@ The board is not a contract. It is the thing you make decisions against. When it
 - Every strip carries location, day or night, cast, pages, and special needs.
 - Does the day hold one location where possible, and one actor call?
 - Does each day have an easy start and a must-get ending?
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 4 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Stripboard: Turn the Script into Shootable Days”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

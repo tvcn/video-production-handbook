@@ -24,17 +24,13 @@ stage: field-note
 format: learning-path
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.path.path-live-film.en
-- main.path.path-career.en
-- main.path.path-post.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [main.path.path-story, main.tool.tool-card-accessibility, context.literacy.media-literacy]
 depth: deep
 deep_minutes: 7
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>Bring a real project with cast, location, gear, budget, and a delivery date. If none, use a film you will actually shoot in the next three months, not a hypothetical.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -60,3 +56,11 @@ source_kind: experience
 ### Ten producing checks
 <ul><li>Budget in four blocks</li><li>Contingency at least ten percent</li><li>Licenses on their own line</li><li>Budget answers what gets cut first</li><li>Script broken into strips</li><li>Same location, same day</li><li>Pickup window each day</li><li>Call sheet sent the day before</li><li>Risk page read to crew</li><li>One master and three backups</li></ul><p>Producing is not making everyone listen. It is making everyone know, on the same day, where the money is, where the time is, and who does the next thing.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S22] [National People's Congress: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Producing is not ordering lunch; it locks scope, money, peop”) against Statutory text on portrait rights, privacy, contracts and location rights; not a substitute for an on-set test.
+- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Producing is not ordering lunch; it locks scope, money, peop”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

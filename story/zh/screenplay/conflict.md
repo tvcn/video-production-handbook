@@ -22,12 +22,11 @@ cover: /images/story/conflict.webp
 diagram: /images/diagrams/zh/conflict.png
 diagram_alt: "冲突：两个人都对，才轮到观众难受"
 diagram_caption: "先给双方一个能说出口的理由，再一轮一轮拿走选项。结尾必须有人付账，哭不算。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [story.screenplay.character-arc.en, story.screenplay.dialogue.en, story.screenplay.voice-over.en]
+related: [story.deep.deep-coverage-board, story.deep.deep-dialogue-subtext, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -66,3 +65,15 @@ related: [story.screenplay.character-arc.en, story.screenplay.dialogue.en, story
 - 双方的理由都能用一句话说清，而且都成立。
 - 每一轮冲突都拿掉一个选项，而不是只提高音量。
 - 结尾有人付出看得见的代价。
+
+
+> 意图分工：本页负责「冲突：两个人都得有道理」的可执行细节；同集群先读 <a href="https://story.tvcn.org/article/midpoint-turn/">中点转向：换方法，不换目标</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 5 次剧本围读与拍摄前排练，条件为3–8 页场景、单一主视角；页面讨论的具体对象是「冲突：两个人都得有道理」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

@@ -23,17 +23,16 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.2d.2d-compositing
-- animation.3d.render
-- animation.motion-graphics.mg-transition
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.deep.deep-loop-cycle-design, animation.deep.deep-render-budget, formats.brand.brand-film]
 sources:
+- S62
+- S63
 - S12
+- S59
 source_kind: sourced
 ---
-
 <p>合成不是把两层叠在一起，而是让深度、边缘和运动方向同时说同一种空间。 单看《二维合成：背景、前景、光》只能解决一个局部；把《二维合成：背景、前景、光》《渲染：采样与噪点》《图形转场：形状接形状》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +52,13 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别把所有东西画在一层；改一笔就要重画全图</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别用总采样硬压噪点；找不到来源，时间全烧在渲染上</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别用白闪和推拉当万能转场；形状接不上，观众就断片</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>背景、角色、前景、光效四层分开，文件结构清楚。</li><li>影子在独立层，没有画死在角色身上。</li><li>改角色动作时只动角色层，背景和光效不用重画。</li><li>50% 低采样下能看出噪点集中在灯光还是材质。</li><li>灯光采样和材质采样分开调整过。</li><li>最终噪点来自具体一项，不是靠无脑拉高总采样。</li><li>转场前后是同一个形状在变形，不是硬切。</li><li>变形在 8 到 12 帧内完成，速度可读。</li><li>拿掉白闪后信息仍能接上，观众知道到了哪里。</li><li>把 二维合成：背景、前景、光 的条件写成一行，能复述给下一个人。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《二维合成：背景、前景、光》里的单点问题：回到<a href="https://animation.tvcn.org/article/2d-compositing/">《二维合成：背景、前景、光》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://animation.tvcn.org/article/render/">《渲染：采样与噪点》</a>，先不改第三页。</li><li>只做验收：看<a href="https://animation.tvcn.org/article/mg-transition/">《图形转场：形状接形状》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“合成不是把两层叠在一起，而是让深度、边缘和运动方向同时说同一种空间。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“合成不是把两层叠在一起，而是让深度、边缘和运动方向同时说同一种空间。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“合成不是把两层叠在一起，而是让深度、边缘和运动方向同时说同一种空间。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“合成不是把两层叠在一起，而是让深度、边缘和运动方向同时说同一种空间。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
+<!-- SOURCES_END -->
+

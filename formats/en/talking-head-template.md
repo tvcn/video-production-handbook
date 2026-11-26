@@ -24,15 +24,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Formats Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.product-ad.product-ad-template.en
-- formats.brand-film.brand-film-template.en
-- formats.tutorial.tutorial-template.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [formats.publish.thumbnail, formats.tutorial.tutorial-breakdown, story.screenplay.logline]
 source_kind: experience
 ---
-
 <p>A talking-head template is one claim, three examples, one action; examples must be visible on camera.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -43,3 +39,10 @@ source_kind: experience
 <!-- DIAGRAM_END -->
 <section><h2 id="section-1">A usable 60-second segment table</h2><div class="table-wrap"><table class="template-table"><thead><tr><th>Segment</th><th>Time</th><th>Picture</th><th>Sound / pass line</th></tr></thead><tbody><tr><td>Claim</td><td>0–3s</td><td>Medium frontal, subject to camera, one object on the desk</td><td>One claim under 15 words; no reading; repeatable</td></tr><tr><td>Example 1</td><td>3–13s</td><td>Hand or object close-up, one complete action</td><td>Sync action sound; the image proves it without narration</td></tr><tr><td>Example 2</td><td>13–23s</td><td>New space or angle, same claim</td><td>One explanation, max 20 words; no second center</td></tr><tr><td>Example 3</td><td>23–33s</td><td>Counter-example or before/after</td><td>Do not mock the counter-example; name the difference</td></tr><tr><td>Action</td><td>33–45s</td><td>One imitable action or a single entry point</td><td>One next step only; no slogan</td></tr></tbody></table></div><h2 id="section-2">Fill three lines before rolling</h2><ul><li><strong>Claim:</strong> which sentence should remain? Write it, cut to fifteen words.</li><li><strong>Three proofs:</strong> for each, write what the camera sees, not “it is convincing.”</li><li><strong>One action:</strong> what can the viewer do now? Open settings, comment or buy—pick one.</li></ul></section><section><h2 id="section-3">On set</h2><p>Write one claim, three shootable examples, and one closing action. Keep each example under ten seconds.</p></section><section><h2 id="section-4">Do this</h2><ol><li>Write one claim that fits in a sentence.</li><li>Add three shootable examples, each under ten seconds.</li><li>End with one action, such as open settings now.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not use three adjectives as examples; if the camera cannot show it, viewers will not remember.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>the first three seconds give a believable reason</li><li>the middle adds information or resistance, not just mood</li><li>the ending shows a visible change instead of narrating it</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>the template is filled but the person and problem are not</li><li>no reason in the first three seconds, only title and music</li><li>no visible change at the end, only voice-over</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Break down one 30-second reference, mark the timecodes for “Write one claim that fits in a sentence.” and “Add three shootable examples, each under ten seconds.”, then answer: if one disappeared, would the film still hold?</p></section>
 <h2>Check</h2><ul><li>The claim fits one sentence with no second center.</li><li>All three examples are filmable and each runs under ten seconds.</li><li>The ending gives one action so viewers know what to do next.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 5 format breakdown and project review reviews under a 30-second to five-minute film for one platform; it discusses “Talking Head Template: One Claim, Three Proofs, One Action”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

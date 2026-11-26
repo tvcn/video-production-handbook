@@ -26,18 +26,15 @@ sources:
 - S03
 - S22
 - S39
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.law.music-license.en
-- formats.news.news-structure.en
-- post.color.primary-correction.en
+- S02
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.law.music-license, context.history.muybridge, formats.documentary.documentary-template]
 test_context: 复核环境：Windows 11 + Chrome；按公开影片、剧本与平台页面复核；不声称逐帧实测。
 known_failures: 已知失败：公开案例信息不全；平台规格与片长限制会变化；不同项目需重新验证。
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>蒙太奇让两个镜头并置产生第三个意思：观众不是被动接收画面，而是在剪辑点之间建立因果。它把电影从“记录”推进到“论证”和“情绪构造”。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -55,3 +52,12 @@ source_kind: sourced
 <h2>验收</h2><ul><li>逐镜记录了时长和运动方向，不只看总镜头数。</li><li>能指出一对方向相反的镜头，并解释观众如何读出因果。</li><li>分析落在剪辑组织上，不只描述血腥场面。</li></ul>
 
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“蒙太奇把两个不相干的镜头剪在一起，观众开始自己造因果。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
+- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“蒙太奇把两个不相干的镜头剪在一起，观众开始自己造因果。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
+- [S22] [全国人民代表大会：《民法典》](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — 2026-11-26 访问。用于核对首段“蒙太奇把两个不相干的镜头剪在一起，观众开始自己造因果。”中的术语与公开背景（肖像、隐私、合同与场地权利的上位法文本）；不替代现场测试。
+- [S39] [W3C WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) — 2026-11-26 访问。用于核对首段“蒙太奇把两个不相干的镜头剪在一起，观众开始自己造因果。”中的术语与公开背景（字幕、对比度与无障碍的现行标准）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“蒙太奇把两个不相干的镜头剪在一起，观众开始自己造因果。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+<!-- SOURCES_END -->
+

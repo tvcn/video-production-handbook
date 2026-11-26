@@ -23,12 +23,11 @@ cover: /images/story/dialogue-table.webp
 diagram: /images/diagrams/en/dialogue.png
 diagram_alt: "There is a layer under the line"
 diagram_caption: "The spoken line handles the surface; the action handles the real fight. Separate the two and the line stops sounding like an explanation."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [story.interview.interview-questions.en, story.screenplay.conflict.en, story.screenplay.voice-over.en]
+related: [story.directing.directing-debut, story.directing.directing-nonactors, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -65,3 +64,15 @@ Silence is dialogue too. If the expected answer does not come, the audience supp
 - You can name the action under every line.
 - Explanatory lines are gone; objects or actions carry the backstory.
 - The listener has a reaction shot, and the silence does something.
+
+
+> Intent split: this page covers the practical details of “Dialogue: Let Them Fight with Words, Not Explain”; start with <a href="https://story.tvcn.org/article/want-stakes/">Want and Stakes: What Does Losing Cost?</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 7 table read and pre-shoot rehearsal reviews under a three-to-eight-page scene with one primary point of view; it discusses “Dialogue: Let Them Fight with Words, Not Explain”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

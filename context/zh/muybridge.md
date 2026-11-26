@@ -23,15 +23,15 @@ authors:
 - TVCN 研究组
 sources:
 - S07
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.history.edison-kinetoscope.en
-- context.history.lumiere.en
-- context.history.streaming.en
+- S01
+- S02
+- S03
+- S16
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.literacy.news-video, context.history.photography.photo-history, formats.documentary.documentary-template]
 source_kind: sourced
 ---
-
 <p>迈布里奇用多台相机连续拍摄，把奔跑的马拆成可比较的瞬间。它第一次让“运动”可以被逐帧检查，也为后来的电影、动画和运动研究提供了参考。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -46,7 +46,10 @@ source_kind: sourced
 <!-- SOURCES_START -->
 ## 参考与延伸阅读
 
-- [S07] 美国国会图书馆：达盖尔银版收藏
-
-完整链接与用途见 [`SOURCES.md`](../../about/)。
+- [S07] [美国国会图书馆](https://www.loc.gov/pictures/collection/dag/background.html) — 2026-11-26 访问。用于核对首段“迈布里奇用一排相机拆开马的运动，第一次让人看见肉眼来不及看的瞬间。”中的术语与公开背景（银版收藏的背景、数量与早期摄影的材料说明）；不替代现场测试。
+- [S01] [UNESCO](https://www.unesco.org/mil4teachers/en/module1) — 2026-11-26 访问。用于核对首段“迈布里奇用一排相机拆开马的运动，第一次让人看见肉眼来不及看的瞬间。”中的术语与公开背景（媒介素养的定义、教师模块与批判性问题）；不替代现场测试。
+- [S02] [WIPO](https://www.wipo.int/en/web/copyright/faq-copyright) — 2026-11-26 访问。用于核对首段“迈布里奇用一排相机拆开马的运动，第一次让人看见肉眼来不及看的瞬间。”中的术语与公开背景（版权保护对象、经济权利与精神权利）；不替代现场测试。
+- [S03] [全国人民代表大会：《个人信息保护法》](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — 2026-11-26 访问。用于核对首段“迈布里奇用一排相机拆开马的运动，第一次让人看见肉眼来不及看的瞬间。”中的术语与公开背景（处理个人信息、敏感信息与告知同意的法律文本）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“迈布里奇用一排相机拆开马的运动，第一次让人看见肉眼来不及看的瞬间。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
 <!-- SOURCES_END -->
+

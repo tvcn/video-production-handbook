@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 拍摄组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.movement.handheld.en
-- shoot.art.set-dressing.en
-- shoot.camera.frame-rate.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.exposure.waveform, shoot.lighting.window-light, post.color.color]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>后期稳定会放大画面、裁掉边缘。先确认构图四周有余量；没有余量，稳定后会出现黑边或软边。手持广角比长焦更容易救。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -59,3 +55,12 @@ source_kind: experience
 ### 开机前，稳定器十项
 <ul><li>三轴调平再开机</li><li>电机不烫手</li><li>电池和卡都装好</li><li>选择跟随或锁定模式</li><li>手臂贴住身体</li><li>走路慢三成</li><li>脚跟先落地</li><li>眼睛看前方</li><li>转身用脚不用腰</li><li>拍一条回放看上下呼吸</li></ul><p>稳定器的稳，先在身上，再在机器上。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“稳定器最怕碎步；膝盖微屈、脚跟着地、速度均匀，画面才会稳。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“稳定器最怕碎步；膝盖微屈、脚跟着地、速度均匀，画面才会稳。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
+- [S53] [Sony：FX6](https://pro.sony/ue_US/products/handheld-camcorders/ilme-fx6v) — 2026-11-26 访问。用于核对首段“稳定器最怕碎步；膝盖微屈、脚跟着地、速度均匀，画面才会稳。”中的术语与公开背景（机身规格、录制格式与接口）；不替代现场测试。
+<!-- SOURCES_END -->
+

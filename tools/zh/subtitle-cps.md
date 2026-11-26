@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.calculator.budget-calculator.en
-- tools.calculator.aspect-calculator.en
-- tools.calculator.bitrate-calculator.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.tutorial.subtitle-srt, tools.tutorial.sync-multicam, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>CPS（每秒字符数）= 字幕字符数 ÷ 显示秒数 。中文建议不超过 9–12 CPS，英文不超过 15–20 CPS；超出就拆句或延长停留。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -48,3 +44,10 @@ source_kind: experience
 <noscript><p class="calc-noscript">JavaScript 关闭时按公式手算；24 字 / 2 秒 = 12 CPS。</p></noscript>
 </section><script src="/assets/calculators.js" defer></script><section><h2>替代</h2><p>如果“中文每秒不超过 9 字，英文不超过 …”不是你的主问题，先用“超出就拆句”对应的基础做法；两项都成立再考虑升级。</p></section><section><h2>60 秒自测</h2><p>用现有器材按“中文每秒不超过 9 字，英文不超过 …”做一次 60 秒测试，记下一个数字；数字没有变化，就不要加预算。</p></section>
 <h2>验收</h2><ul><li>每条字幕的 CPS 在中文 9 字、英文 15 字符以内。</li><li>超标条目已拆句或延长，不是缩字号。</li><li>按成片速度播放，能一次读完不暂停。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 4 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「字幕 CPS 计算器：读得完吗」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

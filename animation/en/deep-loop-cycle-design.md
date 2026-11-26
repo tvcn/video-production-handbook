@@ -23,17 +23,16 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.2d.loop-cycle.en
-- animation.2d.run-cycle.en
-- animation.principles.animation-principles.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.deep.deep-render-budget, animation.deep.deep-rig-handoff, formats.brand.brand-film]
 sources:
+- S62
+- S63
 - S12
+- S59
 source_kind: sourced
 ---
-
 <p>A loop is not a matching first and last frame; it is weight, contact and rhythm closing on the same beat. One page of &amp;quot;Loop Cycle: Match the First and Last Frame&amp;quot; solves one local problem; joining &amp;quot;Loop Cycle: Match the First and Last Frame&amp;quot;, &amp;quot;Run Cycle: Feet and Center of Gravity&amp;quot; and &amp;quot;The Twelve Principles: Use One at a Time&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +52,13 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not leave a one-frame mismatch at the seam; repetition makes t…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not fix arms first; sliding feet make even smooth arms look fl…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not apply all twelve principles at once; the action becomes a …</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>First and last frames are the same pose in position and shape.</li><li>Eight to twelve frames fill the middle at an even rhythm.</li><li>Ten loops play with no hitch or stick at the seam.</li><li>All four key poses read: contact, down, passing, airborne.</li><li>The planted foot rolls heel to toe instead of sliding flat.</li><li>Vertical travel stays within one head and the loop does not float.</li><li>One action uses one main principle and you can say what it solves.</li><li>Anticipation, action, and settle have written frame counts, not random drawing.</li><li>Remove the principle and the action reads worse, proving it mattered.</li><li>Three principles per shot</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "Loop Cycle: Match the First and Last Frame", go back to <a href="https://animation.tvcn.org/en/article/loop-cycle/">Loop Cycle: Match the First and Last Frame</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://animation.tvcn.org/en/article/run-cycle/">Run Cycle: Feet and Center of Gravity</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://animation.tvcn.org/en/article/animation-principles/">The Twelve Principles: Use One at a Time</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A loop is not a matching first and last frame; it is weight,”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A loop is not a matching first and last frame; it is weight,”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A loop is not a matching first and last frame; it is weight,”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“A loop is not a matching first and last frame; it is weight,”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

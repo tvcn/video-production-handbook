@@ -23,17 +23,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.method.method-first-client.en
-- main.method.method-client-revision.en
-- main.method.method-shoot-alone.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [main.method.method-quote-low, main.method.method-scene-boring, context.history.16mm]
 depth: deep
 deep_minutes: 7
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>Do not wait for a big project. Choose three films you can actually finish: a 60-second portrait, a 30-second product, a 15-second event. For each, state your role, gear and deliverable.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -72,3 +68,11 @@ source_kind: experience
 ### Ten portfolio checks
 <ul><li>Three complete films, not a reel</li><li>One ability per film</li><li>All three point at one niche</li><li>One page, five items per case</li><li>Brief and constraint written</li><li>Key decision written</li><li>Result written</li><li>One mistake written</li><li>Two comparison images</li><li>Three formats per case</li></ul><p>A portfolio does not prove how much you shot; it proves you can finish three films inside constraints.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S22] [National People's Congress: Civil Code](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Make three 30-second proof films: a person, an object, a sto”) against Statutory text on portrait rights, privacy, contracts and location rights; not a substitute for an on-set test.
+- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Make three 30-second proof films: a person, an object, a sto”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

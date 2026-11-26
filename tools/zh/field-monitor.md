@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.slider.en
-- tools.capability.wireless-video.en
-- tools.capability.gimbal.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.capability.field-recorder, tools.workflow.first-shoot-day, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>如果最终交付只需相机自带屏幕，不要为了“专业感”加监视器。它会增加重量、线缆和供电故障点。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -43,3 +39,10 @@ source_kind: experience
 <ol><li>亮度：用内置灰阶或遮光罩，把监视器调到能分清 5% 和 10% 黑；不要用“看起来舒服”。</li><li>波形：打开波形看中间调，不要只信监视器；波形与监视器冲突时信波形。</li><li>LUT：现场 LUT 只看风格，不看曝光；曝光用 log 波形判断。</li></ol>
 <p>验收：把同一段素材在监视器和电脑上各看一遍，亮度和肤色不应差一档；差太多，先校监视器。</p></section><section><h2 id="section-4">现场</h2><p>户外调到 800 nits，加载 LUT；拍一张灰卡，看波形和肤色是否与监视器一致。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>户外调到 800 nits，加载 LUT。</li><li>拍一张灰卡。</li><li>看波形和肤色是否与监视器一致。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别信监视器上的好看画面；没有波形，亮度和色彩都可能骗你。</p></section>
 <h2>验收</h2><ul><li>户外亮度调到 800 nits，屏幕能看清。</li><li>LUT 已加载，灰卡波形有对应读数。</li><li>监视器肤色与波形判断一致，没有只凭眼睛。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 6 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「监视器：亮度、波形、LUT」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 后期组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.editing.parallel-editing.en
-- post.sound.music-editing.en
-- post.editing.versioning.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.sound.foley, post.color.hdr, shoot.camera.composition]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>细剪只处理三件事：删掉每个镜头前后多余的半秒、把动作接点对准、把表演里不需要的反应拿掉。结构问题回粗剪解决，不要在这里靠转场遮。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -57,5 +53,11 @@ source_kind: experience
 ### 细剪一遍，先修这十处
 <ul><li>动作切在手伸到一半的位置</li><li>视线切在看与被看之间</li><li>用一句台词的尾音盖住画面变化</li><li>让门框、桌沿、肩膀跨镜对齐</li><li>删掉重复交代的信息</li><li>删掉人物从沙发走到门口的完整过程</li><li>删掉没有变化的反应镜头</li><li>每场至少留一个两秒停顿</li><li>连续三个同长度镜头就打散</li><li>每删一场问人物损失了什么</li></ul><p>细剪不是把画面修漂亮，是把“还差一点”的地方找出来。找十次，你会开始信任自己的不舒服。每改一刀就播放切点前后各五秒，不要只盯着切点本身，节奏在前后关系里。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
-<aside class="article-sources experience-source" data-source-kind="experience"><div class="article-credit-head"><p class="eyebrow">来源 / Sources</p><span class="mono">经验来源</span></div><p class="source-types">经验来源：TVCN 现场手册与编辑复核；本文未做实验室实测，也没有外部数据引用。</p></aside>
+## 参考与延伸阅读
+
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“细剪不是加特效，是把每个切换、每句呼吸、每个多余半秒修顺。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“细剪不是加特效，是把每个切换、每句呼吸、每个多余半秒修顺。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
+<!-- SOURCES_END -->
+

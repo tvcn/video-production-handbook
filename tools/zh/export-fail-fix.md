@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.backup-3-2-1.en
-- tools.guide.audio-noise-fix.en
-- tools.guide.jelly-fix.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [tools.tutorial.export-h264, tools.tutorial.export-prores, shoot.camera.axis-line]
 depth: deep
 deep_minutes: 7
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>按顺序排查：时间线是否有坏帧/离线素材、磁盘是否满、编码器是否支持、文件名是否有特殊字符、是否开了硬件加速。每次只改一项，记录结果。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -61,3 +57,11 @@ source_kind: experience
 ### 导出失败，十项检查
 <ul><li>先读完整报错原文</li><li>记录失败时间点</li><li>开始时失败先查编码和路径</li><li>固定时间点失败先查素材和字体</li><li>99% 失败先查磁盘和文件上限</li><li>变帧率素材转恒定帧率</li><li>输出盘留两倍空间</li><li>路径用短英文并暂停云同步</li><li>一次只改一项设置</li><li>分段导出定位问题段</li></ul><p>导出失败排查的终点，不是“这次过了”，是“我知道下次为什么会过”。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“导出失败先查编码、磁盘空间、权限；三样都排除，再重建项目。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“导出失败先查编码、磁盘空间、权限；三样都排除，再重建项目。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
+<!-- SOURCES_END -->
+

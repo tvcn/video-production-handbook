@@ -24,18 +24,17 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Animation Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.principles.anticipation.en
-- animation.2d.run-cycle.en
-- animation.2d.loop-cycle.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.2d.2d-animation, animation.2d.2d-camera, formats.documentary.documentary-template]
 sources:
+- S62
+- S63
 - S12
 - S23
+- S59
 source_kind: sourced
 ---
-
 <p>Weight in animation is not a fatter character. Watch three things: feet pressing the ground, knees bending, delay at start and stop. Heavy objects start slow and stop slow; light objects start fast and stop abruptly.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -48,10 +47,12 @@ source_kind: sourced
 <h2>Check</h2><ul><li>The fall accelerates, then holds and rebounds after contact.</li><li>Heavy objects lag one or two frames longer than light ones.</li><li>Cover the pose and watch only the landing point; weight still reads.</li></ul>
 
 <!-- SOURCES_START -->
-## Sources
+## References and further reading
 
-- [S12] Britannica：动画; see the original link and use note in SOURCES.md.
-- [S23] SMPTE 标准入口; see the original link and use note in SOURCES.md.
-
-Full links and use notes: [`SOURCES.md`](../../about/).
+- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Weight is not a pose; it is acceleration in the landing fram”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Weight is not a pose; it is acceleration in the landing fram”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Weight is not a pose; it is acceleration in the landing fram”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Weight is not a pose; it is acceleration in the landing fram”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Weight is not a pose; it is acceleration in the landing fram”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

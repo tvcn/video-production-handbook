@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 工具组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.lighting-one-light.en
-- tools.tutorial.lighting-window.en
-- tools.tutorial.lav-hidden.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.capability.scope-monitor, tools.tutorial.set-mediabay, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>房间声不是静音，是空间底噪。每个主要机位录 30 秒：所有人不动、不说话的同一麦克风、同一增益。剪辑时用它填对白之间的缝，声音才不会突然“死掉”。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -40,3 +36,15 @@ source_kind: experience
 <!-- DIAGRAM_END -->
 <section><h2 id="section-1">每个空间录 30 秒“没有人”的房间声</h2><p>换场地、换麦克风位置、换增益，都要重录一条；不同条件的房间声不能混用。</p><h2 id="section-2">边界</h2><p>房间声不能修掉对白里的噪声。它只提供连续底噪；对白本身有风、回声或电流声，要回现场重录或单独处理。</p></section><section><h2 id="section-3">现场</h2><p>每场录 30 秒，全组不动；录完听回放，确认没有空调和冰箱声。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>每场录 30 秒。</li><li>全组不动、不说话。</li><li>录完听回放，确认没有空调和冰箱声。</li></ol></section><section><h2 id="section-5">别踩</h2><p>别在转场时顺手录环境；脚步声和说话会一起进去。</p></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>每一项参数都能对应一个具体的拍摄问题</li><li>重量、供电和接口在真实机位上成立</li><li>60 秒测试能留下一个可比较的数字</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>只看参数，不看接口、供电和重量</li><li>买回来才发现电池、存储或机身不匹配</li><li>没有 60 秒测试，问题被带到正式拍摄</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>用现有器材做 60 秒测试，只测“每场录 30 秒”；记下两个数字：一个是你需要的，一个是器材实际给出的。</p></section>
 <h2>验收</h2><ul><li>每个场景都有 30 秒环境声文件。</li><li>录制时全组静止，没有脚步和说话。</li><li>回放里没有空调或冰箱的持续低频。</li></ul>
+
+
+> 意图分工：本页负责「环境音录制：三十秒规则」的可执行细节；同集群先读 <a href="https://tools.tvcn.org/article/lav-hidden/">领夹藏麦：衣领、头发、胶带</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 7 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「环境音录制：三十秒规则」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

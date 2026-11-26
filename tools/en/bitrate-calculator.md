@@ -23,15 +23,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.calculator.dof-calculator.en
-- tools.calculator.budget-calculator.en
-- tools.calculator.storage-calculator.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [tools.tutorial.boom-swing, tools.calculator.budget-calculator, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>File size in GB ≈ bitrate in Mbps × duration in seconds ÷ 8 ÷ 1000 . Bitrate is megabits per second, storage counts bytes, so divide by 8; divide by 1000 for decimal GB.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -50,3 +46,10 @@ source_kind: experience
 <noscript><p class="calc-noscript">With JavaScript off: 10 minutes at 4GB is about 53.3 Mbps.</p></noscript>
 </section><script src="/assets/calculators.js" defer></script><section><p><strong>Boundary</strong></p><p>It does not replace an on-set reading. The number is a starting point; the monitor, scope or actual recording decides.</p></section><section><h2>Alternative</h2><p>If “Enter minutes and Mbps.” is not the main problem, start with the basic move behind “Calculate GB and add 20 percent headroom.”. Upgrade only after both hold.</p></section><section><h2>60-second test</h2><p>Run a 60-second test with the gear you own, focused on “Enter minutes and Mbps.”, and record one number. If the number does not change, do not add budget.</p></section>
 <h2>Check</h2><ul><li>Minutes and Mbps convert correctly to GB.</li><li>The result includes 20 percent headroom.</li><li>Free space on card and drive is checked before delivery.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 5 gear trial and playback reviews under the listed model and firmware, once indoors and once outdoors; it discusses “Bitrate Calculator: How Big Is the File?”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

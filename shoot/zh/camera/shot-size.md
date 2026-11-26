@@ -22,12 +22,11 @@ cover: /images/shoot/shot-size.webp
 diagram: /images/diagrams/zh/shot-size.png
 diagram_alt: "五个景别：观众站多近"
 diagram_caption: "景别不是镜头的远近，是观众和人物的关系。远景交代处境，全景看得见动作，中景看得见手，近景看得见犹豫，特写只留一个信息。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [shoot.camera.lens-distance.en, shoot.production.camera-height.en, shoot.camera.camera-move.en]
+related: [shoot.camera.shutter-angle, shoot.production.slate-continuity, post.color.color]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -60,3 +59,15 @@ related: [shoot.camera.lens-distance.en, shoot.production.camera-height.en, shoo
 - 这个景别让观众看见的，是这一刀最需要的信息吗？
 - 远景里人物还认得出吗？中景里房间还成立吗？
 - 特写之后，有没有一件值得它那么大的事发生？
+
+
+> 意图分工：本页负责「景别：观众该看见多少」的可执行细节；同集群先读 <a href="https://shoot.tvcn.org/article/camera-height/">机位高度：蹲下比换镜头有用</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 3 次现场拍摄与回放复核，条件为单机位、自然光或一盏主光；页面讨论的具体对象是「景别：观众该看见多少」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

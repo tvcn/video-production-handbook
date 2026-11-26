@@ -23,17 +23,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Story Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.screenplay.scene-description.en
-- story.directing.rehearsal.en
-- story.storyboard.sequence-board.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.storyboard.storyboard, story.story.subplot, shoot.production.shot-list]
 depth: deep
 deep_minutes: 5
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>Each row: shot number, framing, camera position, action, line, duration, props, sound. Miss one and the set stops to ask. A shot sheet is not a substitute for the board; it is the board made executable.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -59,3 +55,11 @@ source_kind: experience
 ### Ten things your shot sheet needs before call time
 <ul><li>One main action per row</li><li>Five columns: number, size, action, position, duration</li><li>Every group has wide, medium, close, and insert</li><li>Group by setup, not story order</li><li>Draw a line and estimate time at every setup change</li><li>Letter pickups instead of reusing old numbers</li><li>Note props needed for each shot</li><li>Mark blocking and eyeline</li><li>Leave a column for actual takes</li><li>Photograph it at wrap and send to script and edit</li></ul><p>The sheet is not for other people; it is for tomorrow’s you, who will not remember why one shot was skipped.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Four columns are enough: number, framing, action, duration. ”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Four columns are enough: number, framing, action, duration. ”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

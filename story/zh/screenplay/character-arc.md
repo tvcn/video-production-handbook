@@ -22,12 +22,11 @@ cover: /images/story/character-arc.webp
 diagram: /images/diagrams/zh/character-arc.png
 diagram_alt: "人物的三次选择：旧习惯 / 失败 / 付账"
 diagram_caption: "弧光不是性格标签换了，是同一个压力下，人物第三次选的路和第一次不一样，而且他知道自己要失去什么。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [story.screenplay.conflict.en, story.screenplay.voice-over.en, story.story.theme-through-action.en]
+related: [story.directing.child-actors, story.screenplay.comedy-writing, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -66,3 +65,15 @@ related: [story.screenplay.conflict.en, story.screenplay.voice-over.en, story.st
 - 人物有一个能重复出现的默认反应。
 - 中点的改变失败过一次，人物退回了旧习惯。
 - 最后的选择付出了看得见的代价，不靠台词说明。
+
+
+> 意图分工：本页负责「人物弧光：不是变好，是选择变了」的可执行细节；同集群先读 <a href="https://story.tvcn.org/article/want-stakes/">欲望与赌注：输了会失去什么</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 6 次剧本围读与拍摄前排练，条件为3–8 页场景、单一主视角；页面讨论的具体对象是「人物弧光：不是变好，是选择变了」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

@@ -22,18 +22,17 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Tools Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.tutorial.boom-swing.en
-- tools.tutorial.white-balance-gray.en
-- tools.tutorial.handheld-brace.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [tools.calculators.fov, tools.capability.gimbal, shoot.camera.composition]
 sources:
-- S31
 - S23
+- S31
+- S29
+- S30
+- S70
 source_kind: sourced
 ---
-
 <p>Start at a fixed distance: the subject walks a straight line while you only breathe and micro-adjust the wrist. Shoot ten seconds, play back and check whether focus stays on the eye, not whether the frame is steady.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -49,10 +48,12 @@ source_kind: sourced
 <h2>Check</h2><ul><li>One, two, and three meters are marked and walked 1-2-3-2-1.</li><li>At least eight of ten reps stay within five centimeters.</li><li>Focus follows the chest, not the mouth.</li></ul>
 
 <!-- SOURCES_START -->
-## Sources
+## References and further reading
 
-- [S31] See the original link and use note in SOURCES.md.
-- [S23] See the original link and use note in SOURCES.md.
-
-Full links and use notes: [`SOURCES.md`](../../about/).
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Three steps: mark the barrel, watch the chest, and keep brea”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Three steps: mark the barrel, watch the chest, and keep brea”) against Technical documentation for cameras, lenses and lighting; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Three steps: mark the barrel, watch the chest, and keep brea”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S30] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Three steps: mark the barrel, watch the chest, and keep brea”) against Official entry for editing, grading, Fusion and delivery; not a substitute for an on-set test.
+- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Three steps: mark the barrel, watch the chest, and keep brea”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

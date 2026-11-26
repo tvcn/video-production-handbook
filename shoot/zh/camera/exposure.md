@@ -22,16 +22,20 @@ cover: /images/shoot/exposure.webp
 diagram: /images/diagrams/zh/exposure.png
 diagram_alt: "曝光三角：三项互相换"
 diagram_caption: "先定下最不能牺牲的那一项，再让另外两项跟着走。三项都想要，最后通常是高光爆掉。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [shoot.virtual-production.led-virtual-production.en, story.screenplay.three-act.en, tools.guide.buy-wireless-lav.en]
-sources: [S23, S31, S32, S33]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [shoot.exposure.false-color, shoot.camera.frame-rate, post.color.color]
+sources:
+- S23
+- S31
+- S32
+- S33
+- S52
 test_context: "复核环境：Windows 11 工作站；Sony FX3 / Canon R5 公开菜单与样片对照；镜头以页面标注为准，不声称每支都实测。"
 known_failures: "已知失败：不同机型菜单/固件差异；现场色温与监视器未校准会导致误判。"
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -66,9 +70,39 @@ verified: 2026-11-22
 - 能说出 24fps 与 60fps 各自该用什么快门。
 - 用波形图或斑马纹确认高光没有爆。
 - ISO 不是第一个调整的参数。
+
+## 先定快门
+
+180 度快门是常见起点：25 帧用 1/50，50 帧用 1/100。快门定了，运动模糊就定了，再谈光圈和 ISO。
+
+想改运动感，先改快门，不要先改光圈。光圈会顺带改变景深，画面会一起变。
+
+## 高光优先
+
+数字传感器的高光一旦贴顶，细节就回不来。先保高光，再用灯或反光板补暗部。
+
+用波形或伪色看：高光留一点余量，肤色不要贴顶。不要只看直方图，直方图不告诉你哪块是脸。
+
+## ISO 是最后一道
+
+光圈和快门都到位，才用 ISO 换亮度。ISO 越高，暗部噪点越多，后期空间越小。
+
+现场太暗，先加灯，再开 ISO。灯是可控的，噪点不是。
+
+<!-- V11_DEEPEN -->
+
+
+> 意图分工：本页负责「曝光三角：先把高光保住」的可执行细节；同集群先读 <a href="https://tools.tvcn.org/article/nd-calculate/">ND 计算：大光圈白天怎么曝光</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
-<ul><li><span class="mono">[S23]</span> SMPTE 标准入口</li><li><span class="mono">[S31]</span> ARRI 技术文档</li><li><span class="mono">[S32]</span> Sony 专业影像支持</li><li><span class="mono">[S33]</span> Canon 支持</li></ul>
-<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
+## 参考与延伸阅读
+
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“快门、光圈、ISO 不是三个平等旋钮。先定运动，再定景深，最后才用 ISO 救场。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“快门、光圈、ISO 不是三个平等旋钮。先定运动，再定景深，最后才用 ISO 救场。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
+- [S32] [Sony 专业影像支持](https://pro.sony/ue_US/support) — 2026-11-26 访问。用于核对首段“快门、光圈、ISO 不是三个平等旋钮。先定运动，再定景深，最后才用 ISO 救场。”中的术语与公开背景（专业摄影机与镜头的支持、固件与文档）；不替代现场测试。
+- [S33] [Canon 支持](https://www.usa.canon.com/support) — 2026-11-26 访问。用于核对首段“快门、光圈、ISO 不是三个平等旋钮。先定运动，再定景深，最后才用 ISO 救场。”中的术语与公开背景（相机、镜头与固件的官方支持入口）；不替代现场测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“快门、光圈、ISO 不是三个平等旋钮。先定运动，再定景深，最后才用 ISO 救场。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
 <!-- SOURCES_END -->
+

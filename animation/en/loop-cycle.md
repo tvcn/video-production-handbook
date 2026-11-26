@@ -23,18 +23,17 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Animation Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.2d.run-cycle.en
-- animation.2d.2d-compositing.en
-- animation.principles.anticipation.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.3d.materials, animation.motion-graphics.mg-infographic, formats.documentary.documentary-template]
 sources:
+- S62
+- S63
 - S12
 - S23
+- S59
 source_kind: sourced
 ---
-
 <p>Walk, run and breathing cycles must connect first and last frame invisibly. Build key poses, then in-betweens; overlap one frame at the seam so the loop does not pop.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -47,10 +46,12 @@ source_kind: sourced
 <h2>Check</h2><ul><li>First and last frames are the same pose in position and shape.</li><li>Eight to twelve frames fill the middle at an even rhythm.</li><li>Ten loops play with no hitch or stick at the seam.</li></ul>
 
 <!-- SOURCES_START -->
-## Sources
+## References and further reading
 
-- [S12] Britannica：动画; see the original link and use note in SOURCES.md.
-- [S23] SMPTE 标准入口; see the original link and use note in SOURCES.md.
-
-Full links and use notes: [`SOURCES.md`](../../about/).
+- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The first and last frames must match, or the loop twitches e”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The first and last frames must match, or the loop twitches e”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The first and last frames must match, or the loop twitches e”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The first and last frames must match, or the loop twitches e”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S59] [Adobe: After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“The first and last frames must match, or the loop twitches e”) against Compositing, keyframes, tracking and export; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

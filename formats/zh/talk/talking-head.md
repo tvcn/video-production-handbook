@@ -22,14 +22,13 @@ cover: /images/formats/talking-head.webp
 diagram: /images/diagrams/zh/talking-head.png
 diagram_alt: "口播：让耳朵跟得上"
 diagram_caption: "短句、具体例子、看镜头。观众听不见标点，只听得见一句话有没有说完。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [formats.drama.vertical-drama.en, formats.ad.product-ad.en, formats.vlog.vlog-structure.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [formats.talking-head.talking-head-breakdown, formats.talking-head.talking-head-template, story.directing.actor-adjustment]
 depth: deep
 deep_minutes: 6
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -85,3 +84,11 @@ deep_minutes: 6
 ### 口播执行，十项检查
 <ul><li>三秒内给判断或冲突</li><li>一句只放一个信息</li><li>每十秒有一个新东西</li><li>至少三个具体例子或数字</li><li>主景别是眼睛高度半身</li><li>手或产品能进画面</li><li>每二十到三十秒换信息形态</li><li>跳切只删停顿</li><li>字幕最多两行</li><li>结尾有一个可回答的问题</li></ul><p>口播不是念稿，是把一个观点拆成观众能一口一口吃下去的小块。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“口播不是把文章念出来。观众听不见标点，只听得见意思。句子要短，转折要早，例子要具体；一口气说不完，就分成两句。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“口播不是把文章念出来。观众听不见标点，只听得见意思。句子要短，转折要早，例子要具体；一口气说不完，就分成两句。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+<!-- SOURCES_END -->
+

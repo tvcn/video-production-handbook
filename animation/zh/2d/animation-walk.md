@@ -22,14 +22,13 @@ cover: /images/animation/animation-walk.webp
 diagram: /images/diagrams/zh/animation-walk.png
 diagram_alt: "走路四个姿势：接触、下沉、经过、上升"
 diagram_caption: "脚落地后要钉住，胯要有高低。四个姿势对了，中间帧才有意义。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [animation.timing.animation-timing.en, animation.2d.2d-animation.en, animation.pipeline.animatic-pipeline.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [animation.principles.anticipation, animation.stop-motion.armature, formats.documentary.documentary-template]
 depth: deep
 deep_minutes: 6
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -81,3 +80,11 @@ deep_minutes: 6
 ### 走路循环，十项检查
 <ul><li>四姿势构成半步</li><li>先画骨盆胸腔上下</li><li>接触时两脚最开</li><li>下沉时重心最低</li><li>经过时支撑腿直立</li><li>支撑脚不滑</li><li>脚跟脚掌脚尖三点清楚</li><li>手臂反向摆且延迟</li><li>头比胸腔晚一帧</li><li>疲劳加拖步不减速</li></ul><p>走路循环的所有问题，最后都会回到两个地方：重心有没有上下，支撑脚有没有滑。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“走路看起来难，是因为脚会滑、重心不对、手脚同拍。先把四个姿势站住，再谈风格。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“走路看起来难，是因为脚会滑、重心不对、手脚同拍。先把四个姿势站住，再谈风格。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+<!-- SOURCES_END -->
+

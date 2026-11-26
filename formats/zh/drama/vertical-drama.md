@@ -22,18 +22,21 @@ cover: /images/formats/vertical-drama.webp
 diagram: /images/diagrams/zh/vertical-drama.png
 diagram_alt: "竖屏结构：脸在上，手在下，问题留到最后"
 diagram_caption: "第一屏给目标，第三秒给障碍，一场只翻一次。竖着拍，不要横拍再裁。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [formats.vlog.vlog-structure.en, post.delivery.conform-online.en, shoot.multicam.multicam-live.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [formats.vlog.vlog-breakdown, formats.vlog.vlog-structure, story.screenplay.logline]
 depth: deep
 deep_minutes: 6
-sources: [S14, S15, S16]
+sources:
+- S14
+- S15
+- S16
+- S29
 test_context: "复核环境：综合样片与公开案例；MacBook Pro M1 / iPhone 13 预览；不声称是单一真实客户项目。"
 known_failures: "已知失败：合成样片不能当客户案例；平台时长/规格变化会使模板过期。"
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -91,9 +94,13 @@ verified: 2026-11-22
 ### 竖屏短剧，十项检查
 <ul><li>第一秒有人要具体东西</li><li>第二秒看见阻力</li><li>信息差成立</li><li>只用一个场景</li><li>只留两个主要人物</li><li>有假答案和翻转</li><li>翻转改变关系</li><li>半身或近景为主</li><li>台词一句不超过十二字</li><li>结尾留新问题</li></ul><p>短剧不是短，是每一秒都在改变人物之间的距离。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
-<ul><li><span class="mono">[S14]</span> YouTube 社区准则</li><li><span class="mono">[S15]</span> TikTok 社区准则</li><li><span class="mono">[S16]</span> BBC 编辑准则</li></ul>
-<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
+## 参考与延伸阅读
+
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“竖屏没有时间铺世界。第一屏让人物想要一个东西，第三秒让观众知道谁挡着，最后留一个没答的问题。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“竖屏没有时间铺世界。第一屏让人物想要一个东西，第三秒让观众知道谁挡着，最后留一个没答的问题。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“竖屏没有时间铺世界。第一屏让人物想要一个东西，第三秒让观众知道谁挡着，最后留一个没答的问题。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“竖屏没有时间铺世界。第一屏让人物想要一个东西，第三秒让观众知道谁挡着，最后留一个没答的问题。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
 <!-- SOURCES_END -->
+

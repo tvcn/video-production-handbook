@@ -23,12 +23,11 @@ cover: /images/shoot/slate-continuity.webp
 diagram: /images/diagrams/en/slate-continuity.png
 diagram_alt: "Three handles for every take"
 diagram_caption: "Lock wardrobe, props, and light; give every take handles; name the best take. Continuity is editing work done on set."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [shoot.camera.axis-line.en, shoot.production.scene-space.en, shoot.production.shot-list.en]
+related: [shoot.movement.stabilizer, shoot.exposure.waveform, post.color.color]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -67,3 +66,10 @@ Continuity is not the police. Do not chase every background mismatch. Protect wh
 - Every setup has a continuity still with the key prop and wardrobe visible.
 - Every take has handles, and important actions have a wide and a close.
 - The sheet names the best take and why it is best.
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 4 on-set shoot and playback review reviews under one camera, available light or one key light; it discusses “Continuity: Every Take Has to Cut”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

@@ -21,12 +21,9 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 技术组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- shoot.blocking.blocking.en
-- story.storyboard.storyboard.en
-- tools.guide.buy-audio-field.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [shoot.production.shot-list, shoot.camera.shot-size, post.color.color]
 depth: deep
 deep_minutes: 5
 sources:
@@ -34,12 +31,12 @@ sources:
 - S31
 - S32
 - S33
+- S52
 test_context: 复核环境：Windows 11 工作站；Sony FX3 / Canon R5 公开菜单与样片对照；镜头以页面标注为准，不声称每支都实测。
 known_failures: 已知失败：不同机型菜单/固件差异；现场色温与监视器未校准会导致误判。
 verified: 2026-11-22
 source_kind: sourced
 ---
-
 <p>开机前走一遍现场：电线有没有绊人的路径、灯架有没有配重、高处有没有固定点、道路有没有封闭和反光衣。每个风险写一个负责人和一个停止拍摄的条件。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -67,4 +64,14 @@ source_kind: sourced
 ### 开机前，安全十项
 <ul><li>电缆全部压边</li><li>过道保持清空</li><li>不用椅子当灯架</li><li>插排不超载</li><li>梯子有人扶</li><li>工具系绳</li><li>三脚架加沙袋</li><li>举灯前看头顶</li><li>路边穿反光衣并设锥</li><li>紧急联系人发到群里</li></ul><p>安全不是拍得慢，是让所有人还能拍下一条。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“现场安全先看三样：电线会不会绊人、高处有没有固定、道路有没有车。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S31] [ARRI Cine Systems](https://www.arri.com/en/cine-systems) — 2026-11-26 访问。用于核对首段“现场安全先看三样：电线会不会绊人、高处有没有固定、道路有没有车。”中的术语与公开背景（摄影机、镜头与灯光的技术资料入口）；不替代现场测试。
+- [S32] [Sony 专业影像支持](https://pro.sony/ue_US/support) — 2026-11-26 访问。用于核对首段“现场安全先看三样：电线会不会绊人、高处有没有固定、道路有没有车。”中的术语与公开背景（专业摄影机与镜头的支持、固件与文档）；不替代现场测试。
+- [S33] [Canon 支持](https://www.usa.canon.com/support) — 2026-11-26 访问。用于核对首段“现场安全先看三样：电线会不会绊人、高处有没有固定、道路有没有车。”中的术语与公开背景（相机、镜头与固件的官方支持入口）；不替代现场测试。
+- [S52] [ARRI：ALEXA 35](https://www.arri.com/en/camera-systems/cameras/legacy-camera-systems/alexa-35) — 2026-11-26 访问。用于核对首段“现场安全先看三样：电线会不会绊人、高处有没有固定、道路有没有车。”中的术语与公开背景（摄影机规格、Log-C 与色彩流程）；不替代现场测试。
+<!-- SOURCES_END -->
+

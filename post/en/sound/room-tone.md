@@ -23,12 +23,11 @@ cover: /images/post/room-tone.webp
 diagram: /images/diagrams/en/room-tone.png
 diagram_alt: "Thirty seconds of room, holding dozens of cuts"
 diagram_caption: "Room tone is one continuous floor. Where dialogue breaks, it stitches two shots together. It does not need to be loud; it needs to be there."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [post.editing.mix-dialogue.en, post.editing.transitions.en, post.sound.sound-post.en]
+related: [post.vfx.rotoscoping, post.editing.rough-cut, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -63,3 +62,15 @@ Music is allowed, but room tone is the floor. Lay the room first, then add music
 - Every location has thirty seconds of room tone, findable by filename?
 - Does room tone run continuously under the cuts without jumping?
 - Was the dead room fixed, or covered with music?
+
+
+> Intent split: this page covers the practical details of “Room Tone: Do Not Let the Picture Live in a Vacuum”; start with <a href="https://post.tvcn.org/article/loudness/">Loudness: Platform Target and True Peak</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 5 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Room Tone: Do Not Let the Picture Live in a Vacuum”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

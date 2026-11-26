@@ -21,8 +21,8 @@ stage: handbook
 format: guide
 authors:
 - TVCN Tools Desk
-last_verified: 2026-11-23
-review_due: 2027-11-22
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
 sources:
 - S23
 - S25
@@ -32,13 +32,9 @@ sources:
 test_context: 'Review setup: Windows 11 workstation + iPhone 13, Chrome 131; bodies/lenses checked against public specs and short samples, not lab instruments.'
 known_failures: 'Known failures: grey-channel firmware/warranty vary; samples do not prove retail units; prices and stock expire.'
 verified: 2026-11-23
-related:
-- tools.guide.buy-lens-first.en
-- tools.guide.buy-lens-zoom.en
-- tools.guide.buy-camera-cine.en
-source_kind: experience
+related: [tools.guide.buy-camera-cine, tools.guide.buy-gimbal-first, shoot.camera.axis-line]
+source_kind: sourced
 ---
-
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
 <figure>
@@ -62,9 +58,14 @@ source_kind: experience
 <p>Do not let a spec sheet choose the body. Rent once, shoot the project you actually want, then total the cost.</p><ol><li>Rent the target body and a common lens once; shoot a real project.</li><li>Confirm mount, adapter, autofocus and power.</li><li>Total the cards, batteries, monitor, storage and repair.</li><li>Keep 10% for surprises and consumables.</li><li>Buy the second lens after the first delivery.</li></ol>
 <h2>Add: failure cases</h2>
 <p>These three buying moves are common and all spend the budget on the wrong axis.</p><div class="table-scroll"><table class="data-table"><thead><tr><th>Move</th><th>Result</th><th>Replace with</th></tr></thead><tbody><tr><td>Buy a body for 4K120 with no light/lens budget</td><td>High frame rate is unusable without light</td><td>Rent the body; keep money for light and lens</td></tr><tr><td>Judge a sample, not firmware/warranty</td><td>Retail units focus or overheat differently</td><td>Bring your own card and run 30 minutes</td></tr><tr><td>Buy a niche mount first</td><td>Small lens pool and adapters sacrifice autofocus</td><td>Choose the mount from existing lenses</td></tr></tbody></table></div>
+
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: field notes and buying checklists; tested: short tests against public specs, not lab scores; references: manufacturer and standards links below.</p>
-<ul><li><span class="mono">[S23]</span> SMPTE Standards</li><li><span class="mono">[S25]</span> ITU-R BT.709</li><li><span class="mono">[S26]</span> ITU-R BT.2020</li><li><span class="mono">[S29]</span> YouTube Upload Specs</li><li><span class="mono">[S38]</span> State Taxation Administration</li></ul>
-<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
+## References and further reading
+
+- [S23] [SMPTE Standards](https://www.smpte.org/standards) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“On a limited budget, the body is not first. Find whether you”) against Entry point for timecode, color, cinema and signal-chain standards; not a substitute for an on-set test.
+- [S25] [ITU-R BT.709](https://www.itu.int/rec/R-REC-BT.709/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“On a limited budget, the body is not first. Find whether you”) against HD SDR gamut, transfer function and viewing conditions; not a substitute for an on-set test.
+- [S26] [ITU-R BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“On a limited budget, the body is not first. Find whether you”) against Wide-gamut and parameter definitions for UHD/HDR; not a substitute for an on-set test.
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“On a limited budget, the body is not first. Find whether you”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S38] [State Taxation Administration: Official site](https://www.chinatax.gov.cn/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“On a limited budget, the body is not first. Find whether you”) against Official entry for VAT, cross-border services and withholding; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

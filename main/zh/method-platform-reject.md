@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.method.method-ai-rights.en
-- main.method.method-thumbnail-weak.en
-- main.method.method-budget-overrun.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [main.method.method-portfolio-empty, main.method.method-quote-low, context.history.16mm]
 source_kind: experience
 ---
-
 <p>把成片静音看一遍，只找画面风险；再闭眼听一遍，只找声音和 claims。最后逐条对照平台规则，把可能被拒的点写成“问题—依据—修改”三列。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -45,3 +41,10 @@ source_kind: experience
 <h2 id="section-3">什么时候不要反复重传</h2>
 <p>同一版本反复上传不会改变审核结果，还可能触发风控。先拿到具体拒因，补材料或改画面，再申诉。没有证据的“我觉得没问题”不算修改。</p></section><section><h2 id="section-4">现场</h2><p>查画面、文字、音乐、承诺；改一条，不要整片重做。</p></section><section><h2 id="section-5">怎么做</h2><ol><li>对照平台规则列出四个可能点：敏感画面、绝对化用语、未授权音乐、诱导互动。</li><li>每次只改一项，重新上传测试。</li><li>保留审核回执和截图，必要时走申诉。</li></ol></section><section><h2 id="section-6">别踩</h2><p>别一口气删整片；先定位是哪一条触发。</p></section><section><h2>边界</h2><p>它不保证故事成立；模板只管结构顺序，人物、障碍和代价仍要单独写。</p></section><section><h2>替代</h2><p>如果“对照平台规则列出四个可能点：敏感画面…”不是你的主问题，先用“每次只改一项，重新上传测试”对应的基础做法；两项都成立再考虑升级。</p></section><section><h2>60 秒自测</h2><p>用现有器材按“对照平台规则列出四个可能点：敏感画面…”做一次 60 秒测试，记下一个数字；数字没有变化，就不要加预算。</p></section><section><h2>什么时候不该用</h2><p>当“对照平台规则列出四个可能点：敏感画面…”还没写清，或“每次只改一项，重新上传测试”只是凑数时，不要套模板；先回到人物和问题。</p></section><section><h2>三个失败</h2><ul><li>模板每段都有，但人物没有决定。</li><li>中段只换场景，没有新信息。</li><li>结尾靠旁白总结，画面没有变化。</li></ul></section>
 <h2>验收</h2><ul><li>四个可能点逐项排查过：敏感画面、绝对化用语、音乐、诱导互动。</li><li>每次只改一项，重新上传测试。</li><li>保留审核回执和截图，必要时申诉。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 4 次客户需求梳理与项目复盘，条件为单人或 2–3 人小组、预算与周期明确；页面讨论的具体对象是「平台不过审」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

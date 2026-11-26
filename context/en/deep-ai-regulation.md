@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- context.law.ai-label-law.en
-- context.literacy.deepfake.en
-- context.law.data-security.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [context.deep.deep-copyright-chain, context.deep.deep-image-history, formats.brand.brand-film]
 sources:
 - S14
+- S01
+- S02
+- S03
+- S16
 source_kind: sourced
 ---
-
 <p>AI compliance is not one disclaimer; labelling, deepfakes and data provenance must pass together. One page of &amp;quot;AI Content Labels: Explicit, Implicit, and Platform Duties&amp;quot; solves one local problem; joining &amp;quot;AI Content Labels: Explicit, Implicit, and Platform Duties&amp;quot;, &amp;quot;Deepfake Detection: Look Beyond the Face&amp;quot; and &amp;quot;Data Security: Client Privacy and Leaks&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not conclude “it looks fake”; name the specific mismatches.</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not treat rushes as disposable; they contain client privacy to…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Only the result is kept, not the condition</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>Explicit label is visible/audible.</li><li>Implicit label and metadata are retained.</li><li>Editing did not remove/tamper labels.</li><li>Re-synthesis is relabeled.</li><li>Platform declaration and screenshot archived.</li><li>Likeness/voice/music clearances complete.</li><li>Portable drives are encrypted and cloud access is project-scoped.</li><li>Raw files are not forwarded in chat; controlled links are used.</li><li>Rushes and backups follow the same privacy rules as the final cut.</li><li>The condition from AI Content Labels: Explicit, Implicit, and Platform Duties fits on one line and can be repeated by someone else.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "AI Content Labels: Explicit, Implicit, and Platform Duties", go back to <a href="https://context.tvcn.org/en/article/ai-label-law/">AI Content Labels: Explicit, Implicit, and Platform Duties</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://context.tvcn.org/en/article/deepfake/">Deepfake Detection: Look Beyond the Face</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://context.tvcn.org/en/article/data-security/">Data Security: Client Privacy and Leaks</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S14] [YouTube Community Guidelines](https://support.google.com/youtube/answer/2801973) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“AI compliance is not one disclaimer; labelling, deepfakes an”) against Current platform rules on misleading content, dangerous acts, copyright and disclosure; not a substitute for an on-set test.
+- [S01] [Media and Information Literacy](https://www.unesco.org/mil4teachers/en/module1) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“AI compliance is not one disclaimer; labelling, deepfakes an”) against Definitions, teacher modules and critical questions; not a substitute for an on-set test.
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“AI compliance is not one disclaimer; labelling, deepfakes an”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S03] [National People's Congress: Personal Information Protection Law](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“AI compliance is not one disclaimer; labelling, deepfakes an”) against The statutory text on personal data, sensitive data, notice and consent; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“AI compliance is not one disclaimer; labelling, deepfakes an”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

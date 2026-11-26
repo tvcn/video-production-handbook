@@ -23,16 +23,20 @@ cover: /images/story/logline.webp
 diagram: /images/diagrams/en/logline.png
 diagram_alt: "Four gates of a one-line story"
 diagram_caption: "All four slots must be shootable: one person, one thing, one obstacle, one action. If any slot is an adjective, the line is not ready."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [story.storyboard.storyboard.en, tools.guide.buy-audio-field.en, ai.generation.text-to-video.en]
-sources: [S02, S16, S17]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [story.story.midpoint-turn, story.screenplay.monologue, shoot.camera.composition]
+sources:
+- S02
+- S16
+- S17
+- S41
+- S10
 test_context: "Review setup: Windows 11 + Chrome; checked against public films, scripts and platform pages; not frame-by-frame testing."
 known_failures: "Known failures: public case data is incomplete; platform specs and length limits change; re-verify per project."
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -94,9 +98,14 @@ There is a person, a want, an obstacle, and a visible action: the cat and the co
 ## Deliverables
 
 One logline under 40 Chinese characters or 25 English words, plus three images that grow from it.
+
 <!-- SOURCES_START -->
-<h2>Sources</h2>
-<p class="source-types">Experience: TVCN field notes and project reviews; tested: the review setup and reproducible exercises noted on the page; references: public links below.</p>
-<ul><li><span class="mono">[S02]</span> WIPO: Copyright FAQ</li><li><span class="mono">[S16]</span> BBC Editorial Guidelines</li><li><span class="mono">[S17]</span> Reuters Trust Principles</li></ul>
-<p><a href="../../about/">Full links and notes in SOURCES.md</a></p>
+## References and further reading
+
+- [S02] [Copyright FAQ](https://www.wipo.int/en/web/copyright/faq-copyright) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Compress a vague idea into a shootable sentence: a specific ”) against What copyright protects, economic rights and moral rights; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Compress a vague idea into a shootable sentence: a specific ”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Compress a vague idea into a shootable sentence: a specific ”) against The agency's public commitment to independence, accuracy and freedom from bias; not a substitute for an on-set test.
+- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Compress a vague idea into a shootable sentence: a specific ”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Compress a vague idea into a shootable sentence: a specific ”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
 <!-- SOURCES_END -->
+

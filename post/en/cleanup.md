@@ -23,15 +23,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Post Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.vfx.cg-integration.en
-- post.vfx.rotoscoping.en
-- post.vfx.tracking.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [post.color.color, post.color.color-management, shoot.camera.composition]
 source_kind: experience
 ---
-
 <p>Before removing a cable, mic or stand, read the background: a plain wall is easy; foliage, crowds and texture are not. Shoot a clean plate or empty frame so post has a source.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -42,3 +38,10 @@ source_kind: experience
 <!-- DIAGRAM_END -->
 <section><h2 id="section-1">Ask what the background contains before erasing</h2><p>Match grain, noise and motion blur. A clean still that falls apart in motion is the usual failure.</p><h2 id="section-2">Limits</h2><p>Do not erase story information. Removing a key prop or sign can change how the audience reads the space; confirm it is not load-bearing.</p></section><section><h2 id="section-3">On set</h2><p>List what must survive: faces, text, actions. Remove only the mistake, then check at 100 and 50 percent.</p></section><section><h2 id="section-4">Do this</h2><p>Cleanup removes the wrong thing, not everything; keep the information the audience needs.</p><ol><li>List what must stay: faces, text, action.</li><li>Erase only the error object, not the background texture.</li><li>Review at 100 and 50 percent to confirm the patch disappears.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not erase information for cleanliness; lose a face or text and the shot is useless.</p></section><section><h2>Judge</h2><p>Three signals are observable on set:</p><ul><li>removing one shot makes the scene faster, not muddier</li><li>skin, highlights and blacks sit inside scope limits</li><li>loudness, subtitles and file specs pass one delivery check</li></ul></section><section><h2>Failures</h2><p>These three moves erase the detail you just built:</p><ul><li>cuts follow the music, not the action</li><li>style before unity: shots jump in color</li><li>loudness and subtitles are checked at the very end</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Take 30 seconds of footage and make an A/B, changing only “List what must stay: faces, text, action.”. Note one timecode and one difference before keeping it.</p></section>
 <h2>Check</h2><ul><li>Faces, text, and action remain; only the error object is gone.</li><li>The patch disappears at 100 and 50 percent and texture connects.</li><li>A before-and-after shows what was removed rather than a full repaint.</li></ul>
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 3 post-production review reviews under media up to 4K and a standard platform delivery; it discusses “Cleanup: Remove the Mistake, Keep the Information”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

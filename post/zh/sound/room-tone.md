@@ -22,12 +22,11 @@ cover: /images/post/room-tone.webp
 diagram: /images/diagrams/zh/room-tone.png
 diagram_alt: "空场三十秒，接住几十个剪辑点"
 diagram_caption: "环境音是连续的一条底。对白断开的地方，靠它把两个镜头缝起来；它不需要大声，只需要一直在。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [post.editing.mix-dialogue.en, post.editing.transitions.en, post.sound.sound-post.en]
+related: [post.vfx.rotoscoping, post.editing.rough-cut, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -62,3 +61,15 @@ related: [post.editing.mix-dialogue.en, post.editing.transitions.en, post.sound.
 - 每个拍摄地点都录了三十秒空场，文件名能查到？
 - 对白之间有没有环境音连续铺底，剪辑点不跳？
 - 房间的空洞是先被修掉，还是被音乐盖住了？
+
+
+> 意图分工：本页负责「环境音：别让画面住在真空里」的可执行细节；同集群先读 <a href="https://post.tvcn.org/article/loudness/">响度：平台目标与真峰值</a> 建立总判断，再回到本页。
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 5 次后期项目复盘，条件为4K 以内素材、常规平台交付；页面讨论的具体对象是「环境音：别让画面住在真空里」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

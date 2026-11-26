@@ -23,12 +23,11 @@ cover: /images/story/voice-over.webp
 diagram: /images/diagrams/en/voice-over.png
 diagram_alt: "Voice-over has three jobs"
 diagram_caption: "If the picture already says it, shut up. If the picture cannot, give the fact. If the person has bias, give the judgment. If you can shoot it, do not say it."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [story.screenplay.dialogue.en, story.screenplay.character-arc.en, story.screenplay.conflict.en]
+related: [story.story.want-stakes, story.directing.actor-adjustment, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -68,3 +67,10 @@ Keep the breath. Do not cut every pause flat. VO is not a commercial; it should 
 - Whose voice is it: the author, the character, or the character's inner voice?
 - Read aloud, does it trip or sound like an essay?
 - Does the VO cover the action at its entrance or exit?
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 3 table read and pre-shoot rehearsal reviews under a three-to-eight-page scene with one primary point of view; it discusses “Voice-Over: Do Not Summarize What the Picture Already Says”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

@@ -21,17 +21,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- main.method.method-first-client.en
-- main.method.method-client-revision.en
-- main.method.method-shoot-alone.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [main.method.method-quote-low, main.method.method-scene-boring, context.history.16mm]
 depth: deep
 deep_minutes: 7
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>不要等大项目。选三个你真正能完成的小片：一个 60 秒人物、一个 30 秒产品、一个 15 秒活动。每个都写清你负责什么、用什么拍、交付了什么。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -70,3 +66,11 @@ source_kind: experience
 ### 作品集，十项检查
 <ul><li>三条完整片不是混剪</li><li>每条只证明一种能力</li><li>三条对准一个方向</li><li>每案一页五件事</li><li>写清 brief 和约束</li><li>写清关键决定</li><li>写清结果</li><li>写一个错误</li><li>有两张对比图</li><li>每个案例三种尺寸</li></ul><p>作品集不是证明你拍过多少，是证明你能在约束里做完三条。</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S22] [全国人民代表大会：《民法典》](http://www.npc.gov.cn/npc/c2/c30834/202006/t20200602_306457.html) — 2026-11-26 访问。用于核对首段“没有作品集，先做三条 30 秒的“能力片”：会拍人、会拍物、会讲一件事。”中的术语与公开背景（肖像、隐私、合同与场地权利的上位法文本）；不替代现场测试。
+- [S38] [国家税务总局：官方网站](https://www.chinatax.gov.cn/) — 2026-11-26 访问。用于核对首段“没有作品集，先做三条 30 秒的“能力片”：会拍人、会拍物、会讲一件事。”中的术语与公开背景（增值税、跨境服务与代扣代缴的官方政策入口）；不替代现场测试。
+<!-- SOURCES_END -->
+

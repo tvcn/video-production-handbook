@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- post.assets.project-structure
-- post.assets.proxy-cache
-- post.editing.versioning
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [post.deep.deep-color-pipeline, post.deep.deep-edit-rhythm, shoot.camera.axis-line]
 sources:
 - S17
+- S30
+- S34
+- S27
+- S35
 source_kind: sourced
 ---
-
 <p>后期效率不是软件快，而是项目结构、代理和版本让每个人都知道最新文件在哪。 单看《项目结构：文件夹比软件重要》只能解决一个局部；把《项目结构：文件夹比软件重要》《代理与缓存：别让硬盘先满》《版本管理：别用“final 真的 final”》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别把素材放在桌面；系统重装就没了</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别删原始素材换空间；缓存可以重建，素材不能</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别用“最新版”当文件名；三个月后没人知道它最新在哪</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>四个根文件夹存在，媒体、项目、导出、文档各归其位。</li><li>文件名包含日期、场次和机位，能直接排序。</li><li>换一台机器或换软件后，仍能按路径找到原始素材。</li><li>代理和缓存在第二块盘，剪辑盘仍有可用空间。</li><li>系统盘保留至少 20%，没有红色警告。</li><li>清缓存后项目能重建，原始素材一条没少。</li><li>文件名包含日期、平台、时长和版本号，能直接排序。</li><li>版本表能查出每次改动的原因和批准人。</li><li>随机拿一个旧版，能说出它和当前版的差别。</li><li>文件名含项目、日期、版本、状态</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《项目结构：文件夹比软件重要》里的单点问题：回到<a href="https://post.tvcn.org/article/project-structure/">《项目结构：文件夹比软件重要》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://post.tvcn.org/article/proxy-cache/">《代理与缓存：别让硬盘先满》</a>，先不改第三页。</li><li>只做验收：看<a href="https://post.tvcn.org/article/versioning/">《版本管理：别用“final 真的 final”》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S17] [Reuters Trust Principles](https://reutersagency.com/about/our-trust-principles/) — 2026-11-26 访问。用于核对首段“后期效率不是软件快，而是项目结构、代理和版本让每个人都知道最新文件在哪。”中的术语与公开背景（通讯社对独立、准确与不带偏见的公开承诺）；不替代现场测试。
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“后期效率不是软件快，而是项目结构、代理和版本让每个人都知道最新文件在哪。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S34] [Adobe Premiere Pro 用户指南](https://helpx.adobe.com/premiere-pro/user-guide.html) — 2026-11-26 访问。用于核对首段“后期效率不是软件快，而是项目结构、代理和版本让每个人都知道最新文件在哪。”中的术语与公开背景（剪辑、代理、色彩与导出的官方文档）；不替代现场测试。
+- [S27] [EBU R128 响度](https://tech.ebu.ch/publications/r128) — 2026-11-26 访问。用于核对首段“后期效率不是软件快，而是项目结构、代理和版本让每个人都知道最新文件在哪。”中的术语与公开背景（广播响度目标、真峰值与测量方法）；不替代现场测试。
+- [S35] [Avid 资源中心](https://www.avid.com/resource-center) — 2026-11-26 访问。用于核对首段“后期效率不是软件快，而是项目结构、代理和版本让每个人都知道最新文件在哪。”中的术语与公开背景（Media Composer、协作与交付的资源入口）；不替代现场测试。
+<!-- SOURCES_END -->
+

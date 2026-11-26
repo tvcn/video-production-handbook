@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.brand-film.brand-film-template
-- formats.brand-film.brand-film-breakdown
-- formats.corporate.corporate-video-structure
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [formats.deep.deep-documentary, formats.deep.deep-food-tabletop, story.directing.actor-adjustment]
 sources:
 - S12
+- S14
+- S15
+- S16
+- S29
 source_kind: sourced
 ---
-
 <p>品牌片不是企业简介；一个卖点、一个人物和一个可记住的动作比十个部门更重要。 单看《品牌片模板：主张、证据、落点》只能解决一个局部；把《品牌片模板：主张、证据、落点》《品牌片拉片：90 秒怎么建立世界》《企业宣传结构：六个拍点》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>1. 先拍 logo/航拍：观众不知道自己在看谁。把第一拍换成问题或动作。2. 每拍都加旁白：画面没有承担信息…</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>只看结果，不记条件</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>只看结果，不记条件</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>立场能被反对，能举出一个反例。</li><li>证据具体到一个人和一个动作。</li><li>结尾落在一个动作，没有用口号收尾。</li><li>前 5 秒有一个正在发生的动作，不是航拍。</li><li>人物的欲望能用一件物/一个动作说清。</li><li>阻碍来自真实世界，不是假反派。</li><li>转向靠动作，不靠口号。</li><li>后果落在一个人身上。</li><li>品牌只出现一次，且与动作同框。</li><li>结尾停在后果，不停在 logo。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《品牌片模板：主张、证据、落点》里的单点问题：回到<a href="https://formats.tvcn.org/article/brand-film-template/">《品牌片模板：主张、证据、落点》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://formats.tvcn.org/article/brand-film-breakdown/">《品牌片拉片：90 秒怎么建立世界》</a>，先不改第三页。</li><li>只做验收：看<a href="https://formats.tvcn.org/article/corporate-video-structure/">《企业宣传结构：六个拍点》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“品牌片不是企业简介；一个卖点、一个人物和一个可记住的动作比十个部门更重要。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S14] [YouTube 社区准则](https://support.google.com/youtube/answer/2801973) — 2026-11-26 访问。用于核对首段“品牌片不是企业简介；一个卖点、一个人物和一个可记住的动作比十个部门更重要。”中的术语与公开背景（平台对误导、危险行为、版权与披露的现行规则）；不替代现场测试。
+- [S15] [TikTok 社区准则](https://www.tiktok.com/community-guidelines/en/) — 2026-11-26 访问。用于核对首段“品牌片不是企业简介；一个卖点、一个人物和一个可记住的动作比十个部门更重要。”中的术语与公开背景（短视频平台的 content、AI 生成与商业披露规则）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“品牌片不是企业简介；一个卖点、一个人物和一个可记住的动作比十个部门更重要。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“品牌片不是企业简介；一个卖点、一个人物和一个可记住的动作比十个部门更重要。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+<!-- SOURCES_END -->
+

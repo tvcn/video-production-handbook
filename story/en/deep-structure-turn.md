@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN Editorial
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.story.midpoint-turn.en
-- story.story.ending-choice.en
-- story.screenplay.script-format.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.screenplay.dialogue, story.directing.directing-debut, shoot.deep.deep-camera-move]
 sources:
 - S12
+- S41
+- S10
+- S42
+- S16
 source_kind: sourced
 ---
-
 <p>Structure is not a three-act template; the midpoint turns direction and the ending charges for the choice. One page of &amp;quot;Midpoint Turn: Change the Method, Not the Goal&amp;quot; solves one local problem; joining &amp;quot;Midpoint Turn: Change the Method, Not the Goal&amp;quot;, &amp;quot;Ending: Stop After the Choice&amp;quot; and &amp;quot;Script Format: Make the Whole Crew Read It the Same Way&amp;quot; exposes the real failure: conditions are missing, too many variables move, and the result cannot be reproduced.</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">Failure table</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>Symptom</th><th>Cause</th><th>Replacement action</th></tr></thead><tbody><tr><td>Do not make midpoint a twist; same goal, new method is the turn.</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not explain the ending; too much explanation kills the afterta…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr><tr><td>Do not write a novel; if the crew cannot find scene numbers and s…</td><td>Condition was not written</td><td>Return to page one and rewrite the three rows</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">Acceptance</h2><ul><li>The goal line is identical before and after midpoint; it is not swapped.</li><li>Each column has three filmable actions and the methods look different.</li><li>Without dialogue, the audience can name what method changed.</li><li>Method changes, not goal</li><li>The old method worked first</li><li>The midpoint proves it fails</li><li>The new method has a learning cost</li><li>The cost is filmable</li><li>The final shot is an action after the choice with no explanatory voice-over.</li><li>The audience can name what was chosen and what was given up.</li></ul></section>
 <section><h2 id="section-7">Alternatives</h2><ul><li>For a single-point problem in "Midpoint Turn: Change the Method, Not the Goal", go back to <a href="https://story.tvcn.org/en/article/midpoint-turn/">Midpoint Turn: Change the Method, Not the Goal</a>; do not use the whole chain.</li><li>To compare two actions, read <a href="https://story.tvcn.org/en/article/ending-choice/">Ending: Stop After the Choice</a> and leave the third page alone.</li><li>For acceptance only, use <a href="https://story.tvcn.org/en/article/script-format/">Script Format: Make the Whole Crew Read It the Same Way</a> as a self-test sheet.</li></ul></section>
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S12] [Animation](https://www.britannica.com/art/animation) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Structure is not a three-act template; the midpoint turns di”) against Encyclopedia entry on animation principles, techniques and industry history; not a substitute for an on-set test.
+- [S41] [Writers Guild of America: WGA contract and credit resources](https://www.wga.org/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Structure is not a three-act template; the midpoint turns di”) against WGA contract, credit and minimum-compensation terms; not a substitute for an on-set test.
+- [S10] [Film history and moving-image research](https://www.bfi.org.uk/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Structure is not a three-act template; the midpoint turns di”) against Entry point to BFI film history, archives and moving-image research; not a substitute for an on-set test.
+- [S42] [Pixar: Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Structure is not a three-act template; the midpoint turns di”) against Story structure, character and visual storytelling lessons; not a substitute for an on-set test.
+- [S16] [BBC Editorial Guidelines](https://www.bbc.co.uk/editorialguidelines/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Structure is not a three-act template; the midpoint turns di”) against Editorial standards on accuracy, fairness, privacy and secret recording; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

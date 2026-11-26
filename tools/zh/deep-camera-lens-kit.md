@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- tools.capability.mirrorless-video
-- tools.capability.prime-lens
-- tools.capability.zoom-lens
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [tools.deep.deep-live-stream-chain, tools.deep.deep-location-sound-chain, shoot.camera.axis-line]
 sources:
 - S16
+- S29
+- S23
+- S30
+- S70
 source_kind: sourced
 ---
-
 <p>机身决定下限，镜头决定你能拍到什么；一机三镜比一机十镜更容易拍完。 单看《微单拍视频：过热、果冻、裁切》只能解决一个局部；把《微单拍视频：过热、果冻、裁切》《定焦镜头：先走动，再变焦》《变焦镜头：方便与画质》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别只拍三分钟测试；过热通常在第 20 分钟才出现</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别用脚架代替走位；定焦的价值就是让你换位置</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别只看中心锐度；边缘和逆光才是变焦最容易露馅的地方</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>连续 30 分钟 4K 25p 有温度记录或警告记录。</li><li>横摇栏杆时果冻程度可见并被描述。</li><li>4K 60p 的视角裁切有前后对比。</li><li>同一个人有至少三个走位版本，焦段没变。</li><li>能说出前后 2 米带来的背景和透视变化。</li><li>买 24 或 50 的决定来自走位经验，不是评测视频。</li><li>全开光圈拍了逆光窗和栏杆，边缘表现有记录。</li><li>畸变和呼吸能被指出，不是只说“画质好”。</li><li>重量称过，并说清它替你省了哪一步。</li><li>把 微单拍视频：过热、果冻、裁切 的条件写成一行，能复述给下一个人。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《微单拍视频：过热、果冻、裁切》里的单点问题：回到<a href="https://tools.tvcn.org/article/mirrorless-video/">《微单拍视频：过热、果冻、裁切》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://tools.tvcn.org/article/prime-lens/">《定焦镜头：先走动，再变焦》</a>，先不改第三页。</li><li>只做验收：看<a href="https://tools.tvcn.org/article/zoom-lens/">《变焦镜头：方便与画质》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“机身决定下限，镜头决定你能拍到什么；一机三镜比一机十镜更容易拍完。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+- [S29] [YouTube 上传规格](https://support.google.com/youtube/answer/1722171) — 2026-11-26 访问。用于核对首段“机身决定下限，镜头决定你能拍到什么；一机三镜比一机十镜更容易拍完。”中的术语与公开背景（分辨率、码率、帧率与音频编码建议）；不替代现场测试。
+- [S23] [SMPTE 标准入口](https://www.smpte.org/standards) — 2026-11-26 访问。用于核对首段“机身决定下限，镜头决定你能拍到什么；一机三镜比一机十镜更容易拍完。”中的术语与公开背景（时间码、色彩、影院与信号链标准的机构入口）；不替代现场测试。
+- [S30] [DaVinci Resolve 产品与文档](https://www.blackmagicdesign.com/products/davinciresolve) — 2026-11-26 访问。用于核对首段“机身决定下限，镜头决定你能拍到什么；一机三镜比一机十镜更容易拍完。”中的术语与公开背景（剪辑、调色、Fusion 与交付的官方产品入口）；不替代现场测试。
+- [S70] [FFmpeg：文档](https://ffmpeg.org/documentation.html) — 2026-11-26 访问。用于核对首段“机身决定下限，镜头决定你能拍到什么；一机三镜比一机十镜更容易拍完。”中的术语与公开背景（编解码、封装与滤镜文档）；不替代现场测试。
+<!-- SOURCES_END -->
+

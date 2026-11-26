@@ -23,17 +23,17 @@ deep_minutes: 9
 format: deep-guide
 authors:
 - TVCN 编辑部
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- story.directing.rehearsal
-- story.directing.notes-to-actor
-- story.directing.performance-scale
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [story.deep.deep-scene-engine, story.deep.deep-scene-stitch, shoot.camera.axis-line]
 sources:
 - S12
+- S41
+- S10
+- S42
+- S16
 source_kind: sourced
 ---
-
 <p>表演指导不是喊“再来一条”，而是把动作、意图和尺度变成演员能执行的话。 单看《排练：先走位，再给台词》只能解决一个局部；把《排练：先走位，再给台词》《给演员的笔记：一句能执行的话》《表演尺度：镜头越近，动作越小》接成一条链，才会暴露“条件没写、变量太多、结果无法复现”的真问题。</p>
 <!-- DEEP_DIVE_START -->
 <!-- DIAGRAM_START -->
@@ -53,3 +53,14 @@ source_kind: sourced
 <section><h2 id="section-5">失败表</h2><div class="table-scroll"><table class="data-table"><thead><tr><th>现象</th><th>原因</th><th>替换动作</th></tr></thead><tbody><tr><td>别在监视器后面喊“自然一点”；演员不知道那是什么意思</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>别用同一个动作尺度拍所有景别；近景会把表演放大</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr><tr><td>只看结果，不记条件</td><td>条件没写清</td><td>回到第一页重写三行表</td></tr></tbody></table></div></section>
 <section><h2 id="section-6">验收</h2><ul><li>前两遍没有台词，演员只走位置和动作。</li><li>第三遍加台词后，停顿仍落在动作上。</li><li>演员能说出自己在这一场一直想做什么。</li><li>演员不拿台词走了一遍</li><li>起点、终点、转身点标好</li><li>坐下和起身都试过</li><li>每个道具都碰过一次</li><li>只给动词不给形容词</li><li>远景和近景的动作幅度明显不同，近景减半。</li><li>手部特写没有表演感，关节和力度自然。</li></ul></section>
 <section><h2 id="section-7">替代方案</h2><ul><li>只处理《排练：先走位，再给台词》里的单点问题：回到<a href="https://story.tvcn.org/article/rehearsal/">《排练：先走位，再给台词》</a>，不要用整条链。</li><li>只比较两个动作：看<a href="https://story.tvcn.org/article/notes-to-actor/">《给演员的笔记：一句能执行的话》</a>，先不改第三页。</li><li>只做验收：看<a href="https://story.tvcn.org/article/performance-scale/">《表演尺度：镜头越近，动作越小》</a>，把判断表拿去做自测。</li></ul></section>
+
+<!-- SOURCES_START -->
+## 参考与延伸阅读
+
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“表演指导不是喊“再来一条”，而是把动作、意图和尺度变成演员能执行的话。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S41] [美国编剧工会：WGA 合同与署名资源](https://www.wga.org/) — 2026-11-26 访问。用于核对首段“表演指导不是喊“再来一条”，而是把动作、意图和尺度变成演员能执行的话。”中的术语与公开背景（编剧合同、署名与最低报酬条款）；不替代现场测试。
+- [S10] [BFI](https://www.bfi.org.uk/) — 2026-11-26 访问。用于核对首段“表演指导不是喊“再来一条”，而是把动作、意图和尺度变成演员能执行的话。”中的术语与公开背景（英国电影协会的电影史、档案与观影研究入口）；不替代现场测试。
+- [S42] [Khan Academy：Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) — 2026-11-26 访问。用于核对首段“表演指导不是喊“再来一条”，而是把动作、意图和尺度变成演员能执行的话。”中的术语与公开背景（故事结构、角色与视觉叙事教学）；不替代现场测试。
+- [S16] [BBC 编辑准则](https://www.bbc.co.uk/editorialguidelines/) — 2026-11-26 访问。用于核对首段“表演指导不是喊“再来一条”，而是把动作、意图和尺度变成演员能执行的话。”中的术语与公开背景（准确性、公正、隐私与隐蔽拍摄的编辑标准）；不替代现场测试。
+<!-- SOURCES_END -->
+

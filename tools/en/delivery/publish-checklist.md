@@ -23,14 +23,13 @@ cover: /images/tools/publish-checklist.webp
 diagram: /images/diagrams/en/publish-checklist.png
 diagram_alt: "Before publishing: 12 checks in three groups"
 diagram_caption: "Rights, technical, publishing: four checks each. Every item takes under ten minutes. Do not discover a black frame, a typo, or a missing clearance after upload."
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [tools.workflow.storage.en, tools.delivery.delivery-specs.en, tools.producing.budget-contingency.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [tools.capability.reflector, tools.guide.rent-camera, shoot.camera.composition]
 depth: deep
 deep_minutes: 6
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -78,3 +77,11 @@ Do not close the laptop right after uploading. Open it on your phone once, confi
 ### Ten checks before publishing
 <ul><li>Written permission for music, fonts, footage</li><li>Likeness and location releases complete</li><li>AI material labeled</li><li>Subtitles proofread character by character</li><li>Opening and ending complete</li><li>Loudness and bitrate match the platform</li><li>Cover survives all three ratios</li><li>Filename has date, project, version, platform</li><li>Project and export backed up</li><li>Published version kept read-only</li></ul><p>Publishing is not the end; it turns this version into the foundation for the next.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S29] [YouTube Upload Specs](https://support.google.com/youtube/answer/1722171) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Three groups of checks: rights, technical, and publishing. E”) against Recommended resolution, bitrate, frame rate and audio codec; not a substitute for an on-set test.
+- [S70] [FFmpeg: Documentation](https://ffmpeg.org/documentation.html) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Three groups of checks: rights, technical, and publishing. E”) against Codec, muxing and filter documentation; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

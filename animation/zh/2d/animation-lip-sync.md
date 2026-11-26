@@ -22,12 +22,11 @@ cover: /images/animation/animation-lip-sync.webp
 diagram: /images/diagrams/zh/animation-lip-sync.png
 diagram_alt: "四组嘴形：闭、开、圆、咧"
 diagram_caption: "不用背音素表。先把闭唇辅音对死，再让元音开口；一句 5 秒台词，5–8 个口型就够。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [animation.2d.animation-walk.en, animation.2d.loop-cycle.en, animation.motion-graphics.mg-rhythm.en]
+related: [animation.principles.animation-principles, animation.timing.animation-timing, formats.brand.brand-film]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -66,3 +65,10 @@ related: [animation.2d.animation-walk.en, animation.2d.loop-cycle.en, animation.
 - 四组嘴形能覆盖整段台词。
 - 每个闭唇音都真的合上，至少停一帧。
 - 眼睛和头比嘴晚，句尾先停嘴。
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 5 次动画镜头与资产交接复盘，条件为2D/3D 混合管线之一、镜头不超过 30 秒；页面讨论的具体对象是「口型：先对辅音，再画表情」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

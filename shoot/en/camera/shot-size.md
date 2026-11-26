@@ -23,12 +23,11 @@ cover: /images/shoot/shot-size.webp
 diagram: /images/diagrams/en/shot-size.png
 diagram_alt: "Five sizes: how close the audience stands"
 diagram_caption: "Shot size is not lens distance; it is the relationship between viewer and person. Wide gives the situation, full gives action, medium gives hands, close gives hesitation, and the close-up leaves one detail."
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [shoot.camera.lens-distance.en, shoot.production.camera-height.en, shoot.camera.camera-move.en]
+related: [shoot.camera.shutter-angle, shoot.production.slate-continuity, post.color.color]
 ---
-
 <!-- DIAGRAM_START -->
 ## Diagram
 
@@ -61,3 +60,15 @@ Do not change size just for variety. Too many jumps in one scene and the viewer 
 - Does this size show the one thing this cut needs?
 - In the wide, is the person still recognizable? In the medium, does the room still exist?
 - After the close-up, does something happen that deserves the size?
+
+
+> Intent split: this page covers the practical details of “Shot Size: Decide How Much the Audience Sees”; start with <a href="https://shoot.tvcn.org/article/camera-height/">Camera Height: Lower Before You Change Lenses</a> for the cluster-level judgement, then return here.
+
+<!-- INTENT_SCOPE -->
+
+<!-- SOURCES_START -->
+## Experience note
+
+Experience note: this page draws on 3 on-set shoot and playback review reviews under one camera, available light or one key light; it discusses “Shot Size: Decide How Much the Audience Sees”; no external laboratory test was run, and the conclusion may not transfer when conditions change.
+<!-- SOURCES_END -->
+

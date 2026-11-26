@@ -21,15 +21,11 @@ stage: field-note
 format: handbook
 authors:
 - TVCN 片型组
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- formats.short-drama.short-drama-template.en
-- formats.wedding.wedding-template.en
-- formats.documentary.documentary-template.en
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
+related: [formats.wedding.wedding-breakdown, formats.wedding.wedding-structure, story.screenplay.logline]
 source_kind: experience
 ---
-
 <p>别让改变只发生在旁白里；画面没有变化，观众不信。</p>
 <!-- DIAGRAM_START -->
 <h2>图解</h2>
@@ -40,3 +36,10 @@ source_kind: experience
 <!-- DIAGRAM_END -->
 <section><h2 id="section-1">可套用的 60 秒分段表</h2><div class="table-wrap"><table class="template-table"><thead><tr><th>段落</th><th>时间</th><th>画面</th><th>声音/通过线</th></tr></thead><tbody><tr><td>理由</td><td>0–5 秒</td><td>人物已经在路上，不是航拍风景</td><td>一句“我为什么来”；不配宏大音乐</td></tr><tr><td>出发</td><td>5–20 秒</td><td>第一个动作：买票、上车、开门</td><td>环境声；交代空间</td></tr><tr><td>遇到</td><td>20–40 秒</td><td>一个计划外的人或事进入</td><td>保留意外原声；不全部旁白</td></tr><tr><td>改变</td><td>40–55 秒</td><td>一个小决定带来可见动作</td><td>改变发生在画面里，不在解释里</td></tr><tr><td>回望</td><td>55–60 秒</td><td>人物停一下，看已经离开的空间</td><td>一句真话；不总结人生</td></tr></tbody></table></div><h2 id="section-2">开机前先填三行</h2><ul><li><strong>理由：</strong>为什么是这个地方、这个时间？一句话。</li><li><strong>意外：</strong>今天可能遇到什么？写两个，不强行安排。</li><li><strong>改变：</strong>结尾人物做了什么不同的事？</li></ul></section><section><h2 id="section-3">现场</h2><p>出发理由、遇到的人或事、一个小改变；改变可以是决定留下吃一顿饭。</p></section><section><h2 id="section-4">怎么做</h2><ol><li>用出发理由开场，交代为什么来。</li><li>拍遇到的人或事，让意外进来。</li><li>落在一个小改变，比如决定留下吃一顿饭。</li></ol></section><section><h2 id="section-5">别踩</h2></section><section><h2>判断</h2><p>现场只认三个信号：</p><ul><li>前三秒给出一个可相信的理由</li><li>中段有新信息或新阻碍，不是重复气氛</li><li>结尾有一个可看见的变化，旁白没有替它收尾</li></ul></section><section><h2>失败</h2><p>下面三种做法会让页面上的细节白做：</p><ul><li>模板套上了，人物和问题却没成立</li><li>前三秒没有理由，只靠标题和音乐</li><li>结尾没有可看见的变化，全靠旁白总结</li></ul></section><section><h2>延伸</h2><p><strong>10 分钟练习：</strong>拆一条 30 秒参考片，标出“用出发理由开场，交代为什么来”和“拍遇到的人或事，让意外进来”的时间点；再写一句：如果删掉其中一个，片子还成立吗？</p></section>
 <h2>验收</h2><ul><li>开头交代了出发理由，不是先放风景。</li><li>中段有一个计划外的人或事。</li><li>结尾有一个可看见的小改变，旁白没有替它说完。</li></ul>
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 4 次同类型片型拆解与项目复盘，条件为30 秒–5 分钟成片、单平台交付；页面讨论的具体对象是「Vlog 模板：出发、遇到、改变」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+

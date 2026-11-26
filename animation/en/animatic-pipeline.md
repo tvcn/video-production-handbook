@@ -24,17 +24,13 @@ stage: field-note
 format: handbook
 authors:
 - TVCN Animation Desk
-last_verified: '2026-11-25'
-review_due: '2027-05-25'
-related:
-- animation.motion-graphics.mg-rhythm.en
-- animation.pipeline.asset-handoff.en
-- animation.3d.blockout.en
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+related: [animation.case.animation-case, animation.2d.animation-lip-sync, formats.documentary.documentary-template]
 depth: deep
 deep_minutes: 6
-source_kind: experience
+source_kind: sourced
 ---
-
 <p>An animatic uses temporary voice, simple drawings and exact durations to test whether shots connect and pacing works. Mark seconds per shot and record voice first; do not wait for finished animation.</p>
 <!-- DIAGRAM_START -->
 <h2>Diagram</h2>
@@ -67,3 +63,11 @@ source_kind: experience
 ### Ten animatic checks
 <ul><li>Seconds marked per board</li><li>Scratch dialogue recorded</li><li>Only key sound effects</li><li>Scratch music with chorus marked</li><li>Total length checked first</li><li>Four seconds without new info gets cut</li><li>Understandable muted</li><li>Understandable eyes closed</li><li>Locked before animation</li><li>Line changes retimed</li></ul><p>The only purpose of an animatic is to discover the film does not work while it is still cheap.</p>
 <!-- DEEP_DIVE_END -->
+
+<!-- SOURCES_START -->
+## References and further reading
+
+- [S62] [Blender Foundation: Blender Manual](https://docs.blender.org/manual/en/latest/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Lay temp voice, set duration, then revise the board. Without”) against Modelling, rigging, animation and rendering; not a substitute for an on-set test.
+- [S63] [Toon Boom: Documentation](https://docs.toonboom.com/) — Accessed 2026-11-26. Used to check the terminology and public context in the opening paragraph (“Lay temp voice, set duration, then revise the board. Without”) against 2D animation, rigging and production pipeline; not a substitute for an on-set test.
+<!-- SOURCES_END -->
+

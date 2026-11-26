@@ -22,18 +22,21 @@ cover: /images/animation/stop-motion.webp
 diagram: /images/diagrams/zh/stop-motion.png
 diagram_alt: "定格动画：相机、灯、手都不动"
 diagram_caption: "定格最磨人的不是动作，是稳定。相机别动、光别动、每次只改一点；一天拍两秒很正常。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
-source_kind: experience
-related: [animation.2d.2d-animation.en, context.law.portrait-rights.en, formats.food.food-video-structure.en]
+last_verified: '2026-11-26'
+review_due: '2027-02-26'
+source_kind: sourced
+related: [animation.stop-motion.stop-motion-motion-blur, animation.stop-motion.stop-motion-set, formats.brand.brand-film]
 depth: deep
 deep_minutes: 7
-sources: [S12, S28, S34]
+sources:
+- S62
+- S63
+- S12
+- S59
 test_context: "复核环境：Windows 11；Blender 4.x / After Effects 2025 公开流程；不声称所有版本一致。"
 known_failures: "已知失败：插件/版本差异导致绑定或渲染失败；字体授权与素材版权需单独核对。"
 verified: 2026-11-22
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -85,9 +88,13 @@ verified: 2026-11-22
 ### 定格动画，十项检查
 <ul><li>先算总帧数</li><li>十二帧一秒按尺子走</li><li>每帧运动量以毫米算</li><li>灯用沙袋胶带固定</li><li>相机用快门线</li><li>人离开画面再动模型</li><li>一次只改一个关节</li><li>布景墙面地面固定</li><li>后期先稳闪烁再补模糊</li><li>脚步接触对帧</li></ul><p>定格动画的真实感，不是模型多细，是每一帧的移动量和灯的位置都没有变。</p>
 <!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
-<h2>参考与延伸阅读</h2>
-<p class="source-types">经验来源：TVCN 现场手册与项目复盘；实测来源：页面标注的复核环境与可复现练习；参考来源：以下公开链接。</p>
-<ul><li><span class="mono">[S12]</span> Britannica：动画</li><li><span class="mono">[S28]</span> Netflix 制作与交付帮助</li><li><span class="mono">[S34]</span> Adobe Premiere Pro 用户指南</li></ul>
-<p><a href="../../about/">完整链接与用途见 SOURCES.md</a></p>
+## 参考与延伸阅读
+
+- [S62] [Blender Foundation：Blender 官方手册](https://docs.blender.org/manual/en/latest/) — 2026-11-26 访问。用于核对首段“定格最磨人的地方是稳定：相机别动、光别动、动作每次只改一点。一天拍两秒很正常，别以为自己慢。”中的术语与公开背景（建模、绑定、动画、渲染）；不替代现场测试。
+- [S63] [Toon Boom：官方文档](https://docs.toonboom.com/) — 2026-11-26 访问。用于核对首段“定格最磨人的地方是稳定：相机别动、光别动、动作每次只改一点。一天拍两秒很正常，别以为自己慢。”中的术语与公开背景（2D 动画、绑定与制作管线）；不替代现场测试。
+- [S12] [Britannica](https://www.britannica.com/art/animation) — 2026-11-26 访问。用于核对首段“定格最磨人的地方是稳定：相机别动、光别动、动作每次只改一点。一天拍两秒很正常，别以为自己慢。”中的术语与公开背景（动画原理、技术与产业史的百科条目）；不替代现场测试。
+- [S59] [Adobe：After Effects 用户指南](https://helpx.adobe.com/after-effects/user-guide.html) — 2026-11-26 访问。用于核对首段“定格最磨人的地方是稳定：相机别动、光别动、动作每次只改一点。一天拍两秒很正常，别以为自己慢。”中的术语与公开背景（合成、关键帧、跟踪与导出）；不替代现场测试。
 <!-- SOURCES_END -->
+

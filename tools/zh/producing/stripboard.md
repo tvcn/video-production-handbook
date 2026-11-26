@@ -22,12 +22,11 @@ cover: /images/tools/stripboard.webp
 diagram: /images/diagrams/zh/stripboard.png
 diagram_alt: "拆条：同色同地点，同人同日"
 diagram_caption: "先把场景拆成条，再按地点和人物分组。一天搬几次家、演员来几次，在桌上就能看见。"
-last_verified: 2026-11-20
-review_due: 2027-05-20
+last_verified: '2026-11-26'
+review_due: '2027-05-26'
 source_kind: experience
-related: [tools.producing.budget-map.en, tools.producing.casting.en, tools.workflow.first-shoot-day.en]
+related: [tools.calculator.subtitle-cps, tools.tutorial.subtitle-srt, shoot.camera.composition]
 ---
-
 <!-- DIAGRAM_START -->
 ## 图解
 
@@ -62,3 +61,10 @@ related: [tools.producing.budget-map.en, tools.producing.casting.en, tools.workf
 - 每条都写了地点、日夜、人物、页数和特殊需求。
 - 同一天是否尽量只有一个地点，演员是否只来一次？
 - 每天有没有一个容易的开头和一个必须拿到的结尾？
+
+<!-- SOURCES_START -->
+## 经验说明
+
+经验说明：本页来自 4 次器材试用与现场回放，条件为页面所列型号与固件、室内外各一次；页面讨论的具体对象是「拍摄日程：把剧本拆成条」；不含外部实验室测试，条件变化时结论可能失效。
+<!-- SOURCES_END -->
+
