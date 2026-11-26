@@ -16,6 +16,8 @@ status: published
 difficulty: beginner
 stage: shoot
 format: short-film
+deep_minutes: 8
+depth: deep
 tools: [camera, support, light]
 authors: ["TVCN Tech Desk"]
 reviewers: [technical-reviewer]
@@ -77,6 +79,19 @@ Landscape and vertical need different lead room. In vertical, keep the face in t
 <!-- INTENT_SCOPE -->
 
 <section><h2>Boundary</h2><p>This page only covers “Composition: Tell the Eye Where to Look”; it does not replace Coverage: Do Not Shoot One Angle, Camera move: handheld, stabiliser, coverage, Color: Match First, Style Second. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
+<!-- DEEP_DIVE_START -->
+## Deep dive
+<p><strong>About 8 minutes.</strong> This section does not repeat the method above. It adds three things: two conditions, a counterexample and a reusable model, so you can decide when to change the method.</p>
+### Condition A: wide or environmental composition
+<p>Wide composition is not “fit everything in”; it is “show where the person is in the space”. Set three lines first: horizon, wall line and eyeline; do not let them fight. Placing the person on a third is not a rule; it gives the space room to breathe.</p><p>Wide lenses distort edges; keep important faces inside the central sixty percent and leave the edge to environment. The audience looks at the face, then the space; reverse the order and the person becomes a dot in a landscape.</p>
+### Condition B: close or two-shot composition
+<p>Close composition starts with where the eyes sit, then where the shoulders are cut. Do not cut on a joint; cut at the chest or upper arm. Put the eyes on the upper third and leave room under the chin. In a two-shot, do not make both people the same size unless you mean “they are equal”; one larger gives the relationship a direction.</p><p>Simplify the close background, do not just blur it. Blur hides things and information; if a detail matters, keep it instead of wiping it with a wide aperture.</p>
+### Counterexample: correct composition, nobody looks
+<p>A frame follows the rule of thirds, the person sits on a power point, the background has leading lines and the colours match. But the audience looks at the lamp in the background, not the person, because the person has no action and the background is brighter.</p><p>The fix is not moving the person to the centre; give them an action and bring the background down a stop. Composition ends at “the audience knows where to look”, not “the rules are met”. Ask who is brightest, who moves and who has eyes; if the three answers differ, the frame is scattered.</p>
+### Reusable model
+<p><strong>Eyes → weight → edges → background.</strong> Set where the person looks, then visual weight, then check edge distractions, then decide what the background keeps. Follow the order; do not start with the rule of thirds.</p><p>After the take, watch three seconds on monitor: where the eye lands first, what it sees second, whether a third thing distracts. If three seconds cannot answer, move the camera, not the lens.</p>
+<!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
 ## References and further reading
 

@@ -8,6 +8,9 @@ translation_status: source
 title: 有声片：观众第一次听见对白
 summary: 有声片让电影从“看动作”变成“听人说话”，也逼着摄影棚改变拍法。
 slug: sound-era
+
+depth: deep
+deep_minutes: 8
 aliases:
 - sound-era
 canonical_site: context

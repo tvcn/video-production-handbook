@@ -8,29 +8,29 @@
 
 | 项目 | 数量 |
 | --- | ---: |
-| Markdown 文件 | 980 |
-| 中英配对 | 490 |
+| Markdown 文件 | 1012 |
+| 中英配对 | 506 |
 | 内容站 | 8（主站 + 8 个二级分站） |
-| published | 980 |
-| 带 `diagram` 字段 | 980 |
+| published | 1012 |
+| 带 `diagram` 字段 | 1012 |
 | 英文结构稿已审校 | 67 |
 | context 带来源配对 | 0 |
 | 公开来源条目 | 59 |
 | 经验型标记文件 | 304 |
-| 带深读的配对 | 115 |
-| 深读 Markdown | 230 |
-| 模板正文逐篇重写 | 490 对 |
-| 主题专属验收 | 490 对 × 3 条 |
+| 带深读的配对 | 149 |
+| 深读 Markdown | 298 |
+| 模板正文逐篇重写 | 506 对 |
+| 主题专属验收 | 506 对 × 3 条 |
 
-当前 980 / 980 个文件为 `status: published`；`published` 不是“文件存在”的同义词，而是明确的发布信号。
+当前 1012 / 1012 个文件为 `status: published`；`published` 不是“文件存在”的同义词，而是明确的发布信号。
 `check-content.mjs` 会挡住缺字段、缺图、图解块与图片路径不一致的条目。
 
 67 个英文结构稿做过中英对照审校（结构、术语与无中文残留；不是第二次母语逐句润色）。
 context 站 0 对在文末列出延伸阅读，具体链接集中在 [`SOURCES.md`](SOURCES.md) 的 59 条来源里。
 另有 304 个文件用 `source_kind: experience` 明确标成经验型内容，不伪造外部引用。
-115 对文章带 `depth: deep` 与 `<!-- DEEP_DIVE_START -->` 深读块，共 230 个中英文文件；深读与站点逐篇对应，不是另一套独立文章。
+149 对文章带 `depth: deep` 与 `<!-- DEEP_DIVE_START -->` 深读块，共 298 个中英文文件；深读与站点逐篇对应，不是另一套独立文章。
 
-2026-11-22 已把 490 对页面的“怎么做 / Do this”正文逐篇重写，并把每篇 3 条验收改为主题专属；中文与英文、站点与 Markdown 同步，共涉及 980 个文件。
+2026-11-22 已把 506 对页面的“怎么做 / Do this”正文逐篇重写，并把每篇 3 条验收改为主题专属；中文与英文、站点与 Markdown 同步，共涉及 1012 个文件。
 
 ## 目录
 
@@ -45,7 +45,7 @@ formats/    片型：19 种片型的模板与拆解
 tools/      工具：器材、选购、排障、计算器
 context/    影像史与素养：历史、法律、平台、媒介素养
 images/
-  diagrams/en/   451 个 SVG，中文 451 / 英文 451；980 个页面引用
+  diagrams/en/   467 个 SVG，中文 467 / 英文 467；1012 个页面引用
 ```
 
 每个站再按 `zh/`、`en/` 分目录；目录层级保留 `paths/`、`screenplay/`、`history/photography/`
@@ -99,11 +99,11 @@ review_due: 2027-05-20
 2. 在生成器里加一个 `media_base` 变量，发布时把 `/images/...` 重写为
    `https://content.tvcn.org/images/...` 或 `./images/...`。
 
-在未确认媒体托管方式前，不要手工改这 980 个路径；`check-content` 会按当前约定检查前缀。
+在未确认媒体托管方式前，不要手工改这 1012 个路径；`check-content` 会按当前约定检查前缀。
 
 ## 两个非文章页
 
-`main/paths/first-film.md` 和 `tools/calculators/fov.md` 也在这 490 对里。它们的图解是
+`main/paths/first-film.md` 和 `tools/calculators/fov.md` 也在这 506 对里。它们的图解是
 `build/make-extra-diagrams.py` 生成的 1280×720 手绘示意图，不是站点内联图的逐像素导出；
 如果用“内容仓与站点完全同图”作为验收口径，这两张需要另做站点版导出。
 
@@ -133,7 +133,7 @@ node scripts/check-content.mjs
 ```
 
 它检查字段、双语配对、`canonical_path`、图解字段、图解资产、图解块、`img src` 一致，
-并核对 `index.json` 的 980 条记录与磁盘文件一致。
+并核对 `index.json` 的 1012 条记录与磁盘文件一致。
 
 ## 许可
 
@@ -145,12 +145,12 @@ node scripts/check-content.mjs
 ## English
 
 This is the bilingual content repository for the TVCN video-knowledge site. It contains
-980 Markdown files in 490 zh/en pairs, grouped into 8 content sites,
-plus 980 diagram references backed by 451 SVG files. Every document carries a `diagram` field and a
+1012 Markdown files in 506 zh/en pairs, grouped into 8 content sites,
+plus 1012 diagram references backed by 467 SVG files. Every document carries a `diagram` field and a
 `<!-- DIAGRAM_START -->` figure block. `status` is an explicit publication signal; currently
-980 of 980 files are published. The machine-readable index is [`index.json`](index.json); the human-readable table of contents is
-[`INDEX.md`](INDEX.md). 115 pairs carry `depth: deep` and a `<!-- DEEP_DIVE_START -->` block,
-230 files in both languages; the deep dives correspond one-to-one with site articles, not a separate set. Image paths use `/images/diagrams/<lang>/<slug>.<ext>` relative to the
+1012 of 1012 files are published. The machine-readable index is [`index.json`](index.json); the human-readable table of contents is
+[`INDEX.md`](INDEX.md). 149 pairs carry `depth: deep` and a `<!-- DEEP_DIVE_START -->` block,
+298 files in both languages; the deep dives correspond one-to-one with site articles, not a separate set. Image paths use `/images/diagrams/<lang>/<slug>.<ext>` relative to the
 content-repo root. If the repository is deployed separately, either mount `images/` at the site root
 or add a `media_base` rewrite in the generator.
 

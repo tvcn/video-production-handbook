@@ -1,8 +1,8 @@
 # 来源与延伸阅读 / Sources
 
-本仓 490 对中英内容（980 篇）的来源登记表。页面只引用 `Sxx`，正文源块必须把对应链接、访问日期和用途展开给读者；本表只保留被页面实际引用的条目，已删除无页面引用的待引用条目（2026-11-27）。
+本仓 506 对中英内容（1012 篇）的来源登记表。页面只引用 `Sxx`，正文源块必须把对应链接、访问日期和用途展开给读者；本表只保留被页面实际引用的条目，已删除无页面引用的待引用条目（2026-11-27）。
 
-The registry for 490 bilingual pairs (980 documents). Pages cite `Sxx`; every visible source block must expand the link, access date and use. This table keeps only entries actually cited by a page; uncited entries were removed on 2026-11-27.
+The registry for 506 bilingual pairs (1012 documents). Pages cite `Sxx`; every visible source block must expand the link, access date and use. This table keeps only entries actually cited by a page; uncited entries were removed on 2026-11-27.
 
 | ID | 机构 / Publisher | 标题 / Title | 链接 / Link | 用途 / Use | 级别 / Tier | 访问 / Accessed |
 | --- | --- | --- | --- | --- | --- | --- |

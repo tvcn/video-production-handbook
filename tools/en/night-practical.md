@@ -21,6 +21,8 @@ diagram_caption: Watch “Keep the practical in frame at 30 percent” and “Fi
 difficulty: beginner
 stage: field-note
 format: handbook
+deep_minutes: 7
+depth: deep
 authors:
 - TVCN Tools Desk
 last_verified: '2026-11-26'
@@ -42,6 +44,19 @@ sources:
 <!-- DIAGRAM_END -->
 <section><h2 id="section-1">Protect highlights, then lift the shadows</h2><p>Play back a take and check shadows for blocks and flicker. If present, add ambient light or a higher-latitude mode; do not rely on lifting in post.</p><h2 id="section-2">Limits</h2><p>Night is not a brighter image. Blacks must stay black and lamps must read; a uniformly gray frame stops being night.</p></section><section><h2 id="section-3">On set</h2><p>Keep the practical in frame at 30 percent brightness. Add a small side light for the face and leave the background dark.</p></section><section><h2 id="section-4">Do this</h2><p>Night practicals first make the lamp in frame believable, then a small light fills the face; too much difference looks fake.</p><ol><li>Keep the practical in frame at 30 percent brightness.</li><li>Fill the face from the side with a small light.</li><li>Keep the background dark instead of lifting everything.</li></ol></section><section><h2 id="section-5">Avoid</h2><p>Do not lift the whole street; a flat night kills the practical motivation.</p></section><section><h2>Judge</h2><p>This page passes on three observable checks, not slogans:</p><ul><li><strong>1.</strong> The practical in frame sits near 30 percent without blowing out.</li><li><strong>2.</strong> The face is filled from the side, not flat frontal light.</li><li><strong>3.</strong> The background stays dark and does not become daytime.</li></ul></section><section><h2>Failures</h2><p>Any one of these means stop and fix it before post:</p><ul><li><strong>1.</strong> Check 1 is only staged (“The practical in frame sits near 30 percent wi…”); another camera position or location exposes it.</li><li><strong>2.</strong> Check 2 is left to post or a verbal explanation (“The face is filled from the side, not flat fro…”); nothing on set can be rechecked.</li><li><strong>3.</strong> Do not lift the whole street; a flat night kills the practical motivation.</li></ul></section><section><h2>Extend</h2><p><strong>10-minute exercise:</strong> Run a 60-second test with the gear you already own, measuring only “Keep the practical in frame at 30 percent”. Record two numbers: what you need and what the gear actually gives.</p></section>
 <h2>Check</h2><ul><li>The practical in frame sits near 30 percent without blowing out.</li><li>The face is filled from the side, not flat frontal light.</li><li>The background stays dark and does not become daytime.</li></ul>
+
+<!-- DEEP_DIVE_START -->
+## Deep dive
+<p><strong>About 7 minutes.</strong> This section does not repeat the method above. It adds three things: two conditions, a counterexample and a reusable model, so you can decide when to change the method.</p>
+### Condition A: street or exterior
+<p>Street night starts with existing practicals: shop light boxes, street lamps, car lights, vending machines. Do not rig a lamp first; see what the location gives. Place the person where a practical reaches, then decide whether to fill. Practical direction is often bad but believable.</p><p>The biggest street problem is mixed colour: sodium orange, LED white, light-box green. Pick one key colour temperature and lock white balance; keep the other colours, do not neutralise everything. The “dirt” of night is sometimes information.</p>
+### Condition B: interior or small space
+<p>Interior night practicals are usually a table lamp, a screen, a fridge, a hallway light. Decide which one is key and turn the rest off or down; do not leave every light on or the room looks like day. Put the key side-back for an outline; lift the front with a small reflector.</p><p>Interior night easily becomes one black mass: shadows have no layers and the person merges with the background. Leave one low-power practical in the background, or a narrow light behind the person to separate the outline. Separation does not need brightness, only an edge.</p>
+### Counterexample: the practical is too bright
+<p>To “see clearly”, the team swaps the table lamp for a 100W bulb. The room brightens and the night disappears. The person looks in an office, the background looks like day. The audience does not say exposure is wrong; they say it does not look like night.</p><p>The fix is not dimming until invisible; use a lower-watt bulb, soften it, move it farther. Let the practical look bright in frame but hit the person only half a stop. A practical should look like life, not a photo lamp.</p>
+### Reusable model
+<p><strong>Practical → baseline → fill → separation.</strong> Find the location light, set exposure baseline, fill face or action, then separate the outline. Follow the order; do not rig a big lamp first.</p><p>Draw a light plot for every night scene: where the practical is, where the person is, where fill is, where separation is. The drawing outlasts memory when the camera moves.</p>
+<!-- DEEP_DIVE_END -->
 
 <!-- SOURCES_START -->
 ## References and further reading

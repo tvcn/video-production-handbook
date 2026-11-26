@@ -16,6 +16,8 @@ status: published
 difficulty: intermediate
 stage: script
 format: short-film
+deep_minutes: 8
+depth: deep
 tools: [script]
 authors: ["TVCN Story Desk"]
 reviewers: [technical-reviewer]
@@ -71,6 +73,19 @@ Silence is dialogue too. If the expected answer does not come, the audience supp
 <!-- INTENT_SCOPE -->
 
 <section><h2>Boundary</h2><p>This page only covers “Dialogue: Let Them Fight with Words, Not Explain”; it does not replace Directing Debut: Protect Performance Before Coverage, Directing Non-Actors: Give Them a Task, Not a Performance, Composition: Tell the Eye Where to Look. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
+<!-- DEEP_DIVE_START -->
+## Deep dive
+<p><strong>About 8 minutes.</strong> This section does not repeat the method above. It adds three things: two conditions, a counterexample and a reusable model, so you can decide when to change the method.</p>
+### Condition A: subtext scene
+<p>Subtext is not “saying the opposite”; it is a want that cannot be spoken. Before dialogue, write two notes: what A wants and what B wants; they cannot be the same. The lines talk about a third thing: ordering food, finding keys, closing a window; the want leaks through action.</p><p>Leave a moment of “not understanding”: one person says a true thing, the other answers with an unrelated word. The audience hears the mismatch and knows the relationship is off.</p>
+### Condition B: exposition or debate
+<p>Exposition also needs a want, or the lines become data. One person wants to persuade, the other wants to end it; every explanation carries a purpose. A debate is not an exchange of views; two people fight for the same conclusion. The scene moves when someone concedes.</p><p>Split exposition into action, reaction and cost: a piece of information is spoken, the listener does something, the speaker pays something. Information is not delivered in one block; it is forced out by reactions.</p>
+### Counterexample: every line is clever
+<p>Every line in a scene is a killer line. The audience enjoys it, but nobody changes, because every line performs cleverness and nobody wants anything. Cut any line and the scene still works; that means no line carries a turn.</p><p>The fix is not removing the clever lines; give them a cost. The person who wins the line loses the relationship; the next line must be slower and truer. Cleverness needs a consequence, or it is only line performance.</p>
+### Reusable model
+<p><strong>Two wants → a third subject → mismatch → cost.</strong> Two people want different things, the talk is about a third subject, at least one moment is misunderstood, and one person pays. With all four, lines have subtext.</p><p>At the read, ask only three questions: who wants what, who blocks it, who changes after the lines. If the three cannot be answered, the dialogue needs work.</p>
+<!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
 ## Experience note
 

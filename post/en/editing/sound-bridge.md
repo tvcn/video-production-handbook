@@ -16,6 +16,8 @@ status: published
 difficulty: intermediate
 stage: post
 format: short-film
+deep_minutes: 7
+depth: deep
 tools: [editor]
 authors: ["TVCN Post Desk"]
 reviewers: [technical-reviewer]
@@ -70,6 +72,19 @@ J-cuts and L-cuts are bridges, not bandages. If the picture has a continuity err
 - Watch it muted. The picture still works.
 
 <section><h2>Boundary</h2><p>This page only covers “Let Sound Cross the Cut: J-cuts and L-cuts”; it does not replace Fix the Noise Before You Build a Mood, Sound Post: The Order from Dialogue to Final Mix, Cross the Line and the Room Disappears. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
+<!-- DEEP_DIVE_START -->
+## Deep dive
+<p><strong>About 7 minutes.</strong> This section does not repeat the method above. It adds three things: two conditions, a counterexample and a reusable model, so you can decide when to change the method.</p>
+### Condition A: between scenes
+<p>A sound bridge between scenes is not “bring the next room tone in early”; it is “carry the feeling of the previous scene into the next”. The tail of a line, a door, footsteps can enter the next scene before the picture cuts. Sound leads, and the audience does not feel the jump.</p><p>Length follows information: if the next scene must establish place immediately, bring room tone in 0.5–1 second early; if it continues emotion, two to three seconds. Do not use the same bridge on every transition; the audience hears the template.</p>
+### Condition B: inside a scene
+<p>J-cut and L-cut inside a scene are not tricks; they let the audience hear a reaction first. A line ends, sound cuts to the listener while picture stays on the speaker; the audience hears “mm” before seeing the face, and the reaction has weight. An L-cut keeps the previous line while picture moves ahead.</p><p>Internal bridges follow the eyeline: whoever looks at whom gets the sound first. Do not J-cut every edit point; too many make the dialogue feel ungrounded.</p>
+### Counterexample: a J-cut on every transition
+<p>A ten-minute film brings the next scene's sound one second early on every transition. It feels smooth at first; by the fourth transition the audience expects “hear first, see second”, and the bridge becomes a pattern. The more bridges, the fewer bridges.</p><p>The fix is not removing all bridges; use them only where the hard cut fails. Cut hard first and see whether the audience loses place; add a bridge only then. A bridge is medicine, not food.</p>
+### Reusable model
+<p><strong>Hard cut first → find the lost point → add sound → test again.</strong> Start without a bridge and find where place or emotion is lost; add sound only there; test again. A bridge is not a default; it is a repair.</p><p>A bridge carries one thing: place, emotion or information. Bridge three at once and the audience is lost. Decide what this cut must carry, then choose the sound.</p>
+<!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
 ## References and further reading
 

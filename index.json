@@ -2,38 +2,38 @@
   "schema_version": 1,
   "content_site": "tvcn",
   "counts": {
-    "documents": 980,
-    "pairs": 490,
+    "documents": 1012,
+    "pairs": 506,
     "sites": 8,
-    "published": 980,
-    "diagrams": 980,
-    "deep_documents": 230,
-    "deep_pairs": 115
+    "published": 1012,
+    "diagrams": 1012,
+    "deep_documents": 298,
+    "deep_pairs": 149
   },
   "sites": [
     {
       "id": "main",
       "zh": "主站",
       "en": "Main",
-      "pairs": 75
+      "pairs": 77
     },
     {
       "id": "story",
       "zh": "故事与编剧",
       "en": "Story & Screenwriting",
-      "pairs": 46
+      "pairs": 48
     },
     {
       "id": "shoot",
       "zh": "拍摄",
       "en": "Shooting",
-      "pairs": 48
+      "pairs": 50
     },
     {
       "id": "post",
       "zh": "后期",
       "en": "Post",
-      "pairs": 52
+      "pairs": 54
     },
     {
       "id": "ai",
@@ -45,25 +45,25 @@
       "id": "animation",
       "zh": "动画",
       "en": "Animation",
-      "pairs": 38
+      "pairs": 40
     },
     {
       "id": "formats",
       "zh": "片型",
       "en": "Formats",
-      "pairs": 62
+      "pairs": 64
     },
     {
       "id": "tools",
       "zh": "工具",
       "en": "Tools",
-      "pairs": 123
+      "pairs": 125
     },
     {
       "id": "context",
       "zh": "影像史与素养",
       "en": "History & Literacy",
-      "pairs": 46
+      "pairs": 48
     }
   ],
   "items": [
@@ -354,6 +354,70 @@
       "depth": "",
       "deep_minutes": "",
       "file": "main/en/paths/first-film.md"
+    },
+    {
+      "id": "main.deep-budget-control",
+      "translation_key": "main.deep-budget-control",
+      "lang": "zh",
+      "site": "main",
+      "type": "article",
+      "title": "预算控制：报价、预留与超支",
+      "summary": "预算不是总价，是每一步谁承担变量；把报价、预留和变更单分开，超支才有位置可查。",
+      "slug": "deep-budget-control",
+      "canonical_path": "/article/deep-budget-control/",
+      "status": "published",
+      "diagram": "/images/diagrams/zh/deep-budget-control.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "main/zh/deep-budget-control.md"
+    },
+    {
+      "id": "main.deep-budget-control",
+      "translation_key": "main.deep-budget-control",
+      "lang": "en",
+      "site": "main",
+      "type": "article",
+      "title": "Budget Control: Quote, Reserve, Overrun",
+      "summary": "A budget is not one total. Separate the quote, the reserve and the change order so overruns have a place to show up.",
+      "slug": "deep-budget-control",
+      "canonical_path": "/en/article/deep-budget-control/",
+      "status": "published",
+      "diagram": "/images/diagrams/en/deep-budget-control.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "main/en/deep-budget-control.md"
+    },
+    {
+      "id": "main.deep-delivery-risk",
+      "translation_key": "main.deep-delivery-risk",
+      "lang": "zh",
+      "site": "main",
+      "type": "article",
+      "title": "交付风险：从母版到客户回执",
+      "summary": "交付不是按导出键，是把唯一母版、平台规格、派生版本和客户回执串成一条可追踪的链。",
+      "slug": "deep-delivery-risk",
+      "canonical_path": "/article/deep-delivery-risk/",
+      "status": "published",
+      "diagram": "/images/diagrams/zh/deep-delivery-risk.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "main/zh/deep-delivery-risk.md"
+    },
+    {
+      "id": "main.deep-delivery-risk",
+      "translation_key": "main.deep-delivery-risk",
+      "lang": "en",
+      "site": "main",
+      "type": "article",
+      "title": "Delivery Risk: From Master to Client Sign-Off",
+      "summary": "Delivery is not pressing export. It is a traceable chain from one master through platform specs and derived versions to a client receipt.",
+      "slug": "deep-delivery-risk",
+      "canonical_path": "/en/article/deep-delivery-risk/",
+      "status": "published",
+      "diagram": "/images/diagrams/en/deep-delivery-risk.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "main/en/deep-delivery-risk.md"
     },
     {
       "id": "main.deep.deep-client-career",
@@ -1103,8 +1167,8 @@
       "canonical_path": "/article/method-no-coverage/",
       "status": "published",
       "diagram": "/images/diagrams/zh/method-no-coverage.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "8",
       "file": "main/zh/method-no-coverage.md"
     },
     {
@@ -1119,8 +1183,8 @@
       "canonical_path": "/en/article/method-no-coverage/",
       "status": "published",
       "diagram": "/images/diagrams/en/method-no-coverage.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "8",
       "file": "main/en/method-no-coverage.md"
     },
     {
@@ -1615,8 +1679,8 @@
       "canonical_path": "/article/method-too-long/",
       "status": "published",
       "diagram": "/images/diagrams/zh/method-too-long.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "8",
       "file": "main/zh/method-too-long.md"
     },
     {
@@ -1631,8 +1695,8 @@
       "canonical_path": "/en/article/method-too-long/",
       "status": "published",
       "diagram": "/images/diagrams/en/method-too-long.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "8",
       "file": "main/en/method-too-long.md"
     },
     {
@@ -2468,6 +2532,70 @@
       "file": "main/en/case-wedding.md"
     },
     {
+      "id": "story.deep-scene-object",
+      "translation_key": "story.deep-scene-object",
+      "lang": "zh",
+      "site": "story",
+      "type": "article",
+      "title": "物件叙事：让道具替一句台词",
+      "summary": "道具不是背景；当人物主动使用它、它发生变化、最后留在画面里，它就能替一句解释台词。",
+      "slug": "deep-scene-object",
+      "canonical_path": "/article/deep-scene-object/",
+      "status": "published",
+      "diagram": "/images/diagrams/zh/deep-scene-object.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "story/zh/deep-scene-object.md"
+    },
+    {
+      "id": "story.deep-scene-object",
+      "translation_key": "story.deep-scene-object",
+      "lang": "en",
+      "site": "story",
+      "type": "article",
+      "title": "Object Storytelling: Let a Prop Carry the Line",
+      "summary": "A prop is not background. When a character uses it, it changes, and it remains in the frame, it can carry a line that would otherwise be explained.",
+      "slug": "deep-scene-object",
+      "canonical_path": "/en/article/deep-scene-object/",
+      "status": "published",
+      "diagram": "/images/diagrams/en/deep-scene-object.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "story/en/deep-scene-object.md"
+    },
+    {
+      "id": "story.deep-silent-scene",
+      "translation_key": "story.deep-silent-scene",
+      "lang": "zh",
+      "site": "story",
+      "type": "article",
+      "title": "无对白场景：不靠台词讲完一段",
+      "summary": "删掉台词不等于无对白；无对白要靠欲望、动作、障碍和代价四件事，把信息变成可见的变化。",
+      "slug": "deep-silent-scene",
+      "canonical_path": "/article/deep-silent-scene/",
+      "status": "published",
+      "diagram": "/images/diagrams/zh/deep-silent-scene.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "story/zh/deep-silent-scene.md"
+    },
+    {
+      "id": "story.deep-silent-scene",
+      "translation_key": "story.deep-silent-scene",
+      "lang": "en",
+      "site": "story",
+      "type": "article",
+      "title": "The Silent Scene: Tell It Without Dialogue",
+      "summary": "Removing lines is not a silent scene. Silence needs want, action, obstacle and cost so information becomes a visible change.",
+      "slug": "deep-silent-scene",
+      "canonical_path": "/en/article/deep-silent-scene/",
+      "status": "published",
+      "diagram": "/images/diagrams/en/deep-silent-scene.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "story/en/deep-silent-scene.md"
+    },
+    {
       "id": "story.deep.deep-coverage-board",
       "translation_key": "story.deep.deep-coverage-board",
       "lang": "zh",
@@ -3119,8 +3247,8 @@
       "canonical_path": "/article/dialogue/",
       "status": "published",
       "diagram": "/images/diagrams/zh/dialogue.png",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "8",
       "file": "story/zh/screenplay/dialogue.md"
     },
     {
@@ -3135,8 +3263,8 @@
       "canonical_path": "/en/article/dialogue/",
       "status": "published",
       "diagram": "/images/diagrams/en/dialogue.png",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "8",
       "file": "story/en/screenplay/dialogue.md"
     },
     {
@@ -3407,8 +3535,8 @@
       "canonical_path": "/article/table-read/",
       "status": "published",
       "diagram": "/images/diagrams/zh/table-read.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "7",
       "file": "story/zh/table-read.md"
     },
     {
@@ -3423,8 +3551,8 @@
       "canonical_path": "/en/article/table-read/",
       "status": "published",
       "diagram": "/images/diagrams/en/table-read.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "7",
       "file": "story/en/table-read.md"
     },
     {
@@ -4111,8 +4239,8 @@
       "canonical_path": "/article/composition/",
       "status": "published",
       "diagram": "/images/diagrams/zh/composition.png",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "8",
       "file": "shoot/zh/camera/composition.md"
     },
     {
@@ -4127,8 +4255,8 @@
       "canonical_path": "/en/article/composition/",
       "status": "published",
       "diagram": "/images/diagrams/en/composition.png",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "8",
       "file": "shoot/en/camera/composition.md"
     },
     {
@@ -4386,6 +4514,70 @@
       "depth": "deep",
       "deep_minutes": "6",
       "file": "shoot/en/coverage.md"
+    },
+    {
+      "id": "shoot.deep-interview-light",
+      "translation_key": "shoot.deep-interview-light",
+      "lang": "zh",
+      "site": "shoot",
+      "type": "article",
+      "title": "访谈布光：窗光、单灯与混合光",
+      "summary": "访谈布光不是把脸打亮，是让人敢说、让剪辑有反应；先定方向，再定比例，最后才加灯。",
+      "slug": "deep-interview-light",
+      "canonical_path": "/article/deep-interview-light/",
+      "status": "published",
+      "diagram": "/images/diagrams/zh/deep-interview-light.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "shoot/zh/deep-interview-light.md"
+    },
+    {
+      "id": "shoot.deep-interview-light",
+      "translation_key": "shoot.deep-interview-light",
+      "lang": "en",
+      "site": "shoot",
+      "type": "article",
+      "title": "Interview Lighting: Window, Single Lamp, Mixed Light",
+      "summary": "Interview lighting is not about brightening a face. It makes the subject willing to talk and gives the edit reactions; set direction first, then ratio, then add lamps.",
+      "slug": "deep-interview-light",
+      "canonical_path": "/en/article/deep-interview-light/",
+      "status": "published",
+      "diagram": "/images/diagrams/en/deep-interview-light.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "shoot/en/deep-interview-light.md"
+    },
+    {
+      "id": "shoot.deep-low-light",
+      "translation_key": "shoot.deep-low-light",
+      "lang": "zh",
+      "site": "shoot",
+      "type": "article",
+      "title": "低照度拍摄：噪点、快门与实用光",
+      "summary": "夜景不是把 ISO 拉高，而是先决定哪些黑可以接受，再用实用光和快门换回细节。",
+      "slug": "deep-low-light",
+      "canonical_path": "/article/deep-low-light/",
+      "status": "published",
+      "diagram": "/images/diagrams/zh/deep-low-light.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "shoot/zh/deep-low-light.md"
+    },
+    {
+      "id": "shoot.deep-low-light",
+      "translation_key": "shoot.deep-low-light",
+      "lang": "en",
+      "site": "shoot",
+      "type": "article",
+      "title": "Low-Light Shooting: Noise, Shutter, Practicals",
+      "summary": "Low light is not about raising ISO. Decide which blacks can stay black, then use practicals and shutter to buy back detail.",
+      "slug": "deep-low-light",
+      "canonical_path": "/en/article/deep-low-light/",
+      "status": "published",
+      "diagram": "/images/diagrams/en/deep-low-light.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "shoot/en/deep-low-light.md"
     },
     {
       "id": "shoot.deep.deep-camera-move",
@@ -4879,8 +5071,8 @@
       "canonical_path": "/article/window-light/",
       "status": "published",
       "diagram": "/images/diagrams/zh/window-light.png",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "7",
       "file": "shoot/zh/lighting/window-light.md"
     },
     {
@@ -4895,8 +5087,8 @@
       "canonical_path": "/en/article/window-light/",
       "status": "published",
       "diagram": "/images/diagrams/en/window-light.png",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "7",
       "file": "shoot/en/lighting/window-light.md"
     },
     {
@@ -5679,8 +5871,8 @@
       "canonical_path": "/article/project-structure/",
       "status": "published",
       "diagram": "/images/diagrams/zh/project-structure.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "7",
       "file": "post/zh/project-structure.md"
     },
     {
@@ -5695,8 +5887,8 @@
       "canonical_path": "/en/article/project-structure/",
       "status": "published",
       "diagram": "/images/diagrams/en/project-structure.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "7",
       "file": "post/en/project-structure.md"
     },
     {
@@ -5986,6 +6178,70 @@
       "depth": "",
       "deep_minutes": "",
       "file": "post/en/secondary-correction.md"
+    },
+    {
+      "id": "post.deep-dialogue-edit",
+      "translation_key": "post.deep-dialogue-edit",
+      "lang": "zh",
+      "site": "post",
+      "type": "article",
+      "title": "对白剪辑：让停顿说话",
+      "summary": "对白剪辑不是把声音接顺，是选择观众什么时候听到反应、什么时候听见沉默。",
+      "slug": "deep-dialogue-edit",
+      "canonical_path": "/article/deep-dialogue-edit/",
+      "status": "published",
+      "diagram": "/images/diagrams/zh/deep-dialogue-edit.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "post/zh/deep-dialogue-edit.md"
+    },
+    {
+      "id": "post.deep-dialogue-edit",
+      "translation_key": "post.deep-dialogue-edit",
+      "lang": "en",
+      "site": "post",
+      "type": "article",
+      "title": "Dialogue Editing: Let the Pause Speak",
+      "summary": "Dialogue editing is not smoothing audio. It is choosing when the audience hears a reaction and when it hears silence.",
+      "slug": "deep-dialogue-edit",
+      "canonical_path": "/en/article/deep-dialogue-edit/",
+      "status": "published",
+      "diagram": "/images/diagrams/en/deep-dialogue-edit.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "post/en/deep-dialogue-edit.md"
+    },
+    {
+      "id": "post.deep-remote-review",
+      "translation_key": "post.deep-remote-review",
+      "lang": "zh",
+      "site": "post",
+      "type": "article",
+      "title": "远程审片：版本、标注与回批",
+      "summary": "远程审片不是发一个链接，是让版本、时间码、标注和回批都能被追踪；否则每条语音都会变成一次返工。",
+      "slug": "deep-remote-review",
+      "canonical_path": "/article/deep-remote-review/",
+      "status": "published",
+      "diagram": "/images/diagrams/zh/deep-remote-review.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "post/zh/deep-remote-review.md"
+    },
+    {
+      "id": "post.deep-remote-review",
+      "translation_key": "post.deep-remote-review",
+      "lang": "en",
+      "site": "post",
+      "type": "article",
+      "title": "Remote Review: Versions, Notes, Turnaround",
+      "summary": "Remote review is not sending a link. It makes versions, timecode, notes and turnaround traceable; otherwise every voice message becomes a rework.",
+      "slug": "deep-remote-review",
+      "canonical_path": "/en/article/deep-remote-review/",
+      "status": "published",
+      "diagram": "/images/diagrams/en/deep-remote-review.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "post/en/deep-remote-review.md"
     },
     {
       "id": "post.deep.deep-asset-management",
@@ -6575,8 +6831,8 @@
       "canonical_path": "/article/sound-bridge/",
       "status": "published",
       "diagram": "/images/diagrams/zh/sound-bridge.png",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "7",
       "file": "post/zh/editing/sound-bridge.md"
     },
     {
@@ -6591,8 +6847,8 @@
       "canonical_path": "/en/article/sound-bridge/",
       "status": "published",
       "diagram": "/images/diagrams/en/sound-bridge.png",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "7",
       "file": "post/en/editing/sound-bridge.md"
     },
     {
@@ -7599,8 +7855,8 @@
       "canonical_path": "/article/rigging/",
       "status": "published",
       "diagram": "/images/diagrams/zh/rigging.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "8",
       "file": "animation/zh/rigging.md"
     },
     {
@@ -7615,8 +7871,8 @@
       "canonical_path": "/en/article/rigging/",
       "status": "published",
       "diagram": "/images/diagrams/en/rigging.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "8",
       "file": "animation/en/rigging.md"
     },
     {
@@ -7650,6 +7906,70 @@
       "depth": "",
       "deep_minutes": "",
       "file": "animation/en/animation-case.md"
+    },
+    {
+      "id": "animation.deep-animation-acting",
+      "translation_key": "animation.deep-animation-acting",
+      "lang": "zh",
+      "site": "animation",
+      "type": "article",
+      "title": "动画表演：给角色一个意图",
+      "summary": "角色能动不等于在表演；先给意图，再做预备、动作和反应，观众才会相信它在想。",
+      "slug": "deep-animation-acting",
+      "canonical_path": "/article/deep-animation-acting/",
+      "status": "published",
+      "diagram": "/images/diagrams/zh/deep-animation-acting.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "animation/zh/deep-animation-acting.md"
+    },
+    {
+      "id": "animation.deep-animation-acting",
+      "translation_key": "animation.deep-animation-acting",
+      "lang": "en",
+      "site": "animation",
+      "type": "article",
+      "title": "Animation Acting: Give the Character an Intention",
+      "summary": "A character that moves is not necessarily acting. Give it an intention, then anticipation, action and reaction, and the audience will believe it thinks.",
+      "slug": "deep-animation-acting",
+      "canonical_path": "/en/article/deep-animation-acting/",
+      "status": "published",
+      "diagram": "/images/diagrams/en/deep-animation-acting.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "animation/en/deep-animation-acting.md"
+    },
+    {
+      "id": "animation.deep-motion-graphics",
+      "translation_key": "animation.deep-motion-graphics",
+      "lang": "zh",
+      "site": "animation",
+      "type": "article",
+      "title": "动效系统：从一条线到一套语法",
+      "summary": "动效不是让每条线都动，而是建立层级、路径、时间和停顿的一套语法；一条线只讲一件事。",
+      "slug": "deep-motion-graphics",
+      "canonical_path": "/article/deep-motion-graphics/",
+      "status": "published",
+      "diagram": "/images/diagrams/zh/deep-motion-graphics.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "animation/zh/deep-motion-graphics.md"
+    },
+    {
+      "id": "animation.deep-motion-graphics",
+      "translation_key": "animation.deep-motion-graphics",
+      "lang": "en",
+      "site": "animation",
+      "type": "article",
+      "title": "Motion Graphics Systems: From One Line to a Grammar",
+      "summary": "Motion graphics is not making every line move. It is a grammar of hierarchy, path, timing and pause, where one line carries one idea.",
+      "slug": "deep-motion-graphics",
+      "canonical_path": "/en/article/deep-motion-graphics/",
+      "status": "published",
+      "diagram": "/images/diagrams/en/deep-motion-graphics.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "animation/en/deep-motion-graphics.md"
     },
     {
       "id": "animation.deep.deep-2d-layer-depth",
@@ -8175,8 +8495,8 @@
       "canonical_path": "/article/weight/",
       "status": "published",
       "diagram": "/images/diagrams/zh/weight.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "8",
       "file": "animation/zh/weight.md"
     },
     {
@@ -8191,8 +8511,8 @@
       "canonical_path": "/en/article/weight/",
       "status": "published",
       "diagram": "/images/diagrams/en/weight.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "8",
       "file": "animation/en/weight.md"
     },
     {
@@ -8578,6 +8898,70 @@
       "depth": "",
       "deep_minutes": "",
       "file": "formats/en/corporate-video-template.md"
+    },
+    {
+      "id": "formats.deep-course-video",
+      "translation_key": "formats.deep-course-video",
+      "lang": "zh",
+      "site": "formats",
+      "type": "article",
+      "title": "课程视频：让观众学会，而不是看完",
+      "summary": "课程片不是把知识念完，是设计一次能力变化；目标可做、练习可做、验收可做，才算教会。",
+      "slug": "deep-course-video",
+      "canonical_path": "/article/deep-course-video/",
+      "status": "published",
+      "diagram": "/images/diagrams/zh/deep-course-video.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "formats/zh/deep-course-video.md"
+    },
+    {
+      "id": "formats.deep-course-video",
+      "translation_key": "formats.deep-course-video",
+      "lang": "en",
+      "site": "formats",
+      "type": "article",
+      "title": "Course Video: Make Them Learn, Not Just Finish",
+      "summary": "A course video is not a spoken textbook. It designs a change in ability: a doable goal, a doable exercise and a doable check.",
+      "slug": "deep-course-video",
+      "canonical_path": "/en/article/deep-course-video/",
+      "status": "published",
+      "diagram": "/images/diagrams/en/deep-course-video.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "formats/en/deep-course-video.md"
+    },
+    {
+      "id": "formats.deep-real-estate-video",
+      "translation_key": "formats.deep-real-estate-video",
+      "lang": "zh",
+      "site": "formats",
+      "type": "article",
+      "title": "房产空间：把户型拍成动线",
+      "summary": "房产片不是扫房间，是让人看见一条生活动线：从进门到坐下，空间怎么被使用。",
+      "slug": "deep-real-estate-video",
+      "canonical_path": "/article/deep-real-estate-video/",
+      "status": "published",
+      "diagram": "/images/diagrams/zh/deep-real-estate-video.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "formats/zh/deep-real-estate-video.md"
+    },
+    {
+      "id": "formats.deep-real-estate-video",
+      "translation_key": "formats.deep-real-estate-video",
+      "lang": "en",
+      "site": "formats",
+      "type": "article",
+      "title": "Real Estate Video: Turn a Floor Plan into a Route",
+      "summary": "A real estate video is not a room sweep. It shows a route through daily life: from the entry to the chair, how the space is used.",
+      "slug": "deep-real-estate-video",
+      "canonical_path": "/en/article/deep-real-estate-video/",
+      "status": "published",
+      "diagram": "/images/diagrams/en/deep-real-estate-video.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "formats/en/deep-real-estate-video.md"
     },
     {
       "id": "formats.deep.deep-brand-film",
@@ -9039,8 +9423,8 @@
       "canonical_path": "/article/fashion-beauty-video-breakdown/",
       "status": "published",
       "diagram": "/images/diagrams/zh/fashion-beauty-video-breakdown.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "7",
       "file": "formats/zh/fashion-beauty-video-breakdown.md"
     },
     {
@@ -9055,8 +9439,8 @@
       "canonical_path": "/en/article/fashion-beauty-video-breakdown/",
       "status": "published",
       "diagram": "/images/diagrams/en/fashion-beauty-video-breakdown.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "7",
       "file": "formats/en/fashion-beauty-video-breakdown.md"
     },
     {
@@ -9135,8 +9519,8 @@
       "canonical_path": "/article/food-video-breakdown/",
       "status": "published",
       "diagram": "/images/diagrams/zh/food-video-breakdown.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "7",
       "file": "formats/zh/food-video-breakdown.md"
     },
     {
@@ -9151,8 +9535,8 @@
       "canonical_path": "/en/article/food-video-breakdown/",
       "status": "published",
       "diagram": "/images/diagrams/en/food-video-breakdown.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "7",
       "file": "formats/en/food-video-breakdown.md"
     },
     {
@@ -10404,6 +10788,70 @@
       "file": "tools/en/camera/camera-choice.md"
     },
     {
+      "id": "tools.deep-camera-maintenance",
+      "translation_key": "tools.deep-camera-maintenance",
+      "lang": "zh",
+      "site": "tools",
+      "type": "article",
+      "title": "器材维护：开机前、收工后与存放",
+      "summary": "器材故障多数不是突然发生，是长期忽略；把检查、清洁、存放和记录做成固定动作，才不靠运气。",
+      "slug": "deep-camera-maintenance",
+      "canonical_path": "/article/deep-camera-maintenance/",
+      "status": "published",
+      "diagram": "/images/diagrams/zh/deep-camera-maintenance.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "tools/zh/deep-camera-maintenance.md"
+    },
+    {
+      "id": "tools.deep-camera-maintenance",
+      "translation_key": "tools.deep-camera-maintenance",
+      "lang": "en",
+      "site": "tools",
+      "type": "article",
+      "title": "Gear Maintenance: Before Call, After Wrap, In Storage",
+      "summary": "Most gear failures are not sudden. They come from long neglect. Make inspection, cleaning, storage and records fixed habits instead of luck.",
+      "slug": "deep-camera-maintenance",
+      "canonical_path": "/en/article/deep-camera-maintenance/",
+      "status": "published",
+      "diagram": "/images/diagrams/en/deep-camera-maintenance.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "tools/en/deep-camera-maintenance.md"
+    },
+    {
+      "id": "tools.deep-lighting-safety",
+      "translation_key": "tools.deep-lighting-safety",
+      "lang": "zh",
+      "site": "tools",
+      "type": "article",
+      "title": "灯光安全：电、热、坠与承重",
+      "summary": "灯光安全不是一句小心，是算电、算热、算坠、算承重；四件事任何一件超限，灯就不该开。",
+      "slug": "deep-lighting-safety",
+      "canonical_path": "/article/deep-lighting-safety/",
+      "status": "published",
+      "diagram": "/images/diagrams/zh/deep-lighting-safety.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "tools/zh/deep-lighting-safety.md"
+    },
+    {
+      "id": "tools.deep-lighting-safety",
+      "translation_key": "tools.deep-lighting-safety",
+      "lang": "en",
+      "site": "tools",
+      "type": "article",
+      "title": "Lighting Safety: Power, Heat, Falls, Load",
+      "summary": "Lighting safety is not “be careful”. It is calculating power, heat, falls and load. If any one exceeds the limit, the lamp should not go on.",
+      "slug": "deep-lighting-safety",
+      "canonical_path": "/en/article/deep-lighting-safety/",
+      "status": "published",
+      "diagram": "/images/diagrams/en/deep-lighting-safety.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "tools/en/deep-lighting-safety.md"
+    },
+    {
       "id": "tools.deep.deep-ai-toolchain",
       "translation_key": "tools.deep.deep-ai-toolchain",
       "lang": "zh",
@@ -11151,8 +11599,8 @@
       "canonical_path": "/article/buy-monitor-hdr/",
       "status": "published",
       "diagram": "/images/diagrams/zh/buy-monitor-hdr.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "7",
       "file": "tools/zh/buy-monitor-hdr.md"
     },
     {
@@ -11167,8 +11615,8 @@
       "canonical_path": "/en/article/buy-monitor-hdr/",
       "status": "published",
       "diagram": "/images/diagrams/en/buy-monitor-hdr.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "7",
       "file": "tools/en/buy-monitor-hdr.md"
     },
     {
@@ -12239,8 +12687,8 @@
       "canonical_path": "/article/gimbal-balance/",
       "status": "published",
       "diagram": "/images/diagrams/zh/gimbal-balance.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "8",
       "file": "tools/zh/gimbal-balance.md"
     },
     {
@@ -12255,8 +12703,8 @@
       "canonical_path": "/en/article/gimbal-balance/",
       "status": "published",
       "diagram": "/images/diagrams/en/gimbal-balance.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "8",
       "file": "tools/en/gimbal-balance.md"
     },
     {
@@ -12431,8 +12879,8 @@
       "canonical_path": "/article/night-practical/",
       "status": "published",
       "diagram": "/images/diagrams/zh/night-practical.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "7",
       "file": "tools/zh/night-practical.md"
     },
     {
@@ -12447,8 +12895,8 @@
       "canonical_path": "/en/article/night-practical/",
       "status": "published",
       "diagram": "/images/diagrams/en/night-practical.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "7",
       "file": "tools/en/night-practical.md"
     },
     {
@@ -14276,6 +14724,70 @@
       "file": "tools/en/calculators/fov.md"
     },
     {
+      "id": "context.deep-archive-ethics",
+      "translation_key": "context.deep-archive-ethics",
+      "lang": "zh",
+      "site": "context",
+      "type": "article",
+      "title": "档案伦理：修复、删改与署名",
+      "summary": "档案不是中性素材；修复、删改和署名都在改写历史，必须留下原件、范围和授权记录。",
+      "slug": "deep-archive-ethics",
+      "canonical_path": "/article/deep-archive-ethics/",
+      "status": "published",
+      "diagram": "/images/diagrams/zh/deep-archive-ethics.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "context/zh/deep-archive-ethics.md"
+    },
+    {
+      "id": "context.deep-archive-ethics",
+      "translation_key": "context.deep-archive-ethics",
+      "lang": "en",
+      "site": "context",
+      "type": "article",
+      "title": "Archive Ethics: Restoration, Alteration, Credit",
+      "summary": "Archives are not neutral material. Restoration, alteration and credit all rewrite history; keep the original, the scope and the permission record.",
+      "slug": "deep-archive-ethics",
+      "canonical_path": "/en/article/deep-archive-ethics/",
+      "status": "published",
+      "diagram": "/images/diagrams/en/deep-archive-ethics.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "context/en/deep-archive-ethics.md"
+    },
+    {
+      "id": "context.deep-platform-history",
+      "translation_key": "context.deep-platform-history",
+      "lang": "zh",
+      "site": "context",
+      "type": "article",
+      "title": "平台史：从频道到推荐流",
+      "summary": "平台不是中立容器；从频道到推荐流，入口、注意力和时长变了，影像语法也跟着变。",
+      "slug": "deep-platform-history",
+      "canonical_path": "/article/deep-platform-history/",
+      "status": "published",
+      "diagram": "/images/diagrams/zh/deep-platform-history.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "context/zh/deep-platform-history.md"
+    },
+    {
+      "id": "context.deep-platform-history",
+      "translation_key": "context.deep-platform-history",
+      "lang": "en",
+      "site": "context",
+      "type": "article",
+      "title": "Platform History: From Channels to Feeds",
+      "summary": "Platforms are not neutral containers. From channels to feeds, the entry, attention and duration changed, and so did the grammar of images.",
+      "slug": "deep-platform-history",
+      "canonical_path": "/en/article/deep-platform-history/",
+      "status": "published",
+      "diagram": "/images/diagrams/en/deep-platform-history.svg",
+      "depth": "deep",
+      "deep_minutes": "8",
+      "file": "context/en/deep-platform-history.md"
+    },
+    {
       "id": "context.deep.deep-ai-regulation",
       "translation_key": "context.deep.deep-ai-regulation",
       "lang": "zh",
@@ -14447,8 +14959,8 @@
       "canonical_path": "/article/1895/",
       "status": "published",
       "diagram": "/images/diagrams/zh/1895.png",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "7",
       "file": "context/zh/history/film/1895.md"
     },
     {
@@ -14463,8 +14975,8 @@
       "canonical_path": "/en/article/1895/",
       "status": "published",
       "diagram": "/images/diagrams/en/1895.png",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "7",
       "file": "context/en/history/film/1895.md"
     },
     {
@@ -14831,8 +15343,8 @@
       "canonical_path": "/article/ai-video-history/",
       "status": "published",
       "diagram": "/images/diagrams/zh/ai-video-history.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "8",
       "file": "context/zh/ai-video-history.md"
     },
     {
@@ -14847,8 +15359,8 @@
       "canonical_path": "/en/article/ai-video-history/",
       "status": "published",
       "diagram": "/images/diagrams/en/ai-video-history.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "8",
       "file": "context/en/ai-video-history.md"
     },
     {
@@ -15151,8 +15663,8 @@
       "canonical_path": "/article/sound-era/",
       "status": "published",
       "diagram": "/images/diagrams/zh/sound-era.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "8",
       "file": "context/zh/sound-era.md"
     },
     {
@@ -15167,8 +15679,8 @@
       "canonical_path": "/en/article/sound-era/",
       "status": "published",
       "diagram": "/images/diagrams/en/sound-era.svg",
-      "depth": "",
-      "deep_minutes": "",
+      "depth": "deep",
+      "deep_minutes": "8",
       "file": "context/en/sound-era.md"
     },
     {

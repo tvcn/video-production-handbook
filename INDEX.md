@@ -1,27 +1,33 @@
 # TVCN 内容仓索引 / Content Index
 
-> 980 个 Markdown，490 对中英内容，8 个内容站，980 篇 published，980 个图解引用（451 个 SVG）。
-> 980 Markdown files, 490 bilingual pairs, 8 content sites, 980 published, 980 diagram references (451 SVG files).
+> 1012 个 Markdown，506 对中英内容，8 个内容站，1012 篇 published，1012 个图解引用（467 个 SVG）。
+> 1012 Markdown files, 506 bilingual pairs, 8 content sites, 1012 published, 1012 diagram references (467 SVG files).
 
 本页由 `build/make-content-index.py` 生成；不要手改。机器可读版本见 [`index.json`](index.json)，仓库说明见 [`README.md`](README.md)。
 
-## 深读 / Deep dives（115 对 / pairs）
+## 深读 / Deep dives（149 对 / pairs）
 
-> 115 对中英文章带 `depth: deep` 与 `<!-- DEEP_DIVE_START -->` 深读块，共 230 个文件；阅读时间与站点长文一致。
-> 115 bilingual pairs carry a `depth: deep` frontmatter and a `<!-- DEEP_DIVE_START -->` block, 230 files total; reading minutes match the site long reads.
+> 149 对中英文章带 `depth: deep` 与 `<!-- DEEP_DIVE_START -->` 深读块，共 298 个文件；阅读时间与站点长文一致。
+> 149 bilingual pairs carry a `depth: deep` frontmatter and a `<!-- DEEP_DIVE_START -->` block, 298 files total; reading minutes match the site long reads.
 
 | 站点 / Site | 中文标题 / Chinese | English | 分钟 / Min | 中文文件 / ZH | English file |
 | --- | --- | --- | ---: | --- | --- |
+| 主站 / Main | [预算控制：报价、预留与超支](main/zh/deep-budget-control.md) | [Budget Control: Quote, Reserve, Overrun](main/en/deep-budget-control.md) | 8 | [deep-budget-control.md](main/zh/deep-budget-control.md) | [deep-budget-control.md](main/en/deep-budget-control.md) |
+| 主站 / Main | [交付风险：从母版到客户回执](main/zh/deep-delivery-risk.md) | [Delivery Risk: From Master to Client Sign-Off](main/en/deep-delivery-risk.md) | 8 | [deep-delivery-risk.md](main/zh/deep-delivery-risk.md) | [deep-delivery-risk.md](main/en/deep-delivery-risk.md) |
 | 主站 / Main | [客户与职业：Career、First Client、Quote](main/zh/deep-client-career.md) | [Client career: career, first client, quote](main/en/deep-client-career.md) | 9 | [deep-client-career.md](main/zh/deep-client-career.md) | [deep-client-career.md](main/en/deep-client-career.md) |
 | 主站 / Main | [第一部片：First Film、First Idea、Career](main/zh/deep-first-film.md) | [First film: first film, first idea, career](main/en/deep-first-film.md) | 9 | [deep-first-film.md](main/zh/deep-first-film.md) | [deep-first-film.md](main/en/deep-first-film.md) |
 | 主站 / Main | [客户反复改](main/zh/method-client-revision.md) | [The Client Keeps Revising](main/en/method-client-revision.md) | 6 | [method-client-revision.md](main/zh/method-client-revision.md) | [method-client-revision.md](main/en/method-client-revision.md) |
 | 主站 / Main | [时间不够](main/zh/method-deadline.md) | [There Is No Time](main/en/method-deadline.md) | 6 | [method-deadline.md](main/zh/method-deadline.md) | [method-deadline.md](main/en/method-deadline.md) |
 | 主站 / Main | [第一个客户怎么接](main/zh/method-first-client.md) | [How to Get the First Client](main/en/method-first-client.md) | 7 | [method-first-client.md](main/zh/method-first-client.md) | [method-first-client.md](main/en/method-first-client.md) |
 | 主站 / Main | [预算为零](main/zh/method-no-budget.md) | [Your Budget Is Zero](main/en/method-no-budget.md) | 6 | [method-no-budget.md](main/zh/method-no-budget.md) | [method-no-budget.md](main/en/method-no-budget.md) |
+| 主站 / Main | [镜头不够剪](main/zh/method-no-coverage.md) | [You Have No Coverage](main/en/method-no-coverage.md) | 8 | [method-no-coverage.md](main/zh/method-no-coverage.md) | [method-no-coverage.md](main/en/method-no-coverage.md) |
 | 主站 / Main | [没有作品集](main/zh/method-portfolio-empty.md) | [You Have No Portfolio](main/en/method-portfolio-empty.md) | 7 | [method-portfolio-empty.md](main/zh/method-portfolio-empty.md) | [method-portfolio-empty.md](main/en/method-portfolio-empty.md) |
 | 主站 / Main | [报价太低](main/zh/method-quote-low.md) | [Your Quote Is Too Low](main/en/method-quote-low.md) | 7 | [method-quote-low.md](main/zh/method-quote-low.md) | [method-quote-low.md](main/en/method-quote-low.md) |
 | 主站 / Main | [一个人怎么拍](main/zh/method-shoot-alone.md) | [You Are Shooting Alone](main/en/method-shoot-alone.md) | 6 | [method-shoot-alone.md](main/zh/method-shoot-alone.md) | [method-shoot-alone.md](main/en/method-shoot-alone.md) |
+| 主站 / Main | [片子太长](main/zh/method-too-long.md) | [The Film Is Too Long](main/en/method-too-long.md) | 8 | [method-too-long.md](main/zh/method-too-long.md) | [method-too-long.md](main/en/method-too-long.md) |
 | 主站 / Main | [制片与项目管理](main/zh/path-producing.md) | [Producing & Management](main/en/path-producing.md) | 7 | [path-producing.md](main/zh/path-producing.md) | [path-producing.md](main/en/path-producing.md) |
+| 故事与编剧 / Story & Screenwriting | [物件叙事：让道具替一句台词](story/zh/deep-scene-object.md) | [Object Storytelling: Let a Prop Carry the Line](story/en/deep-scene-object.md) | 8 | [deep-scene-object.md](story/zh/deep-scene-object.md) | [deep-scene-object.md](story/en/deep-scene-object.md) |
+| 故事与编剧 / Story & Screenwriting | [无对白场景：不靠台词讲完一段](story/zh/deep-silent-scene.md) | [The Silent Scene: Tell It Without Dialogue](story/en/deep-silent-scene.md) | 8 | [deep-silent-scene.md](story/zh/deep-silent-scene.md) | [deep-silent-scene.md](story/en/deep-silent-scene.md) |
 | 故事与编剧 / Story & Screenwriting | [覆盖与分镜：从 Shot Sheet 到 Animatic](story/zh/deep-coverage-board.md) | [Coverage board: shot sheet to animatic](story/en/deep-coverage-board.md) | 9 | [deep-coverage-board.md](story/zh/deep-coverage-board.md) | [deep-coverage-board.md](story/en/deep-coverage-board.md) |
 | 故事与编剧 / Story & Screenwriting | [对白潜台词：一个人也能演](story/zh/deep-dialogue-subtext.md) | [Dialogue subtext: one person can play](story/en/deep-dialogue-subtext.md) | 9 | [deep-dialogue-subtext.md](story/zh/deep-dialogue-subtext.md) | [deep-dialogue-subtext.md](story/en/deep-dialogue-subtext.md) |
 | 故事与编剧 / Story & Screenwriting | [表演指导：排练、给笔记、尺度](story/zh/deep-performance-direction.md) | [Performance direction: rehearsal, notes, scale](story/en/deep-performance-direction.md) | 9 | [deep-performance-direction.md](story/zh/deep-performance-direction.md) | [deep-performance-direction.md](story/en/deep-performance-direction.md) |
@@ -29,8 +35,10 @@
 | 故事与编剧 / Story & Screenwriting | [场景缝合：转场、插入、看板](story/zh/deep-scene-stitch.md) | [Scene stitch: transition, insert, board](story/en/deep-scene-stitch.md) | 9 | [deep-scene-stitch.md](story/zh/deep-scene-stitch.md) | [deep-scene-stitch.md](story/en/deep-scene-stitch.md) |
 | 故事与编剧 / Story & Screenwriting | [结构转折：中点、结尾、格式](story/zh/deep-structure-turn.md) | [Structure turn: midpoint, ending, format](story/en/deep-structure-turn.md) | 9 | [deep-structure-turn.md](story/zh/deep-structure-turn.md) | [deep-structure-turn.md](story/en/deep-structure-turn.md) |
 | 故事与编剧 / Story & Screenwriting | [排练：先走位，再给台词](story/zh/rehearsal.md) | [Rehearsal: Block First, Lines Later](story/en/rehearsal.md) | 5 | [rehearsal.md](story/zh/rehearsal.md) | [rehearsal.md](story/en/rehearsal.md) |
+| 故事与编剧 / Story & Screenwriting | [对白：让人物用嘴争，不用嘴解释](story/zh/screenplay/dialogue.md) | [Dialogue: Let Them Fight with Words, Not Explain](story/en/screenplay/dialogue.md) | 8 | [dialogue.md](story/zh/screenplay/dialogue.md) | [dialogue.md](story/en/screenplay/dialogue.md) |
 | 故事与编剧 / Story & Screenwriting | [场景描述：只写镜头拍得到的](story/zh/scene-description.md) | [Scene Description: Only What the Camera Can See](story/en/scene-description.md) | 5 | [scene-description.md](story/zh/scene-description.md) | [scene-description.md](story/en/scene-description.md) |
 | 故事与编剧 / Story & Screenwriting | [剧本格式：让全组读得懂](story/zh/script-format.md) | [Script Format: Make the Whole Crew Read It the Same Way](story/en/script-format.md) | 6 | [script-format.md](story/zh/script-format.md) | [script-format.md](story/en/script-format.md) |
+| 故事与编剧 / Story & Screenwriting | [读稿会：只记三个问题](story/zh/table-read.md) | [Table Read: Listen for Three Problems Only](story/en/table-read.md) | 7 | [table-read.md](story/zh/table-read.md) | [table-read.md](story/en/table-read.md) |
 | 故事与编剧 / Story & Screenwriting | [结尾：停在选择之后](story/zh/ending-choice.md) | [Ending: Stop After the Choice](story/en/ending-choice.md) | 5 | [ending-choice.md](story/zh/ending-choice.md) | [ending-choice.md](story/en/ending-choice.md) |
 | 故事与编剧 / Story & Screenwriting | [中点转向：换方法，不换目标](story/zh/midpoint-turn.md) | [Midpoint Turn: Change the Method, Not the Goal](story/en/midpoint-turn.md) | 5 | [midpoint-turn.md](story/zh/midpoint-turn.md) | [midpoint-turn.md](story/en/midpoint-turn.md) |
 | 故事与编剧 / Story & Screenwriting | [场景序列：三场戏推一个变化](story/zh/scene-sequence.md) | [A Sequence: Three Scenes, One Change](story/en/scene-sequence.md) | 6 | [scene-sequence.md](story/zh/scene-sequence.md) | [scene-sequence.md](story/en/scene-sequence.md) |
@@ -38,11 +46,14 @@
 | 故事与编剧 / Story & Screenwriting | [欲望与赌注：输了会失去什么](story/zh/want-stakes.md) | [Want and Stakes: What Does Losing Cost?](story/en/want-stakes.md) | 6 | [want-stakes.md](story/zh/want-stakes.md) | [want-stakes.md](story/en/want-stakes.md) |
 | 故事与编剧 / Story & Screenwriting | [镜头表：镜号、景别、动作、时长](story/zh/shot-sheet.md) | [Shot Sheet: Number, Framing, Action, Duration](story/en/shot-sheet.md) | 5 | [shot-sheet.md](story/zh/shot-sheet.md) | [shot-sheet.md](story/en/shot-sheet.md) |
 | 拍摄 / Shooting | [走位：让人用身体说话](shoot/zh/blocking.md) | [Blocking: Let the Body Tell the Story](shoot/en/blocking.md) | 6 | [blocking.md](shoot/zh/blocking.md) | [blocking.md](shoot/en/blocking.md) |
+| 拍摄 / Shooting | [构图：先让观众知道看哪里](shoot/zh/camera/composition.md) | [Composition: Tell the Eye Where to Look](shoot/en/camera/composition.md) | 8 | [composition.md](shoot/zh/camera/composition.md) | [composition.md](shoot/en/camera/composition.md) |
 | 拍摄 / Shooting | [帧率：动作与慢动作](shoot/zh/frame-rate.md) | [Frame Rate: Motion and Slow Motion](shoot/en/frame-rate.md) | 5 | [frame-rate.md](shoot/zh/frame-rate.md) | [frame-rate.md](shoot/en/frame-rate.md) |
 | 拍摄 / Shooting | [ND 滤镜：白天大光圈怎么拍](shoot/zh/nd-filter.md) | [ND Filter: Wide Open in Daylight](shoot/en/nd-filter.md) | 5 | [nd-filter.md](shoot/zh/nd-filter.md) | [nd-filter.md](shoot/en/nd-filter.md) |
 | 拍摄 / Shooting | [传感器尺寸：画幅决定什么](shoot/zh/sensor-size.md) | [Sensor Size: What the Frame Really Changes](shoot/en/sensor-size.md) | 5 | [sensor-size.md](shoot/zh/sensor-size.md) | [sensor-size.md](shoot/en/sensor-size.md) |
 | 拍摄 / Shooting | [快门角度：运动模糊](shoot/zh/shutter-angle.md) | [Shutter Angle: The Amount of Blur](shoot/en/shutter-angle.md) | 5 | [shutter-angle.md](shoot/zh/shutter-angle.md) | [shutter-angle.md](shoot/en/shutter-angle.md) |
 | 拍摄 / Shooting | [覆盖：别只拍一个角度](shoot/zh/coverage.md) | [Coverage: Do Not Shoot One Angle](shoot/en/coverage.md) | 6 | [coverage.md](shoot/zh/coverage.md) | [coverage.md](shoot/en/coverage.md) |
+| 拍摄 / Shooting | [访谈布光：窗光、单灯与混合光](shoot/zh/deep-interview-light.md) | [Interview Lighting: Window, Single Lamp, Mixed Light](shoot/en/deep-interview-light.md) | 8 | [deep-interview-light.md](shoot/zh/deep-interview-light.md) | [deep-interview-light.md](shoot/en/deep-interview-light.md) |
+| 拍摄 / Shooting | [低照度拍摄：噪点、快门与实用光](shoot/zh/deep-low-light.md) | [Low-Light Shooting: Noise, Shutter, Practicals](shoot/en/deep-low-light.md) | 8 | [deep-low-light.md](shoot/zh/deep-low-light.md) | [deep-low-light.md](shoot/en/deep-low-light.md) |
 | 拍摄 / Shooting | [运镜：手持、稳定器、覆盖](shoot/zh/deep-camera-move.md) | [Camera move: handheld, stabiliser, coverage](shoot/en/deep-camera-move.md) | 9 | [deep-camera-move.md](shoot/zh/deep-camera-move.md) | [deep-camera-move.md](shoot/en/deep-camera-move.md) |
 | 拍摄 / Shooting | [现场硬光：硬、混、实用](shoot/zh/deep-hard-light.md) | [Hard light on location: hard, mixed, practical](shoot/en/deep-hard-light.md) | 9 | [deep-hard-light.md](shoot/zh/deep-hard-light.md) | [deep-hard-light.md](shoot/en/deep-hard-light.md) |
 | 拍摄 / Shooting | [Log 与曝光：波形、假色、ND](shoot/zh/deep-log-exposure.md) | [Log and exposure: waveform, false colour, ND](shoot/en/deep-log-exposure.md) | 9 | [deep-log-exposure.md](shoot/zh/deep-log-exposure.md) | [deep-log-exposure.md](shoot/en/deep-log-exposure.md) |
@@ -52,12 +63,16 @@
 | 拍摄 / Shooting | [波形图：看曝光，不靠感觉](shoot/zh/waveform.md) | [Waveform: Exposure You Can Measure](shoot/en/waveform.md) | 5 | [waveform.md](shoot/zh/waveform.md) | [waveform.md](shoot/en/waveform.md) |
 | 拍摄 / Shooting | [灯光风格：柔、硬、自然](shoot/zh/lighting-style.md) | [Lighting Style: Soft, Hard, Natural](shoot/en/lighting-style.md) | 6 | [lighting-style.md](shoot/zh/lighting-style.md) | [lighting-style.md](shoot/en/lighting-style.md) |
 | 拍摄 / Shooting | [夜景内景：一盏 practical 怎么撑](shoot/zh/night-interior.md) | [Night Interior: One Practical Can Carry a Room](shoot/en/night-interior.md) | 6 | [night-interior.md](shoot/zh/night-interior.md) | [night-interior.md](shoot/en/night-interior.md) |
+| 拍摄 / Shooting | [一扇窗怎么当主光](shoot/zh/lighting/window-light.md) | [How to Use One Window as Your Key Light](shoot/en/lighting/window-light.md) | 7 | [window-light.md](shoot/zh/lighting/window-light.md) | [window-light.md](shoot/en/lighting/window-light.md) |
 | 拍摄 / Shooting | [稳定器：走路的节奏](shoot/zh/stabilizer.md) | [Stabilizer: Walk Like You Mean It](shoot/en/stabilizer.md) | 5 | [stabilizer.md](shoot/zh/stabilizer.md) | [stabilizer.md](shoot/en/stabilizer.md) |
 | 拍摄 / Shooting | [B-roll：让那句话有画面](shoot/zh/production/b-roll.md) | [B-roll: Give the Sentence a Picture](shoot/en/production/b-roll.md) | 5 | [b-roll.md](shoot/zh/production/b-roll.md) | [b-roll.md](shoot/en/production/b-roll.md) |
 | 拍摄 / Shooting | [现场安全：电线、高处、道路](shoot/zh/set-safety.md) | [Set Safety: Cables, Heights, Roads](shoot/en/set-safety.md) | 5 | [set-safety.md](shoot/zh/set-safety.md) | [set-safety.md](shoot/en/set-safety.md) |
 | 拍摄 / Shooting | [双系统录音：合板不靠猜](shoot/zh/dual-system-sound.md) | [Dual-System Sound: Slate and Timecode](shoot/en/dual-system-sound.md) | 6 | [dual-system-sound.md](shoot/zh/dual-system-sound.md) | [dual-system-sound.md](shoot/en/dual-system-sound.md) |
 | 拍摄 / Shooting | [无线领夹：藏麦与备份](shoot/zh/wireless-lav.md) | [Wireless Lav: Hide It, Back It Up](shoot/en/wireless-lav.md) | 5 | [wireless-lav.md](shoot/zh/wireless-lav.md) | [wireless-lav.md](shoot/en/wireless-lav.md) |
+| 后期 / Post | [项目结构：文件夹比软件重要](post/zh/project-structure.md) | [Project Structure: Folders Beat Software](post/en/project-structure.md) | 7 | [project-structure.md](post/zh/project-structure.md) | [project-structure.md](post/en/project-structure.md) |
 | 后期 / Post | [一级校正：曝光与白平衡](post/zh/primary-correction.md) | [Primary Correction: Exposure and White Balance](post/en/primary-correction.md) | 6 | [primary-correction.md](post/zh/primary-correction.md) | [primary-correction.md](post/en/primary-correction.md) |
+| 后期 / Post | [对白剪辑：让停顿说话](post/zh/deep-dialogue-edit.md) | [Dialogue Editing: Let the Pause Speak](post/en/deep-dialogue-edit.md) | 8 | [deep-dialogue-edit.md](post/zh/deep-dialogue-edit.md) | [deep-dialogue-edit.md](post/en/deep-dialogue-edit.md) |
+| 后期 / Post | [远程审片：版本、标注与回批](post/zh/deep-remote-review.md) | [Remote Review: Versions, Notes, Turnaround](post/en/deep-remote-review.md) | 8 | [deep-remote-review.md](post/zh/deep-remote-review.md) | [deep-remote-review.md](post/en/deep-remote-review.md) |
 | 后期 / Post | [资产管理：结构、代理、版本](post/zh/deep-asset-management.md) | [Asset management: structure, proxies, versions](post/en/deep-asset-management.md) | 9 | [deep-asset-management.md](post/zh/deep-asset-management.md) | [deep-asset-management.md](post/en/deep-asset-management.md) |
 | 后期 / Post | [色彩管线：管理、一级、LUT](post/zh/deep-color-pipeline.md) | [Colour pipeline: management, primary, LUT](post/en/deep-color-pipeline.md) | 9 | [deep-color-pipeline.md](post/zh/deep-color-pipeline.md) | [deep-color-pipeline.md](post/en/deep-color-pipeline.md) |
 | 后期 / Post | [剪辑节奏：精剪、并行、音乐](post/zh/deep-edit-rhythm.md) | [Edit rhythm: fine cut, parallel, music](post/en/deep-edit-rhythm.md) | 9 | [deep-edit-rhythm.md](post/zh/deep-edit-rhythm.md) | [deep-edit-rhythm.md](post/en/deep-edit-rhythm.md) |
@@ -67,6 +82,7 @@
 | 后期 / Post | [节奏不是快，是观众什么时候想听下一句](post/zh/editing/edit-pacing.md) | [Pacing Is Not Speed; It Is When They Want the Next Line](post/en/editing/edit-pacing.md) | 6 | [edit-pacing.md](post/zh/editing/edit-pacing.md) | [edit-pacing.md](post/en/editing/edit-pacing.md) |
 | 后期 / Post | [细剪：把粗剪的毛边修掉](post/zh/fine-cut.md) | [Fine Cut: Remove the Rough Edges](post/en/fine-cut.md) | 5 | [fine-cut.md](post/zh/fine-cut.md) | [fine-cut.md](post/en/fine-cut.md) |
 | 后期 / Post | [代理流程：先能剪，再谈画质](post/zh/proxy-workflow.md) | [Proxy Workflow: Cut First, Quality Later](post/en/proxy-workflow.md) | 5 | [proxy-workflow.md](post/zh/proxy-workflow.md) | [proxy-workflow.md](post/en/proxy-workflow.md) |
+| 后期 / Post | [声音先走：J-cut 与 L-cut](post/zh/editing/sound-bridge.md) | [Let Sound Cross the Cut: J-cuts and L-cuts](post/en/editing/sound-bridge.md) | 7 | [sound-bridge.md](post/zh/editing/sound-bridge.md) | [sound-bridge.md](post/en/editing/sound-bridge.md) |
 | 后期 / Post | [版本管理：别用“final 真的 final”](post/zh/versioning.md) | [Versioning: Never Name It Final](post/en/versioning.md) | 5 | [versioning.md](post/zh/versioning.md) | [versioning.md](post/en/versioning.md) |
 | 后期 / Post | [Foley：脚步、衣服、门把手](post/zh/foley.md) | [Foley: Steps, Cloth, Doors](post/en/foley.md) | 6 | [foley.md](post/zh/foley.md) | [foley.md](post/en/foley.md) |
 | 后期 / Post | [响度：平台目标与真峰值](post/zh/loudness.md) | [Loudness: Platform Target and True Peak](post/en/loudness.md) | 5 | [loudness.md](post/zh/loudness.md) | [loudness.md](post/en/loudness.md) |
@@ -75,6 +91,9 @@
 | 动画 / Animation | [走路循环：脚落地那一下](animation/zh/2d/animation-walk.md) | [The Walk Cycle: The Foot Plant](animation/en/2d/animation-walk.md) | 6 | [animation-walk.md](animation/zh/2d/animation-walk.md) | [animation-walk.md](animation/en/2d/animation-walk.md) |
 | 动画 / Animation | [3D 动画管线：从 blockout 到渲染](animation/zh/3d/3d-pipeline.md) | [The 3D Pipeline: Blockout to Render](animation/en/3d/3d-pipeline.md) | 7 | [3d-pipeline.md](animation/zh/3d/3d-pipeline.md) | [3d-pipeline.md](animation/en/3d/3d-pipeline.md) |
 | 动画 / Animation | [Blockout：先定比例和机位](animation/zh/blockout.md) | [Blockout: Proportions and Camera First](animation/en/blockout.md) | 6 | [blockout.md](animation/zh/blockout.md) | [blockout.md](animation/en/blockout.md) |
+| 动画 / Animation | [绑定：让关节能转](animation/zh/rigging.md) | [Rigging: Make the Joints Turn](animation/en/rigging.md) | 8 | [rigging.md](animation/zh/rigging.md) | [rigging.md](animation/en/rigging.md) |
+| 动画 / Animation | [动画表演：给角色一个意图](animation/zh/deep-animation-acting.md) | [Animation Acting: Give the Character an Intention](animation/en/deep-animation-acting.md) | 8 | [deep-animation-acting.md](animation/zh/deep-animation-acting.md) | [deep-animation-acting.md](animation/en/deep-animation-acting.md) |
+| 动画 / Animation | [动效系统：从一条线到一套语法](animation/zh/deep-motion-graphics.md) | [Motion Graphics Systems: From One Line to a Grammar](animation/en/deep-motion-graphics.md) | 8 | [deep-motion-graphics.md](animation/zh/deep-motion-graphics.md) | [deep-motion-graphics.md](animation/en/deep-motion-graphics.md) |
 | 动画 / Animation | [二维分层景深：从分层到成片](animation/zh/deep-2d-layer-depth.md) | [2D layer depth: from layers to final](animation/en/deep-2d-layer-depth.md) | 9 | [deep-2d-layer-depth.md](animation/zh/deep-2d-layer-depth.md) | [deep-2d-layer-depth.md](animation/en/deep-2d-layer-depth.md) |
 | 动画 / Animation | [3D 灯光与材质：一次只改一个变量](animation/zh/deep-3d-light-material.md) | [3D light and material: one variable at a time](animation/en/deep-3d-light-material.md) | 9 | [deep-3d-light-material.md](animation/zh/deep-3d-light-material.md) | [deep-3d-light-material.md](animation/en/deep-3d-light-material.md) |
 | 动画 / Animation | [动画 QC：从镜头到资产](animation/zh/deep-animation-qc.md) | [Animation QC: from shot to asset](animation/en/deep-animation-qc.md) | 9 | [deep-animation-qc.md](animation/zh/deep-animation-qc.md) | [deep-animation-qc.md](animation/en/deep-animation-qc.md) |
@@ -85,10 +104,13 @@
 | 动画 / Animation | [绑定交接：把“能拉”做成“能交”](animation/zh/deep-rig-handoff.md) | [Rig handoff: from movable to deliverable](animation/en/deep-rig-handoff.md) | 9 | [deep-rig-handoff.md](animation/zh/deep-rig-handoff.md) | [deep-rig-handoff.md](animation/en/deep-rig-handoff.md) |
 | 动画 / Animation | [Animatic：配音、定时、改镜头](animation/zh/animatic-pipeline.md) | [Animatic Pipeline: Voice, Timing, Board](animation/en/animatic-pipeline.md) | 6 | [animatic-pipeline.md](animation/zh/animatic-pipeline.md) | [animatic-pipeline.md](animation/en/animatic-pipeline.md) |
 | 动画 / Animation | [十二原则：别一次全用](animation/zh/animation-principles.md) | [The Twelve Principles: Use One at a Time](animation/en/animation-principles.md) | 6 | [animation-principles.md](animation/zh/animation-principles.md) | [animation-principles.md](animation/en/animation-principles.md) |
+| 动画 / Animation | [重量：落地的加速度](animation/zh/weight.md) | [Weight: The Acceleration on Landing](animation/en/weight.md) | 8 | [weight.md](animation/zh/weight.md) | [weight.md](animation/en/weight.md) |
 | 动画 / Animation | [定格动画：一张一张拍](animation/zh/stop-motion/stop-motion.md) | [Stop Motion: One Frame at a Time](animation/en/stop-motion/stop-motion.md) | 7 | [stop-motion.md](animation/zh/stop-motion/stop-motion.md) | [stop-motion.md](animation/en/stop-motion/stop-motion.md) |
 | 动画 / Animation | [动画的时间感：两张原画之间，决定重量](animation/zh/timing/animation-timing.md) | [Timing in Animation: The Weight Lives Between Two Keys](animation/en/timing/animation-timing.md) | 6 | [animation-timing.md](animation/zh/timing/animation-timing.md) | [animation-timing.md](animation/en/timing/animation-timing.md) |
 | 片型 / Formats | [产品广告：三秒抓人，十秒讲清](formats/zh/ad/product-ad.md) | [Product Ad: Hook in Three Seconds, Explain in Ten](formats/en/ad/product-ad.md) | 6 | [product-ad.md](formats/zh/ad/product-ad.md) | [product-ad.md](formats/en/ad/product-ad.md) |
 | 片型 / Formats | [品牌片：先让人相信一句话](formats/zh/brand/brand-film.md) | [Brand Film: Make Them Believe One Sentence](formats/en/brand/brand-film.md) | 7 | [brand-film.md](formats/zh/brand/brand-film.md) | [brand-film.md](formats/en/brand/brand-film.md) |
+| 片型 / Formats | [课程视频：让观众学会，而不是看完](formats/zh/deep-course-video.md) | [Course Video: Make Them Learn, Not Just Finish](formats/en/deep-course-video.md) | 8 | [deep-course-video.md](formats/zh/deep-course-video.md) | [deep-course-video.md](formats/en/deep-course-video.md) |
+| 片型 / Formats | [房产空间：把户型拍成动线](formats/zh/deep-real-estate-video.md) | [Real Estate Video: Turn a Floor Plan into a Route](formats/en/deep-real-estate-video.md) | 8 | [deep-real-estate-video.md](formats/zh/deep-real-estate-video.md) | [deep-real-estate-video.md](formats/en/deep-real-estate-video.md) |
 | 片型 / Formats | [品牌片：模板、拆解、企业结构](formats/zh/deep-brand-film.md) | [Brand film: template, breakdown, corporate structure](formats/en/deep-brand-film.md) | 9 | [deep-brand-film.md](formats/zh/deep-brand-film.md) | [deep-brand-film.md](formats/en/deep-brand-film.md) |
 | 片型 / Formats | [纪录片：模板、拆解、伦理](formats/zh/deep-documentary.md) | [Documentary: template, breakdown, ethics](formats/en/deep-documentary.md) | 9 | [deep-documentary.md](formats/zh/deep-documentary.md) | [deep-documentary.md](formats/en/deep-documentary.md) |
 | 片型 / Formats | [美食桌面：模板、结构、拆解](formats/zh/deep-food-tabletop.md) | [Food tabletop: template, structure, breakdown](formats/en/deep-food-tabletop.md) | 9 | [deep-food-tabletop.md](formats/zh/deep-food-tabletop.md) | [deep-food-tabletop.md](formats/en/deep-food-tabletop.md) |
@@ -98,6 +120,8 @@
 | 片型 / Formats | [竖屏短剧：前三秒先让人物要东西](formats/zh/drama/vertical-drama.md) | [Vertical Drama: A Want in the First Three Seconds](formats/en/drama/vertical-drama.md) | 6 | [vertical-drama.md](formats/zh/drama/vertical-drama.md) | [vertical-drama.md](formats/en/drama/vertical-drama.md) |
 | 片型 / Formats | [活动片结构：先给结果，再给过程](formats/zh/event-structure.md) | [Event Film Structure: Result First, Process Second](formats/en/event-structure.md) | 6 | [event-structure.md](formats/zh/event-structure.md) | [event-structure.md](formats/en/event-structure.md) |
 | 片型 / Formats | [实验影像结构：规则先于效果](formats/zh/experimental-structure.md) | [Experimental Structure: Rules Before Effects](formats/en/experimental-structure.md) | 6 | [experimental-structure.md](formats/zh/experimental-structure.md) | [experimental-structure.md](formats/en/experimental-structure.md) |
+| 片型 / Formats | [时尚美妆拉片：六个段落怎么落地](formats/zh/fashion-beauty-video-breakdown.md) | [Fashion & Beauty Breakdown: Six Beats in Practice](formats/en/fashion-beauty-video-breakdown.md) | 7 | [fashion-beauty-video-breakdown.md](formats/zh/fashion-beauty-video-breakdown.md) | [fashion-beauty-video-breakdown.md](formats/en/fashion-beauty-video-breakdown.md) |
+| 片型 / Formats | [美食桌面拉片：六个段落怎么落地](formats/zh/food-video-breakdown.md) | [Food & Table Breakdown: Six Beats in Practice](formats/en/food-video-breakdown.md) | 7 | [food-video-breakdown.md](formats/zh/food-video-breakdown.md) | [food-video-breakdown.md](formats/en/food-video-breakdown.md) |
 | 片型 / Formats | [访谈结构：问题比机位重要](formats/zh/interview-structure.md) | [Interview Structure: The Question Matters More](formats/en/interview-structure.md) | 7 | [interview-structure.md](formats/zh/interview-structure.md) | [interview-structure.md](formats/en/interview-structure.md) |
 | 片型 / Formats | [MV 结构：歌是时间轴](formats/zh/music-video-structure.md) | [Music Video Structure: The Song Is the Timeline](formats/en/music-video-structure.md) | 7 | [music-video-structure.md](formats/zh/music-video-structure.md) | [music-video-structure.md](formats/en/music-video-structure.md) |
 | 片型 / Formats | [新闻结构：先给现场，再给核实](formats/zh/news-structure.md) | [News Structure: Scene First, Verification Second](formats/en/news-structure.md) | 6 | [news-structure.md](formats/zh/news-structure.md) | [news-structure.md](formats/en/news-structure.md) |
@@ -108,6 +132,8 @@
 | 片型 / Formats | [婚礼片结构：先保仪式，再谈风格](formats/zh/wedding-structure.md) | [Wedding Film Structure: Ceremony Before Style](formats/en/wedding-structure.md) | 7 | [wedding-structure.md](formats/zh/wedding-structure.md) | [wedding-structure.md](formats/en/wedding-structure.md) |
 | 工具 / Tools | [录音入门：话筒位置比设备贵更重要](tools/zh/audio/audio-position.md) | [Audio Basics: Mic Position Beats Price](tools/en/audio/audio-position.md) | 7 | [audio-position.md](tools/zh/audio/audio-position.md) | [audio-position.md](tools/en/audio/audio-position.md) |
 | 工具 / Tools | [相机怎么选：先看约束，不看品牌](tools/zh/camera/camera-choice.md) | [How to Choose a Camera: Constraints Before Brands](tools/en/camera/camera-choice.md) | 7 | [camera-choice.md](tools/zh/camera/camera-choice.md) | [camera-choice.md](tools/en/camera/camera-choice.md) |
+| 工具 / Tools | [器材维护：开机前、收工后与存放](tools/zh/deep-camera-maintenance.md) | [Gear Maintenance: Before Call, After Wrap, In Storage](tools/en/deep-camera-maintenance.md) | 8 | [deep-camera-maintenance.md](tools/zh/deep-camera-maintenance.md) | [deep-camera-maintenance.md](tools/en/deep-camera-maintenance.md) |
+| 工具 / Tools | [灯光安全：电、热、坠与承重](tools/zh/deep-lighting-safety.md) | [Lighting Safety: Power, Heat, Falls, Load](tools/en/deep-lighting-safety.md) | 8 | [deep-lighting-safety.md](tools/zh/deep-lighting-safety.md) | [deep-lighting-safety.md](tools/en/deep-lighting-safety.md) |
 | 工具 / Tools | [AI 工具链：生成、配音、渲染](tools/zh/deep-ai-toolchain.md) | [AI toolchain: generation, voice, render](tools/en/deep-ai-toolchain.md) | 9 | [deep-ai-toolchain.md](tools/zh/deep-ai-toolchain.md) | [deep-ai-toolchain.md](tools/en/deep-ai-toolchain.md) |
 | 工具 / Tools | [3-2-1 备份：从卡到异地](tools/zh/deep-backup-321.md) | [3-2-1 backup: from card to off-site](tools/en/deep-backup-321.md) | 9 | [deep-backup-321.md](tools/zh/deep-backup-321.md) | [deep-backup-321.md](tools/en/deep-backup-321.md) |
 | 工具 / Tools | [机身与镜头：一机三镜的现实组合](tools/zh/deep-camera-lens-kit.md) | [Camera and lens kit: one body, three lenses](tools/en/deep-camera-lens-kit.md) | 9 | [deep-camera-lens-kit.md](tools/zh/deep-camera-lens-kit.md) | [deep-camera-lens-kit.md](tools/en/deep-camera-lens-kit.md) |
@@ -118,19 +144,27 @@
 | 工具 / Tools | [存储链：卡、SSD、NAS 与 LTO](tools/zh/deep-storage-chain.md) | [Storage chain: card, SSD, NAS and LTO](tools/en/deep-storage-chain.md) | 9 | [deep-storage-chain.md](tools/zh/deep-storage-chain.md) | [deep-storage-chain.md](tools/en/deep-storage-chain.md) |
 | 工具 / Tools | [交付：别在最后导错文件](tools/zh/delivery/delivery-specs.md) | [Delivery: Find the Wrong Export Before the Last Hour](tools/en/delivery/delivery-specs.md) | 7 | [delivery-specs.md](tools/zh/delivery/delivery-specs.md) | [delivery-specs.md](tools/en/delivery/delivery-specs.md) |
 | 工具 / Tools | [发布前 12 项检查：别在最后一小时翻车](tools/zh/delivery/publish-checklist.md) | [Twelve Checks Before Publishing: Do Not Lose the Last Hour](tools/en/delivery/publish-checklist.md) | 6 | [publish-checklist.md](tools/zh/delivery/publish-checklist.md) | [publish-checklist.md](tools/en/delivery/publish-checklist.md) |
+| 工具 / Tools | [购买 HDR 监视器：峰值亮度不是全部](tools/zh/buy-monitor-hdr.md) | [Buying an HDR Monitor: Peak Nits Is Not Everything](tools/en/buy-monitor-hdr.md) | 7 | [buy-monitor-hdr.md](tools/zh/buy-monitor-hdr.md) | [buy-monitor-hdr.md](tools/en/buy-monitor-hdr.md) |
 | 工具 / Tools | [导出失败排查：编码、磁盘、权限](tools/zh/export-fail-fix.md) | [Export Failure Fix: Codec, Disk, Permission](tools/en/export-fail-fix.md) | 7 | [export-fail-fix.md](tools/zh/export-fail-fix.md) | [export-fail-fix.md](tools/en/export-fail-fix.md) |
 | 工具 / Tools | [通告单：一张纸，把今天说清](tools/zh/producing/call-sheet.md) | [Call Sheet: One Page, One Plan](tools/en/producing/call-sheet.md) | 7 | [call-sheet.md](tools/zh/producing/call-sheet.md) | [call-sheet.md](tools/en/producing/call-sheet.md) |
 | 工具 / Tools | [3-2-1 备份：当天做完](tools/zh/backup-3-2-1.md) | [3-2-1 Backup: Finish It Today](tools/en/backup-3-2-1.md) | 5 | [backup-3-2-1.md](tools/zh/backup-3-2-1.md) | [backup-3-2-1.md](tools/en/backup-3-2-1.md) |
+| 工具 / Tools | [稳定器调平：开机前五分钟](tools/zh/gimbal-balance.md) | [Gimbal Balance: Five Minutes Before Power](tools/en/gimbal-balance.md) | 8 | [gimbal-balance.md](tools/zh/gimbal-balance.md) | [gimbal-balance.md](tools/en/gimbal-balance.md) |
+| 工具 / Tools | [夜景实用光：曝光平衡](tools/zh/night-practical.md) | [Night Practical: Balance the Lamp](tools/en/night-practical.md) | 7 | [night-practical.md](tools/zh/night-practical.md) | [night-practical.md](tools/en/night-practical.md) |
 | 工具 / Tools | [素材管理：当天备份，命名可查](tools/zh/workflow/storage.md) | [Media Management: Back Up Today, Name for Finding](tools/en/workflow/storage.md) | 7 | [storage.md](tools/zh/workflow/storage.md) | [storage.md](tools/en/workflow/storage.md) |
+| 影像史与素养 / History & Literacy | [档案伦理：修复、删改与署名](context/zh/deep-archive-ethics.md) | [Archive Ethics: Restoration, Alteration, Credit](context/en/deep-archive-ethics.md) | 8 | [deep-archive-ethics.md](context/zh/deep-archive-ethics.md) | [deep-archive-ethics.md](context/en/deep-archive-ethics.md) |
+| 影像史与素养 / History & Literacy | [平台史：从频道到推荐流](context/zh/deep-platform-history.md) | [Platform History: From Channels to Feeds](context/en/deep-platform-history.md) | 8 | [deep-platform-history.md](context/zh/deep-platform-history.md) | [deep-platform-history.md](context/en/deep-platform-history.md) |
 | 影像史与素养 / History & Literacy | [AI 合规：标识、深伪、数据](context/zh/deep-ai-regulation.md) | [AI compliance: labelling, deepfakes, data](context/en/deep-ai-regulation.md) | 9 | [deep-ai-regulation.md](context/zh/deep-ai-regulation.md) | [deep-ai-regulation.md](context/en/deep-ai-regulation.md) |
 | 影像史与素养 / History & Literacy | [版权链：版权、合同、音乐](context/zh/deep-copyright-chain.md) | [Copyright chain: copyright, contract, music](context/en/deep-copyright-chain.md) | 9 | [deep-copyright-chain.md](context/zh/deep-copyright-chain.md) | [deep-copyright-chain.md](context/en/deep-copyright-chain.md) |
 | 影像史与素养 / History & Literacy | [影像史：1839、1895、摄影史](context/zh/deep-image-history.md) | [Image history: 1839, 1895, photography](context/en/deep-image-history.md) | 9 | [deep-image-history.md](context/zh/deep-image-history.md) | [deep-image-history.md](context/en/deep-image-history.md) |
 | 影像史与素养 / History & Literacy | [媒介素养：素养、来源、算法](context/zh/deep-media-literacy.md) | [Media literacy: literacy, sources, algorithms](context/en/deep-media-literacy.md) | 9 | [deep-media-literacy.md](context/zh/deep-media-literacy.md) | [deep-media-literacy.md](context/en/deep-media-literacy.md) |
+| 影像史与素养 / History & Literacy | [AI 影像前史：从滤镜到生成](context/zh/ai-video-history.md) | [AI Video Prehistory: From Filters to Generation](context/en/ai-video-history.md) | 8 | [ai-video-history.md](context/zh/ai-video-history.md) | [ai-video-history.md](context/en/ai-video-history.md) |
+| 影像史与素养 / History & Literacy | [1895：电影成为公共娱乐](context/zh/history/film/1895.md) | [1895: Cinema Becomes Public Entertainment](context/en/history/film/1895.md) | 7 | [1895.md](context/zh/history/film/1895.md) | [1895.md](context/en/history/film/1895.md) |
+| 影像史与素养 / History & Literacy | [有声片：观众第一次听见对白](context/zh/sound-era.md) | [Sound Era: The Voice Arrived](context/en/sound-era.md) | 8 | [sound-era.md](context/zh/sound-era.md) | [sound-era.md](context/en/sound-era.md) |
 | 影像史与素养 / History & Literacy | [深伪识别：看脸之外看什么](context/zh/deepfake.md) | [Deepfake Detection: Look Beyond the Face](context/en/deepfake.md) | 8 | [deepfake.md](context/zh/deepfake.md) | [deepfake.md](context/en/deepfake.md) |
 
-## 中文 / Chinese（490 篇）
+## 中文 / Chinese（506 篇）
 
-### 主站 · Main（75 篇）
+### 主站 · Main（77 篇）
 
 | 标题 / Title | 类型 / Type | 路径 / Path | 文件 / File |
 | --- | --- | --- | --- |
@@ -143,6 +177,8 @@
 | [制片与项目管理](main/zh/path-producing.md) | 路径 / Path | /article/path-producing/ | [path-producing.md](main/zh/path-producing.md) |
 | [故事、编剧与分镜](main/zh/path-story.md) | 路径 / Path | /article/path-story/ | [path-story.md](main/zh/path-story.md) |
 | [7 天第一条片](main/zh/paths/first-film.md) | 路径 / Path | /article/first-film/ | [first-film.md](main/zh/paths/first-film.md) |
+| [预算控制：报价、预留与超支](main/zh/deep-budget-control.md) | 文章 / Article | /article/deep-budget-control/ | [deep-budget-control.md](main/zh/deep-budget-control.md) |
+| [交付风险：从母版到客户回执](main/zh/deep-delivery-risk.md) | 文章 / Article | /article/deep-delivery-risk/ | [deep-delivery-risk.md](main/zh/deep-delivery-risk.md) |
 | [客户与职业：Career、First Client、Quote](main/zh/deep-client-career.md) | 文章 / Article | /article/deep-client-career/ | [deep-client-career.md](main/zh/deep-client-career.md) |
 | [第一部片：First Film、First Idea、Career](main/zh/deep-first-film.md) | 文章 / Article | /article/deep-first-film/ | [deep-first-film.md](main/zh/deep-first-film.md) |
 | [演员很僵](main/zh/method-actor-stiff.md) | 模板 / Template | /article/method-actor-stiff/ | [method-actor-stiff.md](main/zh/method-actor-stiff.md) |
@@ -210,10 +246,12 @@
 | [旅拍 Vlog 案例：只拍一个发现](main/zh/case-vlog.md) | 案例 / Case | /article/case-vlog/ | [case-vlog.md](main/zh/case-vlog.md) |
 | [婚礼案例：誓言不能补拍](main/zh/case-wedding.md) | 案例 / Case | /article/case-wedding/ | [case-wedding.md](main/zh/case-wedding.md) |
 
-### 故事与编剧 · Story & Screenwriting（46 篇）
+### 故事与编剧 · Story & Screenwriting（48 篇）
 
 | 标题 / Title | 类型 / Type | 路径 / Path | 文件 / File |
 | --- | --- | --- | --- |
+| [物件叙事：让道具替一句台词](story/zh/deep-scene-object.md) | 文章 / Article | /article/deep-scene-object/ | [deep-scene-object.md](story/zh/deep-scene-object.md) |
+| [无对白场景：不靠台词讲完一段](story/zh/deep-silent-scene.md) | 文章 / Article | /article/deep-silent-scene/ | [deep-silent-scene.md](story/zh/deep-silent-scene.md) |
 | [覆盖与分镜：从 Shot Sheet 到 Animatic](story/zh/deep-coverage-board.md) | 文章 / Article | /article/deep-coverage-board/ | [deep-coverage-board.md](story/zh/deep-coverage-board.md) |
 | [对白潜台词：一个人也能演](story/zh/deep-dialogue-subtext.md) | 文章 / Article | /article/deep-dialogue-subtext/ | [deep-dialogue-subtext.md](story/zh/deep-dialogue-subtext.md) |
 | [表演指导：排练、给笔记、尺度](story/zh/deep-performance-direction.md) | 文章 / Article | /article/deep-performance-direction/ | [deep-performance-direction.md](story/zh/deep-performance-direction.md) |
@@ -261,7 +299,7 @@
 | [镜头表：镜号、景别、动作、时长](story/zh/shot-sheet.md) | 文章 / Article | /article/shot-sheet/ | [shot-sheet.md](story/zh/shot-sheet.md) |
 | [分镜表：把一句话拆成 8 个能拍的镜头](story/zh/storyboard/storyboard.md) | 文章 / Article | /article/storyboard/ | [storyboard.md](story/zh/storyboard/storyboard.md) |
 
-### 拍摄 · Shooting（48 篇）
+### 拍摄 · Shooting（50 篇）
 
 | 标题 / Title | 类型 / Type | 路径 / Path | 文件 / File |
 | --- | --- | --- | --- |
@@ -279,6 +317,8 @@
 | [景别：观众该看见多少](shoot/zh/camera/shot-size.md) | 文章 / Article | /article/shot-size/ | [shot-size.md](shoot/zh/camera/shot-size.md) |
 | [快门角度：运动模糊](shoot/zh/shutter-angle.md) | 文章 / Article | /article/shutter-angle/ | [shutter-angle.md](shoot/zh/shutter-angle.md) |
 | [覆盖：别只拍一个角度](shoot/zh/coverage.md) | 文章 / Article | /article/coverage/ | [coverage.md](shoot/zh/coverage.md) |
+| [访谈布光：窗光、单灯与混合光](shoot/zh/deep-interview-light.md) | 文章 / Article | /article/deep-interview-light/ | [deep-interview-light.md](shoot/zh/deep-interview-light.md) |
+| [低照度拍摄：噪点、快门与实用光](shoot/zh/deep-low-light.md) | 文章 / Article | /article/deep-low-light/ | [deep-low-light.md](shoot/zh/deep-low-light.md) |
 | [运镜：手持、稳定器、覆盖](shoot/zh/deep-camera-move.md) | 文章 / Article | /article/deep-camera-move/ | [deep-camera-move.md](shoot/zh/deep-camera-move.md) |
 | [现场硬光：硬、混、实用](shoot/zh/deep-hard-light.md) | 文章 / Article | /article/deep-hard-light/ | [deep-hard-light.md](shoot/zh/deep-hard-light.md) |
 | [Log 与曝光：波形、假色、ND](shoot/zh/deep-log-exposure.md) | 文章 / Article | /article/deep-log-exposure/ | [deep-log-exposure.md](shoot/zh/deep-log-exposure.md) |
@@ -314,7 +354,7 @@
 | [LED 虚拟拍摄：墙、跟踪、同步与色温](shoot/zh/led-virtual-production.md) | 文章 / Article | /article/led-virtual-production/ | [led-virtual-production.md](shoot/zh/led-virtual-production.md) |
 | [LED 虚拟拍摄：先对跟踪，再对光](shoot/zh/led-volume.md) | 文章 / Article | /article/led-volume/ | [led-volume.md](shoot/zh/led-volume.md) |
 
-### 后期 · Post（52 篇）
+### 后期 · Post（54 篇）
 
 | 标题 / Title | 类型 / Type | 路径 / Path | 文件 / File |
 | --- | --- | --- | --- |
@@ -334,6 +374,8 @@
 | [一级校正：曝光与白平衡](post/zh/primary-correction.md) | 文章 / Article | /article/primary-correction/ | [primary-correction.md](post/zh/primary-correction.md) |
 | [示波器：黑位、白位、肤色](post/zh/scopes.md) | 文章 / Article | /article/scopes/ | [scopes.md](post/zh/scopes.md) |
 | [二级校正：只改一块颜色](post/zh/secondary-correction.md) | 文章 / Article | /article/secondary-correction/ | [secondary-correction.md](post/zh/secondary-correction.md) |
+| [对白剪辑：让停顿说话](post/zh/deep-dialogue-edit.md) | 文章 / Article | /article/deep-dialogue-edit/ | [deep-dialogue-edit.md](post/zh/deep-dialogue-edit.md) |
+| [远程审片：版本、标注与回批](post/zh/deep-remote-review.md) | 文章 / Article | /article/deep-remote-review/ | [deep-remote-review.md](post/zh/deep-remote-review.md) |
 | [资产管理：结构、代理、版本](post/zh/deep-asset-management.md) | 文章 / Article | /article/deep-asset-management/ | [deep-asset-management.md](post/zh/deep-asset-management.md) |
 | [色彩管线：管理、一级、LUT](post/zh/deep-color-pipeline.md) | 文章 / Article | /article/deep-color-pipeline/ | [deep-color-pipeline.md](post/zh/deep-color-pipeline.md) |
 | [剪辑节奏：精剪、并行、音乐](post/zh/deep-edit-rhythm.md) | 文章 / Article | /article/deep-edit-rhythm/ | [deep-edit-rhythm.md](post/zh/deep-edit-rhythm.md) |
@@ -371,7 +413,7 @@
 | [跟踪：点要贴在实处](post/zh/tracking.md) | 文章 / Article | /article/tracking/ | [tracking.md](post/zh/tracking.md) |
 | [合成：先让两层信同一种光](post/zh/vfx/vfx-composite.md) | 文章 / Article | /article/vfx-composite/ | [vfx-composite.md](post/zh/vfx/vfx-composite.md) |
 
-### 动画 · Animation（38 篇）
+### 动画 · Animation（40 篇）
 
 | 标题 / Title | 类型 / Type | 路径 / Path | 文件 / File |
 | --- | --- | --- | --- |
@@ -391,6 +433,8 @@
 | [渲染：采样与噪点](animation/zh/render.md) | 文章 / Article | /article/render/ | [render.md](animation/zh/render.md) |
 | [绑定：让关节能转](animation/zh/rigging.md) | 文章 / Article | /article/rigging/ | [rigging.md](animation/zh/rigging.md) |
 | [短片复盘：从分镜到成片](animation/zh/animation-case.md) | 文章 / Article | /article/animation-case/ | [animation-case.md](animation/zh/animation-case.md) |
+| [动画表演：给角色一个意图](animation/zh/deep-animation-acting.md) | 文章 / Article | /article/deep-animation-acting/ | [deep-animation-acting.md](animation/zh/deep-animation-acting.md) |
+| [动效系统：从一条线到一套语法](animation/zh/deep-motion-graphics.md) | 文章 / Article | /article/deep-motion-graphics/ | [deep-motion-graphics.md](animation/zh/deep-motion-graphics.md) |
 | [二维分层景深：从分层到成片](animation/zh/deep-2d-layer-depth.md) | 文章 / Article | /article/deep-2d-layer-depth/ | [deep-2d-layer-depth.md](animation/zh/deep-2d-layer-depth.md) |
 | [3D 灯光与材质：一次只改一个变量](animation/zh/deep-3d-light-material.md) | 文章 / Article | /article/deep-3d-light-material/ | [deep-3d-light-material.md](animation/zh/deep-3d-light-material.md) |
 | [动画 QC：从镜头到资产](animation/zh/deep-animation-qc.md) | 文章 / Article | /article/deep-animation-qc/ | [deep-animation-qc.md](animation/zh/deep-animation-qc.md) |
@@ -414,7 +458,7 @@
 | [定格布景：尺度与透视线](animation/zh/stop-motion-set.md) | 文章 / Article | /article/stop-motion-set/ | [stop-motion-set.md](animation/zh/stop-motion-set.md) |
 | [动画的时间感：两张原画之间，决定重量](animation/zh/timing/animation-timing.md) | 文章 / Article | /article/animation-timing/ | [animation-timing.md](animation/zh/timing/animation-timing.md) |
 
-### 片型 · Formats（62 篇）
+### 片型 · Formats（64 篇）
 
 | 标题 / Title | 类型 / Type | 路径 / Path | 文件 / File |
 | --- | --- | --- | --- |
@@ -425,6 +469,8 @@
 | [企业宣传拉片：六个段落怎么落地](formats/zh/corporate-video-breakdown.md) | 文章 / Article | /article/corporate-video-breakdown/ | [corporate-video-breakdown.md](formats/zh/corporate-video-breakdown.md) |
 | [企业宣传结构：六个拍点](formats/zh/corporate-video-structure.md) | 文章 / Article | /article/corporate-video-structure/ | [corporate-video-structure.md](formats/zh/corporate-video-structure.md) |
 | [企业宣传模板：一张表拍完](formats/zh/corporate-video-template.md) | 文章 / Article | /article/corporate-video-template/ | [corporate-video-template.md](formats/zh/corporate-video-template.md) |
+| [课程视频：让观众学会，而不是看完](formats/zh/deep-course-video.md) | 文章 / Article | /article/deep-course-video/ | [deep-course-video.md](formats/zh/deep-course-video.md) |
+| [房产空间：把户型拍成动线](formats/zh/deep-real-estate-video.md) | 文章 / Article | /article/deep-real-estate-video/ | [deep-real-estate-video.md](formats/zh/deep-real-estate-video.md) |
 | [品牌片：模板、拆解、企业结构](formats/zh/deep-brand-film.md) | 文章 / Article | /article/deep-brand-film/ | [deep-brand-film.md](formats/zh/deep-brand-film.md) |
 | [纪录片：模板、拆解、伦理](formats/zh/deep-documentary.md) | 文章 / Article | /article/deep-documentary/ | [deep-documentary.md](formats/zh/deep-documentary.md) |
 | [美食桌面：模板、结构、拆解](formats/zh/deep-food-tabletop.md) | 文章 / Article | /article/deep-food-tabletop/ | [deep-food-tabletop.md](formats/zh/deep-food-tabletop.md) |
@@ -481,12 +527,14 @@
 | [婚礼片结构：先保仪式，再谈风格](formats/zh/wedding-structure.md) | 文章 / Article | /article/wedding-structure/ | [wedding-structure.md](formats/zh/wedding-structure.md) |
 | [婚礼模板：开场、仪式、祝福](formats/zh/wedding-template.md) | 文章 / Article | /article/wedding-template/ | [wedding-template.md](formats/zh/wedding-template.md) |
 
-### 工具 · Tools（123 篇）
+### 工具 · Tools（125 篇）
 
 | 标题 / Title | 类型 / Type | 路径 / Path | 文件 / File |
 | --- | --- | --- | --- |
 | [录音入门：话筒位置比设备贵更重要](tools/zh/audio/audio-position.md) | 文章 / Article | /article/audio-position/ | [audio-position.md](tools/zh/audio/audio-position.md) |
 | [相机怎么选：先看约束，不看品牌](tools/zh/camera/camera-choice.md) | 文章 / Article | /article/camera-choice/ | [camera-choice.md](tools/zh/camera/camera-choice.md) |
+| [器材维护：开机前、收工后与存放](tools/zh/deep-camera-maintenance.md) | 文章 / Article | /article/deep-camera-maintenance/ | [deep-camera-maintenance.md](tools/zh/deep-camera-maintenance.md) |
+| [灯光安全：电、热、坠与承重](tools/zh/deep-lighting-safety.md) | 文章 / Article | /article/deep-lighting-safety/ | [deep-lighting-safety.md](tools/zh/deep-lighting-safety.md) |
 | [AI 工具链：生成、配音、渲染](tools/zh/deep-ai-toolchain.md) | 文章 / Article | /article/deep-ai-toolchain/ | [deep-ai-toolchain.md](tools/zh/deep-ai-toolchain.md) |
 | [3-2-1 备份：从卡到异地](tools/zh/deep-backup-321.md) | 文章 / Article | /article/deep-backup-321/ | [deep-backup-321.md](tools/zh/deep-backup-321.md) |
 | [机身与镜头：一机三镜的现实组合](tools/zh/deep-camera-lens-kit.md) | 文章 / Article | /article/deep-camera-lens-kit/ | [deep-camera-lens-kit.md](tools/zh/deep-camera-lens-kit.md) |
@@ -609,10 +657,12 @@
 | [字幕 CPS 计算器：读得完吗](tools/zh/subtitle-cps.md) | 计算器 / Calculator | /article/subtitle-cps/ | [subtitle-cps.md](tools/zh/subtitle-cps.md) |
 | [镜头视角计算器：焦距、画幅与水平视角](tools/zh/calculators/fov.md) | 计算器 / Calculator | /article/fov/ | [fov.md](tools/zh/calculators/fov.md) |
 
-### 影像史与素养 · History & Literacy（46 篇）
+### 影像史与素养 · History & Literacy（48 篇）
 
 | 标题 / Title | 类型 / Type | 路径 / Path | 文件 / File |
 | --- | --- | --- | --- |
+| [档案伦理：修复、删改与署名](context/zh/deep-archive-ethics.md) | 文章 / Article | /article/deep-archive-ethics/ | [deep-archive-ethics.md](context/zh/deep-archive-ethics.md) |
+| [平台史：从频道到推荐流](context/zh/deep-platform-history.md) | 文章 / Article | /article/deep-platform-history/ | [deep-platform-history.md](context/zh/deep-platform-history.md) |
 | [AI 合规：标识、深伪、数据](context/zh/deep-ai-regulation.md) | 文章 / Article | /article/deep-ai-regulation/ | [deep-ai-regulation.md](context/zh/deep-ai-regulation.md) |
 | [版权链：版权、合同、音乐](context/zh/deep-copyright-chain.md) | 文章 / Article | /article/deep-copyright-chain/ | [deep-copyright-chain.md](context/zh/deep-copyright-chain.md) |
 | [影像史：1839、1895、摄影史](context/zh/deep-image-history.md) | 文章 / Article | /article/deep-image-history/ | [deep-image-history.md](context/zh/deep-image-history.md) |
@@ -660,9 +710,9 @@
 | [赞助披露：广告要让人看见](context/zh/sponsorship-disclosure.md) | 素养 / Literacy | /article/sponsorship-disclosure/ | [sponsorship-disclosure.md](context/zh/sponsorship-disclosure.md) |
 | [数据视频：图表有没有骗人](context/zh/statistics-video.md) | 素养 / Literacy | /article/statistics-video/ | [statistics-video.md](context/zh/statistics-video.md) |
 
-## English（490 篇）
+## English（506 篇）
 
-### 主站 · Main（75 篇）
+### 主站 · Main（77 篇）
 
 | 标题 / Title | 类型 / Type | 路径 / Path | 文件 / File |
 | --- | --- | --- | --- |
@@ -675,6 +725,8 @@
 | [Producing & Management](main/en/path-producing.md) | 路径 / Path | /en/article/path-producing/ | [path-producing.md](main/en/path-producing.md) |
 | [Story, Script & Storyboard](main/en/path-story.md) | 路径 / Path | /en/article/path-story/ | [path-story.md](main/en/path-story.md) |
 | [Your First Film in 7 Days](main/en/paths/first-film.md) | 路径 / Path | /en/article/first-film/ | [first-film.md](main/en/paths/first-film.md) |
+| [Budget Control: Quote, Reserve, Overrun](main/en/deep-budget-control.md) | 文章 / Article | /en/article/deep-budget-control/ | [deep-budget-control.md](main/en/deep-budget-control.md) |
+| [Delivery Risk: From Master to Client Sign-Off](main/en/deep-delivery-risk.md) | 文章 / Article | /en/article/deep-delivery-risk/ | [deep-delivery-risk.md](main/en/deep-delivery-risk.md) |
 | [Client career: career, first client, quote](main/en/deep-client-career.md) | 文章 / Article | /en/article/deep-client-career/ | [deep-client-career.md](main/en/deep-client-career.md) |
 | [First film: first film, first idea, career](main/en/deep-first-film.md) | 文章 / Article | /en/article/deep-first-film/ | [deep-first-film.md](main/en/deep-first-film.md) |
 | [The Actor Is Stiff](main/en/method-actor-stiff.md) | 模板 / Template | /en/article/method-actor-stiff/ | [method-actor-stiff.md](main/en/method-actor-stiff.md) |
@@ -742,10 +794,12 @@
 | [Travel Vlog Case: One Discovery Only](main/en/case-vlog.md) | 案例 / Case | /en/article/case-vlog/ | [case-vlog.md](main/en/case-vlog.md) |
 | [Wedding Case: Vows Cannot Be Reshot](main/en/case-wedding.md) | 案例 / Case | /en/article/case-wedding/ | [case-wedding.md](main/en/case-wedding.md) |
 
-### 故事与编剧 · Story & Screenwriting（46 篇）
+### 故事与编剧 · Story & Screenwriting（48 篇）
 
 | 标题 / Title | 类型 / Type | 路径 / Path | 文件 / File |
 | --- | --- | --- | --- |
+| [Object Storytelling: Let a Prop Carry the Line](story/en/deep-scene-object.md) | 文章 / Article | /en/article/deep-scene-object/ | [deep-scene-object.md](story/en/deep-scene-object.md) |
+| [The Silent Scene: Tell It Without Dialogue](story/en/deep-silent-scene.md) | 文章 / Article | /en/article/deep-silent-scene/ | [deep-silent-scene.md](story/en/deep-silent-scene.md) |
 | [Coverage board: shot sheet to animatic](story/en/deep-coverage-board.md) | 文章 / Article | /en/article/deep-coverage-board/ | [deep-coverage-board.md](story/en/deep-coverage-board.md) |
 | [Dialogue subtext: one person can play](story/en/deep-dialogue-subtext.md) | 文章 / Article | /en/article/deep-dialogue-subtext/ | [deep-dialogue-subtext.md](story/en/deep-dialogue-subtext.md) |
 | [Performance direction: rehearsal, notes, scale](story/en/deep-performance-direction.md) | 文章 / Article | /en/article/deep-performance-direction/ | [deep-performance-direction.md](story/en/deep-performance-direction.md) |
@@ -793,7 +847,7 @@
 | [Shot Sheet: Number, Framing, Action, Duration](story/en/shot-sheet.md) | 文章 / Article | /en/article/shot-sheet/ | [shot-sheet.md](story/en/shot-sheet.md) |
 | [The Shot Sheet: Turn One Line into Eight Shootable Shots](story/en/storyboard/storyboard.md) | 文章 / Article | /en/article/storyboard/ | [storyboard.md](story/en/storyboard/storyboard.md) |
 
-### 拍摄 · Shooting（48 篇）
+### 拍摄 · Shooting（50 篇）
 
 | 标题 / Title | 类型 / Type | 路径 / Path | 文件 / File |
 | --- | --- | --- | --- |
@@ -811,6 +865,8 @@
 | [Shot Size: Decide How Much the Audience Sees](shoot/en/camera/shot-size.md) | 文章 / Article | /en/article/shot-size/ | [shot-size.md](shoot/en/camera/shot-size.md) |
 | [Shutter Angle: The Amount of Blur](shoot/en/shutter-angle.md) | 文章 / Article | /en/article/shutter-angle/ | [shutter-angle.md](shoot/en/shutter-angle.md) |
 | [Coverage: Do Not Shoot One Angle](shoot/en/coverage.md) | 文章 / Article | /en/article/coverage/ | [coverage.md](shoot/en/coverage.md) |
+| [Interview Lighting: Window, Single Lamp, Mixed Light](shoot/en/deep-interview-light.md) | 文章 / Article | /en/article/deep-interview-light/ | [deep-interview-light.md](shoot/en/deep-interview-light.md) |
+| [Low-Light Shooting: Noise, Shutter, Practicals](shoot/en/deep-low-light.md) | 文章 / Article | /en/article/deep-low-light/ | [deep-low-light.md](shoot/en/deep-low-light.md) |
 | [Camera move: handheld, stabiliser, coverage](shoot/en/deep-camera-move.md) | 文章 / Article | /en/article/deep-camera-move/ | [deep-camera-move.md](shoot/en/deep-camera-move.md) |
 | [Hard light on location: hard, mixed, practical](shoot/en/deep-hard-light.md) | 文章 / Article | /en/article/deep-hard-light/ | [deep-hard-light.md](shoot/en/deep-hard-light.md) |
 | [Log and exposure: waveform, false colour, ND](shoot/en/deep-log-exposure.md) | 文章 / Article | /en/article/deep-log-exposure/ | [deep-log-exposure.md](shoot/en/deep-log-exposure.md) |
@@ -846,7 +902,7 @@
 | [LED Virtual Production: Wall, Tracking, Sync, and Color](shoot/en/led-virtual-production.md) | 文章 / Article | /en/article/led-virtual-production/ | [led-virtual-production.md](shoot/en/led-virtual-production.md) |
 | [LED Volume: Track First, Light Second](shoot/en/led-volume.md) | 文章 / Article | /en/article/led-volume/ | [led-volume.md](shoot/en/led-volume.md) |
 
-### 后期 · Post（52 篇）
+### 后期 · Post（54 篇）
 
 | 标题 / Title | 类型 / Type | 路径 / Path | 文件 / File |
 | --- | --- | --- | --- |
@@ -866,6 +922,8 @@
 | [Primary Correction: Exposure and White Balance](post/en/primary-correction.md) | 文章 / Article | /en/article/primary-correction/ | [primary-correction.md](post/en/primary-correction.md) |
 | [Scopes: Black, White, Skin](post/en/scopes.md) | 文章 / Article | /en/article/scopes/ | [scopes.md](post/en/scopes.md) |
 | [Secondary Correction: Change One Area](post/en/secondary-correction.md) | 文章 / Article | /en/article/secondary-correction/ | [secondary-correction.md](post/en/secondary-correction.md) |
+| [Dialogue Editing: Let the Pause Speak](post/en/deep-dialogue-edit.md) | 文章 / Article | /en/article/deep-dialogue-edit/ | [deep-dialogue-edit.md](post/en/deep-dialogue-edit.md) |
+| [Remote Review: Versions, Notes, Turnaround](post/en/deep-remote-review.md) | 文章 / Article | /en/article/deep-remote-review/ | [deep-remote-review.md](post/en/deep-remote-review.md) |
 | [Asset management: structure, proxies, versions](post/en/deep-asset-management.md) | 文章 / Article | /en/article/deep-asset-management/ | [deep-asset-management.md](post/en/deep-asset-management.md) |
 | [Colour pipeline: management, primary, LUT](post/en/deep-color-pipeline.md) | 文章 / Article | /en/article/deep-color-pipeline/ | [deep-color-pipeline.md](post/en/deep-color-pipeline.md) |
 | [Edit rhythm: fine cut, parallel, music](post/en/deep-edit-rhythm.md) | 文章 / Article | /en/article/deep-edit-rhythm/ | [deep-edit-rhythm.md](post/en/deep-edit-rhythm.md) |
@@ -903,7 +961,7 @@
 | [Tracking: Put the Point on Something Real](post/en/tracking.md) | 文章 / Article | /en/article/tracking/ | [tracking.md](post/en/tracking.md) |
 | [Compositing: Make Both Layers Believe the Same Light](post/en/vfx/vfx-composite.md) | 文章 / Article | /en/article/vfx-composite/ | [vfx-composite.md](post/en/vfx/vfx-composite.md) |
 
-### 动画 · Animation（38 篇）
+### 动画 · Animation（40 篇）
 
 | 标题 / Title | 类型 / Type | 路径 / Path | 文件 / File |
 | --- | --- | --- | --- |
@@ -923,6 +981,8 @@
 | [Render: Samples and Noise](animation/en/render.md) | 文章 / Article | /en/article/render/ | [render.md](animation/en/render.md) |
 | [Rigging: Make the Joints Turn](animation/en/rigging.md) | 文章 / Article | /en/article/rigging/ | [rigging.md](animation/en/rigging.md) |
 | [Animation Case: From Board to Final](animation/en/animation-case.md) | 文章 / Article | /en/article/animation-case/ | [animation-case.md](animation/en/animation-case.md) |
+| [Animation Acting: Give the Character an Intention](animation/en/deep-animation-acting.md) | 文章 / Article | /en/article/deep-animation-acting/ | [deep-animation-acting.md](animation/en/deep-animation-acting.md) |
+| [Motion Graphics Systems: From One Line to a Grammar](animation/en/deep-motion-graphics.md) | 文章 / Article | /en/article/deep-motion-graphics/ | [deep-motion-graphics.md](animation/en/deep-motion-graphics.md) |
 | [2D layer depth: from layers to final](animation/en/deep-2d-layer-depth.md) | 文章 / Article | /en/article/deep-2d-layer-depth/ | [deep-2d-layer-depth.md](animation/en/deep-2d-layer-depth.md) |
 | [3D light and material: one variable at a time](animation/en/deep-3d-light-material.md) | 文章 / Article | /en/article/deep-3d-light-material/ | [deep-3d-light-material.md](animation/en/deep-3d-light-material.md) |
 | [Animation QC: from shot to asset](animation/en/deep-animation-qc.md) | 文章 / Article | /en/article/deep-animation-qc/ | [deep-animation-qc.md](animation/en/deep-animation-qc.md) |
@@ -946,7 +1006,7 @@
 | [Stop-Motion Set: Scale and Perspective](animation/en/stop-motion-set.md) | 文章 / Article | /en/article/stop-motion-set/ | [stop-motion-set.md](animation/en/stop-motion-set.md) |
 | [Timing in Animation: The Weight Lives Between Two Keys](animation/en/timing/animation-timing.md) | 文章 / Article | /en/article/animation-timing/ | [animation-timing.md](animation/en/timing/animation-timing.md) |
 
-### 片型 · Formats（62 篇）
+### 片型 · Formats（64 篇）
 
 | 标题 / Title | 类型 / Type | 路径 / Path | 文件 / File |
 | --- | --- | --- | --- |
@@ -957,6 +1017,8 @@
 | [Corporate Video Breakdown: Six Beats in Practice](formats/en/corporate-video-breakdown.md) | 文章 / Article | /en/article/corporate-video-breakdown/ | [corporate-video-breakdown.md](formats/en/corporate-video-breakdown.md) |
 | [Corporate Video Structure: Six Beats](formats/en/corporate-video-structure.md) | 文章 / Article | /en/article/corporate-video-structure/ | [corporate-video-structure.md](formats/en/corporate-video-structure.md) |
 | [Corporate Video Template: One Sheet to Shoot](formats/en/corporate-video-template.md) | 文章 / Article | /en/article/corporate-video-template/ | [corporate-video-template.md](formats/en/corporate-video-template.md) |
+| [Course Video: Make Them Learn, Not Just Finish](formats/en/deep-course-video.md) | 文章 / Article | /en/article/deep-course-video/ | [deep-course-video.md](formats/en/deep-course-video.md) |
+| [Real Estate Video: Turn a Floor Plan into a Route](formats/en/deep-real-estate-video.md) | 文章 / Article | /en/article/deep-real-estate-video/ | [deep-real-estate-video.md](formats/en/deep-real-estate-video.md) |
 | [Brand film: template, breakdown, corporate structure](formats/en/deep-brand-film.md) | 文章 / Article | /en/article/deep-brand-film/ | [deep-brand-film.md](formats/en/deep-brand-film.md) |
 | [Documentary: template, breakdown, ethics](formats/en/deep-documentary.md) | 文章 / Article | /en/article/deep-documentary/ | [deep-documentary.md](formats/en/deep-documentary.md) |
 | [Food tabletop: template, structure, breakdown](formats/en/deep-food-tabletop.md) | 文章 / Article | /en/article/deep-food-tabletop/ | [deep-food-tabletop.md](formats/en/deep-food-tabletop.md) |
@@ -1013,12 +1075,14 @@
 | [Wedding Film Structure: Ceremony Before Style](formats/en/wedding-structure.md) | 文章 / Article | /en/article/wedding-structure/ | [wedding-structure.md](formats/en/wedding-structure.md) |
 | [Wedding Template: Opening, Ceremony, Blessing](formats/en/wedding-template.md) | 文章 / Article | /en/article/wedding-template/ | [wedding-template.md](formats/en/wedding-template.md) |
 
-### 工具 · Tools（123 篇）
+### 工具 · Tools（125 篇）
 
 | 标题 / Title | 类型 / Type | 路径 / Path | 文件 / File |
 | --- | --- | --- | --- |
 | [Audio Basics: Mic Position Beats Price](tools/en/audio/audio-position.md) | 文章 / Article | /en/article/audio-position/ | [audio-position.md](tools/en/audio/audio-position.md) |
 | [How to Choose a Camera: Constraints Before Brands](tools/en/camera/camera-choice.md) | 文章 / Article | /en/article/camera-choice/ | [camera-choice.md](tools/en/camera/camera-choice.md) |
+| [Gear Maintenance: Before Call, After Wrap, In Storage](tools/en/deep-camera-maintenance.md) | 文章 / Article | /en/article/deep-camera-maintenance/ | [deep-camera-maintenance.md](tools/en/deep-camera-maintenance.md) |
+| [Lighting Safety: Power, Heat, Falls, Load](tools/en/deep-lighting-safety.md) | 文章 / Article | /en/article/deep-lighting-safety/ | [deep-lighting-safety.md](tools/en/deep-lighting-safety.md) |
 | [AI toolchain: generation, voice, render](tools/en/deep-ai-toolchain.md) | 文章 / Article | /en/article/deep-ai-toolchain/ | [deep-ai-toolchain.md](tools/en/deep-ai-toolchain.md) |
 | [3-2-1 backup: from card to off-site](tools/en/deep-backup-321.md) | 文章 / Article | /en/article/deep-backup-321/ | [deep-backup-321.md](tools/en/deep-backup-321.md) |
 | [Camera and lens kit: one body, three lenses](tools/en/deep-camera-lens-kit.md) | 文章 / Article | /en/article/deep-camera-lens-kit/ | [deep-camera-lens-kit.md](tools/en/deep-camera-lens-kit.md) |
@@ -1141,10 +1205,12 @@
 | [Subtitle CPS: Can They Read It?](tools/en/subtitle-cps.md) | 计算器 / Calculator | /en/article/subtitle-cps/ | [subtitle-cps.md](tools/en/subtitle-cps.md) |
 | [Lens Field-of-View Calculator: Focal Length, Sensor, and Horizontal Angle](tools/en/calculators/fov.md) | 计算器 / Calculator | /en/article/fov/ | [fov.md](tools/en/calculators/fov.md) |
 
-### 影像史与素养 · History & Literacy（46 篇）
+### 影像史与素养 · History & Literacy（48 篇）
 
 | 标题 / Title | 类型 / Type | 路径 / Path | 文件 / File |
 | --- | --- | --- | --- |
+| [Archive Ethics: Restoration, Alteration, Credit](context/en/deep-archive-ethics.md) | 文章 / Article | /en/article/deep-archive-ethics/ | [deep-archive-ethics.md](context/en/deep-archive-ethics.md) |
+| [Platform History: From Channels to Feeds](context/en/deep-platform-history.md) | 文章 / Article | /en/article/deep-platform-history/ | [deep-platform-history.md](context/en/deep-platform-history.md) |
 | [AI compliance: labelling, deepfakes, data](context/en/deep-ai-regulation.md) | 文章 / Article | /en/article/deep-ai-regulation/ | [deep-ai-regulation.md](context/en/deep-ai-regulation.md) |
 | [Copyright chain: copyright, contract, music](context/en/deep-copyright-chain.md) | 文章 / Article | /en/article/deep-copyright-chain/ | [deep-copyright-chain.md](context/en/deep-copyright-chain.md) |
 | [Image history: 1839, 1895, photography](context/en/deep-image-history.md) | 文章 / Article | /en/article/deep-image-history/ | [deep-image-history.md](context/en/deep-image-history.md) |

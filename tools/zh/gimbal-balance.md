@@ -8,6 +8,9 @@ translation_status: source
 title: 稳定器调平：开机前五分钟
 summary: 稳定器调平按三轴依次做，每次锁轴再调下一轴；开机前五分钟，省现场半小时。
 slug: gimbal-balance
+
+depth: deep
+deep_minutes: 8
 aliases:
 - gimbal-balance
 canonical_site: tools

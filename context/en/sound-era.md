@@ -9,6 +9,9 @@ title: 'Sound Era: The Voice Arrived'
 summary: Sound turned cinema from watching action to hearing people, and forced studios
   to change how they shot.
 slug: sound-era
+
+depth: deep
+deep_minutes: 8
 aliases:
 - sound-era
 canonical_site: context

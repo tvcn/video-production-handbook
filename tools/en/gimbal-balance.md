@@ -9,6 +9,9 @@ title: 'Gimbal Balance: Five Minutes Before Power'
 summary: Balance each axis with the others locked; five minutes before power saves
   half an hour on set.
 slug: gimbal-balance
+
+depth: deep
+deep_minutes: 8
 aliases:
 - gimbal-balance
 canonical_site: tools

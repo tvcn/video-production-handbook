@@ -16,6 +16,8 @@ status: published
 difficulty: beginner
 stage: shoot
 format: short-film
+deep_minutes: 7
+depth: deep
 tools: [light, camera, support]
 authors: ["TVCN Shoot Desk"]
 reviewers: [technical-reviewer]
@@ -69,6 +71,19 @@ If the background cannot change, choose a darker angle or move the subject half 
 <!-- V11_DEEPEN -->
 
 <section><h2>Boundary</h2><p>This page only covers “How to Use One Window as Your Key Light”; it does not replace Wireless Lav: Hide It, Back It Up, Cross the Line and the Room Disappears, Color: Match First, Style Second. When the problem belongs to one of those pages, use that page instead of adding more parameters here.</p></section>
+<!-- DEEP_DIVE_START -->
+## Deep dive
+<p><strong>About 7 minutes.</strong> This section does not repeat the method above. It adds three things: two conditions, a counterexample and a reusable model, so you can decide when to change the method.</p>
+### Condition A: one window, small room
+<p>In a one-window room, first decide which side the window is on. Forty-five degrees side-front is the safest, side-back is more dramatic, side-on gives volume. Do not face the person into the window; the face flattens and the eye socket loses shadow. Let the window hit the nose bridge and one cheek, then lift the other side half a stop with a reflector.</p><p>Do not put the reflector directly opposite the face; it creates a second catchlight. Put it on the shadow side, angled up. Closer is softer, farther is harder; try three positions and compare ten seconds.</p>
+### Condition B: mixed light or overcast
+<p>In mixed light, decide which source is key. Cool window and warm room lamp: pick one as key and the other as fill; do not let both be key. If the window is key, turn off or match the room lamp; if the lamp is key, curtain the window to reduce its strength.</p><p>Overcast window light is soft but directionless; flag one side with black to create direction. The flag is not to darken the frame; it is to give the face contrast. On an overcast day, contrast matters more than brightness.</p>
+### Counterexample: the window behind the subject
+<p>To show “the city outside”, the camera faces the window and the person sits with their back to it. The window is beautiful, the face is black; brightening in post clips the background and adds noise to the face. The audience watches the city, not the person.</p><p>The fix is not losing the window; change the relationship. Turn the person sideways to the window and shoot from the side, leaving the window at the edge. It is still the background, but the face has light; the city does not need the whole frame, a corner is enough.</p>
+### Reusable model
+<p><strong>Direction → ratio → colour → background.</strong> Give the person an angle to the window, control face-to-background contrast, match colour, then decide how much window is in frame. Follow the order; do not start by closing the curtain.</p><p>Every camera move redoes direction; window light does not follow the camera. A new angle can turn side light into backlight; without redoing it, the scene breaks.</p>
+<!-- DEEP_DIVE_END -->
+
 <!-- SOURCES_START -->
 ## References and further reading
 
