@@ -33,7 +33,6 @@ sources:
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [context.history.dslr-video, context.history.edison-kinetoscope, formats.documentary.documentary]
-depth: deep
 deep_minutes: 8
 source_kind: sourced
 ---

@@ -39,7 +39,6 @@ sources:
 - S16
 - S10
 related: [context.law.data-security, context.deep.deep-ai-regulation, formats.documentary.documentary-template]
-depth: deep
 deep_minutes: 8
 source_kind: sourced
 ---

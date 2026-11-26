@@ -7,8 +7,8 @@
     "sites": 8,
     "published": 980,
     "diagrams": 980,
-    "deep_documents": 240,
-    "deep_pairs": 120
+    "deep_documents": 230,
+    "deep_pairs": 115
   },
   "sites": [
     {
@@ -12922,7 +12922,7 @@
       "site": "tools",
       "type": "tool",
       "title": "Audio Interface: Inputs and Gain",
-      "summary": "Check input count, gain range, and noise floor; a expensive interface with",
+      "summary": "Check inputs, gain range, and noise floor; an expensive interface with low gain cannot record a whisper.",
       "slug": "audio-interface",
       "canonical_path": "/en/article/audio-interface/",
       "status": "published",
@@ -14703,7 +14703,7 @@
       "canonical_path": "/article/media-literacy/",
       "status": "published",
       "diagram": "/images/diagrams/zh/media-literacy.png",
-      "depth": "deep",
+      "depth": "",
       "deep_minutes": "7",
       "file": "context/zh/literacy/media-literacy.md"
     },
@@ -14719,7 +14719,7 @@
       "canonical_path": "/en/article/media-literacy/",
       "status": "published",
       "diagram": "/images/diagrams/en/media-literacy.png",
-      "depth": "deep",
+      "depth": "",
       "deep_minutes": "7",
       "file": "context/en/literacy/media-literacy.md"
     },
@@ -14735,7 +14735,7 @@
       "canonical_path": "/article/copyright/",
       "status": "published",
       "diagram": "/images/diagrams/zh/copyright.png",
-      "depth": "deep",
+      "depth": "",
       "deep_minutes": "8",
       "file": "context/zh/rights/copyright.md"
     },
@@ -14751,7 +14751,7 @@
       "canonical_path": "/en/article/copyright/",
       "status": "published",
       "diagram": "/images/diagrams/en/copyright.png",
-      "depth": "deep",
+      "depth": "",
       "deep_minutes": "8",
       "file": "context/en/rights/copyright.md"
     },
@@ -15375,7 +15375,7 @@
       "canonical_path": "/article/documentary-ethics/",
       "status": "published",
       "diagram": "/images/diagrams/zh/documentary-ethics.svg",
-      "depth": "deep",
+      "depth": "",
       "deep_minutes": "8",
       "file": "context/zh/documentary-ethics.md"
     },
@@ -15391,7 +15391,7 @@
       "canonical_path": "/en/article/documentary-ethics/",
       "status": "published",
       "diagram": "/images/diagrams/en/documentary-ethics.svg",
-      "depth": "deep",
+      "depth": "",
       "deep_minutes": "8",
       "file": "context/en/documentary-ethics.md"
     },
@@ -15439,7 +15439,7 @@
       "canonical_path": "/article/privacy-blur/",
       "status": "published",
       "diagram": "/images/diagrams/zh/privacy-blur.svg",
-      "depth": "deep",
+      "depth": "",
       "deep_minutes": "7",
       "file": "context/zh/privacy-blur.md"
     },
@@ -15455,7 +15455,7 @@
       "canonical_path": "/en/article/privacy-blur/",
       "status": "published",
       "diagram": "/images/diagrams/en/privacy-blur.svg",
-      "depth": "deep",
+      "depth": "",
       "deep_minutes": "7",
       "file": "context/en/privacy-blur.md"
     },
@@ -15663,7 +15663,7 @@
       "canonical_path": "/article/source-check/",
       "status": "published",
       "diagram": "/images/diagrams/zh/source-check.svg",
-      "depth": "deep",
+      "depth": "",
       "deep_minutes": "8",
       "file": "context/zh/source-check.md"
     },
@@ -15679,7 +15679,7 @@
       "canonical_path": "/en/article/source-check/",
       "status": "published",
       "diagram": "/images/diagrams/en/source-check.svg",
-      "depth": "deep",
+      "depth": "",
       "deep_minutes": "8",
       "file": "context/en/source-check.md"
     },

@@ -33,7 +33,6 @@ sources:
 last_verified: '2026-11-26'
 review_due: '2027-02-26'
 related: [context.viewing.screen-size, context.history.smartphone-video, formats.documentary.documentary-template]
-depth: deep
 deep_minutes: 7
 source_kind: sourced
 ---

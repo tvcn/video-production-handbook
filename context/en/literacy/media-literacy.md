@@ -35,7 +35,6 @@ sources:
 - S16
 - S10
 related: [context.history.montage, context.law.music-license, formats.documentary.documentary-template]
-depth: deep
 deep_minutes: 7
 source_kind: sourced
 ---

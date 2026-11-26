@@ -5,10 +5,10 @@
 
 本页由 `build/make-content-index.py` 生成；不要手改。机器可读版本见 [`index.json`](index.json)，仓库说明见 [`README.md`](README.md)。
 
-## 深读 / Deep dives（120 对 / pairs）
+## 深读 / Deep dives（115 对 / pairs）
 
-> 120 对中英文章带 `depth: deep` 与 `<!-- DEEP_DIVE_START -->` 深读块，共 240 个文件；阅读时间与站点长文一致。
-> 120 bilingual pairs carry a `depth: deep` frontmatter and a `<!-- DEEP_DIVE_START -->` block, 240 files total; reading minutes match the site long reads.
+> 115 对中英文章带 `depth: deep` 与 `<!-- DEEP_DIVE_START -->` 深读块，共 230 个文件；阅读时间与站点长文一致。
+> 115 bilingual pairs carry a `depth: deep` frontmatter and a `<!-- DEEP_DIVE_START -->` block, 230 files total; reading minutes match the site long reads.
 
 | 站点 / Site | 中文标题 / Chinese | English | 分钟 / Min | 中文文件 / ZH | English file |
 | --- | --- | --- | ---: | --- | --- |
@@ -126,12 +126,7 @@
 | 影像史与素养 / History & Literacy | [版权链：版权、合同、音乐](context/zh/deep-copyright-chain.md) | [Copyright chain: copyright, contract, music](context/en/deep-copyright-chain.md) | 9 | [deep-copyright-chain.md](context/zh/deep-copyright-chain.md) | [deep-copyright-chain.md](context/en/deep-copyright-chain.md) |
 | 影像史与素养 / History & Literacy | [影像史：1839、1895、摄影史](context/zh/deep-image-history.md) | [Image history: 1839, 1895, photography](context/en/deep-image-history.md) | 9 | [deep-image-history.md](context/zh/deep-image-history.md) | [deep-image-history.md](context/en/deep-image-history.md) |
 | 影像史与素养 / History & Literacy | [媒介素养：素养、来源、算法](context/zh/deep-media-literacy.md) | [Media literacy: literacy, sources, algorithms](context/en/deep-media-literacy.md) | 9 | [deep-media-literacy.md](context/zh/deep-media-literacy.md) | [deep-media-literacy.md](context/en/deep-media-literacy.md) |
-| 影像史与素养 / History & Literacy | [纪录片伦理：拍脆弱的人](context/zh/documentary-ethics.md) | [Documentary Ethics: Filming Vulnerable People](context/en/documentary-ethics.md) | 8 | [documentary-ethics.md](context/zh/documentary-ethics.md) | [documentary-ethics.md](context/en/documentary-ethics.md) |
-| 影像史与素养 / History & Literacy | [隐私与打码：什么时候必须处理](context/zh/privacy-blur.md) | [Privacy and Blurring: When It Is Required](context/en/privacy-blur.md) | 7 | [privacy-blur.md](context/zh/privacy-blur.md) | [privacy-blur.md](context/en/privacy-blur.md) |
 | 影像史与素养 / History & Literacy | [深伪识别：看脸之外看什么](context/zh/deepfake.md) | [Deepfake Detection: Look Beyond the Face](context/en/deepfake.md) | 8 | [deepfake.md](context/zh/deepfake.md) | [deepfake.md](context/en/deepfake.md) |
-| 影像史与素养 / History & Literacy | [媒介素养：一条视频的五个问题](context/zh/literacy/media-literacy.md) | [Media Literacy: Five Questions for Any Video](context/en/literacy/media-literacy.md) | 7 | [media-literacy.md](context/zh/literacy/media-literacy.md) | [media-literacy.md](context/en/literacy/media-literacy.md) |
-| 影像史与素养 / History & Literacy | [来源核查：这条视频最初是谁发的](context/zh/source-check.md) | [Source Check: Who Posted It First?](context/en/source-check.md) | 8 | [source-check.md](context/zh/source-check.md) | [source-check.md](context/en/source-check.md) |
-| 影像史与素养 / History & Literacy | [版权：先查五件事，再发布](context/zh/rights/copyright.md) | [Rights: Check Five Things Before Publishing](context/en/rights/copyright.md) | 8 | [copyright.md](context/zh/rights/copyright.md) | [copyright.md](context/en/rights/copyright.md) |
 
 ## 中文 / Chinese（490 篇）
 

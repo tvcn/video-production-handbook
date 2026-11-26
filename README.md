@@ -15,10 +15,10 @@
 | 带 `diagram` 字段 | 980 |
 | 英文结构稿已审校 | 67 |
 | context 带来源配对 | 0 |
-| 公开来源条目 | 40 |
-| 经验型标记文件 | 774 |
-| 带深读的配对 | 120 |
-| 深读 Markdown | 240 |
+| 公开来源条目 | 59 |
+| 经验型标记文件 | 304 |
+| 带深读的配对 | 115 |
+| 深读 Markdown | 230 |
 | 模板正文逐篇重写 | 490 对 |
 | 主题专属验收 | 490 对 × 3 条 |
 
@@ -26,9 +26,9 @@
 `check-content.mjs` 会挡住缺字段、缺图、图解块与图片路径不一致的条目。
 
 67 个英文结构稿做过中英对照审校（结构、术语与无中文残留；不是第二次母语逐句润色）。
-context 站 0 对在文末列出延伸阅读，具体链接集中在 [`SOURCES.md`](SOURCES.md) 的 40 条来源里。
-另有 774 个文件用 `source_kind: experience` 明确标成经验型内容，不伪造外部引用。
-120 对文章带 `depth: deep` 与 `<!-- DEEP_DIVE_START -->` 深读块，共 240 个中英文文件；深读与站点逐篇对应，不是另一套独立文章。
+context 站 0 对在文末列出延伸阅读，具体链接集中在 [`SOURCES.md`](SOURCES.md) 的 59 条来源里。
+另有 304 个文件用 `source_kind: experience` 明确标成经验型内容，不伪造外部引用。
+115 对文章带 `depth: deep` 与 `<!-- DEEP_DIVE_START -->` 深读块，共 230 个中英文文件；深读与站点逐篇对应，不是另一套独立文章。
 
 2026-11-22 已把 490 对页面的“怎么做 / Do this”正文逐篇重写，并把每篇 3 条验收改为主题专属；中文与英文、站点与 Markdown 同步，共涉及 980 个文件。
 
@@ -149,8 +149,8 @@ This is the bilingual content repository for the TVCN video-knowledge site. It c
 plus 980 diagram references backed by 451 SVG files. Every document carries a `diagram` field and a
 `<!-- DIAGRAM_START -->` figure block. `status` is an explicit publication signal; currently
 980 of 980 files are published. The machine-readable index is [`index.json`](index.json); the human-readable table of contents is
-[`INDEX.md`](INDEX.md). 120 pairs carry `depth: deep` and a `<!-- DEEP_DIVE_START -->` block,
-240 files in both languages; the deep dives correspond one-to-one with site articles, not a separate set. Image paths use `/images/diagrams/<lang>/<slug>.<ext>` relative to the
+[`INDEX.md`](INDEX.md). 115 pairs carry `depth: deep` and a `<!-- DEEP_DIVE_START -->` block,
+230 files in both languages; the deep dives correspond one-to-one with site articles, not a separate set. Image paths use `/images/diagrams/<lang>/<slug>.<ext>` relative to the
 content-repo root. If the repository is deployed separately, either mount `images/` at the site root
 or add a `media_base` rewrite in the generator.
 
