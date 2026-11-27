@@ -63,6 +63,8 @@ Shot number, framing, image, action, duration. Five columns are enough. Image is
 
 > 03 | Medium | Kitchen, kettle ringing | She turns off the stove and checks her phone | 4 sec
 
+Write “push from chest to eyes, hold two seconds,” not “slow push.” An executable note tells camera and actor what to do; how long the move takes belongs in the duration column. The more concrete the sheet, the fewer arguments on set.
+
 The camera operator, actor, and editor can all use this sheet. When the day changes, update the sheet, not the version in your head.
 
 ## Three checks
