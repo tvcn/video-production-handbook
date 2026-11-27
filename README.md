@@ -1,8 +1,7 @@
 # TVCN 内容仓 / TVCN Content Repository
 
-这是 [TVCN 影像知识站](../prototype/tvcn-ui-v2.html) 的双语内容仓。站点主文件在
-`v2/prototype/tvcn-ui-v2.html`；这里放的是可与站点逐篇对照的 Markdown、封面字段与图解资产，
-方便单独审阅、翻译、迁移到静态站点生成器，或在未来拆成内容仓部署。
+这是 TVCN 的双语内容仓。交互壳源文件在 `app/tvcn-ui-v2.html`；这里放的是可与站点逐篇对照的 Markdown、封面字段与图解资产。
+构建由 `generator/build-site.mjs` 按站读取，不再从本仓直接生成页面。
 
 ## 数字
 
@@ -23,7 +22,7 @@
 | 主题专属验收 | 506 对 × 3 条 |
 
 当前 1012 / 1012 个文件为 `status: published`；`published` 不是“文件存在”的同义词，而是明确的发布信号。
-`check-content.mjs` 会挡住缺字段、缺图、图解块与图片路径不一致的条目。
+`generator/qa-sites.mjs` 与 `generator/qa-links.mjs` 负责结构、归属、canonical、sitemap 与内链检查。
 
 67 个英文结构稿做过中英对照审校（结构、术语与无中文残留；不是第二次母语逐句润色）。
 context 站 0 对在文末列出延伸阅读，具体链接集中在 [`SOURCES.md`](SOURCES.md) 的 59 条来源里。
@@ -39,7 +38,6 @@ main/       主站：路径、方法卡、案例、工具卡、路径页
 story/      故事与编剧：剧本、分镜、导演、表演
 shoot/      拍摄：机位、曝光、灯光、录音、安全
 post/       后期：剪辑、调色、声音、交付
-ai/         AI 影像：生成、一致性、数字人、伦理
 animation/  动画：二维、三维、定格、动效、管线
 formats/    片型：19 种片型的模板与拆解
 tools/      工具：器材、选购、排障、计算器
@@ -103,37 +101,35 @@ review_due: 2027-05-20
 
 ## 两个非文章页
 
-`main/paths/first-film.md` 和 `tools/calculators/fov.md` 也在这 506 对里。它们的图解是
-`build/make-extra-diagrams.py` 生成的 1280×720 手绘示意图，不是站点内联图的逐像素导出；
-如果用“内容仓与站点完全同图”作为验收口径，这两张需要另做站点版导出。
+`main/paths/first-film.md` 和 `tools/calculators/fov.md` 也在这 506 对里。它们的图解是编辑示意图，不是站点内联图的逐像素导出。
 
 ## 重新生成索引
 
 内容增删或标题变化后运行：
 
 ```powershell
-python build/make-content-index.py
+python generator/make-content-index.py
 ```
 
 它会重写 `index.json`、`INDEX.md` 和本文件的计数区；不要手改生成段。
-完整的站点生成仍是：
+完整的站点生成：
 
 ```powershell
-python build/generate.py
+node generator/build-all.mjs
 ```
 
-`generate.py` 写完 Markdown 后会调用索引脚本；如果只改了 Markdown，也可以单独跑索引脚本。
+只改 Markdown 时，先跑索引脚本，再跑 `python generator/sync-static-bodies.py`，最后 `node generator/build-all.mjs`。
 
 ## 校验
 
-在 `v2` 目录运行：
+在项目根运行：
 
 ```powershell
-node scripts/check-content.mjs
+node generator/qa-sites.mjs
+node generator/qa-links.mjs
 ```
 
-它检查字段、双语配对、`canonical_path`、图解字段、图解资产、图解块、`img src` 一致，
-并核对 `index.json` 的 1012 条记录与磁盘文件一致。
+它们检查每站归属、canonical、sitemap、搜索索引、资源与内链，并核对 `index.json` 的 1012 条记录与磁盘文件一致。
 
 ## 许可
 
@@ -154,5 +150,5 @@ plus 1012 diagram references backed by 467 SVG files. Every document carries a `
 content-repo root. If the repository is deployed separately, either mount `images/` at the site root
 or add a `media_base` rewrite in the generator.
 
-Run `python build/make-content-index.py` after content changes, then `node scripts/check-content.mjs`
-from `v2/` to verify fields, pairs, diagrams and the index.
+Run `python generator/make-content-index.py` after content changes, then `node generator/qa-sites.mjs`
+and `node generator/qa-links.mjs` from the project root to verify ownership, diagrams and the index.
